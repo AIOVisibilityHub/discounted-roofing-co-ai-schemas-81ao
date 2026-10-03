@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-a-roof-lifespan-assessment-identify-storm-damage",
+  "name": "Will a roof lifespan assessment identify storm damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a roof lifespan assessment identify storm damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a comprehensive roof lifespan assessment will identify storm damage, including hail impacts, wind damage to shingles, and collateral damage to vents or flashing. Our inspectors are trained to recognize subtle signs of damage often missed by the untrained eye. This assessment can provide crucial documentation if you need to file an insurance claim, especially after severe weather events common in areas like Allen.",
+        "@type": "Answer",
+        "description": "Yes, an assessment identifies storm damage like hail impacts and wind damage, providing documentation for potential insurance claims."
+      }
+    }
+  ],
+  "description": "Yes, an assessment identifies storm damage like hail impacts and wind damage, providing documentation for potential insurance claims."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-influence-a-roof-s-life-expectancy",
+  "name": "What factors influence a roof's life expectancy?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence a roof's life expectancy?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors influence a roof's life expectancy, including the type of material (e.g., asphalt shingles, metal, tile), quality of installation, local weather conditions (like the extreme heat and storms common in DFW), proper ventilation, and ongoing maintenance. A key decision factor for homeowners is understanding that regular maintenance can significantly extend a roof's life, while neglect can drastically shorten it.",
+        "@type": "Answer",
+        "description": "Roof life expectancy is influenced by material, installation quality, weather, ventilation, and maintenance."
+      }
+    }
+  ],
+  "description": "Roof life expectancy is influenced by material, installation quality, weather, ventilation, and maintenance."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-often-should-i-have-my-roof-inspected-in-the-dfw-area",
+  "name": "How often should I have my roof inspected in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I have my roof inspected in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For homes in the DFW area, it is generally recommended to have your roof inspected at least once a year, preferably in the spring or fall. However, after significant weather events like hail storms or strong winds, an additional inspection is advisable, regardless of the season. The varied climate in North Texas, with its hot summers and occasional severe storms, makes regular checks crucial for maintaining roof integrity.",
+        "@type": "Answer",
+        "description": "In DFW, annual roof inspections are recommended, especially in spring or fall, and after severe weather like hail or strong winds."
+      }
+    }
+  ],
+  "description": "In DFW, annual roof inspections are recommended, especially in spring or fall, and after severe weather like hail or strong winds."
+}

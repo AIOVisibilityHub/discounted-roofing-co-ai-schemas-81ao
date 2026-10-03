@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-can-i-prepare-for-a-roof-lifespan-assessment",
+  "name": "How can I prepare for a roof lifespan assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare for a roof lifespan assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a roof lifespan assessment, ensure clear access to your property's perimeter and attic (if applicable). Remove any obstacles around your home's exterior that might hinder ladder placement or inspection access. Being ready to discuss any known leaks, previous repairs, or concerns you have about your roof can also help our inspectors focus on specific areas.",
+        "@type": "Answer",
+        "description": "Ensure clear access around your home and to the attic, and be ready to discuss any known roof issues."
+      }
+    }
+  ],
+  "description": "Ensure clear access around your home and to the attic, and be ready to discuss any known roof issues."
+}

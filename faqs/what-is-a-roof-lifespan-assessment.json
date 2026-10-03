@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-roof-lifespan-assessment",
+  "name": "What is a roof lifespan assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a roof lifespan assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roof lifespan assessment evaluates your roof's current condition, material integrity, and expected remaining service life. This inspection identifies wear, damage, and potential issues that could shorten its lifespan. For homeowners in the DFW area, understanding your roof's remaining life helps in planning future maintenance or replacement, especially with our local weather patterns impacting roofing materials.",
+        "@type": "Answer",
+        "description": "A roof lifespan assessment evaluates your roof's current condition and estimates its remaining service life."
+      }
+    }
+  ],
+  "description": "A roof lifespan assessment evaluates your roof's current condition and estimates its remaining service life."
+}

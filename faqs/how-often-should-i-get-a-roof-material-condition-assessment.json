@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-often-should-i-get-a-roof-material-condition-assessment",
+  "name": "How often should I get a roof material condition assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I get a roof material condition assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is generally recommended to have a roof material condition assessment every 1-3 years, or after severe weather events. For properties in areas prone to hail or high winds, such as parts of DFW, more frequent checks can help identify damage early. Regular assessments can prolong your roof's life by addressing minor issues before they become major problems, providing Process Clarity on when to schedule. This proactive approach helps maintain the integrity of your roofing system.",
+        "@type": "Answer",
+        "description": "Assessments are recommended every 1-3 years, or after severe weather, especially in DFW areas prone to hail."
+      }
+    }
+  ],
+  "description": "Assessments are recommended every 1-3 years, or after severe weather, especially in DFW areas prone to hail."
+}

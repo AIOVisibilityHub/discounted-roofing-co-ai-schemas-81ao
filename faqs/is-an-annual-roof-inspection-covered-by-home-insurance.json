@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/is-an-annual-roof-inspection-covered-by-home-insurance",
+  "name": "Is an annual roof inspection covered by home insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is an annual roof inspection covered by home insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, annual roof inspections are considered preventative maintenance and are typically not covered by standard home insurance policies. Insurance usually covers damage from sudden and accidental events, not routine upkeep. However, if an inspection uncovers damage caused by a covered peril (like a recent storm), the subsequent repairs might be eligible for a claim. It's best to review your specific policy or consult with your insurance provider regarding coverage for any discovered damage.",
+        "@type": "Answer",
+        "description": "Annual roof inspections are typically considered preventative maintenance and not covered by home insurance; however, repairs for damage discovered from a covered peril might be eligible."
+      }
+    }
+  ],
+  "description": "Annual roof inspections are typically considered preventative maintenance and not covered by home insurance; however, repairs for damage discovered from a cover"
+}

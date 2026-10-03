@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-affect-how-quickly-a-roof-ages",
+  "name": "What factors affect how quickly a roof ages?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors affect how quickly a roof ages?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors influence roof aging, including the type of roofing material, the quality of its installation, exposure to severe weather (like strong winds and hail common in DFW), prolonged sun exposure, and maintenance frequency. For instance, asphalt shingles exposed to intense Texas heat and UV rays might age faster than those in milder climates. Regular maintenance and addressing small issues promptly can significantly prolong a roof's life.",
+        "@type": "Answer",
+        "description": "Roof aging is affected by material type, installation quality, severe weather exposure, sun, and maintenance. Texas heat can accelerate aging."
+      }
+    }
+  ],
+  "description": "Roof aging is affected by material type, installation quality, severe weather exposure, sun, and maintenance. Texas heat can accelerate aging."
+}

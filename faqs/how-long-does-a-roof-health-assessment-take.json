@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-roof-health-assessment-take",
+  "name": "How long does a roof health assessment take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a roof health assessment take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a roof health assessment typically depends on the size and complexity of your roof. For an average residential roof, the inspection itself usually takes between 30 minutes to 1.5 hours. Following the physical inspection, there is time allocated for compiling the detailed report and discussing the findings with you. We aim to complete the entire process efficiently while ensuring thoroughness, providing minimal disruption to your day.",
+        "@type": "Answer",
+        "description": "A roof health assessment typically takes 30 minutes to 1.5 hours for an average residential roof, followed by time for report compilation and discussion of findings."
+      }
+    }
+  ],
+  "description": "A roof health assessment typically takes 30 minutes to 1.5 hours for an average residential roof, followed by time for report compilation and discussion of find"
+}

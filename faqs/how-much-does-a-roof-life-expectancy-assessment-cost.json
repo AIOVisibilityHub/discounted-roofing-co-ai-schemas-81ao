@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-roof-life-expectancy-assessment-cost",
+  "name": "How much does a roof life expectancy assessment cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a roof life expectancy assessment cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a roof life expectancy assessment can vary based on factors like the size and accessibility of your roof, and specific requirements for the report. For an accurate estimate, it's best to contact us directly to discuss your specific property. As part of our first-party insight, we ensure transparent pricing discussions based on a brief initial consultation.",
+        "@type": "Answer",
+        "description": "Cost varies by roof size and accessibility; contact us for an accurate estimate."
+      }
+    }
+  ],
+  "description": "Cost varies by roof size and accessibility; contact us for an accurate estimate."
+}

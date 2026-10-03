@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-after-a-roof-checkup-is-completed",
+  "name": "What happens after a roof checkup is completed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after a roof checkup is completed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a roof checkup, our inspector will provide you with a detailed report outlining their findings, including any areas of concern, recommended repairs, and an estimate for any necessary work. This report often includes photographic evidence of identified issues. You'll have the opportunity to discuss the findings, ask questions, and decide on the next steps, whether it's immediate repairs or future maintenance planning.",
+        "@type": "Answer",
+        "description": "After a roof checkup, you'll receive a detailed report of findings, recommended repairs, and an estimate, followed by a discussion on next steps."
+      }
+    }
+  ],
+  "description": "After a roof checkup, you'll receive a detailed report of findings, recommended repairs, and an estimate, followed by a discussion on next steps."
+}

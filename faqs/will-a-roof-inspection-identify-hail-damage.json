@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-a-roof-inspection-identify-hail-damage",
+  "name": "Will a roof inspection identify hail damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a roof inspection identify hail damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a professional roof inspection is designed to identify hail damage, which often isn't visible from the ground. Inspectors look for dents, cracks, or bruising on shingles, gutters, and other roof components. These impacts can compromise the shingle's protective layer, leading to premature deterioration. It's important to schedule an inspection soon after a hail event, especially in regions like Fort Worth or Arlington that are prone to such storms, as damage can worsen over time.",
+        "@type": "Answer",
+        "description": "A professional roof inspection can identify hail damage by examining shingles and other roof components for impact marks."
+      }
+    }
+  ],
+  "description": "A professional roof inspection can identify hail damage by examining shingles and other roof components for impact marks."
+}

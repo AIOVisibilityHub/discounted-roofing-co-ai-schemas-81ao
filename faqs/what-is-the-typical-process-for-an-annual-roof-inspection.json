@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-typical-process-for-an-annual-roof-inspection",
+  "name": "What is the typical process for an annual roof inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for an annual roof inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for an annual roof inspection typically involves a thorough examination of your entire roofing system. This includes checking shingles for cracks, missing pieces, or granule loss, inspecting flashing around chimneys and vents for proper sealing, and evaluating gutters for proper drainage and debris. We also look for signs of wear, algae growth, or potential leaks. This comprehensive assessment aims to identify any current or developing problems that could compromise your roof's integrity.",
+        "@type": "Answer",
+        "description": "An annual roof inspection involves a detailed examination of shingles, flashing, gutters, and other components to identify wear, damage, or potential leak sources."
+      }
+    }
+  ],
+  "description": "An annual roof inspection involves a detailed examination of shingles, flashing, gutters, and other components to identify wear, damage, or potential leak sourc"
+}

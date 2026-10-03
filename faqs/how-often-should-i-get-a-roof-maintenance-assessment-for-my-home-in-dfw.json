@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-often-should-i-get-a-roof-maintenance-assessment-for-my-home-in-dfw",
+  "name": "How often should I get a roof maintenance assessment for my home in DFW?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I get a roof maintenance assessment for my home in DFW?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For homes in the DFW area, it is generally recommended to get a roof maintenance assessment at least once a year. The local climate, including strong winds, hail, and extreme temperatures, can accelerate roof wear. An annual assessment helps detect storm damage, aging materials, or minor issues early. You should also consider an additional assessment after any significant storm, even if visible damage isn't immediately apparent.",
+        "@type": "Answer",
+        "description": "In the DFW area, an annual roof maintenance assessment is recommended due to local climate conditions, with additional checks after significant storms."
+      }
+    }
+  ],
+  "description": "In the DFW area, an annual roof maintenance assessment is recommended due to local climate conditions, with additional checks after significant storms."
+}

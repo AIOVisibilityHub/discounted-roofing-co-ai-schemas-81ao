@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-a-roof-aging-assessment-help-with-my-insurance-claim",
+  "name": "Can a roof aging assessment help with my insurance claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a roof aging assessment help with my insurance claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A thorough roof aging assessment can provide critical documentation and expert observations to support an insurance claim, especially for storm-related damage. The assessment report details the identified damage, which can be presented to your insurance company. Our team can help document the specific issues found during the assessment, which is a First-Party Insight that helps customers navigate the claims process more effectively.",
+        "@type": "Answer",
+        "description": "Yes, an assessment provides documentation and expert observations crucial for supporting insurance claims, particularly for storm damage."
+      }
+    }
+  ],
+  "description": "Yes, an assessment provides documentation and expert observations crucial for supporting insurance claims, particularly for storm damage."
+}

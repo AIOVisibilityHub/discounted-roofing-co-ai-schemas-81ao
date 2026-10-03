@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/do-routine-roof-checkups-help-with-homeowner-s-insurance-claims",
+  "name": "Do routine roof checkups help with homeowner's insurance claims?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do routine roof checkups help with homeowner's insurance claims?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, routine roof checkups can significantly help with homeowner's insurance claims. Regular inspections provide documentation of your roof's condition over time, which can serve as evidence of maintenance and pre-existing damage or lack thereof. This historical record can be invaluable when filing a claim for new damage, helping to streamline the process and demonstrate your due diligence in maintaining the property.",
+        "@type": "Answer",
+        "description": "Yes, routine roof checkups provide documentation of your roof's condition, which can be valuable evidence for homeowner's insurance claims."
+      }
+    }
+  ],
+  "description": "Yes, routine roof checkups provide documentation of your roof's condition, which can be valuable evidence for homeowner's insurance claims."
+}

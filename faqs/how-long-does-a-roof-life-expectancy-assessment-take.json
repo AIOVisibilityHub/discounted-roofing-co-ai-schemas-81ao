@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-roof-life-expectancy-assessment-take",
+  "name": "How long does a roof life expectancy assessment take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a roof life expectancy assessment take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a roof life expectancy assessment typically depends on the size and complexity of your roof, but most residential assessments are completed within 1-2 hours. Our process involves a thorough visual inspection from the ground and on the roof, followed by documentation of our findings. We aim to provide an efficient assessment without compromising on detail.",
+        "@type": "Answer",
+        "description": "Most residential roof life expectancy assessments take 1-2 hours, depending on roof size and complexity."
+      }
+    }
+  ],
+  "description": "Most residential roof life expectancy assessments take 1-2 hours, depending on roof size and complexity."
+}

@@ -1,0 +1,26 @@
+{
+  "url": "http://discountedroofs.com/faq/how-often-should-i-get-my-roof-inspected",
+  "name": "How Often Should I Get My Roof Inspected ?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How Often Should I Get My Roof Inspected ?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We recommend a professional roof inspection at least once a year, and after major storms or hail. Early detection saves thousands in future repairs. Insurance policies have time limits. Waiting too long can result in denial due to \"late reporting\" or assumed homeowner neglect.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "We recommend a professional roof inspection at least once a year, and after major storms or hail. Early detection saves thousands in future repairs. Insurance p"
+}

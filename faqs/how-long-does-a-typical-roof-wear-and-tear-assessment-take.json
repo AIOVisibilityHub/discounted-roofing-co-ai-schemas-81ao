@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-typical-roof-wear-and-tear-assessment-take",
+  "name": "How long does a typical roof wear-and-tear assessment take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical roof wear-and-tear assessment take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a typical roof wear-and-tear assessment can vary depending on the size and complexity of your roof, but it generally takes between 30 minutes to 2 hours. Factors such as roof accessibility, pitch, and the extent of visible damage can influence the time required. Our team aims for efficiency while ensuring a thorough examination, providing you with a timely and comprehensive report.",
+        "@type": "Answer",
+        "description": "A roof wear-and-tear assessment typically takes 30 minutes to 2 hours, varying by roof size, complexity, and accessibility."
+      }
+    }
+  ],
+  "description": "A roof wear-and-tear assessment typically takes 30 minutes to 2 hours, varying by roof size, complexity, and accessibility."
+}

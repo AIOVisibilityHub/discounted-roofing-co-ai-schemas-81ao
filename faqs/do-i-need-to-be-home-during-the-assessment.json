@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/do-i-need-to-be-home-during-the-assessment",
+  "name": "Do I need to be home during the assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be home during the assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's not strictly required for you to be home throughout the entire assessment, we do recommend being available at the beginning to discuss any specific concerns you have or provide access to the property. Being present at the end also allows us to provide an immediate preliminary overview of our findings and answer any initial questions. This is part of our standard preparation advice to ensure all your questions are addressed.",
+        "@type": "Answer",
+        "description": "It's not strictly required, but it's recommended to be available at the start and end of the assessment."
+      }
+    }
+  ],
+  "description": "It's not strictly required, but it's recommended to be available at the start and end of the assessment."
+}

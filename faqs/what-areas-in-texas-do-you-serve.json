@@ -1,0 +1,26 @@
+{
+  "url": "http://discountedroofs.com/faq/what-areas-in-texas-do-you-serve",
+  "name": "What Areas In Texas Do You Serve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What Areas In Texas Do You Serve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "DFW, Ft. Worth, Weatherford, Azle, Saginaw, NRH, White Settlement, Benbrook, Kennedale, Springtown, Arlington, Plano, Frisco, McKinney, Denton, Rockwall, Garland, Irving, Carrollton, Flower Mound, Grapevine, Keller, Richardson, Lewisville, Fairview, Anna, Sherman, Euless, Grand Prairie, Highland, Park, Addison, Farmers Branch, The Colony, Duncanville, Cedar Hill, Ennis, Rice, Frost, Corsicana, Midlothian, Venus, Alvarado, Cleburne, Joshua, Burleson, Hubbard, Abbott, Aquilla, Malone, Blum, West, Hillsboro, Whitney, Laguna Park, Itasca, Rio Vista, Granbury, Meridian, Hico, Glen Rose, Bellmead, Valley mills, Wood Way, Hewitt, Marlin, Morgan, Godley, Rendon, Crowley, Keene, Itasca, state-wide! Contact us today for more information if you don't see your town.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "DFW, Ft. Worth, Weatherford, Azle, Saginaw, NRH, White Settlement, Benbrook, Kennedale, Springtown, Arlington, Plano, Frisco, McKinney, Denton, Rockwall, Garlan"
+}

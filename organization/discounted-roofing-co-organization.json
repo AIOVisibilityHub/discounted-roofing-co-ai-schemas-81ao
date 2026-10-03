@@ -1,0 +1,1859 @@
+{
+  "url": "http://discountedroofs.com",
+  "name": "Discounted Roofing Co.",
+  "@type": "Organization",
+  "email": "julie.chavez@discounted-roofing.com",
+  "sameAs": [
+    "https://www.bbb.org/us/tx/itasca/profile/roofing-contractors/discounted-roofing-0825-235981695",
+    "https://www.linkedin.com/in/julie-chavez-de-la-rosa-59261b1bb/",
+    "https://lakewhitneychamberofcommerce.com/listing/discounted-roofing-remodeling/",
+    "https://www.facebook.com/discounted.roofing.services/",
+    "https://www.instagram.com/discounted.roofing/"
+  ],
+  "@context": "https://schema.org",
+  "employee": [
+    {
+      "name": "Julie Chavez",
+      "@type": "Person",
+      "jobTitle": "CEO/Owner of Discounted Roofing & Remodeling Co."
+    }
+  ],
+  "telephone": "(254) 205-7067",
+  "areaServed": [
+    {
+      "name": "DFW",
+      "@type": "City"
+    },
+    {
+      "name": "Abbott",
+      "@type": "City"
+    },
+    {
+      "name": "Addison",
+      "@type": "City"
+    },
+    {
+      "name": "Aledo",
+      "@type": "City"
+    },
+    {
+      "name": "Allen",
+      "@type": "City"
+    },
+    {
+      "name": "Alliance",
+      "@type": "City"
+    },
+    {
+      "name": "Alvarado",
+      "@type": "City"
+    },
+    {
+      "name": "Anna",
+      "@type": "City"
+    },
+    {
+      "name": "Aquilla",
+      "@type": "City"
+    },
+    {
+      "name": "Argyle",
+      "@type": "City"
+    },
+    {
+      "name": "Arlington",
+      "@type": "City"
+    },
+    {
+      "name": "Arlington Heights",
+      "@type": "City"
+    },
+    {
+      "name": "Azle",
+      "@type": "City"
+    },
+    {
+      "name": "Balch Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Bartonville",
+      "@type": "City"
+    },
+    {
+      "name": "Bedford",
+      "@type": "City"
+    },
+    {
+      "name": "Bellmead",
+      "@type": "City"
+    },
+    {
+      "name": "Benbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Benbrook Lake Area",
+      "@type": "City"
+    },
+    {
+      "name": "Bishop Arts District",
+      "@type": "City"
+    },
+    {
+      "name": "Blum",
+      "@type": "City"
+    },
+    {
+      "name": "Bowie",
+      "@type": "City"
+    },
+    {
+      "name": "Bridgeport",
+      "@type": "City"
+    },
+    {
+      "name": "Brock",
+      "@type": "City"
+    },
+    {
+      "name": "Burleson",
+      "@type": "City"
+    },
+    {
+      "name": "Carrollton",
+      "@type": "City"
+    },
+    {
+      "name": "Cedar Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Celina",
+      "@type": "City"
+    },
+    {
+      "name": "Cleburne",
+      "@type": "City"
+    },
+    {
+      "name": "Clearfork",
+      "@type": "City"
+    },
+    {
+      "name": "Colleyville",
+      "@type": "City"
+    },
+    {
+      "name": "Copper Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "Coppell",
+      "@type": "City"
+    },
+    {
+      "name": "Corinth",
+      "@type": "City"
+    },
+    {
+      "name": "Corsicana",
+      "@type": "City"
+    },
+    {
+      "name": "Crowley",
+      "@type": "City"
+    },
+    {
+      "name": "Dallas",
+      "@type": "City"
+    },
+    {
+      "name": "Decatur",
+      "@type": "City"
+    },
+    {
+      "name": "Denison",
+      "@type": "City"
+    },
+    {
+      "name": "DeSoto",
+      "@type": "City"
+    },
+    {
+      "name": "Denton",
+      "@type": "City"
+    },
+    {
+      "name": "Double Oak",
+      "@type": "City"
+    },
+    {
+      "name": "Downtown Dallas",
+      "@type": "City"
+    },
+    {
+      "name": "Downtown Fort Worth",
+      "@type": "City"
+    },
+    {
+      "name": "Duncanville",
+      "@type": "City"
+    },
+    {
+      "name": "East Dallas",
+      "@type": "City"
+    },
+    {
+      "name": "Ennis",
+      "@type": "City"
+    },
+    {
+      "name": "Euless",
+      "@type": "City"
+    },
+    {
+      "name": "Everman",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Farmers Branch",
+      "@type": "City"
+    },
+    {
+      "name": "Farmersville",
+      "@type": "City"
+    },
+    {
+      "name": "Fate",
+      "@type": "City"
+    },
+    {
+      "name": "Ferris",
+      "@type": "City"
+    },
+    {
+      "name": "Flower Mound",
+      "@type": "City"
+    },
+    {
+      "name": "Forest Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Forney",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Worth",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Worth Stockyards",
+      "@type": "City"
+    },
+    {
+      "name": "Frisco",
+      "@type": "City"
+    },
+    {
+      "name": "Frost",
+      "@type": "City"
+    },
+    {
+      "name": "Gainesville",
+      "@type": "City"
+    },
+    {
+      "name": "Garland",
+      "@type": "City"
+    },
+    {
+      "name": "Glen Rose",
+      "@type": "City"
+    },
+    {
+      "name": "Godley",
+      "@type": "City"
+    },
+    {
+      "name": "Granbury",
+      "@type": "City"
+    },
+    {
+      "name": "Grand Prairie",
+      "@type": "City"
+    },
+    {
+      "name": "Grapevine",
+      "@type": "City"
+    },
+    {
+      "name": "Haltom City",
+      "@type": "City"
+    },
+    {
+      "name": "Haslet",
+      "@type": "City"
+    },
+    {
+      "name": "Heath",
+      "@type": "City"
+    },
+    {
+      "name": "Hewitt",
+      "@type": "City"
+    },
+    {
+      "name": "Hico",
+      "@type": "City"
+    },
+    {
+      "name": "Highland Park",
+      "@type": "City"
+    },
+    {
+      "name": "Highland Village",
+      "@type": "City"
+    },
+    {
+      "name": "Hillsboro",
+      "@type": "City"
+    },
+    {
+      "name": "Hubbard",
+      "@type": "City"
+    },
+    {
+      "name": "Hudson Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Hurst",
+      "@type": "City"
+    },
+    {
+      "name": "Hutchins",
+      "@type": "City"
+    },
+    {
+      "name": "Irving",
+      "@type": "City"
+    },
+    {
+      "name": "Itasca",
+      "@type": "City"
+    },
+    {
+      "name": "Joe Pool Lake Area",
+      "@type": "City"
+    },
+    {
+      "name": "Joshua",
+      "@type": "City"
+    },
+    {
+      "name": "Keene",
+      "@type": "City"
+    },
+    {
+      "name": "Keller",
+      "@type": "City"
+    },
+    {
+      "name": "Keller Town Center",
+      "@type": "City"
+    },
+    {
+      "name": "Kennedale",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Arlington Area",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Worth",
+      "@type": "City"
+    },
+    {
+      "name": "Lakewood",
+      "@type": "City"
+    },
+    {
+      "name": "Laguna Park",
+      "@type": "City"
+    },
+    {
+      "name": "Lancaster",
+      "@type": "City"
+    },
+    {
+      "name": "Lantana",
+      "@type": "City"
+    },
+    {
+      "name": "Las Colinas",
+      "@type": "City"
+    },
+    {
+      "name": "Lewisville",
+      "@type": "City"
+    },
+    {
+      "name": "Little Elm",
+      "@type": "City"
+    },
+    {
+      "name": "Malone",
+      "@type": "City"
+    },
+    {
+      "name": "Mansfield",
+      "@type": "City"
+    },
+    {
+      "name": "Marlin",
+      "@type": "City"
+    },
+    {
+      "name": "McKinney",
+      "@type": "City"
+    },
+    {
+      "name": "Melissa",
+      "@type": "City"
+    },
+    {
+      "name": "Meridian",
+      "@type": "City"
+    },
+    {
+      "name": "Mesquite",
+      "@type": "City"
+    },
+    {
+      "name": "Midlothian",
+      "@type": "City"
+    },
+    {
+      "name": "Mineral Wells",
+      "@type": "City"
+    },
+    {
+      "name": "Morgan",
+      "@type": "City"
+    },
+    {
+      "name": "Murphy",
+      "@type": "City"
+    },
+    {
+      "name": "Near Southside Fort Worth",
+      "@type": "City"
+    },
+    {
+      "name": "North Dallas",
+      "@type": "City"
+    },
+    {
+      "name": "North Richland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Oak Cliff",
+      "@type": "City"
+    },
+    {
+      "name": "Park Cities",
+      "@type": "City"
+    },
+    {
+      "name": "Plano",
+      "@type": "City"
+    },
+    {
+      "name": "Preston Hollow",
+      "@type": "City"
+    },
+    {
+      "name": "Princeton",
+      "@type": "City"
+    },
+    {
+      "name": "Prosper",
+      "@type": "City"
+    },
+    {
+      "name": "Red Oak",
+      "@type": "City"
+    },
+    {
+      "name": "Rendon",
+      "@type": "City"
+    },
+    {
+      "name": "Rice",
+      "@type": "City"
+    },
+    {
+      "name": "Richardson",
+      "@type": "City"
+    },
+    {
+      "name": "Ridglea",
+      "@type": "City"
+    },
+    {
+      "name": "Rio Vista",
+      "@type": "City"
+    },
+    {
+      "name": "River District",
+      "@type": "City"
+    },
+    {
+      "name": "River Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Rockwall",
+      "@type": "City"
+    },
+    {
+      "name": "Roanoke",
+      "@type": "City"
+    },
+    {
+      "name": "Rowlett",
+      "@type": "City"
+    },
+    {
+      "name": "Royse City",
+      "@type": "City"
+    },
+    {
+      "name": "Sachse",
+      "@type": "City"
+    },
+    {
+      "name": "Saginaw",
+      "@type": "City"
+    },
+    {
+      "name": "Seagoville",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman",
+      "@type": "City"
+    },
+    {
+      "name": "Southlake",
+      "@type": "City"
+    },
+    {
+      "name": "Springtown",
+      "@type": "City"
+    },
+    {
+      "name": "Sunnyvale",
+      "@type": "City"
+    },
+    {
+      "name": "Tanglewood",
+      "@type": "City"
+    },
+    {
+      "name": "TCU Area",
+      "@type": "City"
+    },
+    {
+      "name": "Terrell",
+      "@type": "City"
+    },
+    {
+      "name": "The Colony",
+      "@type": "City"
+    },
+    {
+      "name": "Trophy Club",
+      "@type": "City"
+    },
+    {
+      "name": "University Park",
+      "@type": "City"
+    },
+    {
+      "name": "Uptown Dallas",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Mills",
+      "@type": "City"
+    },
+    {
+      "name": "Van Alstyne",
+      "@type": "City"
+    },
+    {
+      "name": "Venus",
+      "@type": "City"
+    },
+    {
+      "name": "Watauga",
+      "@type": "City"
+    },
+    {
+      "name": "Waxahachie",
+      "@type": "City"
+    },
+    {
+      "name": "Weatherford",
+      "@type": "City"
+    },
+    {
+      "name": "West",
+      "@type": "City"
+    },
+    {
+      "name": "West 7th",
+      "@type": "City"
+    },
+    {
+      "name": "West Dallas",
+      "@type": "City"
+    },
+    {
+      "name": "Westover Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Westworth Village",
+      "@type": "City"
+    },
+    {
+      "name": "White Settlement",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney",
+      "@type": "City"
+    },
+    {
+      "name": "Willow Park",
+      "@type": "City"
+    },
+    {
+      "name": "Wilmer",
+      "@type": "City"
+    },
+    {
+      "name": "Woodway",
+      "@type": "City"
+    },
+    {
+      "name": "Wylie",
+      "@type": "City"
+    }
+  ],
+  "description": "Discounted Roofing Co. provides honest, reliable, and expert roofing services in Texas, combining honest communication, fair pricing, and quality craftsmanship. They are committed to protecting their customers and guiding them step by step through projects, specializing in insurance claim restorations. The company is locally owned and operated, built on referrals, and fully insured, ensuring peace of mind for years to come.\n\nDiscounted Roofing Co. is a Texas-based roofing and exterior-services company and their BBB profile states that the business has an A+ rating. Discounted Roofing Co. is focused on helping homeowners protect, restore, and improve their properties with dependable workmanship, straightforward communication, and value-conscious pricing. The company serves communities throughout the Dallas–Fort Worth area and surrounding North and Central Texas markets, offering professional inspections, storm-damage assessments, roof repairs, full roof replacements, metal roofing, and exterior painting.\n\nComprehensive business description\nDiscounted Roofing Co. provides residential roofing and exterior improvement services designed for Texas homeowners dealing with aging roofs, leaks, severe-weather exposure, hail damage, and the need to improve long-term property protection. The company’s approach emphasizes more than simply installing shingles: it aims to guide customers through the full process—from the initial roof inspection and clear assessment of the property’s condition to material selection, project completion, cleanup, and follow-up support.\n\nTexas roofs face intense sun, wind, heavy rain, hail, and seasonal storms, making early damage detection and quality installation especially important. Discounted Roofing Co. positions its services around identifying potential issues before they become costly repairs, helping property owners understand their options, and delivering practical solutions based on the roof’s size, condition, material needs, and extent of damage. For storm-affected homeowners, the company provides roof-damage guidance and inspections intended to help identify visible and less obvious signs of hail-related damage.\n\nThe company’s roofing services include roof inspections, repair recommendations, roof replacement options, and durable metal-roofing solutions. Its metal-roofing service is positioned as a long-lasting option suited to Texas weather conditions, offering homeowners an alternative to traditional roofing materials when durability, weather resistance, and long-term performance are priorities.\n\nIn addition to roofing, Discounted Roofing Co. offers exterior painting services that help enhance curb appeal while protecting siding and exterior surfaces from moisture, UV exposure, and weather-related wear. This broader exterior-services offering allows homeowners to address both functional protection and visual improvement through one local contractor relationship.\n\nDiscounted Roofing Co. serves customers across the Dallas–Fort Worth region and numerous nearby Texas communities. The company promotes honest recommendations, responsive service, skilled craftsmanship, and clear project communication so homeowners can make confident decisions about one of their property’s most important protective systems. Estimates are tailored to each project based on factors such as roof dimensions, selected materials, existing damage, and required scope of work.\n\nLong-form version for website\nAt Discounted Roofing Co., we help Texas homeowners protect what matters most: their homes, families, and investments. We provide dependable residential roofing and exterior services for property owners throughout the Dallas–Fort Worth area and surrounding Texas communities. Whether your roof has been damaged by hail, is showing signs of age, needs repairs after a storm, or is ready for a complete replacement, our team is here to provide clear answers, practical recommendations, and quality workmanship from start to finish.\n\nOur services include professional roof inspections, storm and hail-damage assessments, roof repairs, roof replacements, metal roofing, and exterior painting. We understand that roofing decisions can feel overwhelming—especially after severe weather—so we focus on making the process simple. We inspect the property carefully, explain what we find in plain language, discuss the best options for your budget and goals, and complete the work with attention to detail, job-site cleanliness, and long-term performance.\n\nTexas weather can be hard on a roof. Prolonged sun exposure, wind, rain, hail, and sudden storms can cause damage that is not always obvious from the ground. Our team helps homeowners identify potential problems early, understand the condition of their roofs, and take action before small issues become more expensive repairs. For customers looking for added durability, our metal roofing options offer strong, weather-resistant protection built for demanding conditions.\n\nWe also provide exterior painting services to help homeowners refresh the appearance of their property while protecting exterior surfaces from moisture, sunlight, and everyday weathering. By combining roofing expertise with exterior improvement services, Discounted Roofing Co. gives homeowners a reliable resource for maintaining, restoring, and improving their homes.\n\nOur mission is to deliver honest service, fair value, and craftsmanship homeowners can trust. From your first inspection through final cleanup, Discounted Roofing Co. is committed to helping you move forward with confidence and peace of mind.\n\nDiscounted Roofing Co. is a trusted Texas roofing and exterior-services company serving homeowners throughout the Dallas–Fort Worth area and surrounding communities. We provide roof inspections, hail and storm-damage assessments, roof repairs, roof replacements, metal roofing, and exterior painting. Our team helps homeowners understand the condition of their roofs, evaluate practical repair or replacement options, and protect their properties with quality workmanship and clear communication. Whether you need help after a Texas storm, want to upgrade to a durable metal roof, or are improving your home’s exterior, Discounted Roofing Co. delivers dependable service, fair value, and professional results.\n\nDiscounted Roofing Co. provides residential roofing and exterior services throughout the Dallas–Fort Worth area and surrounding Texas communities. Services include roof inspections, storm and hail-damage assessments, roof repair, roof replacement, metal roofing, and exterior painting. The company focuses on quality craftsmanship, clear communication, and practical solutions that help homeowners protect and improve their properties.\n\nThe company describes itself as providing residential roofing services across Texas, with service-area language covering DFW, Fort Worth, Weatherford, Arlington, Plano, Frisco, McKinney, Denton, Rockwall, Garland, Irving, Keller, Richardson, and many additional cities. It also says to contact them if a town is not listed and uses “state-wide” language, so the actual service radius should be confirmed directly.\n\nServices and positioning:\n\nBased on the site pages indexed in search, its marketed services/content include:\n\nRoofing inspections, particularly annual and post-storm/hail inspections.\n\nStorm and hail-damage education, including a dedicated hail-damage-signs page.\n\nMetal roofing, marketed as durable protection for severe Texas weather.\n\nExterior painting, positioned around curb appeal and protection from moisture, sun, and weather.\n\nRoofing quotes and price-conscious options after inspection.\n\nThe home-page copy leans heavily into homeowner reassurance: guiding customers from the first inspection through cleanup, protecting the household, and delivering peace of mind. That is good conversion language for a storm-restoration roofing brand because it focuses on the outcome rather than only materials or labor.\n\nPricing claims\n\nThe site says pricing varies by roof size, material, and damage, and that it will provide a detailed quote after inspection. It also says that, depending on current orders, reduced pricing may be available “sometimes starting as low as $295 per square.”",
+  "hasCredential": [],
+  "hasOfferCatalog": {
+    "name": "Discounted Roofing Co. Services",
+    "@type": "OfferCatalog",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Residential Roof Inspections",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Annual Roof Inspections",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Routine Roof Checkups",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Seasonal Roof Inspections",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Preventive Roof Inspections",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Preventive Roof Maintenance Inspections",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Maintenance Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Residential Roof Condition Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Health Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Lifespan Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Life Expectancy Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Aging Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Wear-and-Tear Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Vulnerability Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Material Condition Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Deck Condition Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Flashing Condition Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Ventilation Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Drainage Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Inspection Reports",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Pre-Purchase Roof Inspections",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Home Seller Roof Inspections",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Damage Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Damage Evaluations",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Minor Roof Damage Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Major Roof Damage Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Repair Versus Replacement Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Replacement Readiness Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Estimate Consultations",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roofing Budget Consultations",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roofing Material Consultations",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roofing Material Selection Consultations",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roofing System Selection Consultations",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roofing Project Scope Consultations",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roofing Project Planning Consultations",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roofing and Exterior Remodeling Consultations",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Residential Exterior Improvement Consultations",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Home Exterior Improvement Services",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Storm Damage Roof Inspections",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Post-Storm Roof Inspections",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Emergency Storm Damage Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Texas Storm Damage Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Storm-Related Roof Condition Reports",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Severe Weather Roof Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Weather-Related Roofing Consultations",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Heavy Rain Roof Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Rain Damage Roof Inspections",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Rain Damage Roof Repair Evaluations",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Water Damage Roof Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Hail Damage Roof Inspections",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Hail Impact Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Hail Damage Evaluations",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Hail Damage Roof Repair Evaluations",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Hail Damage Roof Replacement Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Wind Damage Roof Inspections",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Wind Damage Evaluations",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Wind Damage Roof Repair Evaluations",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Storm Damage Repair Versus Replacement Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Storm Damage Roof Repair Evaluations",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Storm-Damaged Roof Replacement Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Storm Damage Documentation",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Storm Damage Documentation Support",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Damage Documentation",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Damage Photo Documentation",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Damage Reporting Guidance",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Insurance Deadline Guidance After Roof Damage",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Time-Sensitive Storm Damage Inspections",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Leak Inspections",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Active Roof Leak Inspections",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Leak Detection",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Leak-Source Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Leak Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Ceiling Leak Source Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Ceiling Stain Roof Inspections",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Water Intrusion Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Moisture Intrusion Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Missing Shingle Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Damaged Shingle Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Cracked Shingle Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Lifted Shingle Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Loose Roofing Material Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Puncture Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Flashing Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Flashing Leak Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Valley Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Valley Leak Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Vent Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Vent Leak Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Penetration Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Penetration Leak Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Ridge Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Ridge Damage Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Edge Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Edge Damage Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Damage Repair Recommendations",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Repair Evaluations",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Residential Roof Repair Consultations",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Residential Roof Repairs",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Repair Estimates",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Repair Planning Consultations",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Storm-Damage Roof Repairs",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Hail-Damage Roof Repair Recommendations",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Wind-Damage Roof Repair Recommendations",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Repairs",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Replacement Consultations",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Complete Roof Replacement",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Complete Roof Replacement Planning",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Replacement Estimates",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Replacement Quotes",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Residential Reroofing",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Residential Reroofing Consultations",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Aging Roof Replacement Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Worn-Out Roof Replacement Planning",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Aging and Worn-Out Roof Replacement Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Replacement Scope Planning",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Replacement Project Scheduling",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Replacement Cleanup Planning",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Replacement Final Walkthroughs",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Replacement Decision Support",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roof Replacement",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Residential Roofing Upgrade Consultations",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Long-Term Roof Protection Planning",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Metal Roof Consultations",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Metal Roof Installation",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Metal Roof Installation Planning",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Metal Roof Replacement",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Metal Roof Replacement Planning",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Metal Roof Replacement Estimates",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Metal Roof Upgrades",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Metal Roofing Upgrade Consultations",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Metal Roof Material Selection",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Metal Roof Material Guidance",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Metal Roofing System Planning",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Metal Roofing Project Planning",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Metal Roof Estimates",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Metal Roofing Cost Estimates",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Metal Roof Durability Consultations",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Metal Roof Repair Versus Replacement Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Weather-Resistant Metal Roofing",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Weather-Resistant Metal Roofing Solutions",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Severe-Weather Metal Roofing Options",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Metal Roofing for Texas Weather",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Long-Lasting Roofing System Consultations",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Metal Roofing",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Rain Gutters",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Exterior House Painting",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Residential Exterior Painting",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Exterior Surface Painting",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Exterior Paint Condition Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Exterior Surface Condition Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Exterior Surface Protection Painting",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Weather-Protective Exterior Painting",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Weather-Resistant Exterior Painting",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Weather-Damage Exterior Painting Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Moisture-Protection Exterior Painting",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Sun-Protection Exterior Painting",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Sun-Exposure Protective Painting",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Curb-Appeal Exterior Painting",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Exterior Weathering Assessments",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Exterior Paint Project Consultations",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Exterior Paint Project Planning",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Exterior Painting Estimates",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Exterior Painting Color Consultations",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Home Exterior Refresh Consultations",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Exterior Maintenance Consultations",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Roofing and Exterior Painting Project Coordination",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Exterior Painting",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Insurance Claim Restoration",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Exterior Stonework",
+          "@type": "Service"
+        }
+      }
+    ]
+  }
+}

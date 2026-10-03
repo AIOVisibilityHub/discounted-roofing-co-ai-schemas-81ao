@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/is-a-roof-life-expectancy-assessment-different-from-a-general-roof-inspection",
+  "name": "Is a roof life expectancy assessment different from a general roof inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a roof life expectancy assessment different from a general roof inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, while both involve inspecting the roof, a life expectancy assessment focuses specifically on estimating the remaining functional lifespan of your roof, often for long-term planning or real estate transactions. A general inspection might be more geared towards identifying immediate repair needs or checking for storm damage. The scope differs, with the life expectancy assessment providing a more predictive outlook.",
+        "@type": "Answer",
+        "description": "A life expectancy assessment estimates remaining roof life, while a general inspection focuses on immediate repair needs."
+      }
+    }
+  ],
+  "description": "A life expectancy assessment estimates remaining roof life, while a general inspection focuses on immediate repair needs."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-do-to-prepare-for-a-roof-maintenance-inspection",
+  "name": "What should I do to prepare for a roof maintenance inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare for a roof maintenance inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a roof maintenance inspection, ensure clear access to your property and around the roofline. Clear any debris from the immediate perimeter of your home and secure pets. If you have noticed any specific concerns, such as leaks or missing shingles, pointing these out to the inspector from Discounted Roofing Co. can help them focus their assessment. Providing any previous roofing repair or installation documentation can also be beneficial.",
+        "@type": "Answer",
+        "description": "Prepare for a roof maintenance inspection by ensuring clear access around your property, securing pets, and noting any specific concerns or providing previous roofing documentation."
+      }
+    }
+  ],
+  "description": "Prepare for a roof maintenance inspection by ensuring clear access around your property, securing pets, and noting any specific concerns or providing previous r"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-prepare-before-a-roof-inspection",
+  "name": "What should I prepare before a roof inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a roof inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a roof inspection, ensure clear access around your property for the inspectors, moving any obstacles like vehicles or garden furniture away from the roofline. If you have attic access, make sure it's clear and available, as inspectors may need to check the underside of the roof deck. It's also helpful to have any previous roof repair or installation documentation ready, as this can provide valuable context on your roof's history and potential weak points. This preparation can help streamline the inspection process.",
+        "@type": "Answer",
+        "description": "Before a roof inspection, ensure clear property access and, if applicable, clear attic access, and have any prior roof documentation ready."
+      }
+    }
+  ],
+  "description": "Before a roof inspection, ensure clear property access and, if applicable, clear attic access, and have any prior roof documentation ready."
+}

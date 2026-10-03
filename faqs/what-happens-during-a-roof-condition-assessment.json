@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-during-a-roof-condition-assessment",
+  "name": "What happens during a roof condition assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during a roof condition assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a roof condition assessment, our certified inspectors will perform a visual inspection of your roof, checking for missing or damaged shingles, cracks, blistering, granule loss, and issues with flashing, vents, and gutters. We also examine the attic for signs of leaks or structural concerns. We document our findings with photos and provide a detailed report outlining any identified problems and recommended solutions.",
+        "@type": "Answer",
+        "description": "Inspectors visually check for damage, examine attic for leaks, document findings with photos, and provide a detailed report."
+      }
+    }
+  ],
+  "description": "Inspectors visually check for damage, examine attic for leaks, document findings with photos, and provide a detailed report."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-information-should-i-have-ready-before-a-roof-maintenance-assessment",
+  "name": "What information should I have ready before a roof maintenance assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I have ready before a roof maintenance assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your roof maintenance assessment, it's helpful to have information about your roof's history, if available. This includes the approximate age of the roof, when it was last replaced or repaired, and any records of past storm damage or leaks. Additionally, be prepared to point out any areas of concern you've noticed yourself, such as missing shingles, water stains on ceilings, or unusual noises. Providing this context can help the inspector focus on potential problem areas more efficiently.",
+        "@type": "Answer",
+        "description": "Before an assessment, gather information on your roof's age and repair history, and be ready to point out any concerns like missing shingles or leaks."
+      }
+    }
+  ],
+  "description": "Before an assessment, gather information on your roof's age and repair history, and be ready to point out any concerns like missing shingles or leaks."
+}

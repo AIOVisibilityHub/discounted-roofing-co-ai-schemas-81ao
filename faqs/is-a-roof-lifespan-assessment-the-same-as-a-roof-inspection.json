@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/is-a-roof-lifespan-assessment-the-same-as-a-roof-inspection",
+  "name": "Is a roof lifespan assessment the same as a roof inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a roof lifespan assessment the same as a roof inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While both involve examining the roof, a lifespan assessment is more focused on projecting the roof's remaining usability and future performance, whereas a standard inspection might simply check for current damages or immediate repair needs. An assessment provides a long-term outlook, helping you plan for significant investments like a roof replacement down the line, rather than just addressing present concerns.",
+        "@type": "Answer",
+        "description": "No, an assessment projects future usability and remaining life, while a standard inspection checks for current damages."
+      }
+    }
+  ],
+  "description": "No, an assessment projects future usability and remaining life, while a standard inspection checks for current damages."
+}

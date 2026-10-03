@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-during-a-preventive-roof-inspection",
+  "name": "What happens during a preventive roof inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during a preventive roof inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a preventive roof inspection, a qualified professional will meticulously examine all components of your roof, including shingles, flashing, gutters, vents, and chimneys. They will look for signs of wear, damage, or potential leaks. This process often involves visual inspection from the ground and on the roof, as well as checking the attic for signs of water intrusion or inadequate ventilation. The goal is to provide a comprehensive assessment of your roof's current condition and recommend any necessary maintenance or repairs.",
+        "@type": "Answer",
+        "description": "A preventive roof inspection involves a detailed examination of your roof's components for wear, damage, and potential leaks."
+      }
+    }
+  ],
+  "description": "A preventive roof inspection involves a detailed examination of your roof's components for wear, damage, and potential leaks."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-roof-aging-assessment",
+  "name": "What is a roof aging assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a roof aging assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roof aging assessment evaluates the current condition and lifespan of your existing roof. It identifies signs of wear and tear, material degradation, and potential issues like leaks or storm damage. The assessment helps determine if repairs are sufficient or if a replacement is becoming necessary, providing a clear picture of your roof's remaining useful life. We often check for common issues specific to the DFW area, such as hail damage or sun exposure effects, which can accelerate roof aging.",
+        "@type": "Answer",
+        "description": "A roof aging assessment evaluates your roof's current condition, identifies wear and tear, and estimates its remaining lifespan to determine if repairs or replacement are needed."
+      }
+    }
+  ],
+  "description": "A roof aging assessment evaluates your roof's current condition, identifies wear and tear, and estimates its remaining lifespan to determine if repairs or repla"
+}

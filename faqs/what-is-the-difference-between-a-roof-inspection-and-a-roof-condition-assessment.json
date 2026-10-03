@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-difference-between-a-roof-inspection-and-a-roof-condition-assessment",
+  "name": "What is the difference between a roof inspection and a roof condition assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a roof inspection and a roof condition assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often used interchangeably, a roof condition assessment is typically a more thorough and detailed evaluation than a standard roof inspection, especially when assessing for insurance claims or long-term planning. An assessment provides a comprehensive report on the roof's overall health, estimated lifespan, and often includes cost estimates for repairs or replacement. This detailed approach helps property owners make informed decisions about their roofing investments.",
+        "@type": "Answer",
+        "description": "A condition assessment is a more detailed evaluation than a standard inspection, offering a comprehensive report, lifespan estimate, and cost projections."
+      }
+    }
+  ],
+  "description": "A condition assessment is a more detailed evaluation than a standard inspection, offering a comprehensive report, lifespan estimate, and cost projections."
+}

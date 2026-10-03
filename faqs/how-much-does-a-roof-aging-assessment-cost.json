@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-roof-aging-assessment-cost",
+  "name": "How much does a roof aging assessment cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a roof aging assessment cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a roof aging assessment can vary based on the size and complexity of your roof. Some roofing companies, including Discounted Roofing Co., may offer free initial inspections or assessments, especially if you suspect storm damage or are considering a roof replacement. It's advisable to inquire about any associated fees upfront, as this can be a key decision factor. A thorough assessment provides valuable insights that can help avoid more significant costs down the line.",
+        "@type": "Answer",
+        "description": "The cost varies, but many companies, including Discounted Roofing Co., offer free initial assessments, particularly for potential storm damage or replacements."
+      }
+    }
+  ],
+  "description": "The cost varies, but many companies, including Discounted Roofing Co., offer free initial assessments, particularly for potential storm damage or replacements."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-common-signs-that-indicate-my-roof-needs-a-seasonal-inspection",
+  "name": "What are common signs that indicate my roof needs a seasonal inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that indicate my roof needs a seasonal inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that indicate your roof needs a seasonal inspection include visible damage like missing, cracked, or curled shingles, especially after a storm. You might also notice granules in your gutters, which suggests shingle deterioration. Interior signs such as water stains on ceilings or walls, or a musty odor in the attic, are also critical indicators. Even if no obvious damage is present, a proactive inspection can uncover hidden issues before they worsen. Considering the rapid weather changes in the DFW area, regular checks are prudent.",
+        "@type": "Answer",
+        "description": "Look for missing or damaged shingles, granules in gutters, or interior water stains. Even without visible damage, a proactive inspection helps identify hidden issues early, especially in the DFW area."
+      }
+    }
+  ],
+  "description": "Look for missing or damaged shingles, granules in gutters, or interior water stains. Even without visible damage, a proactive inspection helps identify hidden i"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-s-the-difference-between-a-roof-health-assessment-and-a-repair-quote",
+  "name": "What's the difference between a roof health assessment and a repair quote?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a roof health assessment and a repair quote?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roof health assessment is a diagnostic service focused on identifying all current and potential issues with your roof, providing an overall condition report. A repair quote, however, is a proposal specifically detailing the cost and scope of work to fix a known problem. The assessment often precedes a repair quote, as it determines what repairs are actually needed. Our assessments prioritize a holistic view of your roof's condition, not just isolated damage, informing more comprehensive solutions.",
+        "@type": "Answer",
+        "description": "A roof health assessment diagnoses all roof issues, while a repair quote details the cost to fix a specific, known problem; the assessment often informs the quote."
+      }
+    }
+  ],
+  "description": "A roof health assessment diagnoses all roof issues, while a repair quote details the cost to fix a specific, known problem; the assessment often informs the quo"
+}

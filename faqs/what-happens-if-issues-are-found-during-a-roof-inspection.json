@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-if-issues-are-found-during-a-roof-inspection",
+  "name": "What happens if issues are found during a roof inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if issues are found during a roof inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If issues are found during a roof inspection, we will provide you with a comprehensive report detailing the findings, including photos and explanations of any damage or areas of concern. This report will outline recommended repairs or maintenance actions, along with transparent pricing. You will then have the information needed to make an informed decision on how to proceed. Our goal is to offer cost-effective solutions to address issues before they become larger, more expensive problems.",
+        "@type": "Answer",
+        "description": "If issues are found, you will receive a detailed report with photos, explanations, and recommended repair options, allowing you to make informed decisions for your roof's longevity."
+      }
+    }
+  ],
+  "description": "If issues are found, you will receive a detailed report with photos, explanations, and recommended repair options, allowing you to make informed decisions for y"
+}

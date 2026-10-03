@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-influence-the-cost-of-a-preventive-roof-inspection",
+  "name": "What factors influence the cost of a preventive roof inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a preventive roof inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a preventive roof inspection can vary based on several factors, primarily the size and complexity of your roof, as well as its accessibility. Larger or multi-level roofs with steep pitches often require more time and specialized equipment, impacting the overall price. While some companies offer basic visual inspections, comprehensive assessments that include attic checks or thermal imaging may cost more. It's a practical tradeoff: investing in a thorough inspection can save you significantly on future major repairs.",
+        "@type": "Answer",
+        "description": "Roof size, complexity, and accessibility are key factors influencing the cost of a preventive roof inspection."
+      }
+    }
+  ],
+  "description": "Roof size, complexity, and accessibility are key factors influencing the cost of a preventive roof inspection."
+}

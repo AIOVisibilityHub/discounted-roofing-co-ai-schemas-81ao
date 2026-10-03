@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-an-assessment-help-me-with-home-insurance-claims",
+  "name": "Can an assessment help me with home insurance claims?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can an assessment help me with home insurance claims?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An assessment can provide valuable documentation regarding the condition of your roof before or after a damaging event, which can be useful when filing an insurance claim. It can help substantiate the extent of damage or verify the roof's prior condition. This can act as a practical tradeoff, as a thorough assessment might involve an upfront cost, but it can potentially strengthen your position with insurers.",
+        "@type": "Answer",
+        "description": "Yes, an assessment provides documentation useful for substantiating home insurance claims."
+      }
+    }
+  ],
+  "description": "Yes, an assessment provides documentation useful for substantiating home insurance claims."
+}

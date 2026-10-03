@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-roof-health-assessment",
+  "name": "What is a roof health assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a roof health assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roof health assessment is a comprehensive inspection of your roof's current condition. It identifies any damage, wear, or potential issues that could lead to leaks or further problems. Our assessments evaluate the structural integrity, flashing, gutters, and roofing materials to provide a complete picture of your roof's health, helping you understand its remaining lifespan and any necessary maintenance or repairs. This service helps you make informed decisions about future roofing needs.",
+        "@type": "Answer",
+        "description": "A roof health assessment is a comprehensive inspection to identify damage, wear, and potential issues with your roof's condition, lifespan, and necessary maintenance."
+      }
+    }
+  ],
+  "description": "A roof health assessment is a comprehensive inspection to identify damage, wear, and potential issues with your roof's condition, lifespan, and necessary mainte"
+}

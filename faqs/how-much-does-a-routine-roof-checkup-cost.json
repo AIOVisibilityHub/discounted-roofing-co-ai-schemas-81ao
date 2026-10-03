@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-routine-roof-checkup-cost",
+  "name": "How much does a routine roof checkup cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a routine roof checkup cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a routine roof checkup can vary depending on factors such as the size and pitch of your roof, its accessibility, and the specific services included in the inspection. Many reputable roofing companies, including Discounted Roofing Co., offer free initial inspections to assess the roof's condition and provide a detailed estimate for any recommended maintenance or repairs. It's always best to get a specific quote for your property.",
+        "@type": "Answer",
+        "description": "The cost varies by roof size and complexity. Many companies, including ours, offer free initial inspections to provide a detailed estimate."
+      }
+    }
+  ],
+  "description": "The cost varies by roof size and complexity. Many companies, including ours, offer free initial inspections to provide a detailed estimate."
+}

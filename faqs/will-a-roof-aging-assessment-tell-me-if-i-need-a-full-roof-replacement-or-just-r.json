@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-a-roof-aging-assessment-tell-me-if-i-need-a-full-roof-replacement-or-just-r",
+  "name": "Will a roof aging assessment tell me if I need a full roof replacement or just repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a roof aging assessment tell me if I need a full roof replacement or just repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a primary goal of a roof aging assessment is to determine whether repairs are sufficient or if a full roof replacement is the more cost-effective and structurally sound solution. The assessment report will detail the extent of damage and deterioration, guiding this decision. Choosing between repair and replacement often involves a practical tradeoff between immediate lower repair costs versus the long-term benefits and warranty of a new roof.",
+        "@type": "Answer",
+        "description": "Yes, an assessment clarifies if repairs are enough or if a full replacement is needed, considering the extent of damage and cost-effectiveness."
+      }
+    }
+  ],
+  "description": "Yes, an assessment clarifies if repairs are enough or if a full replacement is needed, considering the extent of damage and cost-effectiveness."
+}

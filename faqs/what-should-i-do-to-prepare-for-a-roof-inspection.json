@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-do-to-prepare-for-a-roof-inspection",
+  "name": "What should I do to prepare for a roof inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare for a roof inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a roof inspection, ensure clear access around your home and remove any obstacles that might hinder the inspector's path. Keep pets secured indoors. If you have noticed specific areas of concern, such as leaks or missing shingles, pointing these out to the inspector can help them focus their assessment. Providing any previous repair records or warranty information can also be beneficial.",
+        "@type": "Answer",
+        "description": "Prepare for a roof inspection by ensuring clear exterior access, securing pets, and noting any specific concerns or providing past repair records."
+      }
+    }
+  ],
+  "description": "Prepare for a roof inspection by ensuring clear exterior access, securing pets, and noting any specific concerns or providing past repair records."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-often-should-i-get-a-preventive-roof-inspection",
+  "name": "How often should I get a preventive roof inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I get a preventive roof inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is generally recommended to have a preventive roof inspection at least once a year, preferably in the spring or fall. However, if your property has recently experienced severe weather, such as hailstorms or strong winds, an additional inspection is advisable. The frequency can also depend on your roof's age and material; older roofs or those made of certain materials may benefit from more frequent checks. This proactive approach can help homeowners in areas like McKinney or Plano avoid unexpected roof failures.",
+        "@type": "Answer",
+        "description": "Most roofs should be inspected annually, but severe weather or an older roof may require more frequent checks."
+      }
+    }
+  ],
+  "description": "Most roofs should be inspected annually, but severe weather or an older roof may require more frequent checks."
+}

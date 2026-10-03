@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-a-reliable-company-for-preventive-roof-maintenance",
+  "name": "How do I choose a reliable company for preventive roof maintenance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reliable company for preventive roof maintenance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a company for preventive roof maintenance, look for one with local experience, proper licensing and insurance, and strong customer reviews. A reliable company, like Discounted Roofing Co., should provide clear communication, transparent pricing, and detailed inspection reports. It's also beneficial to choose a company that specializes in the types of roofs prevalent in your area and offers a comprehensive range of repair services, ensuring they can handle any issues found.",
+        "@type": "Answer",
+        "description": "Choose a reliable roof maintenance company by checking for local experience, licensing, insurance, and positive reviews. They should offer clear communication, transparent pricing, and detailed reports."
+      }
+    }
+  ],
+  "description": "Choose a reliable roof maintenance company by checking for local experience, licensing, insurance, and positive reviews. They should offer clear communication,"
+}

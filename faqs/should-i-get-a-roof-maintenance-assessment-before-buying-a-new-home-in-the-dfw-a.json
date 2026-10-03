@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/should-i-get-a-roof-maintenance-assessment-before-buying-a-new-home-in-the-dfw-a",
+  "name": "Should I get a roof maintenance assessment before buying a new home in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I get a roof maintenance assessment before buying a new home in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is highly recommended to get a roof maintenance assessment before purchasing a new home in the DFW area. A pre-purchase assessment can uncover hidden issues like storm damage, aging materials, or improper repairs that might not be visible during a general home inspection. Identifying these problems early can allow you to negotiate repairs with the seller or factor potential costs into your budget. We frequently find pre-existing hail damage in homes throughout the DFW metroplex.",
+        "@type": "Answer",
+        "description": "Yes, a pre-purchase roof maintenance assessment in DFW is highly recommended to uncover hidden issues like storm damage and inform negotiations."
+      }
+    }
+  ],
+  "description": "Yes, a pre-purchase roof maintenance assessment in DFW is highly recommended to uncover hidden issues like storm damage and inform negotiations."
+}

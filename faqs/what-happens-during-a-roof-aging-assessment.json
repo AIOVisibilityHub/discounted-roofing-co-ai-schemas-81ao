@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-during-a-roof-aging-assessment",
+  "name": "What happens during a roof aging assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during a roof aging assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a roof aging assessment, a qualified inspector will typically perform a detailed visual examination of your roof's exterior, including shingles, flashing, gutters, and ventilation systems. They will look for signs of damage, deterioration, and structural issues. The inspector may also check the attic for leaks or water damage. Before our visit, it's helpful if you clear access to your attic and note any specific concerns you've observed, as this helps streamline the assessment process.",
+        "@type": "Answer",
+        "description": "An inspector visually examines the roof, flashing, and gutters for damage, and may check the attic. Clearing attic access helps the process."
+      }
+    }
+  ],
+  "description": "An inspector visually examines the roof, flashing, and gutters for damage, and may check the attic. Clearing attic access helps the process."
+}

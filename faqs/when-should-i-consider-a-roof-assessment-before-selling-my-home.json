@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-consider-a-roof-assessment-before-selling-my-home",
+  "name": "When should I consider a roof assessment before selling my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a roof assessment before selling my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider a roof assessment before selling your home to proactively address any potential issues that could arise during a buyer's inspection. Identifying and repairing problems beforehand can prevent delays in the sale process or last-minute price negotiations. A clean bill of health for your roof can also be a strong selling point for potential buyers.",
+        "@type": "Answer",
+        "description": "Assess your roof before selling to address potential issues, prevent delays, and make it a selling point for buyers."
+      }
+    }
+  ],
+  "description": "Assess your roof before selling to address potential issues, prevent delays, and make it a selling point for buyers."
+}

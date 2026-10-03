@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-a-preventive-roof-maintenance-inspection-help-with-insurance-claims",
+  "name": "Can a preventive roof maintenance inspection help with insurance claims?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a preventive roof maintenance inspection help with insurance claims?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a comprehensive preventive roof maintenance inspection report can be valuable if you need to file an insurance claim in the future. The documentation and photographic evidence of your roof's condition prior to any damage can help establish a baseline for your claim. This can be particularly useful in the DFW area, where severe weather events like hail storms are common. Our detailed reports provide clear evidence of pre-existing conditions versus new damage.",
+        "@type": "Answer",
+        "description": "A preventive roof maintenance inspection report can aid insurance claims by documenting your roof's condition before damage, providing valuable evidence for claims, especially after severe weather."
+      }
+    }
+  ],
+  "description": "A preventive roof maintenance inspection report can aid insurance claims by documenting your roof's condition before damage, providing valuable evidence for cla"
+}

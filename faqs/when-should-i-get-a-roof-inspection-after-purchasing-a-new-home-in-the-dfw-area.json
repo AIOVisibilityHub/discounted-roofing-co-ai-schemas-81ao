@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-a-roof-inspection-after-purchasing-a-new-home-in-the-dfw-area",
+  "name": "When should I get a roof inspection after purchasing a new home in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a roof inspection after purchasing a new home in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Even if a home inspection was performed during the sale, it is advisable to get a dedicated roof inspection shortly after purchasing a new home in the DFW area. General home inspectors may not have specialized roofing expertise to spot subtle issues. Given the varying weather conditions in areas like Dallas, Fort Worth, or Plano, a specialized inspection can provide peace of mind and identify any existing or developing issues specific to the roof's condition and local climate.",
+        "@type": "Answer",
+        "description": "It is advisable to get a specialized roof inspection shortly after purchasing a home in the DFW area, even after a general home inspection."
+      }
+    }
+  ],
+  "description": "It is advisable to get a specialized roof inspection shortly after purchasing a home in the DFW area, even after a general home inspection."
+}

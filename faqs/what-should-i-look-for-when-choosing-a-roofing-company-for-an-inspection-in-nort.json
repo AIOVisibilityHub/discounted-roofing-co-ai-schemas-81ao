@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-look-for-when-choosing-a-roofing-company-for-an-inspection-in-nort",
+  "name": "What should I look for when choosing a roofing company for an inspection in North Texas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when choosing a roofing company for an inspection in North Texas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a roofing company for an inspection in North Texas, prioritize local experience, as knowledge of regional weather patterns and building codes is crucial. Look for companies with established reputations, proper licensing, and comprehensive insurance. Verify that they provide a detailed inspection report and clear recommendations for any necessary repairs. Discounted Roofing Co. focuses on serving the DFW area and surrounding communities, understanding the specific challenges roofs face here.",
+        "@type": "Answer",
+        "description": "Choose a roofing company for inspection in North Texas with local experience, proper licensing, insurance, and a track record of detailed reports and recommendations specific to regional weather and codes."
+      }
+    }
+  ],
+  "description": "Choose a roofing company for inspection in North Texas with local experience, proper licensing, insurance, and a track record of detailed reports and recommenda"
+}

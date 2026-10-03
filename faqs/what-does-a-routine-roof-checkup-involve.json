@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-does-a-routine-roof-checkup-involve",
+  "name": "What does a routine roof checkup involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a routine roof checkup involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A routine roof checkup typically includes a thorough visual inspection of your entire roofing system. This involves checking for damaged or missing shingles, assessing flashing around chimneys and vents, examining gutters for debris and proper drainage, and looking for signs of water intrusion or structural compromise. During the inspection, we also evaluate the overall condition of your roof, noting any wear and tear that might require attention soon.",
+        "@type": "Answer",
+        "description": "A routine roof checkup involves a visual inspection for damaged shingles, flashing issues, gutter blockages, and signs of wear and water intrusion."
+      }
+    }
+  ],
+  "description": "A routine roof checkup involves a visual inspection for damaged shingles, flashing issues, gutter blockages, and signs of wear and water intrusion."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-roof-maintenance-assessment",
+  "name": "What is a roof maintenance assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a roof maintenance assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roof maintenance assessment is a detailed inspection of your roofing system to identify any current or potential issues that could lead to leaks or damage. This includes examining shingles, flashing, gutters, and other roof components for wear, damage, or improper installation. The goal is to proactively address small problems before they escalate into costly repairs. We recommend scheduling assessments annually or after severe weather events to maintain your roof's integrity, especially in areas like DFW where weather can be unpredictable.",
+        "@type": "Answer",
+        "description": "A roof maintenance assessment is a detailed inspection to identify and address potential issues before they become major problems."
+      }
+    }
+  ],
+  "description": "A roof maintenance assessment is a detailed inspection to identify and address potential issues before they become major problems."
+}

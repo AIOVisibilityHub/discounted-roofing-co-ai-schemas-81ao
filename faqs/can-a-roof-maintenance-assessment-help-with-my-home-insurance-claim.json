@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-a-roof-maintenance-assessment-help-with-my-home-insurance-claim",
+  "name": "Can a roof maintenance assessment help with my home insurance claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a roof maintenance assessment help with my home insurance claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a professional roof maintenance assessment can be very beneficial for home insurance claims, particularly after severe weather events. The detailed report and photographic evidence provided by an assessment can document the extent of damage, distinguishing between new damage and pre-existing wear. This documentation can serve as crucial evidence when filing a claim and communicating with your insurance adjuster, potentially streamlining the approval process. We often assist clients in the DFW area with this process.",
+        "@type": "Answer",
+        "description": "Yes, a professional roof maintenance assessment's detailed report and photos can document damage for home insurance claims, aiding communication with adjusters."
+      }
+    }
+  ],
+  "description": "Yes, a professional roof maintenance assessment's detailed report and photos can document damage for home insurance claims, aiding communication with adjusters."
+}

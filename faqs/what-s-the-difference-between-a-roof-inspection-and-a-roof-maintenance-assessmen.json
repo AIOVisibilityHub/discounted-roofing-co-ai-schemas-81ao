@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-s-the-difference-between-a-roof-inspection-and-a-roof-maintenance-assessmen",
+  "name": "What's the difference between a roof inspection and a roof maintenance assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a roof inspection and a roof maintenance assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often used interchangeably, a roof maintenance assessment typically involves a more detailed, proactive review aimed at identifying and mitigating future problems, often including minor preventative adjustments. A general roof inspection might be more focused on assessing current damage or confirming the lifespan of the roof. Both involve examining the roof's condition, but the assessment emphasizes a forward-looking approach to upkeep. When considering options, clarify with your roofing company the specific scope included for each service.",
+        "@type": "Answer",
+        "description": "A maintenance assessment is a proactive, detailed review to prevent future issues, often with minor adjustments, while a general inspection focuses on current damage or lifespan."
+      }
+    }
+  ],
+  "description": "A maintenance assessment is a proactive, detailed review to prevent future issues, often with minor adjustments, while a general inspection focuses on current d"
+}

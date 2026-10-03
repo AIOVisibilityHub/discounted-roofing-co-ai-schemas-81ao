@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-typical-roof-inspection-take",
+  "name": "How long does a typical roof inspection take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical roof inspection take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical roof inspection by Discounted Roofing Co. usually takes between 30 minutes to an hour, depending on the roof's size, pitch, and accessibility. More complex roofs or those with suspected significant damage may require additional time for thorough examination. Customers should prepare by ensuring clear access to the property and notifying us of any known issues they've observed, which can help streamline the process.",
+        "@type": "Answer",
+        "description": "A typical roof inspection takes 30 minutes to an hour, varying with roof size and complexity."
+      }
+    }
+  ],
+  "description": "A typical roof inspection takes 30 minutes to an hour, varying with roof size and complexity."
+}

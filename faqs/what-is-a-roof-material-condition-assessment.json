@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-roof-material-condition-assessment",
+  "name": "What is a roof material condition assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a roof material condition assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roof material condition assessment is a detailed inspection of your roof's components to determine its current state, remaining lifespan, and any necessary repairs or maintenance. It evaluates materials like shingles, tiles, or metal for wear, damage, and structural integrity. This assessment provides a professional evaluation of your roof's health, allowing for proactive planning and budgeting for repairs or replacement.",
+        "@type": "Answer",
+        "description": "A roof material condition assessment is a detailed inspection to evaluate your roof's current state, remaining lifespan, and necessary repairs."
+      }
+    }
+  ],
+  "description": "A roof material condition assessment is a detailed inspection to evaluate your roof's current state, remaining lifespan, and necessary repairs."
+}

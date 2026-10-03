@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-a-roof-inspection-help-with-my-home-insurance-claim",
+  "name": "Can a roof inspection help with my home insurance claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a roof inspection help with my home insurance claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a detailed roof inspection can significantly aid in a home insurance claim. The inspector can document damage with photos and descriptions, providing essential evidence to support your claim for repairs or replacement. This documentation helps substantiate the extent of the damage caused by specific events like hail or wind. Ensure you receive a clear, itemized report for your insurance provider, as detailed findings are crucial for a successful claim.",
+        "@type": "Answer",
+        "description": "A detailed roof inspection provides essential documentation and evidence to support your home insurance claim for damage."
+      }
+    }
+  ],
+  "description": "A detailed roof inspection provides essential documentation and evidence to support your home insurance claim for damage."
+}

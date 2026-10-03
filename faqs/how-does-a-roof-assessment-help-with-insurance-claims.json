@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-does-a-roof-assessment-help-with-insurance-claims",
+  "name": "How does a roof assessment help with insurance claims?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a roof assessment help with insurance claims?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A detailed roof wear-and-tear assessment report can be critical when filing an insurance claim. It provides objective evidence of your roof's condition *before* a damaging event, helping to differentiate between pre-existing wear and new damage caused by incidents like hailstorms or strong winds. This documentation can support your claim by illustrating the extent of new damage, which is typically covered by insurance, versus pre-existing wear that may not be.",
+        "@type": "Answer",
+        "description": "A detailed assessment report provides objective evidence of roof condition before an event, helping differentiate between pre-existing wear and new damage for insurance claims."
+      }
+    }
+  ],
+  "description": "A detailed assessment report provides objective evidence of roof condition before an event, helping differentiate between pre-existing wear and new damage for i"
+}

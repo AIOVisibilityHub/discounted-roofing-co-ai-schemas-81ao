@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-common-signs-that-my-roof-needs-a-checkup",
+  "name": "What are common signs that my roof needs a checkup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my roof needs a checkup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your roof needs a checkup include visible damage like cracked, curling, or missing shingles, granular loss in gutters, and water stains on interior ceilings or walls. Additionally, if your roof is nearing the end of its typical lifespan (often 15-20 years for asphalt shingles), a professional assessment is highly recommended. These indicators help determine the urgency and scope of needed maintenance.",
+        "@type": "Answer",
+        "description": "Look for cracked or missing shingles, granules in gutters, interior water stains, or if your roof is aging, as signs it needs a checkup."
+      }
+    }
+  ],
+  "description": "Look for cracked or missing shingles, granules in gutters, interior water stains, or if your roof is aging, as signs it needs a checkup."
+}

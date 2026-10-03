@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-does-a-residential-roof-inspection-include",
+  "name": "What does a residential roof inspection include?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a residential roof inspection include?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A residential roof inspection typically includes a visual assessment of the roof's surface, flashing, gutters, and trim for signs of damage, wear, or leaks. Inspectors look for missing or damaged shingles, cracks, moss growth, and proper drainage. They also examine the interior attic space for water stains or structural issues. The scope of the inspection can vary; for example, a pre-sale inspection might be less detailed than one following a severe storm.",
+        "@type": "Answer",
+        "description": "A residential roof inspection involves a visual assessment of the roof's exterior and interior for damage, wear, and potential issues."
+      }
+    }
+  ],
+  "description": "A residential roof inspection involves a visual assessment of the roof's exterior and interior for damage, wear, and potential issues."
+}

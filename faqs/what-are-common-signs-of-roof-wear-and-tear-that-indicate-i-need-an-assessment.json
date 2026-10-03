@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-common-signs-of-roof-wear-and-tear-that-indicate-i-need-an-assessment",
+  "name": "What are common signs of roof wear and tear that indicate I need an assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of roof wear and tear that indicate I need an assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs include missing or cracked shingles, granular loss from asphalt shingles (often visible in gutters), discolored or dark spots, moss or algae growth, and sagging areas. Indoors, water stains on ceilings or walls can also indicate a roof issue. Observing any of these signs, particularly in the DFW region known for fluctuating temperatures and storms, suggests it's time to schedule a professional assessment to prevent further damage.",
+        "@type": "Answer",
+        "description": "Missing/cracked shingles, granular loss, discoloration, sagging, or indoor water stains are signs you need a roof assessment."
+      }
+    }
+  ],
+  "description": "Missing/cracked shingles, granular loss, discoloration, sagging, or indoor water stains are signs you need a roof assessment."
+}

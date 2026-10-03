@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-after-a-roof-health-assessment",
+  "name": "What happens after a roof health assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after a roof health assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After completing the roof health assessment, our team will provide you with a detailed report outlining our findings, including photos of any identified issues. The report will also include recommendations for necessary repairs, maintenance, or potential replacement, along with estimated costs. We will then discuss these findings with you, answer any questions, and help you understand the best course of action. This consultative approach ensures you feel informed and confident in your next steps.",
+        "@type": "Answer",
+        "description": "After the assessment, you'll receive a detailed report with findings, photos, and recommendations for repairs or maintenance, followed by a discussion to determine your best course of action."
+      }
+    }
+  ],
+  "description": "After the assessment, you'll receive a detailed report with findings, photos, and recommendations for repairs or maintenance, followed by a discussion to determ"
+}

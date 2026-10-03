@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-prepare-before-a-roof-condition-assessment",
+  "name": "What should I prepare before a roof condition assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a roof condition assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a roof condition assessment, ensure clear access to your roof and attic. This involves moving any obstacles around the perimeter of your home and clearing pathways in the attic if inspectors need to go inside. Providing any past documentation, such as previous repair records or installation dates, can also help our inspectors provide a more accurate and contextual evaluation of your roof's history.",
+        "@type": "Answer",
+        "description": "Ensure clear access to your roof and attic, and provide any past repair records or installation dates to aid the assessment."
+      }
+    }
+  ],
+  "description": "Ensure clear access to your roof and attic, and provide any past repair records or installation dates to aid the assessment."
+}

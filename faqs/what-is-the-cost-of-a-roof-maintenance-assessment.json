@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-cost-of-a-roof-maintenance-assessment",
+  "name": "What is the cost of a roof maintenance assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost of a roof maintenance assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a roof maintenance assessment can vary based on factors like the size and pitch of your roof, the complexity of its design, and its accessibility. Some companies offer complimentary basic inspections, while more detailed assessments, particularly those involving drones or extensive reports, may have a fee. It's best to request a personalized quote, as the scope of work for older or larger homes may require a more in-depth review.",
+        "@type": "Answer",
+        "description": "The cost of a roof maintenance assessment varies by roof size, pitch, and complexity; some basic inspections are complimentary, while detailed ones may have a fee."
+      }
+    }
+  ],
+  "description": "The cost of a roof maintenance assessment varies by roof size, pitch, and complexity; some basic inspections are complimentary, while detailed ones may have a f"
+}

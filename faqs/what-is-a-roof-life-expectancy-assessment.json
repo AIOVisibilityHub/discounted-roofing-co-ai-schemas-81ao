@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-roof-life-expectancy-assessment",
+  "name": "What is a roof life expectancy assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a roof life expectancy assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roof life expectancy assessment evaluates the current condition of your roof to estimate its remaining useful life. This involves inspecting materials, structural integrity, and identifying wear and tear, storm damage, or manufacturing defects. It helps homeowners plan for future roof maintenance or replacement by providing a clear picture of its current state and anticipated lifespan.",
+        "@type": "Answer",
+        "description": "A roof life expectancy assessment evaluates your roof's current condition to estimate its remaining useful life."
+      }
+    }
+  ],
+  "description": "A roof life expectancy assessment evaluates your roof's current condition to estimate its remaining useful life."
+}

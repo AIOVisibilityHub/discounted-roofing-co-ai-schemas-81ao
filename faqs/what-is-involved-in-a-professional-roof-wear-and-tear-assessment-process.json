@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-involved-in-a-professional-roof-wear-and-tear-assessment-process",
+  "name": "What is involved in a professional roof wear-and-tear assessment process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a professional roof wear-and-tear assessment process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A professional roof wear-and-tear assessment typically involves a thorough visual inspection of the entire roof surface, including shingles, flashing, gutters, and ventilation systems. Our inspectors look for signs like granular loss, cracking, blistering, algae growth, and minor sagging. We then document findings with photos and provide a detailed report outlining the roof's condition, potential issues, and recommended actions, allowing you to clearly understand the state of your roof.",
+        "@type": "Answer",
+        "description": "The assessment includes a visual inspection of all roof components, photo documentation, and a detailed report of findings and recommendations."
+      }
+    }
+  ],
+  "description": "The assessment includes a visual inspection of all roof components, photo documentation, and a detailed report of findings and recommendations."
+}

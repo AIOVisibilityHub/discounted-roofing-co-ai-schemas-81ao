@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-know-if-i-need-a-preventive-roof-inspection-or-a-repair",
+  "name": "How do I know if I need a preventive roof inspection or a repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I need a preventive roof inspection or a repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A preventive roof inspection helps determine if you need repairs. If you notice obvious signs of damage, such as missing shingles, active leaks, or significant granule loss, you likely need a repair. However, many issues are not visible from the ground. A professional inspection can identify hidden problems like loose flashing, compromised seals, or minor storm damage that, if left unaddressed, will eventually require more extensive and costly repairs. This clarity helps you decide between routine maintenance and immediate repair work.",
+        "@type": "Answer",
+        "description": "If you see obvious damage, you need a repair; otherwise, an inspection can identify hidden issues before they become major problems."
+      }
+    }
+  ],
+  "description": "If you see obvious damage, you need a repair; otherwise, an inspection can identify hidden issues before they become major problems."
+}

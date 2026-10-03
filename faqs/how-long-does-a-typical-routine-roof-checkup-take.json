@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-typical-routine-roof-checkup-take",
+  "name": "How long does a typical routine roof checkup take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical routine roof checkup take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical routine roof checkup usually takes between 30 minutes to an hour, depending on the size and complexity of your roof. Factors like multiple roof levels, steep pitches, or extensive landscaping around the home can influence the duration. This estimate generally covers the inspection itself, with additional time needed if immediate minor repairs or detailed discussions about findings are required.",
+        "@type": "Answer",
+        "description": "A routine roof checkup usually takes 30 minutes to an an hour, varying with roof size and complexity."
+      }
+    }
+  ],
+  "description": "A routine roof checkup usually takes 30 minutes to an an hour, varying with roof size and complexity."
+}

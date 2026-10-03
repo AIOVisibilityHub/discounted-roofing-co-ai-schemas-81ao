@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-affect-the-cost-of-a-residential-roof-condition-assessment",
+  "name": "What factors affect the cost of a residential roof condition assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors affect the cost of a residential roof condition assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a residential roof condition assessment can vary based on several factors, including the size and complexity of your roof, its pitch, and the type of roofing materials. Larger homes or roofs with multiple levels and steep slopes typically require more time and specialized equipment, which can influence the final price. We provide transparent quotes after gathering initial details about your property.",
+        "@type": "Answer",
+        "description": "Cost is affected by roof size, complexity, pitch, and material type, with larger or more complex roofs often incurring higher assessment fees."
+      }
+    }
+  ],
+  "description": "Cost is affected by roof size, complexity, pitch, and material type, with larger or more complex roofs often incurring higher assessment fees."
+}

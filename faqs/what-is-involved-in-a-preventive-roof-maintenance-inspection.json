@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-involved-in-a-preventive-roof-maintenance-inspection",
+  "name": "What is involved in a preventive roof maintenance inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a preventive roof maintenance inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A preventive roof maintenance inspection involves a thorough assessment of your roof's current condition to identify potential issues before they become major problems. Our inspectors at Discounted Roofing Co. will examine the roof surface, flashing, gutters, and trim for signs of wear, damage, or leaks. This proactive approach helps extend your roof's lifespan and can prevent costly emergency repairs. During the inspection, we also look for issues common in the DFW area, such as storm damage or wear from extreme temperatures.",
+        "@type": "Answer",
+        "description": "A preventive roof maintenance inspection assesses your roof's condition, including the surface, flashing, and gutters, to identify and address potential issues early. This helps extend roof lifespan and prevent expensive repairs."
+      }
+    }
+  ],
+  "description": "A preventive roof maintenance inspection assesses your roof's condition, including the surface, flashing, and gutters, to identify and address potential issues"
+}

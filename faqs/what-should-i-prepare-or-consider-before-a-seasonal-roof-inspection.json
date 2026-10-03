@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-prepare-or-consider-before-a-seasonal-roof-inspection",
+  "name": "What should I prepare or consider before a seasonal roof inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare or consider before a seasonal roof inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a seasonal roof inspection, ensure clear access to your property and the roof. Clear any debris from around the house perimeter and inform us of any specific concerns you've noticed, such as leaks or unusual sounds. It is also helpful to secure pets and ensure children are indoors for safety during the inspection. Providing historical information about your roof's age or any past repairs can assist the inspector in their assessment. This preparation allows our team to conduct a thorough and efficient inspection without obstructions.",
+        "@type": "Answer",
+        "description": "Before an inspection, ensure clear access to the property, inform us of any concerns, secure pets and children, and provide any relevant roof history to help our team."
+      }
+    }
+  ],
+  "description": "Before an inspection, ensure clear access to the property, inform us of any concerns, secure pets and children, and provide any relevant roof history to help ou"
+}

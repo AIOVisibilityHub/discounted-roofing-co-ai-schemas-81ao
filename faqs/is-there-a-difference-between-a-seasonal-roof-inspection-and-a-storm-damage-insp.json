@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/is-there-a-difference-between-a-seasonal-roof-inspection-and-a-storm-damage-insp",
+  "name": "Is there a difference between a seasonal roof inspection and a storm damage inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is there a difference between a seasonal roof inspection and a storm damage inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While both involve assessing the roof, a seasonal inspection is a general preventative check for wear and tear, maintenance needs, or minor issues that develop over time. A storm damage inspection, however, is specifically conducted after an acute weather event like a hail storm, high winds, or heavy rain, to identify immediate and often severe damage. Although a seasonal inspection might uncover storm-related damage, a dedicated storm damage inspection is more focused and often necessary for insurance claims, especially given the frequent severe weather in North Texas.",
+        "@type": "Answer",
+        "description": "A seasonal inspection is preventative maintenance, while a storm damage inspection specifically assesses acute damage after severe weather, often for insurance claims."
+      }
+    }
+  ],
+  "description": "A seasonal inspection is preventative maintenance, while a storm damage inspection specifically assesses acute damage after severe weather, often for insurance"
+}

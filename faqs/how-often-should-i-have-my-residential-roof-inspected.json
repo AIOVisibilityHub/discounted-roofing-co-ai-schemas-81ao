@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-often-should-i-have-my-residential-roof-inspected",
+  "name": "How often should I have my residential roof inspected?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I have my residential roof inspected?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is generally recommended to have your residential roof inspected annually, especially after severe weather events. Regular inspections can help identify minor issues before they become major problems. For instance, in areas like DFW, which experience hail and strong winds, post-storm inspections are crucial to catch hidden damage early. The age of your roof and local weather patterns in your specific area, such as Addison or Allen, can influence the ideal inspection frequency.",
+        "@type": "Answer",
+        "description": "Annual roof inspections are recommended, particularly after severe weather, to catch potential issues early."
+      }
+    }
+  ],
+  "description": "Annual roof inspections are recommended, particularly after severe weather, to catch potential issues early."
+}

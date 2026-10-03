@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-might-influence-the-cost-of-a-seasonal-roof-inspection",
+  "name": "What factors might influence the cost of a seasonal roof inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors might influence the cost of a seasonal roof inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a seasonal roof inspection can be influenced by several factors, including the size and pitch of your roof, the materials used (e.g., asphalt, metal, tile), and the complexity of the roof's design (e.g., multiple gables, skylights). Accessibility to the roof also plays a role. While some companies might offer free inspections as part of a quote for repairs, others charge a service fee. It's important to clarify what the inspection includes and if there's a fee involved beforehand to compare options effectively.",
+        "@type": "Answer",
+        "description": "Roof size, pitch, material, design complexity, and accessibility can all influence the cost of a seasonal roof inspection; clarify included services and fees beforehand."
+      }
+    }
+  ],
+  "description": "Roof size, pitch, material, design complexity, and accessibility can all influence the cost of a seasonal roof inspection; clarify included services and fees be"
+}

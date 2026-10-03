@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-influence-the-cost-of-a-roof-wear-and-tear-assessment-in-the-dfw-ar",
+  "name": "What factors influence the cost of a roof wear-and-tear assessment in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a roof wear-and-tear assessment in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a roof wear-and-tear assessment can be influenced by factors such as the size and complexity of your roof, its pitch, and the type of roofing material. While some companies offer free inspections, others may charge a fee for a detailed, documented assessment. For specific pricing in the DFW area, it's best to contact us directly for a personalized quote, as each roof has unique characteristics.",
+        "@type": "Answer",
+        "description": "Cost factors for a roof assessment in DFW include roof size, complexity, pitch, and material type; contact us for a personalized quote."
+      }
+    }
+  ],
+  "description": "Cost factors for a roof assessment in DFW include roof size, complexity, pitch, and material type; contact us for a personalized quote."
+}

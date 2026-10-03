@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-after-a-roof-wear-and-tear-assessment",
+  "name": "What happens after a roof wear-and-tear assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after a roof wear-and-tear assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After the assessment, you will receive a detailed report outlining our findings, including photographic evidence of any identified wear, tear, or damage. This report will also include our professional recommendations for maintenance, repairs, or potential replacement, along with transparent cost estimates. This information empowers you to make informed decisions about your roof's future, whether it's routine maintenance or preparing for an insurance claim.",
+        "@type": "Answer",
+        "description": "You'll receive a detailed report with findings, photos, and recommendations for maintenance, repairs, or replacement, including cost estimates."
+      }
+    }
+  ],
+  "description": "You'll receive a detailed report with findings, photos, and recommendations for maintenance, repairs, or replacement, including cost estimates."
+}

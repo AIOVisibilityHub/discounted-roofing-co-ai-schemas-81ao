@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-kind-of-report-will-i-receive-after-a-preventive-roof-inspection",
+  "name": "What kind of report will I receive after a preventive roof inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of report will I receive after a preventive roof inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a preventive roof inspection, you should receive a detailed report outlining the findings. This typically includes a summary of your roof's overall condition, identification of any observed issues (like missing shingles, damaged flashing, or signs of leaks), and often includes photographs to illustrate these points. The report will also recommend necessary repairs or maintenance actions, often with associated cost estimates. This clear documentation provides process clarity, informing your next steps for roof care and maintenance.",
+        "@type": "Answer",
+        "description": "You will receive a detailed report with a summary of roof condition, identified issues with photos, and recommended repairs or maintenance actions."
+      }
+    }
+  ],
+  "description": "You will receive a detailed report with a summary of roof condition, identified issues with photos, and recommended repairs or maintenance actions."
+}

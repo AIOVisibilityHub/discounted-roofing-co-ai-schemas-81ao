@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-difference-between-a-free-roof-inspection-and-a-paid-one",
+  "name": "What is the difference between a free roof inspection and a paid one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a free roof inspection and a paid one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary difference often lies in the depth and formality of the report. Many roofing companies, including Discounted Roofing Co., offer free inspections, particularly after storm events, to assess damage and provide repair estimates. These are usually geared towards identifying immediate repair needs or insurance claims. A paid inspection, often conducted by a third-party, might offer a more comprehensive, unbiased condition report for real estate transactions, without an attached repair bid. Consider what you need the inspection for to decide which option is best.",
+        "@type": "Answer",
+        "description": "Free inspections often focus on repair estimates, while paid inspections may offer a more comprehensive, unbiased condition report."
+      }
+    }
+  ],
+  "description": "Free inspections often focus on repair estimates, while paid inspections may offer a more comprehensive, unbiased condition report."
+}

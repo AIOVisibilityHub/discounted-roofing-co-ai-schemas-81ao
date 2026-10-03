@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-prepare-for-a-roof-wear-and-tear-assessment",
+  "name": "What should I prepare for a roof wear-and-tear assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare for a roof wear-and-tear assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before an assessment, ensure clear access to your property and around the perimeter of your home. It's also helpful to have any previous roof repair or installation records available, as this historical information can provide valuable context to our inspectors. While not strictly necessary, informing us of any specific concerns or areas you've noticed issues with can help direct the inspection and ensure all your questions are addressed.",
+        "@type": "Answer",
+        "description": "Prepare by ensuring clear property access, gathering previous roof records if available, and noting any specific concerns for the inspector."
+      }
+    }
+  ],
+  "description": "Prepare by ensuring clear property access, gathering previous roof records if available, and noting any specific concerns for the inspector."
+}

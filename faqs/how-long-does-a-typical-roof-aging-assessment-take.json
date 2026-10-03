@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-typical-roof-aging-assessment-take",
+  "name": "How long does a typical roof aging assessment take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical roof aging assessment take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a roof aging assessment typically ranges from 30 minutes to 1.5 hours, depending on the size and complexity of your roof and the extent of any visible damage. Factors such as roof accessibility and the need for detailed photos or measurements can also influence the time required. We aim to be efficient while ensuring a comprehensive evaluation.",
+        "@type": "Answer",
+        "description": "A typical roof aging assessment takes 30 minutes to 1.5 hours, varying with roof size, complexity, and damage extent."
+      }
+    }
+  ],
+  "description": "A typical roof aging assessment takes 30 minutes to 1.5 hours, varying with roof size, complexity, and damage extent."
+}

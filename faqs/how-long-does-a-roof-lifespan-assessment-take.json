@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-roof-lifespan-assessment-take",
+  "name": "How long does a roof lifespan assessment take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a roof lifespan assessment take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a roof lifespan assessment typically varies based on the size and complexity of your roof, but most residential assessments are completed within 1 to 2 hours. Our inspectors meticulously examine all roof components, including shingles, flashing, gutters, and ventilation. We advise homeowners to be present, if possible, to discuss any immediate findings or concerns.",
+        "@type": "Answer",
+        "description": "Most residential roof lifespan assessments take 1 to 2 hours, depending on roof size and complexity."
+      }
+    }
+  ],
+  "description": "Most residential roof lifespan assessments take 1 to 2 hours, depending on roof size and complexity."
+}

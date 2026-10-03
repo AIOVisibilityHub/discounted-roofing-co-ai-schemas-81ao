@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-after-a-seasonal-roof-inspection-if-damage-is-found",
+  "name": "What happens after a seasonal roof inspection if damage is found?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after a seasonal roof inspection if damage is found?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If damage is found during a seasonal roof inspection, our inspector will provide you with a detailed report outlining the issues, often accompanied by photographs. This report will include professional recommendations for necessary repairs or maintenance, along with an estimate for the recommended work. You will have the opportunity to discuss the findings and proposed solutions with our team, allowing you to make informed decisions about your next steps. Our goal is to provide clear options to restore your roof's integrity and prolong its lifespan.",
+        "@type": "Answer",
+        "description": "After damage is found, you'll receive a detailed report with photos, recommended repairs, and an estimate. You can then discuss options with our team to make informed decisions."
+      }
+    }
+  ],
+  "description": "After damage is found, you'll receive a detailed report with photos, recommended repairs, and an estimate. You can then discuss options with our team to make in"
+}

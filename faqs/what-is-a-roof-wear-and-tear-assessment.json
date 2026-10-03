@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-roof-wear-and-tear-assessment",
+  "name": "What is a roof wear-and-tear assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a roof wear-and-tear assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roof wear-and-tear assessment is a professional inspection to identify and document the natural aging and deterioration of your roof due to environmental factors like sun, rain, wind, and temperature fluctuations. It helps distinguish between routine aging and damage caused by specific events like storms. Understanding the difference is crucial for insurance claims and planning maintenance, as typical wear and tear is usually not covered by homeowner's insurance.",
+        "@type": "Answer",
+        "description": "A roof wear-and-tear assessment identifies and documents natural aging and deterioration to distinguish it from damage, aiding in maintenance planning and insurance considerations."
+      }
+    }
+  ],
+  "description": "A roof wear-and-tear assessment identifies and documents natural aging and deterioration to distinguish it from damage, aiding in maintenance planning and insur"
+}

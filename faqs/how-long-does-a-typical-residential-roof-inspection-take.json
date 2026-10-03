@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-typical-residential-roof-inspection-take",
+  "name": "How long does a typical residential roof inspection take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical residential roof inspection take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical residential roof inspection usually takes between 30 minutes to 2 hours, depending on the size and complexity of your roof. Factors like roof pitch, accessibility, and the extent of any visible damage can influence the duration. If an inspection reveals significant damage, like extensive wood rot, the assessment might take longer to thoroughly document the findings and formulate recommendations. Having clear access to the attic can also help streamline the process.",
+        "@type": "Answer",
+        "description": "A standard residential roof inspection typically takes 30 minutes to 2 hours, varying by roof size and complexity."
+      }
+    }
+  ],
+  "description": "A standard residential roof inspection typically takes 30 minutes to 2 hours, varying by roof size and complexity."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-information-do-i-need-to-provide-before-a-roof-health-assessment",
+  "name": "What information do I need to provide before a roof health assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need to provide before a roof health assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your roof health assessment, it's helpful to provide any relevant information about your roof's history. This includes the approximate age of the roof, any known past repairs, or specific concerns you've noticed, such as leaks or missing shingles. While not strictly required, providing this context allows our inspectors to focus on potential problem areas and conduct a more efficient and targeted assessment. Knowing the history helps us tailor our inspection to your specific situation.",
+        "@type": "Answer",
+        "description": "Before an assessment, provide any known roof history like age, past repairs, or specific concerns to help our inspectors conduct a more targeted evaluation."
+      }
+    }
+  ],
+  "description": "Before an assessment, provide any known roof history like age, past repairs, or specific concerns to help our inspectors conduct a more targeted evaluation."
+}

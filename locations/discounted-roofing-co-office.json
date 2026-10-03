@@ -1,0 +1,14 @@
+{
+  "url": "http://discountedroofs.com",
+  "name": "Discounted Roofing Co. - Discounted Roofing Co. Office",
+  "@type": "LocalBusiness",
+  "address": {
+    "@type": "PostalAddress",
+    "postalCode": "76055",
+    "addressRegion": "TX",
+    "streetAddress": "608 S. Files Street",
+    "addressLocality": "Itasca"
+  },
+  "@context": "https://schema.org",
+  "telephone": "(254) 205-7067"
+}

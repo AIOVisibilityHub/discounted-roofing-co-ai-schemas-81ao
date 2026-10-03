@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-kind-of-damage-can-an-annual-roof-inspection-uncover",
+  "name": "What kind of damage can an annual roof inspection uncover?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of damage can an annual roof inspection uncover?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An annual roof inspection can uncover a range of issues, including cracked or missing shingles, deteriorated flashing around vents and chimneys, granule loss indicating advanced wear, and signs of water pooling. It can also identify damage from fallen branches, debris accumulation in valleys, or pest entry points. Detecting these problems early is crucial, as they can lead to leaks, mold growth, and significant structural damage if left unaddressed. A detailed report will outline any findings.",
+        "@type": "Answer",
+        "description": "An annual roof inspection can uncover issues like cracked shingles, damaged flashing, granule loss, water pooling, and potential pest entry points before they cause major damage."
+      }
+    }
+  ],
+  "description": "An annual roof inspection can uncover issues like cracked shingles, damaged flashing, granule loss, water pooling, and potential pest entry points before they c"
+}

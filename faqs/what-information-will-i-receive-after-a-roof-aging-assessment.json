@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-information-will-i-receive-after-a-roof-aging-assessment",
+  "name": "What information will I receive after a roof aging assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information will I receive after a roof aging assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Following a roof aging assessment, you will typically receive a detailed report outlining the roof's current condition, identified damage or wear, and an estimate of its remaining lifespan. The report will also include recommendations for necessary repairs or replacement options, often with accompanying photographs. This comprehensive documentation provides process clarity, helping you understand the scope of work and potential next steps for maintaining or improving your roof's integrity.",
+        "@type": "Answer",
+        "description": "You'll receive a detailed report with your roof's condition, damage, lifespan estimate, and recommendations for repairs or replacement."
+      }
+    }
+  ],
+  "description": "You'll receive a detailed report with your roof's condition, damage, lifespan estimate, and recommendations for repairs or replacement."
+}

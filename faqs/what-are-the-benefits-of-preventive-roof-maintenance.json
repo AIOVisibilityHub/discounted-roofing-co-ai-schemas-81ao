@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-benefits-of-preventive-roof-maintenance",
+  "name": "What are the benefits of preventive roof maintenance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of preventive roof maintenance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventive roof maintenance offers several key benefits, including extending your roof's lifespan, preventing costly repairs, improving energy efficiency, and maintaining your property's value. By identifying and addressing minor issues early, such as loose shingles or clogged gutters, you can avoid more extensive and expensive damage down the line. Our inspections can also uncover issues that might invalidate your warranty if not addressed, ensuring continued coverage.",
+        "@type": "Answer",
+        "description": "Benefits of preventive roof maintenance include extending roof lifespan, preventing costly repairs, improving energy efficiency, and maintaining property value by addressing minor issues proactively."
+      }
+    }
+  ],
+  "description": "Benefits of preventive roof maintenance include extending roof lifespan, preventing costly repairs, improving energy efficiency, and maintaining property value"
+}

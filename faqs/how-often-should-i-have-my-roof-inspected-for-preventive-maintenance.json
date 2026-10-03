@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-often-should-i-have-my-roof-inspected-for-preventive-maintenance",
+  "name": "How often should I have my roof inspected for preventive maintenance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I have my roof inspected for preventive maintenance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most residential and commercial roofs, an annual preventive maintenance inspection is recommended. However, factors like the age of your roof, recent severe weather events, or surrounding trees can necessitate more frequent checks. For example, if your property in areas like Addison or Allen experienced a significant hail storm, an immediate inspection is advisable. Regular inspections help catch minor issues early, preventing them from escalating.",
+        "@type": "Answer",
+        "description": "Annual preventive roof maintenance inspections are generally recommended, but factors like roof age or severe weather can require more frequent checks."
+      }
+    }
+  ],
+  "description": "Annual preventive roof maintenance inspections are generally recommended, but factors like roof age or severe weather can require more frequent checks."
+}

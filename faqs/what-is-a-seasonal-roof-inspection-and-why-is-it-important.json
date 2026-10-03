@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-seasonal-roof-inspection-and-why-is-it-important",
+  "name": "What is a seasonal roof inspection and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a seasonal roof inspection and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A seasonal roof inspection involves a professional assessment of your roof's condition, typically before or after extreme weather seasons, such as summer or winter. It's important for identifying potential issues like loose shingles, damaged flashing, or blocked gutters early. This proactive approach helps prevent minor problems from escalating into costly repairs, extends your roof's lifespan, and maintains its protective function against the elements, particularly in areas like DFW where weather can fluctuate significantly.",
+        "@type": "Answer",
+        "description": "A seasonal roof inspection is a professional assessment of your roof's condition to identify and address issues before or after extreme weather, preventing costly repairs and extending roof life."
+      }
+    }
+  ],
+  "description": "A seasonal roof inspection is a professional assessment of your roof's condition to identify and address issues before or after extreme weather, preventing cost"
+}

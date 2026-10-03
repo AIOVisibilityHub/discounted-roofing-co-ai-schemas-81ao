@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-prepare-for-a-roof-checkup-appointment",
+  "name": "What should I prepare for a roof checkup appointment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare for a roof checkup appointment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your roof checkup appointment, ensure clear access around your property for our team to place ladders safely. If you have any specific concerns, such as a recent leak or storm damage, gathering any photos or details about when the issue began can be helpful for the inspector. Removing vehicles from the driveway adjacent to the house can also expedite the inspection process.",
+        "@type": "Answer",
+        "description": "Prepare for a roof checkup by ensuring clear exterior access for ladders and sharing any specific concerns or prior damage details with the inspector."
+      }
+    }
+  ],
+  "description": "Prepare for a roof checkup by ensuring clear exterior access for ladders and sharing any specific concerns or prior damage details with the inspector."
+}

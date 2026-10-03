@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-a-roof-health-assessment-help-with-insurance-claims",
+  "name": "Can a roof health assessment help with insurance claims?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a roof health assessment help with insurance claims?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a detailed roof health assessment can be crucial when filing an insurance claim, especially for storm damage. Our assessment reports document existing damage with photos and descriptions, providing strong evidence to support your claim. This documentation can help expedite the claims process and ensure you receive appropriate compensation for repairs. We frequently assist homeowners in areas like Aledo and Allen with preparing assessment reports for their insurance providers.",
+        "@type": "Answer",
+        "description": "Yes, a detailed roof health assessment documents damage with photos and descriptions, providing crucial evidence to support insurance claims and expedite the process."
+      }
+    }
+  ],
+  "description": "Yes, a detailed roof health assessment documents damage with photos and descriptions, providing crucial evidence to support insurance claims and expedite the pr"
+}

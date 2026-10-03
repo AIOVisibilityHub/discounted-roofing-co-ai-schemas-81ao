@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-after-a-roof-lifespan-assessment",
+  "name": "What happens after a roof lifespan assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after a roof lifespan assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After your roof lifespan assessment, our team will provide you with a detailed report outlining our findings and recommendations. We'll then schedule a follow-up consultation to discuss the report, answer any questions you have, and explore options for repairs or replacement if needed. For any repair or replacement work, we ensure a clear scope of work and transparent pricing, allowing you to make informed decisions without pressure.",
+        "@type": "Answer",
+        "description": "You'll receive a detailed report and a consultation to discuss findings and recommended next steps for repairs or replacement."
+      }
+    }
+  ],
+  "description": "You'll receive a detailed report and a consultation to discuss findings and recommended next steps for repairs or replacement."
+}

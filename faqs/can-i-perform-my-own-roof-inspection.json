@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-i-perform-my-own-roof-inspection",
+  "name": "Can I perform my own roof inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I perform my own roof inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While homeowners can visually check their roof from the ground, a professional annual roof inspection involves safely accessing the roof and closely examining areas often missed from below, such as flashing, valleys, and the condition of individual shingles. Professionals also have training to identify subtle signs of damage or wear that may not be obvious to an untrained eye. Attempting a DIY inspection can be dangerous and may not catch critical issues.",
+        "@type": "Answer",
+        "description": "While you can conduct a ground-level visual check, a professional inspection involves safely accessing the roof and identifying subtle or hidden issues that a homeowner might miss."
+      }
+    }
+  ],
+  "description": "While you can conduct a ground-level visual check, a professional inspection involves safely accessing the roof and identifying subtle or hidden issues that a h"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-look-for-in-a-company-performing-a-roof-aging-assessment",
+  "name": "What should I look for in a company performing a roof aging assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for in a company performing a roof aging assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a company for a roof aging assessment, look for licensed and insured professionals with a strong local reputation and experience in your specific region, like the DFW metroplex. Verify their expertise with different roofing materials and their ability to provide detailed, unbiased reports. A key decision factor should be their commitment to transparency and clear communication regarding findings and recommendations.",
+        "@type": "Answer",
+        "description": "Look for licensed, insured, local companies with strong reputations and experience in your region, like DFW, and who provide transparent reports."
+      }
+    }
+  ],
+  "description": "Look for licensed, insured, local companies with strong reputations and experience in your region, like DFW, and who provide transparent reports."
+}

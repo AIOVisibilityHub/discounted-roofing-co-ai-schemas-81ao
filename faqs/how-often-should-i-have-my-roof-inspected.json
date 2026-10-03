@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-often-should-i-have-my-roof-inspected",
+  "name": "How often should I have my roof inspected?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I have my roof inspected?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most roofing professionals recommend a routine roof checkup at least once a year. Regular inspections can help identify potential issues early, such as missing shingles, damaged flashing, or gutter blockages, before they escalate into more costly repairs. In areas like DFW, extreme weather conditions like hail storms or high winds can necessitate more frequent inspections, especially after a significant weather event.",
+        "@type": "Answer",
+        "description": "It is recommended to have your roof inspected at least once a year. After severe weather events common in DFW, more frequent checks are advisable."
+      }
+    }
+  ],
+  "description": "It is recommended to have your roof inspected at least once a year. After severe weather events common in DFW, more frequent checks are advisable."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-seasonal-roof-inspection-typically-take",
+  "name": "How long does a seasonal roof inspection typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a seasonal roof inspection typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard seasonal roof inspection typically takes about 30 to 60 minutes, depending on the size and complexity of your roof, as well as the pitch and accessibility. This timeframe allows our experienced inspectors to thoroughly examine all critical components of your roofing system. Factors like multi-story homes, numerous roof penetrations (e.g., skylights, chimneys), or the presence of significant debris can sometimes extend the duration. We aim for efficiency while ensuring no detail is overlooked to provide a comprehensive assessment.",
+        "@type": "Answer",
+        "description": "A seasonal roof inspection usually takes 30-60 minutes, but can vary based on roof size, complexity, and accessibility to ensure a thorough assessment."
+      }
+    }
+  ],
+  "description": "A seasonal roof inspection usually takes 30-60 minutes, but can vary based on roof size, complexity, and accessibility to ensure a thorough assessment."
+}

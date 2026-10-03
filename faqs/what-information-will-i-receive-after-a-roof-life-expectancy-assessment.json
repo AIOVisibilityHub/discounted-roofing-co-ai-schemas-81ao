@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-information-will-i-receive-after-a-roof-life-expectancy-assessment",
+  "name": "What information will I receive after a roof life expectancy assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information will I receive after a roof life expectancy assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After an assessment, you will receive a detailed report outlining the current condition of your roof, including any existing damage, potential weaknesses, and an estimated remaining lifespan. The report will also include recommendations for maintenance or necessary repairs to extend its life or prepare for future replacement. Our reports specifically note whether conditions observed are consistent with typical wear in the DFW service area.",
+        "@type": "Answer",
+        "description": "You will receive a detailed report with your roof's condition, estimated lifespan, and recommendations."
+      }
+    }
+  ],
+  "description": "You will receive a detailed report with your roof's condition, estimated lifespan, and recommendations."
+}

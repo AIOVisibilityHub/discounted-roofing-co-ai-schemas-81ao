@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-i-perform-my-own-roof-checkup-or-should-i-hire-a-professional",
+  "name": "Can I perform my own roof checkup, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I perform my own roof checkup, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While homeowners can perform basic visual checks from the ground, hiring a professional for a comprehensive roof checkup is highly recommended. Professionals have the necessary safety equipment, training, and experience to safely access the roof and identify subtle issues that might be missed by an untrained eye. A professional inspection also provides a documented assessment which can be valuable for insurance claims or future home sales.",
+        "@type": "Answer",
+        "description": "It's best to hire a professional for a comprehensive roof checkup due to safety, expertise in spotting issues, and for a documented assessment."
+      }
+    }
+  ],
+  "description": "It's best to hire a professional for a comprehensive roof checkup due to safety, expertise in spotting issues, and for a documented assessment."
+}

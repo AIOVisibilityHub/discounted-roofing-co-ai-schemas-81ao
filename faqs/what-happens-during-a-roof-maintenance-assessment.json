@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-during-a-roof-maintenance-assessment",
+  "name": "What happens during a roof maintenance assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during a roof maintenance assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a roof maintenance assessment, a qualified inspector will conduct a thorough visual examination of your entire roof, including shingles, flashing, gutters, vents, and chimneys. They will look for signs of wear, damage, missing components, or potential leak points. The process typically involves accessing the roof to get a close look, and in some cases, may include inspecting the attic for water intrusion. The inspector will then provide a detailed report outlining findings and recommended actions. Before the assessment, ensure clear access to your property and note any specific concerns you may have observed.",
+        "@type": "Answer",
+        "description": "An inspector thoroughly examines your roof for wear or damage, including an attic check, then provides a detailed report of findings and recommendations."
+      }
+    }
+  ],
+  "description": "An inspector thoroughly examines your roof for wear or damage, including an attic check, then provides a detailed report of findings and recommendations."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-preventive-roof-maintenance-inspection-cost",
+  "name": "How much does a preventive roof maintenance inspection cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a preventive roof maintenance inspection cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a preventive roof maintenance inspection can vary depending on factors such as the size and pitch of your roof, its material, and the extent of any existing damage. While we don't provide exact costs without an assessment, our goal at Discounted Roofing Co. is to offer competitive pricing for thorough inspections. We can provide a detailed quote after understanding your specific needs. Keep in mind that the cost of an inspection is typically much lower than the expense of repairing major damage that could have been prevented.",
+        "@type": "Answer",
+        "description": "The cost of a preventive roof maintenance inspection varies based on roof size, material, and condition. We provide competitive pricing and a detailed quote after assessing your specific needs."
+      }
+    }
+  ],
+  "description": "The cost of a preventive roof maintenance inspection varies based on roof size, material, and condition. We provide competitive pricing and a detailed quote aft"
+}

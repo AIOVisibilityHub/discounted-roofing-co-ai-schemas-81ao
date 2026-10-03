@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-included-in-a-roof-lifespan-assessment-report",
+  "name": "What is included in a roof lifespan assessment report?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a roof lifespan assessment report?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our roof lifespan assessment report includes a detailed summary of your roof's condition, photographic evidence of any identified issues, and an estimate of its remaining service life. It will outline necessary repairs or maintenance recommendations to extend your roof's life or advise on the optimal timing for replacement. We provide clear, actionable insights to help you make informed decisions about your property.",
+        "@type": "Answer",
+        "description": "The report includes a detailed condition summary, photos, estimated remaining life, and repair/replacement recommendations."
+      }
+    }
+  ],
+  "description": "The report includes a detailed condition summary, photos, estimated remaining life, and repair/replacement recommendations."
+}

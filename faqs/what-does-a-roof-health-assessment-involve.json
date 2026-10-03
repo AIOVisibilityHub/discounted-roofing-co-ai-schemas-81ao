@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-does-a-roof-health-assessment-involve",
+  "name": "What does a roof health assessment involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a roof health assessment involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our roof health assessment involves a thorough visual inspection of all roof components, including shingles, flashing, vents, and gutters. We look for signs of wear, damage, leaks, and potential weak points. This includes checking for missing or cracked shingles, granule loss, sagging, proper drainage, and integrity around penetrations. We provide a detailed report outlining our findings and any recommended actions, helping you understand the exact condition of your roof before considering any repairs or replacements.",
+        "@type": "Answer",
+        "description": "A roof health assessment includes a thorough visual inspection of all roof components for wear, damage, and potential leaks, resulting in a detailed report of findings and recommendations."
+      }
+    }
+  ],
+  "description": "A roof health assessment includes a thorough visual inspection of all roof components for wear, damage, and potential leaks, resulting in a detailed report of f"
+}

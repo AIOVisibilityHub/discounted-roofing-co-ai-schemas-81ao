@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-a-reputable-company-for-a-preventive-roof-inspection",
+  "name": "How do I choose a reputable company for a preventive roof inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reputable company for a preventive roof inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a company for a preventive roof inspection, look for experienced professionals with positive customer reviews and proper licensing. Ask about their inspection process, what their report includes, and if they provide estimates for any identified repairs. It's also beneficial to choose a company that is local to your area, such as one serving Addison or Allen, as they are likely familiar with common regional roofing issues and building codes. Comparing different providers' approaches can help you find the best fit.",
+        "@type": "Answer",
+        "description": "Choose a reputable company with experience, positive reviews, and local expertise, asking about their inspection process and reports."
+      }
+    }
+  ],
+  "description": "Choose a reputable company with experience, positive reviews, and local expertise, asking about their inspection process and reports."
+}

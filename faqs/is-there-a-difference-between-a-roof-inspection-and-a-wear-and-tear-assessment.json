@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/is-there-a-difference-between-a-roof-inspection-and-a-wear-and-tear-assessment",
+  "name": "Is there a difference between a roof inspection and a wear-and-tear assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is there a difference between a roof inspection and a wear-and-tear assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often used interchangeably, a roof inspection can be a broader term covering various checks. A wear-and-tear assessment specifically focuses on identifying and evaluating the natural degradation of roofing materials over time, distinguishing it from acute damage. Our assessments are tailored to provide a clear picture of your roof's age-related condition, which is a key factor in determining its remaining lifespan and maintenance needs, aiding in proactive planning.",
+        "@type": "Answer",
+        "description": "A wear-and-tear assessment specifically evaluates natural roof degradation over time, distinguishing it from other types of roof inspections and informing lifespan estimates."
+      }
+    }
+  ],
+  "description": "A wear-and-tear assessment specifically evaluates natural roof degradation over time, distinguishing it from other types of roof inspections and informing lifes"
+}

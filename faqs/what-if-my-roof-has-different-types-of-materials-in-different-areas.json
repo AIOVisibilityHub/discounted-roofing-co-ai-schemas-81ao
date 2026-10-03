@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-if-my-roof-has-different-types-of-materials-in-different-areas",
+  "name": "What if my roof has different types of materials in different areas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if my roof has different types of materials in different areas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your roof features different material types, such as asphalt shingles on one section and a flat roof membrane on another, the assessment will evaluate each section independently. Each material has its own expected lifespan and common failure points, and our report will reflect these distinctions. This provides process clarity by ensuring all unique aspects of your roof are considered in the overall life expectancy estimate.",
+        "@type": "Answer",
+        "description": "Each roof section with different materials will be evaluated independently to reflect their unique lifespans and issues."
+      }
+    }
+  ],
+  "description": "Each roof section with different materials will be evaluated independently to reflect their unique lifespans and issues."
+}

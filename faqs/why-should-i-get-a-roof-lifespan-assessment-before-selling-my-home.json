@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/why-should-i-get-a-roof-lifespan-assessment-before-selling-my-home",
+  "name": "Why should I get a roof lifespan assessment before selling my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why should I get a roof lifespan assessment before selling my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Obtaining a roof lifespan assessment before selling your home can give you a significant advantage. It provides transparency to potential buyers regarding the roof's condition, helping to build trust and potentially speed up the sale process. Knowing the roof's remaining life allows you to proactively address any major issues or factor the roof's condition into your asking price, avoiding last-minute negotiations or delays.",
+        "@type": "Answer",
+        "description": "It provides transparency to buyers, can build trust, and allows you to proactively address issues or adjust pricing."
+      }
+    }
+  ],
+  "description": "It provides transparency to buyers, can build trust, and allows you to proactively address issues or adjust pricing."
+}

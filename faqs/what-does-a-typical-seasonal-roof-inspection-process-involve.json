@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-does-a-typical-seasonal-roof-inspection-process-involve",
+  "name": "What does a typical seasonal roof inspection process involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a typical seasonal roof inspection process involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical seasonal roof inspection involves a thorough visual examination of the roof's exterior, including shingles, flashing, gutters, vents, and chimneys. Our inspectors look for signs of wear, damage, or potential leaks, and may also check the attic for water stains or structural issues. The process often concludes with a detailed report outlining any findings, recommended repairs, and photographic evidence for clarity. This comprehensive review helps ensure all critical components are assessed.",
+        "@type": "Answer",
+        "description": "A seasonal roof inspection involves a visual examination of the roof, gutters, and other components, often including an attic check, followed by a detailed report of findings and recommendations."
+      }
+    }
+  ],
+  "description": "A seasonal roof inspection involves a visual examination of the roof, gutters, and other components, often including an attic check, followed by a detailed repo"
+}

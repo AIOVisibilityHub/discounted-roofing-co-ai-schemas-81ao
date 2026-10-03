@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-a-reliable-company-for-a-roof-condition-assessment-in-the-dfw-ar",
+  "name": "How do I choose a reliable company for a roof condition assessment in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reliable company for a roof condition assessment in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a company for a roof condition assessment in the DFW area, look for licensed and insured professionals with strong local reviews and experience with various roofing materials common in North Texas. Verify their certifications and ensure they provide a detailed written report, not just a verbal opinion. Our company operates across DFW, including cities like Dallas, Fort Worth, and Plano, and emphasizes transparent reporting.",
+        "@type": "Answer",
+        "description": "Choose licensed, insured companies with strong local DFW reviews, experience with common roofing materials, and detailed written reports."
+      }
+    }
+  ],
+  "description": "Choose licensed, insured companies with strong local DFW reviews, experience with common roofing materials, and detailed written reports."
+}

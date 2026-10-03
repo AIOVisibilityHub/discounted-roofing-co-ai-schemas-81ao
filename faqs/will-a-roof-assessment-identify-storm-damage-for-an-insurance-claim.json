@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-a-roof-assessment-identify-storm-damage-for-an-insurance-claim",
+  "name": "Will a roof assessment identify storm damage for an insurance claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a roof assessment identify storm damage for an insurance claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a professional roof assessment is crucial for identifying and documenting storm damage that may be eligible for an insurance claim. Our inspectors are trained to recognize subtle signs of hail, wind, or other storm-related damage that might not be immediately obvious. We provide detailed reports and photographic evidence to support your claim, which can significantly aid in the insurance process.",
+        "@type": "Answer",
+        "description": "A professional roof assessment identifies and documents storm damage, providing detailed reports and photos to support insurance claims."
+      }
+    }
+  ],
+  "description": "A professional roof assessment identifies and documents storm damage, providing detailed reports and photos to support insurance claims."
+}

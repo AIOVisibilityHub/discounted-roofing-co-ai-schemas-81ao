@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-preventive-roof-inspection",
+  "name": "What is a preventive roof inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a preventive roof inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A preventive roof inspection is a thorough evaluation of your roof's condition to identify potential issues before they become major problems. This includes checking for damaged shingles, loose flashing, clogged gutters, and signs of water intrusion. Early detection helps you address minor repairs promptly, extending your roof's lifespan and avoiding costly emergency repairs. For instance, in areas like Dallas or Fort Worth, regular inspections can help identify weather-related damage from storms common to the DFW metroplex.",
+        "@type": "Answer",
+        "description": "A preventive roof inspection evaluates your roof for potential issues like damaged shingles or clogged gutters to enable early repairs."
+      }
+    }
+  ],
+  "description": "A preventive roof inspection evaluates your roof for potential issues like damaged shingles or clogged gutters to enable early repairs."
+}

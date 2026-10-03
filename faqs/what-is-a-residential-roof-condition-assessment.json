@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-residential-roof-condition-assessment",
+  "name": "What is a residential roof condition assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a residential roof condition assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A residential roof condition assessment is a comprehensive inspection of your home's roof to evaluate its current state, identify any damage or wear, and estimate its remaining lifespan. This assessment covers components like shingles, flashing, gutters, and structural elements visible from the roof. Understanding the current condition of your roof helps in planning for repairs or replacement, and we often find that minor issues can be addressed before they become costly problems.",
+        "@type": "Answer",
+        "description": "A residential roof condition assessment is a comprehensive inspection to evaluate your roof's current state, identify damage, and estimate its lifespan."
+      }
+    }
+  ],
+  "description": "A residential roof condition assessment is a comprehensive inspection to evaluate your roof's current state, identify damage, and estimate its lifespan."
+}

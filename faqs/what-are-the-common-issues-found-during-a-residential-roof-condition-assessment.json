@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-common-issues-found-during-a-residential-roof-condition-assessment",
+  "name": "What are the common issues found during a residential roof condition assessment in North Texas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common issues found during a residential roof condition assessment in North Texas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In North Texas, common issues identified during residential roof condition assessments include wind damage, hail impact, sun exposure wear, and sealant degradation around penetrations. The strong winds and frequent hailstorms in the region often cause detached shingles or granular loss. Our assessments specifically look for these climate-related vulnerabilities to provide tailored recommendations for repair or maintenance.",
+        "@type": "Answer",
+        "description": "Common issues in North Texas include wind and hail damage, sun exposure wear, and sealant degradation, due to regional climate conditions."
+      }
+    }
+  ],
+  "description": "Common issues in North Texas include wind and hail damage, sun exposure wear, and sealant degradation, due to regional climate conditions."
+}

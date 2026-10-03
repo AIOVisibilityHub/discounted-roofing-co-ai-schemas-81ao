@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-a-roof-lifespan-assessment",
+  "name": "When should I get a roof lifespan assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a roof lifespan assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a roof lifespan assessment if your roof is nearing the end of its manufacturer-estimated life, after severe weather events like hailstorms common in areas like Aledo, or if you notice visible signs of wear such as missing shingles, leaks, or granule loss. It's also wise to get one before selling your home or if you plan to stay in your home for many more years to anticipate future needs.",
+        "@type": "Answer",
+        "description": "Get an assessment if your roof is old, after severe weather, or if you notice signs of wear."
+      }
+    }
+  ],
+  "description": "Get an assessment if your roof is old, after severe weather, or if you notice signs of wear."
+}

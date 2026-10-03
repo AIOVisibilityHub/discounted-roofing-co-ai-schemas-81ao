@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-signs-that-my-roof-needs-an-inspection",
+  "name": "What are the signs that my roof needs an inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my roof needs an inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that indicate your roof needs an inspection include missing, cracked, or curled shingles, granular loss from asphalt shingles, and dark streaks or moss growth. Inside your home, water stains on ceilings or walls, or a musty odor in the attic, are strong indicators of a roof leak. If you notice any of these signs, scheduling an inspection promptly can help prevent further damage to your home's structure. For example, in Texas, strong sun exposure can accelerate shingle deterioration.",
+        "@type": "Answer",
+        "description": "Missing or damaged shingles, water stains on ceilings, or excessive moss growth are signs your roof needs an inspection."
+      }
+    }
+  ],
+  "description": "Missing or damaged shingles, water stains on ceilings, or excessive moss growth are signs your roof needs an inspection."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-consider-getting-a-roof-aging-assessment",
+  "name": "When should I consider getting a roof aging assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider getting a roof aging assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a roof aging assessment if your roof is over 10-15 years old, you notice visible signs of wear like cracked or missing shingles, or after a significant weather event such as a severe hailstorm in areas like Plano or Frisco. Early assessments can help you plan for future roofing investments and address minor issues before they become major, costly problems. We recommend an assessment even if there are no obvious issues, especially for older roofs.",
+        "@type": "Answer",
+        "description": "Consider a roof aging assessment if your roof is 10-15+ years old, shows visible wear, or after severe weather, to proactively manage its condition."
+      }
+    }
+  ],
+  "description": "Consider a roof aging assessment if your roof is 10-15+ years old, shows visible wear, or after severe weather, to proactively manage its condition."
+}

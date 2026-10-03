@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-consider-a-roof-health-assessment-if-i-m-selling-my-home",
+  "name": "When should I consider a roof health assessment if I'm selling my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a roof health assessment if I'm selling my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you're planning to sell your home, a roof health assessment is a valuable tool to identify any issues that might deter potential buyers or cause delays in closing. Addressing problems proactively can prevent last-minute surprises during buyer inspections and provide confidence to prospective buyers. Having a recent assessment from a local DFW company like ours can also help in negotiations, demonstrating transparency and the proactive maintenance of your property.",
+        "@type": "Answer",
+        "description": "Consider a roof health assessment before selling your home to identify and address issues, prevent delays, and provide transparency to potential buyers."
+      }
+    }
+  ],
+  "description": "Consider a roof health assessment before selling your home to identify and address issues, prevent delays, and provide transparency to potential buyers."
+}

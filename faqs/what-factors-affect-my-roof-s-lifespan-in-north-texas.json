@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-affect-my-roof-s-lifespan-in-north-texas",
+  "name": "What factors affect my roof's lifespan in North Texas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors affect my roof's lifespan in North Texas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors affect a roof's lifespan in North Texas, including material quality, installation workmanship, and environmental exposure. The severe weather common in the DFW metroplex, such as hailstorms and high winds, significantly impacts roofing materials. Proper attic ventilation is also crucial, as inadequate ventilation can lead to premature material degradation due to heat buildup.",
+        "@type": "Answer",
+        "description": "Material quality, installation, and severe weather like DFW's hailstorms and high winds are key factors."
+      }
+    }
+  ],
+  "description": "Material quality, installation, and severe weather like DFW's hailstorms and high winds are key factors."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-after-a-preventive-roof-maintenance-inspection",
+  "name": "What happens after a preventive roof maintenance inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after a preventive roof maintenance inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a preventive roof maintenance inspection, Discounted Roofing Co. will provide you with a detailed report outlining our findings, including any areas of concern, photos, and recommended repairs or maintenance tasks. We will then discuss these recommendations with you, prioritize necessary work, and provide a transparent estimate for any suggested services. This allows you to make informed decisions about your roof's care, extending its life and protecting your investment.",
+        "@type": "Answer",
+        "description": "After inspection, you'll receive a detailed report with findings, photos, and recommended repairs. We'll discuss these, prioritize work, and provide an estimate for any services."
+      }
+    }
+  ],
+  "description": "After inspection, you'll receive a detailed report with findings, photos, and recommended repairs. We'll discuss these, prioritize work, and provide an estimate"
+}

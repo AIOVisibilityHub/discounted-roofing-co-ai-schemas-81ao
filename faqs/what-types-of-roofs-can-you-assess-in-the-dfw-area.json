@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-types-of-roofs-can-you-assess-in-the-dfw-area",
+  "name": "What types of roofs can you assess in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of roofs can you assess in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We assess a wide variety of residential and commercial roof types across the DFW area, including asphalt shingles, metal roofs, tile roofs, and flat roofs. Our experienced team is familiar with the common roofing materials and construction prevalent in North Texas. This local expertise allows us to provide specific insights into how regional weather patterns, like hailstorms and high winds, might uniquely affect different roofing systems.",
+        "@type": "Answer",
+        "description": "We assess various roof types in DFW, including asphalt, metal, tile, and flat roofs. Our local expertise accounts for regional weather impacts on different systems."
+      }
+    }
+  ],
+  "description": "We assess various roof types in DFW, including asphalt, metal, tile, and flat roofs. Our local expertise accounts for regional weather impacts on different syst"
+}
