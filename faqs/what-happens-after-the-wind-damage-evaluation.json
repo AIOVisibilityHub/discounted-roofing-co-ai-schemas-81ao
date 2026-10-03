@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-after-the-wind-damage-evaluation",
+  "name": "What happens after the wind damage evaluation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after the wind damage evaluation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After the wind damage evaluation, our inspector will discuss their findings with you, outlining the extent of the damage and recommending necessary repairs or replacement options. We will provide a detailed report and, if applicable, guide you through the process of filing an insurance claim, sharing our findings directly with your adjuster. The next step typically involves providing you with a transparent quote for the recommended work based on our assessment.",
+        "@type": "Answer",
+        "description": "After evaluation, we discuss findings, recommend repairs, and provide a detailed report. We can also assist with insurance claims and provide a quote for the work."
+      }
+    }
+  ],
+  "description": "After evaluation, we discuss findings, recommend repairs, and provide a detailed report. We can also assist with insurance claims and provide a quote for the wo"
+}

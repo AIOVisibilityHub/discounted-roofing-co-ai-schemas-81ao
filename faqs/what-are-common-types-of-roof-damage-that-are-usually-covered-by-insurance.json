@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-common-types-of-roof-damage-that-are-usually-covered-by-insurance",
+  "name": "What are common types of roof damage that are usually covered by insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common types of roof damage that are usually covered by insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard homeowner's insurance policies cover roof damage caused by sudden and accidental events, such as hail, wind, falling trees, and fire. Damage resulting from neglect, wear and tear, or poor maintenance is typically not covered. It's essential to review your specific policy for details on perils covered and exclusions. Discounted Roofing Co. can help identify storm-related damage that is commonly covered, assisting you in preparing your claim.",
+        "@type": "Answer",
+        "description": "Commonly covered roof damage includes hail, wind, falling trees, and fire. Neglect or wear and tear are usually excluded. Review your policy for specifics."
+      }
+    }
+  ],
+  "description": "Commonly covered roof damage includes hail, wind, falling trees, and fire. Neglect or wear and tear are usually excluded. Review your policy for specifics."
+}

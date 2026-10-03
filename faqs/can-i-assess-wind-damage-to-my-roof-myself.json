@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-i-assess-wind-damage-to-my-roof-myself",
+  "name": "Can I assess wind damage to my roof myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I assess wind damage to my roof myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While you can visually check your roof for obvious signs of damage from the ground, a professional evaluation is recommended for a complete and safe assessment. Roofing professionals have the experience, training, and safety equipment to identify subtle damage, assess structural integrity, and provide a comprehensive report without risking personal injury. Attempting a self-assessment may lead to overlooking critical damage.",
+        "@type": "Answer",
+        "description": "You can check for obvious damage from the ground, but a professional evaluation is safer and more thorough for a complete assessment."
+      }
+    }
+  ],
+  "description": "You can check for obvious damage from the ground, but a professional evaluation is safer and more thorough for a complete assessment."
+}

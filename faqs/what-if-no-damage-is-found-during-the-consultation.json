@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-if-no-damage-is-found-during-the-consultation",
+  "name": "What if no damage is found during the consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if no damage is found during the consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If no significant damage is found during your weather-related roofing consultation, you'll receive peace of mind knowing your roof withstood the recent weather event. We will still provide an overview of your roof's current condition and note any general wear or maintenance recommendations, even if not storm-related. This first-party insight ensures you're informed about your roof's health, helping you plan for future maintenance or repairs when they become necessary.",
+        "@type": "Answer",
+        "description": "If no damage is found, you'll get peace of mind and an overview of your roof's condition with maintenance recommendations."
+      }
+    }
+  ],
+  "description": "If no damage is found, you'll get peace of mind and an overview of your roof's condition with maintenance recommendations."
+}

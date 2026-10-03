@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-typical-weather-related-roofing-consultation-take",
+  "name": "How long does a typical weather-related roofing consultation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical weather-related roofing consultation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard weather-related roofing consultation typically takes between 30 minutes to an an hour, depending on the size and complexity of your roof and the extent of the visible damage. Our inspectors take their time to ensure a thorough assessment and to document all findings accurately. We prioritize comprehensive evaluations to ensure no damage is overlooked, which helps in preparing accurate estimates and insurance claims.",
+        "@type": "Answer",
+        "description": "A weather-related roofing consultation usually takes 30-60 minutes, varying by roof size and damage, to ensure a thorough assessment."
+      }
+    }
+  ],
+  "description": "A weather-related roofing consultation usually takes 30-60 minutes, varying by roof size and damage, to ensure a thorough assessment."
+}

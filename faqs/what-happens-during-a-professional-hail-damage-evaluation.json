@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-during-a-professional-hail-damage-evaluation",
+  "name": "What happens during a professional hail damage evaluation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during a professional hail damage evaluation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a hail damage evaluation, a Discounted Roofing Co. inspector will conduct a thorough visual inspection of your entire roof, looking for signs of impact damage such as dents, cracks, or missing granules on shingles. They will also assess other exterior components like gutters, siding, and skylights for secondary damage. This comprehensive assessment helps determine the extent of hail impact and if repairs or replacement are necessary. We document all findings with photos and detailed notes to provide a clear understanding of the damage.",
+        "@type": "Answer",
+        "description": "A professional hail damage evaluation involves a detailed inspection of your roof and exterior components to identify and document hail impact, including photos and notes."
+      }
+    }
+  ],
+  "description": "A professional hail damage evaluation involves a detailed inspection of your roof and exterior components to identify and document hail impact, including photos"
+}

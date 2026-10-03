@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-documenting-minor-roof-damage-after-a-storm-affect-my-insurance-premiums",
+  "name": "Will documenting minor roof damage after a storm affect my insurance premiums?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will documenting minor roof damage after a storm affect my insurance premiums?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Simply documenting minor roof damage after a storm does not typically affect your insurance premiums. Premiums are usually impacted when you file a claim that results in a payout. However, reporting damage, even if minor, initiates a claim process. The impact on premiums depends on your insurer's policies, the nature of the claim, and your claims history. It's best to consult with your insurance provider directly to understand how a claim for minor damage might specifically affect your rates. Accurate documentation helps justify the claim if you choose to file.",
+        "@type": "Answer",
+        "description": "Documenting minor roof damage doesn't typically affect insurance premiums unless a claim results in a payout. Consult your insurer for specific impacts."
+      }
+    }
+  ],
+  "description": "Documenting minor roof damage doesn't typically affect insurance premiums unless a claim results in a payout. Consult your insurer for specific impacts."
+}

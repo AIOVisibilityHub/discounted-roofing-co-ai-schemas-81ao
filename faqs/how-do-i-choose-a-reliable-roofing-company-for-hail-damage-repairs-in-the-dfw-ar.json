@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-a-reliable-roofing-company-for-hail-damage-repairs-in-the-dfw-ar",
+  "name": "How do I choose a reliable roofing company for hail damage repairs in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reliable roofing company for hail damage repairs in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a roofing company for hail damage repairs in the DFW area, look for licensed and insured contractors with a strong local reputation. Verify they have experience with insurance claims and can provide references. Discounted Roofing Co. is a local DFW company with extensive experience in storm damage restoration. We recommend getting multiple estimates and checking online reviews to ensure you select a trustworthy and qualified contractor for your repair needs.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured, local roofing company with experience in insurance claims. Get multiple estimates and check references or reviews."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured, local roofing company with experience in insurance claims. Get multiple estimates and check references or reviews."
+}

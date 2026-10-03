@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-document-storm-damage-on-my-roof",
+  "name": "When should I document storm damage on my roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I document storm damage on my roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should document storm damage as soon as it is safe to do so after a storm. Immediate documentation prevents further deterioration of evidence and ensures accuracy. Delaying documentation might make it harder to prove that the damage was caused by the specific storm event, which can impact your insurance claim. Before contacting your insurance provider, having initial documentation ready can expedite the claim process. Discounted Roofing Co. can perform a professional inspection to supplement your initial findings.",
+        "@type": "Answer",
+        "description": "Document storm damage as soon as it's safe after a storm to ensure accuracy and prevent further evidence deterioration, aiding your insurance claim."
+      }
+    }
+  ],
+  "description": "Document storm damage as soon as it's safe after a storm to ensure accuracy and prevent further evidence deterioration, aiding your insurance claim."
+}

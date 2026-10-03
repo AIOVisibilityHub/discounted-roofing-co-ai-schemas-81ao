@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-i-get-my-roof-inspected-for-damage-documentation-before-filing-an-insurance",
+  "name": "Can I get my roof inspected for damage documentation before filing an insurance claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get my roof inspected for damage documentation before filing an insurance claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is highly recommended to get a professional roof inspection for damage documentation before officially filing an insurance claim. A thorough inspection by Discounted Roofing Co. can confirm the extent of the damage, identify if it meets your insurance deductible, and provide you with a detailed report to support your claim from the outset. This upfront preparation can help you make an informed decision about whether to file and provides solid evidence for your adjuster.",
+        "@type": "Answer",
+        "description": "Yes, a professional inspection by Discounted Roofing Co. beforehand confirms damage extent and provides a detailed report, helping you decide on and support your insurance claim."
+      }
+    }
+  ],
+  "description": "Yes, a professional inspection by Discounted Roofing Co. beforehand confirms damage extent and provides a detailed report, helping you decide on and support you"
+}

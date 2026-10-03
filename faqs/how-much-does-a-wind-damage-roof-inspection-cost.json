@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-wind-damage-roof-inspection-cost",
+  "name": "How much does a wind damage roof inspection cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a wind damage roof inspection cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a wind damage roof inspection can vary, but many reputable roofing companies, including Discounted Roofing Co., offer free inspections. This allows homeowners to understand the extent of the damage without an upfront financial commitment. It's beneficial to confirm if there are any associated fees before scheduling.",
+        "@type": "Answer",
+        "description": "Many companies, including ours, offer free wind damage roof inspections. Confirm any fees beforehand."
+      }
+    }
+  ],
+  "description": "Many companies, including ours, offer free wind damage roof inspections. Confirm any fees beforehand."
+}

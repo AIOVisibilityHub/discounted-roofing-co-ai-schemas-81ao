@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-preparation-is-needed-before-a-storm-damage-assessment",
+  "name": "What preparation is needed before a storm damage assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before a storm damage assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a storm damage assessment, ensure clear access to all sides of your property and remove any obstacles like patio furniture or vehicles that might impede our inspectors. If you have any photos or documentation of the damage immediately after the storm, please have them ready. This helps our team conduct a more efficient and thorough inspection.",
+        "@type": "Answer",
+        "description": "Ensure clear access around your property and have any initial damage photos ready for our assessment."
+      }
+    }
+  ],
+  "description": "Ensure clear access around your property and have any initial damage photos ready for our assessment."
+}

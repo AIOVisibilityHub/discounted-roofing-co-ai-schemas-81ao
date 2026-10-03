@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-storm-damage-assessment-cost",
+  "name": "How much does a storm damage assessment cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a storm damage assessment cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most reputable roofing companies, including Discounted Roofing Co., offer complimentary storm damage assessments. This allows homeowners to understand the extent of their damage without upfront financial commitment. The assessment provides an estimate for any necessary repairs or replacement. Before committing to any service, confirm with the company whether the assessment is free and what it includes.",
+        "@type": "Answer",
+        "description": "Most reputable roofing companies offer complimentary storm damage assessments. This free service provides homeowners with an understanding of the damage and estimated repair costs without an upfront fee."
+      }
+    }
+  ],
+  "description": "Most reputable roofing companies offer complimentary storm damage assessments. This free service provides homeowners with an understanding of the damage and est"
+}

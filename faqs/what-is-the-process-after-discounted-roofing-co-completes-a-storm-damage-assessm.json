@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-process-after-discounted-roofing-co-completes-a-storm-damage-assessm",
+  "name": "What is the process after Discounted Roofing Co. completes a storm damage assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process after Discounted Roofing Co. completes a storm damage assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After completing the assessment, our team will provide a detailed report outlining the damage, recommended repairs or replacement, and associated costs. We then discuss these findings with you, explain your options, and assist with insurance claims if applicable. Our process includes transparent communication and clear next steps to restore your roof effectively.",
+        "@type": "Answer",
+        "description": "We provide a detailed report of damage and costs, discuss options, and assist with insurance claims."
+      }
+    }
+  ],
+  "description": "We provide a detailed report of damage and costs, discuss options, and assist with insurance claims."
+}

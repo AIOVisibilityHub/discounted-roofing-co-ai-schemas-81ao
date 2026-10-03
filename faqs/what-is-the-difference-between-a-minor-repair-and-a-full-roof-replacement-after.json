@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-difference-between-a-minor-repair-and-a-full-roof-replacement-after",
+  "name": "What is the difference between a minor repair and a full roof replacement after rain damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a minor repair and a full roof replacement after rain damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The difference between a minor repair and a full roof replacement after rain damage depends on the extent and severity of the damage. Minor repairs are suitable for localized issues like a few missing shingles or small leaks. A full replacement is typically needed when damage is widespread, affects the roof's structural integrity, or the roof is nearing the end of its lifespan. Our evaluation will determine which option is more cost-effective and provides a longer-lasting solution based on your roof's overall condition.",
+        "@type": "Answer",
+        "description": "Minor repairs fix localized damage, while full replacement is for widespread issues or structural compromise. Our evaluation determines the best solution."
+      }
+    }
+  ],
+  "description": "Minor repairs fix localized damage, while full replacement is for widespread issues or structural compromise. Our evaluation determines the best solution."
+}

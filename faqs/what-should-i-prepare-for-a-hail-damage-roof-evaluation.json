@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-prepare-for-a-hail-damage-roof-evaluation",
+  "name": "What should I prepare for a hail damage roof evaluation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare for a hail damage roof evaluation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a hail damage roof evaluation, ensure the area around your home is clear and accessible for the inspector. Remove any obstacles, secure pets, and provide access to your yard if needed. Have any relevant documentation ready, such as the date of the hailstorm and your insurance policy information, though these are not strictly required for the evaluation itself. Discounted Roofing Co. prioritizes safety during inspections, so clear access helps our team conduct a thorough and efficient assessment.",
+        "@type": "Answer",
+        "description": "Ensure clear access around your home for the inspector and have the hailstorm date and insurance information ready. Clear access helps ensure a thorough and safe inspection."
+      }
+    }
+  ],
+  "description": "Ensure clear access around your home for the inspector and have the hailstorm date and insurance information ready. Clear access helps ensure a thorough and saf"
+}

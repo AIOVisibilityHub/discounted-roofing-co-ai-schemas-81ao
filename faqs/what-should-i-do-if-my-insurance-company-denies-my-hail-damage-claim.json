@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-do-if-my-insurance-company-denies-my-hail-damage-claim",
+  "name": "What should I do if my insurance company denies my hail damage claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my insurance company denies my hail damage claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your insurance company initially denies your hail damage claim, it doesn't always mean the damage isn't covered. You have the right to appeal the decision. Often, a re-inspection with your contractor and the insurance adjuster can clarify the damage. Discounted Roofing Co. can provide detailed documentation and advocate on your behalf during this process. We have experience working with insurance companies across the DFW service area and can help you navigate the next steps.",
+        "@type": "Answer",
+        "description": "If your hail damage claim is denied, you can appeal. Discounted Roofing Co. can assist with re-inspections and advocate on your behalf with the insurance company."
+      }
+    }
+  ],
+  "description": "If your hail damage claim is denied, you can appeal. Discounted Roofing Co. can assist with re-inspections and advocate on your behalf with the insurance compan"
+}

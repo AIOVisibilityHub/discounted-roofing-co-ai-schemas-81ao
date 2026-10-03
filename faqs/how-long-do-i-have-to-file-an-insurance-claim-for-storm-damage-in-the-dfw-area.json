@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-do-i-have-to-file-an-insurance-claim-for-storm-damage-in-the-dfw-area",
+  "name": "How long do I have to file an insurance claim for storm damage in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do I have to file an insurance claim for storm damage in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The specific timeframe to file an insurance claim for storm damage can vary by policy and state regulations, but generally, it's recommended to do so promptly, often within one year of the damage occurring. Some policies may have shorter deadlines, especially for notifying the insurer. In the DFW area and surrounding cities like Allen and Aledo, it's crucial to check your specific policy for exact terms. Acting quickly after the storm ensures compliance with your policy and facilitates a smoother claim process.",
+        "@type": "Answer",
+        "description": "The timeframe to file a storm damage insurance claim varies by policy, but generally, it's recommended within one year. Check your specific policy for deadlines."
+      }
+    }
+  ],
+  "description": "The timeframe to file a storm damage insurance claim varies by policy, but generally, it's recommended within one year. Check your specific policy for deadlines"
+}

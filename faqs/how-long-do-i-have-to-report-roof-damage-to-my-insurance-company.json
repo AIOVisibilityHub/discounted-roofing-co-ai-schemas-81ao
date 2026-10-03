@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-do-i-have-to-report-roof-damage-to-my-insurance-company",
+  "name": "How long do I have to report roof damage to my insurance company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do I have to report roof damage to my insurance company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeframe to report roof damage to your insurance company can vary based on your specific policy and the type of damage. Many policies have a reporting window, often 1-2 years from the date of the storm or incident, but it's always best to report as soon as safely possible. Delaying notification could impact your claim, so check your policy or contact your agent immediately. Discounted Roofing Co. can provide an inspection report to support your timely claim.",
+        "@type": "Answer",
+        "description": "The reporting window for roof damage varies by insurance policy, often 1-2 years. It's best to report damage as soon as possible to avoid claim issues."
+      }
+    }
+  ],
+  "description": "The reporting window for roof damage varies by insurance policy, often 1-2 years. It's best to report damage as soon as possible to avoid claim issues."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-documentation-do-i-need-when-filing-an-insurance-claim-for-roof-damage",
+  "name": "What documentation do I need when filing an insurance claim for roof damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documentation do I need when filing an insurance claim for roof damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When filing a claim, gather your insurance policy number, the date of loss, and detailed photos or videos of the damage. Obtaining a professional damage assessment report from Discounted Roofing Co. can also provide critical documentation for your claim. This preparation helps ensure that all necessary information is provided to your insurance company promptly.",
+        "@type": "Answer",
+        "description": "You need your policy number, date of loss, photos/videos of damage, and a professional assessment from us."
+      }
+    }
+  ],
+  "description": "You need your policy number, date of loss, photos/videos of damage, and a professional assessment from us."
+}

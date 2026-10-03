@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-typical-water-damage-roof-assessment-take",
+  "name": "How long does a typical water damage roof assessment take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical water damage roof assessment take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical water damage roof assessment can take anywhere from 30 minutes to a few hours, depending on the size and complexity of your roof and the extent of the suspected damage. Factors like attic accessibility and the presence of multiple leak points will influence the duration. We aim for thoroughness to ensure all issues are identified accurately, providing a comprehensive report post-inspection.",
+        "@type": "Answer",
+        "description": "An assessment typically takes 30 minutes to a few hours, depending on roof size and damage complexity, ensuring a thorough review."
+      }
+    }
+  ],
+  "description": "An assessment typically takes 30 minutes to a few hours, depending on roof size and damage complexity, ensuring a thorough review."
+}

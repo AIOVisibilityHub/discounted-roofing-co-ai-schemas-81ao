@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-i-assess-hail-damage-myself",
+  "name": "Can I assess hail damage myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I assess hail damage myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While you can visually check for obvious signs of hail damage from the ground, a professional assessment is highly recommended. Hail damage, especially on asphalt shingles, can be subtle and difficult to identify without proper training and safety equipment. Attempting to inspect your roof yourself can also be dangerous. Professionals like Discounted Roofing Co. are trained to spot nuanced damage that might otherwise be missed, which is crucial for a complete repair plan and insurance claim.",
+        "@type": "Answer",
+        "description": "While you can check for obvious signs, professional assessment is recommended for subtle damage and safety reasons, as trained experts spot nuances."
+      }
+    }
+  ],
+  "description": "While you can check for obvious signs, professional assessment is recommended for subtle damage and safety reasons, as trained experts spot nuances."
+}

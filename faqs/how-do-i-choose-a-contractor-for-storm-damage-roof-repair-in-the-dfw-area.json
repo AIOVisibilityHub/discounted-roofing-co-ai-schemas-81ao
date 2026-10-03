@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-a-contractor-for-storm-damage-roof-repair-in-the-dfw-area",
+  "name": "How do I choose a contractor for storm damage roof repair in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a contractor for storm damage roof repair in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a contractor for storm damage roof repair in the DFW area, look for companies with local experience, proper licensing, and good references. Verify they are familiar with local building codes and common storm patterns in North Texas. It's also important to ensure they are insured and can provide a clear scope of work and warranty information. Discounted Roofing Co. has extensive experience across the DFW metroplex, serving communities from Dallas to Fort Worth, and understands the specific needs of roofs in this region.",
+        "@type": "Answer",
+        "description": "Choose a local, licensed, and experienced contractor in DFW familiar with local codes and storm patterns. Ensure they are insured and offer warranties."
+      }
+    }
+  ],
+  "description": "Choose a local, licensed, and experienced contractor in DFW familiar with local codes and storm patterns. Ensure they are insured and offer warranties."
+}

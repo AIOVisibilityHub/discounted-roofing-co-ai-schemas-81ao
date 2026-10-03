@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/why-should-i-choose-a-local-roofing-company-for-wind-damage-inspections-in-the-d",
+  "name": "Why should I choose a local roofing company for wind damage inspections in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why should I choose a local roofing company for wind damage inspections in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing a local roofing company like Discounted Roofing Co. for wind damage inspections in the DFW area ensures familiarity with local building codes, common storm patterns, and insurance claim processes specific to North Texas. Local companies are also more accessible for follow-up repairs and provide quicker response times after a storm.",
+        "@type": "Answer",
+        "description": "Local DFW companies understand local codes, storm patterns, and insurance, offering quicker responses for repairs."
+      }
+    }
+  ],
+  "description": "Local DFW companies understand local codes, storm patterns, and insurance, offering quicker responses for repairs."
+}

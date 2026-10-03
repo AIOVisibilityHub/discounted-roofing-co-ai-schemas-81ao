@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/do-i-need-to-get-multiple-estimates-for-storm-damage-repair-for-my-documentation",
+  "name": "Do I need to get multiple estimates for storm damage repair for my documentation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to get multiple estimates for storm damage repair for my documentation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While your insurance company may recommend obtaining multiple estimates, it is not always strictly required for documentation. Many insurance policies allow you to choose your preferred contractor, especially if they are reputable and experienced in storm damage repair. However, getting a detailed estimate from a trusted company like Discounted Roofing Co. provides a clear scope of work and cost, which is crucial for your claim. This estimate serves as a foundational document for negotiating with your insurer.",
+        "@type": "Answer",
+        "description": "You don't always need multiple estimates, but a detailed estimate from a reputable contractor like Discounted Roofing Co. is crucial for your insurance claim documentation."
+      }
+    }
+  ],
+  "description": "You don't always need multiple estimates, but a detailed estimate from a reputable contractor like Discounted Roofing Co. is crucial for your insurance claim do"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-repairing-wind-damage-void-my-roof-s-warranty",
+  "name": "Will repairing wind damage void my roof's warranty?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will repairing wind damage void my roof's warranty?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairs to wind damage typically do not void an existing roof warranty, especially if performed by a certified or qualified roofing contractor. In fact, neglecting to repair damage promptly could void your warranty by allowing further deterioration. Always check your specific warranty document for details regarding repairs and ensure any contractor you hire is recognized by the manufacturer if applicable. Discounted Roofing Co. ensures repairs are done to industry standards to maintain warranty validity.",
+        "@type": "Answer",
+        "description": "Repairs performed by qualified contractors usually don't void roof warranties; neglecting damage could. Check your warranty for specifics."
+      }
+    }
+  ],
+  "description": "Repairs performed by qualified contractors usually don't void roof warranties; neglecting damage could. Check your warranty for specifics."
+}

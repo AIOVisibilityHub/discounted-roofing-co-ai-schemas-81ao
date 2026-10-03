@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-during-a-rain-damage-roof-evaluation",
+  "name": "What happens during a rain damage roof evaluation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during a rain damage roof evaluation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a rain damage roof evaluation, our inspectors will conduct a thorough visual assessment of your roof's exterior, looking for compromised shingles, flashing, gutters, and other components. They will also check your attic for signs of water intrusion, mold, or structural damage. The process includes documenting findings with photos and explaining the recommended repairs or next steps. This comprehensive approach helps ensure all affected areas are identified, providing a clear path forward for restoration.",
+        "@type": "Answer",
+        "description": "Inspectors visually assess your roof's exterior and attic for damage, document findings, and recommend repairs."
+      }
+    }
+  ],
+  "description": "Inspectors visually assess your roof's exterior and attic for damage, document findings, and recommend repairs."
+}

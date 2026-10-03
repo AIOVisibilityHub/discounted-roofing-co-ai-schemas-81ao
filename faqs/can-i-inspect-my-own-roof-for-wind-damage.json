@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-i-inspect-my-own-roof-for-wind-damage",
+  "name": "Can I inspect my own roof for wind damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I inspect my own roof for wind damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While you can visually check your roof from the ground for obvious signs of damage, a professional inspection is recommended for safety and thoroughness. Climbing onto a damaged roof can be dangerous, and a professional can identify subtle or hidden issues that might be missed by an untrained eye. Discounted Roofing Co. has the expertise to safely assess all roof damage.",
+        "@type": "Answer",
+        "description": "While you can visually check, a professional inspection is safer and more thorough for identifying hidden wind damage."
+      }
+    }
+  ],
+  "description": "While you can visually check, a professional inspection is safer and more thorough for identifying hidden wind damage."
+}

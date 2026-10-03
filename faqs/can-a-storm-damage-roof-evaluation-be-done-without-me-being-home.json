@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-a-storm-damage-roof-evaluation-be-done-without-me-being-home",
+  "name": "Can a storm damage roof evaluation be done without me being home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a storm damage roof evaluation be done without me being home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a storm damage roof evaluation can often be completed without you being present, as the primary inspection takes place on the exterior of your home. However, access to your property is needed, and we would typically need a way to follow up with you to discuss our findings. If internal leaks are suspected, interior access would be beneficial for a complete assessment. We prioritize clear communication, ensuring you receive a comprehensive report and explanation, regardless of your presence during the inspection.",
+        "@type": "Answer",
+        "description": "An exterior roof evaluation can be done without you home, but access to the property is needed, and communication is key for discussing findings."
+      }
+    }
+  ],
+  "description": "An exterior roof evaluation can be done without you home, but access to the property is needed, and communication is key for discussing findings."
+}

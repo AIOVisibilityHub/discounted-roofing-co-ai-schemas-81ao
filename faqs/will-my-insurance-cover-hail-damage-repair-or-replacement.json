@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-my-insurance-cover-hail-damage-repair-or-replacement",
+  "name": "Will my insurance cover hail damage repair or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover hail damage repair or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard homeowner's insurance policies cover hail damage, but coverage specifics can vary. Typically, policies cover sudden and accidental damage, which includes hail. However, factors like your deductible, policy limits, and the age of your roof can influence the final payout. Discounted Roofing Co. can provide a detailed damage report to assist you in filing your claim and work directly with your insurance adjuster to ensure all damage is identified and included in the scope of work.",
+        "@type": "Answer",
+        "description": "Most homeowner's insurance covers hail damage, but deductibles, policy limits, and roof age affect coverage. Discounted Roofing Co. assists with documentation and adjuster communication."
+      }
+    }
+  ],
+  "description": "Most homeowner's insurance covers hail damage, but deductibles, policy limits, and roof age affect coverage. Discounted Roofing Co. assists with documentation a"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-first-step-to-report-roof-damage-after-a-storm",
+  "name": "What is the first step to report roof damage after a storm?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the first step to report roof damage after a storm?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The first step is to ensure your property is safe and to document the damage thoroughly with photos and videos. Once you've assessed immediate safety, contact Discounted Roofing Co. for a professional inspection. We can help identify both obvious and hidden damage that might not be visible from the ground, which is crucial for a comprehensive insurance claim. Early documentation and professional assessment are key to a smooth reporting process.",
+        "@type": "Answer",
+        "description": "After ensuring safety, document all damage with photos and videos, then contact a professional roofing company like Discounted Roofing Co. for an inspection."
+      }
+    }
+  ],
+  "description": "After ensuring safety, document all damage with photos and videos, then contact a professional roofing company like Discounted Roofing Co. for an inspection."
+}

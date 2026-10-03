@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/do-i-need-to-be-present-during-the-hail-damage-roof-assessment",
+  "name": "Do I need to be present during the hail damage roof assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be present during the hail damage roof assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While your presence is not strictly required for the physical roof inspection, it is highly recommended to be available at the start or end of the assessment. This allows the inspector to discuss their initial findings, answer any questions you may have, and explain the next steps in the process, especially regarding insurance claims. Being present ensures you are fully informed from the outset.",
+        "@type": "Answer",
+        "description": "You don't need to be present for the entire inspection, but it's recommended to be available at the start or end to discuss findings and next steps."
+      }
+    }
+  ],
+  "description": "You don't need to be present for the entire inspection, but it's recommended to be available at the start or end to discuss findings and next steps."
+}

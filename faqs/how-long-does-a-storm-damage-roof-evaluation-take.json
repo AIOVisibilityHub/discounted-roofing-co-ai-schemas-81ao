@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-storm-damage-roof-evaluation-take",
+  "name": "How long does a storm damage roof evaluation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a storm damage roof evaluation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical storm damage roof evaluation by Discounted Roofing Co. usually takes between 30 to 60 minutes, depending on the size and complexity of your roof and the extent of visible damage. This timeframe allows our inspectors to conduct a thorough examination of all roofing components, including drone imagery for inaccessible areas, if necessary. Following the on-site inspection, we will compile our detailed findings into a comprehensive report for your review, often available within 24-48 hours.",
+        "@type": "Answer",
+        "description": "A storm damage roof evaluation typically takes 30-60 minutes, depending on roof size and damage, with a detailed report following within 24-48 hours."
+      }
+    }
+  ],
+  "description": "A storm damage roof evaluation typically takes 30-60 minutes, depending on roof size and damage, with a detailed report following within 24-48 hours."
+}

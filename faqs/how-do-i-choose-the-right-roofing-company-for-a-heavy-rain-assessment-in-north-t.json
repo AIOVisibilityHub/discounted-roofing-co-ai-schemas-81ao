@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-the-right-roofing-company-for-a-heavy-rain-assessment-in-north-t",
+  "name": "How do I choose the right roofing company for a heavy rain assessment in North Texas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right roofing company for a heavy rain assessment in North Texas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a roofing company for a heavy rain assessment in North Texas, look for one with local experience in DFW and surrounding areas, a strong reputation for storm damage expertise, and transparent communication. Ensure they provide detailed, written estimates and are fully insured. Discounted Roofing Co. has extensive experience with North Texas weather patterns and offers comprehensive assessments and reliable repair services, prioritizing clear client communication throughout the process.",
+        "@type": "Answer",
+        "description": "Choose a company with local experience in North Texas, a strong storm damage reputation, transparent estimates, and full insurance."
+      }
+    }
+  ],
+  "description": "Choose a company with local experience in North Texas, a strong storm damage reputation, transparent estimates, and full insurance."
+}

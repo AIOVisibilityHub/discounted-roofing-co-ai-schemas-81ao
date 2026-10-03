@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-hail-impact-assessment-for-a-roof",
+  "name": "What is a hail impact assessment for a roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a hail impact assessment for a roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A hail impact assessment is a professional inspection to determine if your roof has sustained damage from hail. This involves a detailed examination of shingles, gutters, flashing, and other roof components for signs of dents, cracks, or granular loss. The assessment helps identify potential structural issues or leaks that may not be immediately visible, providing a clear understanding of your roof's condition after a hail event. Discounted Roofing Co. provides these assessments to help homeowners understand the extent of damage and their repair options.",
+        "@type": "Answer",
+        "description": "A hail impact assessment is a professional inspection to determine if your roof has sustained damage from hail, examining all components for dents, cracks, or granular loss."
+      }
+    }
+  ],
+  "description": "A hail impact assessment is a professional inspection to determine if your roof has sustained damage from hail, examining all components for dents, cracks, or g"
+}

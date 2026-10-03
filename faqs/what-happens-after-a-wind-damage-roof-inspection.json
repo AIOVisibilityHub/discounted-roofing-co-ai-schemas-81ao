@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-after-a-wind-damage-roof-inspection",
+  "name": "What happens after a wind damage roof inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after a wind damage roof inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a wind damage roof inspection, Discounted Roofing Co. will provide you with a detailed report of the findings and recommended next steps, which may include repairs or replacement. If repairs are needed, we can assist you with the insurance claim process and provide a comprehensive estimate. We then schedule the necessary work at your convenience.",
+        "@type": "Answer",
+        "description": "After inspection, you'll receive a detailed report and recommendations. We assist with insurance claims and schedule repairs."
+      }
+    }
+  ],
+  "description": "After inspection, you'll receive a detailed report and recommendations. We assist with insurance claims and schedule repairs."
+}

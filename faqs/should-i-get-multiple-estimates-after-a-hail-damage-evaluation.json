@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/should-i-get-multiple-estimates-after-a-hail-damage-evaluation",
+  "name": "Should I get multiple estimates after a hail damage evaluation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I get multiple estimates after a hail damage evaluation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's common practice to get multiple estimates for major home repairs, focusing on a thorough and honest evaluation from a reputable company can be more beneficial for hail damage. The key is to find a contractor who is experienced in storm damage, understands the insurance claims process, and provides a clear, detailed report. Discounted Roofing Co. aims to be your trusted partner, offering comprehensive assessments and assisting with insurance paperwork to simplify your decision-making.",
+        "@type": "Answer",
+        "description": "For hail damage, prioritize a thorough evaluation from an experienced, reputable contractor who understands insurance claims. Discounted Roofing Co. offers comprehensive assessments and insurance assistance."
+      }
+    }
+  ],
+  "description": "For hail damage, prioritize a thorough evaluation from an experienced, reputable contractor who understands insurance claims. Discounted Roofing Co. offers comp"
+}

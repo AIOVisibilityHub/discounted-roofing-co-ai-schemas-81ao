@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-a-hail-impact-assessment",
+  "name": "When should I get a hail impact assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a hail impact assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should get a hail impact assessment as soon as possible after a significant hail storm, especially if you notice visible signs of damage like dents on gutters, damaged siding, or broken windows. Even if damage isn't immediately apparent, hail can cause latent issues that shorten your roof's lifespan. Prompt assessment allows for timely insurance claims and prevents minor damage from escalating into more costly problems. Discounted Roofing Co. recommends scheduling an inspection within days of a storm.",
+        "@type": "Answer",
+        "description": "Get a hail impact assessment promptly after a significant hail storm, even if damage isn't immediately visible, to address potential issues and support insurance claims."
+      }
+    }
+  ],
+  "description": "Get a hail impact assessment promptly after a significant hail storm, even if damage isn't immediately visible, to address potential issues and support insuranc"
+}

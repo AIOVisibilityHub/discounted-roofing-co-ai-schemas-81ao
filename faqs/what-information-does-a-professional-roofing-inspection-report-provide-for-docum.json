@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-information-does-a-professional-roofing-inspection-report-provide-for-docum",
+  "name": "What information does a professional roofing inspection report provide for documentation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information does a professional roofing inspection report provide for documentation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A professional roofing inspection report from Discounted Roofing Co. provides a detailed assessment of your roof's condition, specifically identifying and quantifying storm-related damage. It typically includes high-resolution photographs of damaged shingles, vents, flashing, gutters, and other roof components. The report will also outline the recommended repairs or replacement, often including dimensions and material specifications. This comprehensive report serves as an expert opinion that can strengthen your insurance claim by offering an objective, detailed view of the required work and its scope.",
+        "@type": "Answer",
+        "description": "A professional inspection report details storm damage with photos, identifies affected components, and outlines recommended repairs or replacement."
+      }
+    }
+  ],
+  "description": "A professional inspection report details storm damage with photos, identifies affected components, and outlines recommended repairs or replacement."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/are-there-different-types-of-storm-damage-and-how-do-they-affect-the-repair-vs-r",
+  "name": "Are there different types of storm damage, and how do they affect the repair vs. replacement decision?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there different types of storm damage, and how do they affect the repair vs. replacement decision?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, storm damage varies, primarily due to hail, wind, or fallen debris. Hail damage often creates circular dents or cracks, while wind damage typically causes lifted or missing shingles. Debris can lead to punctures or structural damage. The type and severity of damage are critical in determining if repairs are sufficient or if a full replacement is more appropriate for long-term protection, especially for older roofs in areas like Aledo.",
+        "@type": "Answer",
+        "description": "Different storm types (hail, wind, debris) cause varied damage, influencing whether repair or replacement is needed, especially for older roofs."
+      }
+    }
+  ],
+  "description": "Different storm types (hail, wind, debris) cause varied damage, influencing whether repair or replacement is needed, especially for older roofs."
+}

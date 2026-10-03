@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-do-after-a-water-damage-roof-assessment",
+  "name": "What should I do after a water damage roof assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do after a water damage roof assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a water damage roof assessment, you should carefully review the detailed report provided by the roofing contractor, which outlines the identified damage and recommended repairs. Discuss the findings and proposed solutions with the assessor, clarifying any questions about the scope of work, materials, and timeline. If applicable, contact your insurance company with the assessment report to initiate a claim. Your next step is to approve the repair plan to address the damage promptly.",
+        "@type": "Answer",
+        "description": "Review the assessment report, discuss repairs with the contractor, and contact your insurer if applicable to plan the necessary repairs."
+      }
+    }
+  ],
+  "description": "Review the assessment report, discuss repairs with the contractor, and contact your insurer if applicable to plan the necessary repairs."
+}

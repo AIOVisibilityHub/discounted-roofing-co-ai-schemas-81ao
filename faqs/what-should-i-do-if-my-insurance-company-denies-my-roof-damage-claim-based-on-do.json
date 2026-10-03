@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-do-if-my-insurance-company-denies-my-roof-damage-claim-based-on-do",
+  "name": "What should I do if my insurance company denies my roof damage claim based on documentation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my insurance company denies my roof damage claim based on documentation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your insurance company denies your roof damage claim, review their reasons for denial carefully. It's often beneficial to seek a second opinion from a reputable roofing company like Discounted Roofing Co. We can re-inspect the damage, potentially uncover overlooked issues, and provide additional, more detailed documentation to counter the denial. Sometimes, the initial documentation may have been insufficient or misinterpreted, and our detailed reports for properties in areas like Dallas or Mesquite can help present a stronger case.",
+        "@type": "Answer",
+        "description": "Review the denial reason, then consider a re-inspection by Discounted Roofing Co. for more detailed documentation to strengthen your claim against the denial."
+      }
+    }
+  ],
+  "description": "Review the denial reason, then consider a re-inspection by Discounted Roofing Co. for more detailed documentation to strengthen your claim against the denial."
+}

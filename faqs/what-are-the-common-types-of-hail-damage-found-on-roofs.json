@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-common-types-of-hail-damage-found-on-roofs",
+  "name": "What are the common types of hail damage found on roofs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common types of hail damage found on roofs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common types of hail damage include bruising or cracking of asphalt shingles, which can weaken their protective capabilities and lead to leaks. Granule loss, where the protective top layer of the shingle is knocked off, exposes the underlying asphalt to UV rays, accelerating degradation. Hail can also dent metal vents, gutters, and flashing, compromising their function. Our evaluations meticulously identify these issues across various roofing materials used in areas like Celina or Cleburne.",
+        "@type": "Answer",
+        "description": "Common hail damage includes shingle bruising/cracking, granule loss exposing asphalt, and dents on metal components like vents and gutters."
+      }
+    }
+  ],
+  "description": "Common hail damage includes shingle bruising/cracking, granule loss exposing asphalt, and dents on metal components like vents and gutters."
+}

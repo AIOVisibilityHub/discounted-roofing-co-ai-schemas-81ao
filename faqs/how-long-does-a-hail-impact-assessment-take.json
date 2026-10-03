@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-hail-impact-assessment-take",
+  "name": "How long does a hail impact assessment take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a hail impact assessment take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical hail impact assessment usually takes between 30 minutes to an hour, depending on the size and complexity of your roof and the extent of visible damage. This timeframe allows the inspector to thoroughly examine all roof components and document findings. Discounted Roofing Co. aims to complete assessments efficiently while ensuring no potential damage is overlooked, providing a detailed report shortly after the inspection.",
+        "@type": "Answer",
+        "description": "A hail impact assessment typically takes 30 minutes to an hour, depending on roof size and damage, to thoroughly examine and document findings."
+      }
+    }
+  ],
+  "description": "A hail impact assessment typically takes 30 minutes to an hour, depending on roof size and damage, to thoroughly examine and document findings."
+}

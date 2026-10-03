@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-older-roofs-withstand-hail-damage-better-or-worse-than-newer-roofs",
+  "name": "Can older roofs withstand hail damage better or worse than newer roofs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can older roofs withstand hail damage better or worse than newer roofs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, older roofs are more susceptible to significant hail damage than newer roofs. As roofing materials age, they can become more brittle, making them more prone to cracking, bruising, and granule loss from hail impacts. Newer roofing materials often incorporate advanced technologies that provide better impact resistance. An evaluation by Discounted Roofing Co. will take your roof's age and material into account when assessing damage severity and recommending whether repair or replacement is the most appropriate long-term solution.",
+        "@type": "Answer",
+        "description": "Older roofs are generally more susceptible to hail damage due to brittle materials. Newer roofs often have better impact resistance. Age is a factor in assessing damage and recommending solutions."
+      }
+    }
+  ],
+  "description": "Older roofs are generally more susceptible to hail damage due to brittle materials. Newer roofs often have better impact resistance. Age is a factor in assessin"
+}

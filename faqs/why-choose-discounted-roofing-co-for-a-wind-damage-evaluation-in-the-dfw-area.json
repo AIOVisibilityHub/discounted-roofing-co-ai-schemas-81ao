@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/why-choose-discounted-roofing-co-for-a-wind-damage-evaluation-in-the-dfw-area",
+  "name": "Why choose Discounted Roofing Co. for a wind damage evaluation in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why choose Discounted Roofing Co. for a wind damage evaluation in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing Discounted Roofing Co. for your wind damage evaluation in the DFW area means benefiting from our local expertise and commitment to customer service. We understand the specific weather patterns and common damage types experienced in North Texas, allowing for a more accurate and relevant assessment. Our team is familiar with the process of working with insurance companies common to our service areas like Dallas, Fort Worth, and surrounding towns, ensuring a smoother experience from evaluation to repair.",
+        "@type": "Answer",
+        "description": "Choose Discounted Roofing Co. for DFW wind damage evaluations due to our local expertise in North Texas weather and experience working with area insurance companies."
+      }
+    }
+  ],
+  "description": "Choose Discounted Roofing Co. for DFW wind damage evaluations due to our local expertise in North Texas weather and experience working with area insurance compa"
+}

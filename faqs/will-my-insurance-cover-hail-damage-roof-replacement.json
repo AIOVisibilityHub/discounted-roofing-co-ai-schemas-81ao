@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-my-insurance-cover-hail-damage-roof-replacement",
+  "name": "Will my insurance cover hail damage roof replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover hail damage roof replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard homeowner's insurance policies cover roof damage caused by hail, as it's considered a sudden and accidental event. Coverage typically includes the cost of repair or replacement, minus your deductible. It's important to review your specific policy details for any limitations or exclusions. We can assist you by providing a comprehensive damage report that can support your insurance claim process.",
+        "@type": "Answer",
+        "description": "Most homeowner's insurance policies cover hail damage roof replacement, but always check your specific policy for details and deductibles."
+      }
+    }
+  ],
+  "description": "Most homeowner's insurance policies cover hail damage roof replacement, but always check your specific policy for details and deductibles."
+}

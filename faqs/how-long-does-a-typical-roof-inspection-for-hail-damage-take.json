@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-typical-roof-inspection-for-hail-damage-take",
+  "name": "How long does a typical roof inspection for hail damage take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical roof inspection for hail damage take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard hail damage roof inspection by Discounted Roofing Co. usually takes between 30 minutes to an hour, depending on the size and complexity of your roof. This timeframe allows our inspectors to thoroughly examine all areas for damage and accurately document their findings. The goal is to provide a comprehensive assessment efficiently so you can move forward with necessary steps, whether it's filing a claim or confirming your roof is sound.",
+        "@type": "Answer",
+        "description": "A typical hail damage roof inspection takes 30 minutes to an hour, depending on roof size, allowing thorough examination and documentation."
+      }
+    }
+  ],
+  "description": "A typical hail damage roof inspection takes 30 minutes to an hour, depending on roof size, allowing thorough examination and documentation."
+}

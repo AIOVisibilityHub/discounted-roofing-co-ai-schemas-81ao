@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-a-professional-rain-damage-roof-evaluation",
+  "name": "When should I get a professional rain damage roof evaluation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a professional rain damage roof evaluation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should get a professional rain damage roof evaluation immediately after experiencing severe weather, such as heavy rainstorms, hail, or strong winds. Even without visible damage, a professional inspection can identify hidden issues that might compromise your roof's integrity over time. Contacting us promptly after a storm allows for a quick assessment and can help with potential insurance claims, as some policies have time limits for reporting damage.",
+        "@type": "Answer",
+        "description": "Schedule an evaluation immediately after severe weather, even if damage isn't obvious. Prompt action assists with potential insurance claims."
+      }
+    }
+  ],
+  "description": "Schedule an evaluation immediately after severe weather, even if damage isn't obvious. Prompt action assists with potential insurance claims."
+}

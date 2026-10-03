@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-can-i-do-to-prepare-for-a-roof-evaluation-after-rain-damage",
+  "name": "What can I do to prepare for a roof evaluation after rain damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What can I do to prepare for a roof evaluation after rain damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a roof evaluation after rain damage, ensure clear access to your roof and the perimeter of your home. Clear away any obstacles like garden furniture or vehicles that might hinder ladder placement. Internally, make sure attic access is clear, and point out any specific areas where you've noticed leaks or water stains. Having any previous repair records or warranty information available can also be helpful for the inspector.",
+        "@type": "Answer",
+        "description": "Ensure clear access to your roof and attic, move obstacles, and point out specific leak areas. Have past repair records ready."
+      }
+    }
+  ],
+  "description": "Ensure clear access to your roof and attic, move obstacles, and point out specific leak areas. Have past repair records ready."
+}

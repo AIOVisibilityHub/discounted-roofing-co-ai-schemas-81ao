@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-common-types-of-severe-weather-damage-found-during-an-assessment",
+  "name": "What are the common types of severe weather damage found during an assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common types of severe weather damage found during an assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a severe weather assessment, we commonly find hail damage, which can manifest as impact marks or bruising on shingles, weakening their protective granular surface. Wind damage often includes missing or lifted shingles, creased shingles, and damage to flashing or vents. We also look for water intrusion points, which can be subtle but lead to significant internal damage. Identifying these specific types of damage is crucial for accurate repair planning and insurance claim processing, as different damage types require specific repair approaches.",
+        "@type": "Answer",
+        "description": "Common severe weather damage includes hail impact marks, missing or lifted shingles from wind, and subtle water intrusion points. These require specific repair approaches."
+      }
+    }
+  ],
+  "description": "Common severe weather damage includes hail impact marks, missing or lifted shingles from wind, and subtle water intrusion points. These require specific repair"
+}

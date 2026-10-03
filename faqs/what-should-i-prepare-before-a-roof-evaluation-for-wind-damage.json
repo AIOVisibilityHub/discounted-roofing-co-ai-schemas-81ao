@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-prepare-before-a-roof-evaluation-for-wind-damage",
+  "name": "What should I prepare before a roof evaluation for wind damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a roof evaluation for wind damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a roof evaluation for wind damage, clear the area around your home to allow easy access for the inspector, including moving vehicles, outdoor furniture, or plants. If you have any documentation like previous inspection reports, roof installation details, or insurance policy information, have it ready. This preparation helps ensure the inspection by Discounted Roofing Co. is thorough and efficient, and we can discuss any specific concerns you have on site.",
+        "@type": "Answer",
+        "description": "Clear the area around your home and gather any relevant roof documentation or insurance policy details before the evaluation."
+      }
+    }
+  ],
+  "description": "Clear the area around your home and gather any relevant roof documentation or insurance policy details before the evaluation."
+}

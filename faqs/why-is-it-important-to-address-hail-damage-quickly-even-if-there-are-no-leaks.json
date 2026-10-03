@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/why-is-it-important-to-address-hail-damage-quickly-even-if-there-are-no-leaks",
+  "name": "Why is it important to address hail damage quickly, even if there are no leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is it important to address hail damage quickly, even if there are no leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Addressing hail damage quickly is important because even minor impacts can compromise the integrity of your shingles, leading to premature aging and potential leaks down the line. Small bruises or granular loss might not cause immediate leaks but can expose the underlying mat to UV rays and moisture, accelerating deterioration. Delaying repairs can also impact insurance claim eligibility if the damage worsens over time or exceeds filing deadlines.",
+        "@type": "Answer",
+        "description": "Promptly addressing hail damage prevents premature roof aging and potential leaks, even without immediate signs. Delays can impact insurance claims."
+      }
+    }
+  ],
+  "description": "Promptly addressing hail damage prevents premature roof aging and potential leaks, even without immediate signs. Delays can impact insurance claims."
+}

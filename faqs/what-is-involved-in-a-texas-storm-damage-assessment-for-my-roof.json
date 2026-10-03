@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-involved-in-a-texas-storm-damage-assessment-for-my-roof",
+  "name": "What is involved in a Texas storm damage assessment for my roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a Texas storm damage assessment for my roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A storm damage assessment for your roof involves a thorough inspection by a qualified professional to identify issues caused by hail, wind, or other severe weather. This includes checking for missing or cracked shingles, granule loss, dents on vents or gutters, and structural damage. Discounted Roofing Co. conducts detailed roof inspections to document all damage, which is crucial for insurance claims. During the assessment, we also look for less obvious signs of damage that might lead to future leaks or compromise your roof's integrity.",
+        "@type": "Answer",
+        "description": "A storm damage assessment involves a detailed inspection of your roof by a professional to identify hail, wind, and other weather-related damage, including less obvious signs. This documentation is essential for insurance claims."
+      }
+    }
+  ],
+  "description": "A storm damage assessment involves a detailed inspection of your roof by a professional to identify hail, wind, and other weather-related damage, including less"
+}

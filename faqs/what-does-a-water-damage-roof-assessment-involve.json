@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-does-a-water-damage-roof-assessment-involve",
+  "name": "What does a water damage roof assessment involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a water damage roof assessment involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A water damage roof assessment involves a comprehensive inspection of your roof's exterior and interior. Our technicians will examine shingles, flashing, gutters, and downspouts for damage, and inspect your attic for leaks, mold, and structural integrity issues. We document all findings, including photographic evidence, to provide a clear understanding of the damage and necessary repairs. This detailed process ensures accurate repair recommendations.",
+        "@type": "Answer",
+        "description": "An assessment includes exterior inspection of shingles and flashing, and interior attic checks for leaks and mold, with detailed documentation of findings."
+      }
+    }
+  ],
+  "description": "An assessment includes exterior inspection of shingles and flashing, and interior attic checks for leaks and mold, with detailed documentation of findings."
+}

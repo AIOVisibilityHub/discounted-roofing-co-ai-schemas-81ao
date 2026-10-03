@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-a-reputable-company-for-a-weather-related-roofing-consultation-i",
+  "name": "How do I choose a reputable company for a weather-related roofing consultation in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reputable company for a weather-related roofing consultation in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a company for a weather-related roofing consultation in the DFW area, look for businesses with strong local reviews, clear licensing, and proven experience with storm damage repair. Discounted Roofing Co. serves many communities in the DFW metroplex, including Arlington, Fort Worth, and Dallas, and focuses on transparent communication and detailed assessments. Ensure the company offers a free, no-obligation consultation and can provide references, which are practical tradeoffs to consider when making your decision.",
+        "@type": "Answer",
+        "description": "Choose a DFW company with local reviews, licensing, and storm damage experience, like Discounted Roofing Co., ensuring they offer free consultations."
+      }
+    }
+  ],
+  "description": "Choose a DFW company with local reviews, licensing, and storm damage experience, like Discounted Roofing Co., ensuring they offer free consultations."
+}

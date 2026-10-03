@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-common-signs-of-storm-damage-to-look-for-on-my-roof",
+  "name": "What are common signs of storm damage to look for on my roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of storm damage to look for on my roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of storm damage include missing, cracked, or bruised shingles; dents on gutters, downspouts, or vents; granules accumulating in gutters; and leaks or water spots on interior ceilings. After a severe storm, even if you don't immediately see obvious damage, it's wise to visually inspect your roof from the ground or have a professional conduct an evaluation. Hail damage, for example, might not be visible from the ground but can significantly shorten your roof's lifespan.",
+        "@type": "Answer",
+        "description": "Look for missing/cracked shingles, dents on gutters, granules in gutters, or interior leaks after a storm. Professional evaluation is recommended."
+      }
+    }
+  ],
+  "description": "Look for missing/cracked shingles, dents on gutters, granules in gutters, or interior leaks after a storm. Professional evaluation is recommended."
+}

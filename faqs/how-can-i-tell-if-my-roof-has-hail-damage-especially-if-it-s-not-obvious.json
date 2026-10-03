@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-can-i-tell-if-my-roof-has-hail-damage-especially-if-it-s-not-obvious",
+  "name": "How can I tell if my roof has hail damage, especially if it's not obvious?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my roof has hail damage, especially if it's not obvious?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hail damage can sometimes be subtle and not immediately visible from the ground. Look for dents or dings on gutters, siding, or vent caps, which can indicate hail impact. On shingles, hail can cause bruising, cracking, or loss of granules, which may not be apparent without a closer inspection. It's best to have a professional from Discounted Roofing Co. inspect your roof, as we are trained to identify even minor hail damage that could lead to future leaks or issues.",
+        "@type": "Answer",
+        "description": "Subtle hail damage signs include dents on gutters or vent caps, and bruising, cracking, or granule loss on shingles. A professional inspection by Discounted Roofing Co. is recommended."
+      }
+    }
+  ],
+  "description": "Subtle hail damage signs include dents on gutters or vent caps, and bruising, cracking, or granule loss on shingles. A professional inspection by Discounted Roo"
+}

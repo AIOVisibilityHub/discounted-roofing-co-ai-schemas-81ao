@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-i-assess-my-roof-for-storm-damage-myself",
+  "name": "Can I assess my roof for storm damage myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I assess my roof for storm damage myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While you can conduct a preliminary visual check from the ground for obvious issues like missing shingles or large dents, a thorough severe weather roof assessment requires professional expertise. Many types of storm damage, such as hail bruising on shingles or subtle flashing damage, are not easily visible or identifiable to the untrained eye. Attempting a DIY roof inspection can also be hazardous. A professional will safely identify all damage, including hidden issues, ensuring nothing is overlooked that could lead to future problems.",
+        "@type": "Answer",
+        "description": "You can do a ground-level check, but a professional assessment is needed for hidden damage and safety, as many storm issues are not easily visible."
+      }
+    }
+  ],
+  "description": "You can do a ground-level check, but a professional assessment is needed for hidden damage and safety, as many storm issues are not easily visible."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-does-an-emergency-storm-damage-assessment-impact-my-insurance-claim",
+  "name": "How does an emergency storm damage assessment impact my insurance claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does an emergency storm damage assessment impact my insurance claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An emergency storm damage assessment provides crucial documentation for your insurance claim. The detailed report and photos from our assessment can substantiate the extent of the damage to your insurer, helping to ensure you receive appropriate coverage for repairs. Prompt assessment also demonstrates due diligence in mitigating further damage, which can be favorable during the claims process.",
+        "@type": "Answer",
+        "description": "The assessment provides vital documentation like detailed reports and photos to substantiate your storm damage claim, aiding in proper insurance coverage and demonstrating due diligence."
+      }
+    }
+  ],
+  "description": "The assessment provides vital documentation like detailed reports and photos to substantiate your storm damage claim, aiding in proper insurance coverage and de"
+}

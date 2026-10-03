@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-storm-damage-roof-evaluation-cost",
+  "name": "How much does a storm damage roof evaluation cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a storm damage roof evaluation cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a storm damage roof evaluation can vary, but Discounted Roofing Co. often provides complimentary evaluations. We understand the urgency after a storm and aim to make the initial assessment accessible for homeowners. The evaluation includes a thorough inspection and detailed report of findings, which can then be used for insurance purposes or repair planning. This free service helps homeowners understand their situation without immediate financial commitment.",
+        "@type": "Answer",
+        "description": "Storm damage roof evaluations are often complimentary at Discounted Roofing Co., providing a thorough assessment without upfront cost."
+      }
+    }
+  ],
+  "description": "Storm damage roof evaluations are often complimentary at Discounted Roofing Co., providing a thorough assessment without upfront cost."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-consider-a-full-roof-replacement-instead-of-just-repairs-after-sto",
+  "name": "When should I consider a full roof replacement instead of just repairs after storm damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a full roof replacement instead of just repairs after storm damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a full roof replacement if the storm damage is extensive, affecting multiple sections of the roof, or if your roof is already near the end of its lifespan. Our assessment will identify underlying issues, like compromised decking or widespread shingle damage, which can make repairs less effective long-term. This avoids repeated repairs and potential future leaks.",
+        "@type": "Answer",
+        "description": "Consider replacement for extensive damage or if your roof is old, as repairs may not be cost-effective or durable long-term."
+      }
+    }
+  ],
+  "description": "Consider replacement for extensive damage or if your roof is old, as repairs may not be cost-effective or durable long-term."
+}

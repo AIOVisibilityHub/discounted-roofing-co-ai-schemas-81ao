@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-typical-timeframe-for-getting-an-inspection-and-report-from-discount",
+  "name": "What is the typical timeframe for getting an inspection and report from Discounted Roofing Co. after storm damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeframe for getting an inspection and report from Discounted Roofing Co. after storm damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After you contact us, Discounted Roofing Co. strives to schedule an inspection as quickly as possible, often within a few days, depending on demand after a major storm. Once the inspection is completed, our team works efficiently to prepare and deliver a detailed report and estimate. The entire process, from initial contact to receiving your documentation, is designed to be prompt to help you meet insurance claim deadlines and begin repairs without unnecessary delays. We understand the urgency involved in storm damage situations.",
+        "@type": "Answer",
+        "description": "We aim to inspect within days and provide a detailed report promptly, understanding the urgency for insurance claims."
+      }
+    }
+  ],
+  "description": "We aim to inspect within days and provide a detailed report promptly, understanding the urgency for insurance claims."
+}

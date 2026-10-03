@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-storm-related-roof-condition-report",
+  "name": "What is a storm-related roof condition report?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a storm-related roof condition report?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A storm-related roof condition report is a detailed assessment by a roofing professional that documents any damage to your roof caused by severe weather, such as hail, wind, or heavy rain. This report typically includes a visual inspection, photographic evidence, and a written explanation of the damage found. It helps homeowners understand the extent of the damage and serves as crucial documentation for insurance claims. During the assessment, our inspectors look for specific indicators of storm damage, including granule loss, dents, lifted shingles, and flashing issues, which are distinct from normal wear and tear.",
+        "@type": "Answer",
+        "description": "A storm-related roof condition report is a professional assessment documenting damage to your roof caused by severe weather for insurance purposes."
+      }
+    }
+  ],
+  "description": "A storm-related roof condition report is a professional assessment documenting damage to your roof caused by severe weather for insurance purposes."
+}

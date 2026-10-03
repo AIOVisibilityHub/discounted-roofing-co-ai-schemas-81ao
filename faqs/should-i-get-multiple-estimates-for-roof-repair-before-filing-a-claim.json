@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/should-i-get-multiple-estimates-for-roof-repair-before-filing-a-claim",
+  "name": "Should I get multiple estimates for roof repair before filing a claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I get multiple estimates for roof repair before filing a claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While your insurance company may conduct its own assessment, obtaining one or more professional estimates from reputable roofing companies like Discounted Roofing Co. before filing your claim can be beneficial. These estimates provide a baseline for the scope of work and potential costs, helping you understand what to expect. It also ensures you have a clear picture of necessary repairs, which can assist in discussions with your adjuster. We can provide a transparent and detailed estimate.",
+        "@type": "Answer",
+        "description": "Getting professional estimates, such as from Discounted Roofing Co., before filing helps you understand costs and scope, aiding discussions with your insurance adjuster."
+      }
+    }
+  ],
+  "description": "Getting professional estimates, such as from Discounted Roofing Co., before filing helps you understand costs and scope, aiding discussions with your insurance"
+}

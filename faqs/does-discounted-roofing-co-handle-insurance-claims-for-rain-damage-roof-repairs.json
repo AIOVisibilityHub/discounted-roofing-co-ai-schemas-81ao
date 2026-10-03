@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/does-discounted-roofing-co-handle-insurance-claims-for-rain-damage-roof-repairs",
+  "name": "Does Discounted Roofing Co. handle insurance claims for rain damage roof repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does Discounted Roofing Co. handle insurance claims for rain damage roof repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While Discounted Roofing Co. does not directly handle insurance claims, we assist our customers by providing comprehensive documentation and estimates required by insurance companies for rain damage roof repairs. Our detailed evaluations, including photos and repair specifications, are designed to support your claim effectively. We guide you through the process of presenting your claim to your insurer, ensuring you have all the necessary information to advocate for your repair needs.",
+        "@type": "Answer",
+        "description": "Discounted Roofing Co. assists with insurance claims by providing comprehensive documentation and estimates, though we don't handle claims directly."
+      }
+    }
+  ],
+  "description": "Discounted Roofing Co. assists with insurance claims by providing comprehensive documentation and estimates, though we don't handle claims directly."
+}

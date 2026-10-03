@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-difference-between-a-roof-inspection-and-a-storm-related-roof-condit",
+  "name": "What is the difference between a roof inspection and a storm-related roof condition report?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a roof inspection and a storm-related roof condition report?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While both involve assessing the roof, a general roof inspection focuses on the overall health and lifespan of the roofing system, identifying issues from age, wear, or maintenance needs. A storm-related roof condition report, however, specifically aims to identify and document damage caused by a particular severe weather event, such as hail, high winds, or torrential rain. Its primary purpose is to provide clear evidence for an insurance claim, distinguishing storm damage from other types of roof deterioration. Our reports focus on direct causal links between a recent storm and identified damage.",
+        "@type": "Answer",
+        "description": "A general inspection assesses overall roof health, while a storm-related report specifically documents damage from a severe weather event for insurance claims."
+      }
+    }
+  ],
+  "description": "A general inspection assesses overall roof health, while a storm-related report specifically documents damage from a severe weather event for insurance claims."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-an-emergency-assessment-identify-hidden-storm-damage",
+  "name": "Can an emergency assessment identify hidden storm damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can an emergency assessment identify hidden storm damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a professional emergency storm damage assessment is designed to identify both visible and hidden damage. While you might see obvious issues like missing shingles, hail can cause less apparent damage such as granule loss, weakened seals, or impact marks that compromise the roof's integrity over time. Our experienced inspectors use their knowledge to spot these subtle signs that could lead to future problems.",
+        "@type": "Answer",
+        "description": "Yes, professional emergency assessments are designed to uncover both obvious and hidden storm damage, such as granule loss or weakened seals, which might not be immediately visible."
+      }
+    }
+  ],
+  "description": "Yes, professional emergency assessments are designed to uncover both obvious and hidden storm damage, such as granule loss or weakened seals, which might not be"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-my-insurance-premium-increase-if-i-file-a-roof-damage-claim",
+  "name": "Will my insurance premium increase if I file a roof damage claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance premium increase if I file a roof damage claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Filing a roof damage claim, particularly for storm-related incidents, may not always directly lead to an individual premium increase. However, widespread storm damage in an area can sometimes contribute to general rate adjustments for all policyholders in that region. It's important to understand your specific policy and discuss any concerns with your insurance agent. Discounted Roofing Co. can provide a detailed estimate that can help you understand the potential cost implications before filing.",
+        "@type": "Answer",
+        "description": "Filing a storm-related roof damage claim may not always raise individual premiums, but widespread damage can affect regional rates. Discuss specifics with your insurance agent."
+      }
+    }
+  ],
+  "description": "Filing a storm-related roof damage claim may not always raise individual premiums, but widespread damage can affect regional rates. Discuss specifics with your"
+}

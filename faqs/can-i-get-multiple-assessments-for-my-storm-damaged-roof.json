@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-i-get-multiple-assessments-for-my-storm-damaged-roof",
+  "name": "Can I get multiple assessments for my storm-damaged roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get multiple assessments for my storm-damaged roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can and often should get multiple assessments for your storm-damaged roof. Obtaining several professional opinions allows you to compare damage reports, proposed solutions, and cost estimates. This helps you make an informed decision and ensures you choose a contractor who aligns with your expectations and budget. It also provides a valuable comparison point when dealing with insurance adjusters. While our initial assessment is comprehensive, getting a second opinion from another reputable company is always an option for your peace of mind.",
+        "@type": "Answer",
+        "description": "Yes, getting multiple storm-damaged roof assessments helps compare reports, solutions, and costs to make an informed decision."
+      }
+    }
+  ],
+  "description": "Yes, getting multiple storm-damaged roof assessments helps compare reports, solutions, and costs to make an informed decision."
+}

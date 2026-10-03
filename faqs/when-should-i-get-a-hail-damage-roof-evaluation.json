@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-a-hail-damage-roof-evaluation",
+  "name": "When should I get a hail damage roof evaluation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a hail damage roof evaluation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should get a hail damage roof evaluation as soon as possible after a hailstorm, ideally within a few days or weeks. Delaying the inspection can make it harder to attribute damage solely to hail, especially if other weather events occur. Many insurance policies have time limits for filing claims, so a prompt evaluation allows you to understand the damage and initiate the claim process efficiently. Discounted Roofing Co. advises scheduling an inspection immediately following any significant hail event in the DFW area to avoid potential issues with insurance coverage.",
+        "@type": "Answer",
+        "description": "Get a hail damage roof evaluation promptly after a hailstorm, ideally within days or weeks, to ensure timely insurance claims and accurate damage assessment."
+      }
+    }
+  ],
+  "description": "Get a hail damage roof evaluation promptly after a hailstorm, ideally within days or weeks, to ensure timely insurance claims and accurate damage assessment."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/do-i-need-to-be-present-for-the-roofing-consultation",
+  "name": "Do I need to be present for the roofing consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be present for the roofing consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's not strictly required for you to be present for the exterior inspection, it is highly recommended. Being present allows our inspector to ask specific questions about what you observed during the storm, such as noise or leaks, and to directly show you any identified damage. This also provides an opportunity to discuss our findings and recommended solutions in person immediately after the assessment. If you cannot be there, we will leave a detailed report and follow up by phone.",
+        "@type": "Answer",
+        "description": "While not strictly required, your presence is recommended during the consultation to discuss findings directly with the inspector."
+      }
+    }
+  ],
+  "description": "While not strictly required, your presence is recommended during the consultation to discuss findings directly with the inspector."
+}

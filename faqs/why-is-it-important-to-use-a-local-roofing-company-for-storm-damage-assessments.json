@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/why-is-it-important-to-use-a-local-roofing-company-for-storm-damage-assessments",
+  "name": "Why is it important to use a local roofing company for storm damage assessments in Texas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is it important to use a local roofing company for storm damage assessments in Texas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Using a local roofing company like Discounted Roofing Co. for storm damage assessments in Texas ensures they are familiar with local building codes, weather patterns, and insurance practices specific to regions like DFW. Local companies are also more accessible for follow-up questions or issues, and they have a vested interest in maintaining a good reputation within the community. This local expertise can streamline the assessment and repair process, ensuring compliance and reliable service.",
+        "@type": "Answer",
+        "description": "Using a local company like Discounted Roofing Co. in Texas means familiarity with local building codes, weather patterns, and DFW insurance practices. This local expertise ensures compliance and reliable service, and offers better accessibility for follow-up."
+      }
+    }
+  ],
+  "description": "Using a local company like Discounted Roofing Co. in Texas means familiarity with local building codes, weather patterns, and DFW insurance practices. This loca"
+}

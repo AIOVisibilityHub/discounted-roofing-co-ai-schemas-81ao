@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-common-signs-of-wind-damage-to-a-roof",
+  "name": "What are common signs of wind damage to a roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of wind damage to a roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of wind damage include missing or creased shingles, granules in gutters, uplifted or curled shingles, and debris on the roof or in the yard. After a severe weather event in the DFW area, it's advisable to perform a visual inspection from the ground. If you notice any of these indicators, a professional inspection can determine the extent of the damage and necessary repairs. The type of shingle and its age can influence how wind damage manifests.",
+        "@type": "Answer",
+        "description": "Common signs of wind damage are missing or creased shingles, granules in gutters, uplifted shingles, and roof debris. A professional inspection can confirm the damage."
+      }
+    }
+  ],
+  "description": "Common signs of wind damage are missing or creased shingles, granules in gutters, uplifted shingles, and roof debris. A professional inspection can confirm the"
+}

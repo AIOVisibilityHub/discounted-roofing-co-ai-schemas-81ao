@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-minor-wind-damage-lead-to-bigger-problems",
+  "name": "Can minor wind damage lead to bigger problems?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can minor wind damage lead to bigger problems?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, even seemingly minor wind damage can lead to significant problems if left unaddressed. A single lifted or missing shingle can allow water to penetrate the roof's underlayment, leading to leaks, rot, mold growth, and structural damage over time. Early detection through an evaluation helps prevent these small issues from escalating into expensive and extensive repairs. Ignoring minor damage often compromises the entire roofing system's integrity.",
+        "@type": "Answer",
+        "description": "Yes, minor wind damage like a lifted shingle can cause leaks, rot, and mold. Early evaluation prevents small issues from escalating into costly, extensive repairs."
+      }
+    }
+  ],
+  "description": "Yes, minor wind damage like a lifted shingle can cause leaks, rot, and mold. Early evaluation prevents small issues from escalating into costly, extensive repai"
+}

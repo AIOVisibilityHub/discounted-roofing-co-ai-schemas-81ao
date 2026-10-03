@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-rain-damage-roof-evaluation-cost",
+  "name": "How much does a rain damage roof evaluation cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a rain damage roof evaluation cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a rain damage roof evaluation can vary based on factors like the size and complexity of your roof, and the extent of visible damage. At Discounted Roofing Co., we often provide free initial evaluations for rain damage within our service areas, including DFW and surrounding towns like Abbott and Allen. This allows us to assess the situation and provide a transparent estimate for any necessary repairs without an upfront cost for the inspection itself.",
+        "@type": "Answer",
+        "description": "Evaluation costs vary by roof size and damage, but Discounted Roofing Co. often offers free initial evaluations in our service areas like DFW."
+      }
+    }
+  ],
+  "description": "Evaluation costs vary by roof size and damage, but Discounted Roofing Co. often offers free initial evaluations in our service areas like DFW."
+}

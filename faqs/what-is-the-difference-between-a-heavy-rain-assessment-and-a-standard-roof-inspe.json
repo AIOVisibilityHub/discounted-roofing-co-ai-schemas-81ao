@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-difference-between-a-heavy-rain-assessment-and-a-standard-roof-inspe",
+  "name": "What is the difference between a heavy rain assessment and a standard roof inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a heavy rain assessment and a standard roof inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A heavy rain assessment specifically focuses on identifying damage and vulnerabilities caused or exacerbated by significant rainfall, such as leaks, water intrusion points, and moisture-related deterioration. A standard roof inspection, while comprehensive, may not always emphasize immediate water ingress issues in the same urgent manner. Our heavy rain assessments are tailored to address the direct impact of storms, providing targeted solutions for water damage prevention and repair.",
+        "@type": "Answer",
+        "description": "A heavy rain assessment specifically targets water-related damage from rainfall, while a standard inspection is broader."
+      }
+    }
+  ],
+  "description": "A heavy rain assessment specifically targets water-related damage from rainfall, while a standard inspection is broader."
+}

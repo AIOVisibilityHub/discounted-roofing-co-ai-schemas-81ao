@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-information-should-i-have-ready-before-a-wind-damage-evaluation",
+  "name": "What information should I have ready before a wind damage evaluation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I have ready before a wind damage evaluation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your wind damage evaluation, it's helpful to gather any photos or videos you may have taken immediately after the storm, especially if they show standing water or obvious damage. Also, have your insurance policy information accessible, including your policy number and provider's contact details. This preparation allows our team to focus on the technical assessment and provides valuable context for discussing potential next steps and insurance claims.",
+        "@type": "Answer",
+        "description": "Before your evaluation, prepare photos of the damage and your insurance policy information. This aids our assessment and helps discuss next steps."
+      }
+    }
+  ],
+  "description": "Before your evaluation, prepare photos of the damage and your insurance policy information. This aids our assessment and helps discuss next steps."
+}

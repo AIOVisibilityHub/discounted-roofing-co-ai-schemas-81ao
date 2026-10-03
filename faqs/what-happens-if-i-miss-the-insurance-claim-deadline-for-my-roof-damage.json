@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-if-i-miss-the-insurance-claim-deadline-for-my-roof-damage",
+  "name": "What happens if I miss the insurance claim deadline for my roof damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if I miss the insurance claim deadline for my roof damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Missing your insurance claim deadline can result in the denial of your claim, meaning you would be responsible for the full cost of repairs. While some exceptions exist for documented extenuating circumstances, they are rare. It's crucial to understand your policy's specific reporting requirements and act quickly to avoid losing coverage, as delaying could significantly impact your ability to get the roof repaired.",
+        "@type": "Answer",
+        "description": "Missing the claim deadline can lead to denial, making you responsible for repair costs. Review your policy and act quickly."
+      }
+    }
+  ],
+  "description": "Missing the claim deadline can lead to denial, making you responsible for repair costs. Review your policy and act quickly."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-do-before-my-wind-damage-roof-inspection",
+  "name": "What should I do before my wind damage roof inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do before my wind damage roof inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your wind damage roof inspection, gather any relevant documents such as your insurance policy and notes on when the damage occurred. Ensure clear access around your property for the inspector. Discounted Roofing Co. advises clearing any debris around the house that might obstruct access to the roof for a smoother inspection process.",
+        "@type": "Answer",
+        "description": "Before inspection, gather insurance documents and ensure clear access around your property for the inspector."
+      }
+    }
+  ],
+  "description": "Before inspection, gather insurance documents and ensure clear access around your property for the inspector."
+}

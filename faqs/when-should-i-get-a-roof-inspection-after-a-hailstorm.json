@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-a-roof-inspection-after-a-hailstorm",
+  "name": "When should I get a roof inspection after a hailstorm?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a roof inspection after a hailstorm?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should get a roof inspection as soon as possible after a hailstorm, ideally within a few weeks. Timely inspection is crucial because insurance companies typically have a time limit for filing claims, often one year from the date of the storm. Discounted Roofing Co. recommends scheduling an inspection promptly to ensure all damage is documented and reported within this timeframe, preventing potential issues with your claim.",
+        "@type": "Answer",
+        "description": "Schedule a roof inspection within a few weeks after a hailstorm. Most insurance policies have a claim filing deadline, often one year from the storm date."
+      }
+    }
+  ],
+  "description": "Schedule a roof inspection within a few weeks after a hailstorm. Most insurance policies have a claim filing deadline, often one year from the storm date."
+}

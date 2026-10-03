@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-difference-between-a-roof-inspection-and-a-water-damage-assessment",
+  "name": "What is the difference between a roof inspection and a water damage assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a roof inspection and a water damage assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A general roof inspection typically covers the overall condition and lifespan of the roof. A water damage assessment, however, specifically focuses on identifying sources of water intrusion, the extent of moisture damage, and potential structural issues caused by leaks. While a general inspection might note a leak, a water damage assessment delves deeper into its impact and necessary remediation. Both are important, but the latter is more targeted when leaks are suspected.",
+        "@type": "Answer",
+        "description": "A general inspection reviews overall roof health, while a water damage assessment specifically pinpoints water entry points, damage extent, and necessary leak-related repairs."
+      }
+    }
+  ],
+  "description": "A general inspection reviews overall roof health, while a water damage assessment specifically pinpoints water entry points, damage extent, and necessary leak-r"
+}

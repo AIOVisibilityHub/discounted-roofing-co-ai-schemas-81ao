@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-i-get-a-storm-damage-assessment-even-if-i-don-t-see-obvious-damage",
+  "name": "Can I get a storm damage assessment even if I don't see obvious damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get a storm damage assessment even if I don't see obvious damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is highly recommended to get a storm damage assessment even if you don't see obvious damage from the ground. Hail and wind damage can be subtle, such as granule loss, minor shingle bruising, or lifted shingles, which might not be visible without a professional inspection. These seemingly minor issues can lead to significant problems, like leaks, over time. Discounted Roofing Co. uses trained inspectors to identify hidden damage that homeowners might miss.",
+        "@type": "Answer",
+        "description": "Yes, get an assessment even if no obvious damage is visible. Hail and wind damage can be subtle and hidden, like granule loss or minor shingle bruising, which professional inspectors from Discounted Roofing Co. can identify."
+      }
+    }
+  ],
+  "description": "Yes, get an assessment even if no obvious damage is visible. Hail and wind damage can be subtle and hidden, like granule loss or minor shingle bruising, which p"
+}

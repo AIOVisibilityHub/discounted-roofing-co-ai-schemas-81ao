@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-request-a-weather-related-roofing-consultation",
+  "name": "When should I request a weather-related roofing consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I request a weather-related roofing consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should request a consultation as soon as possible after experiencing severe weather such as hail, high winds, or a major storm, especially if you suspect damage. While visible damage like missing shingles is obvious, some issues like small hail dents or loosened seals may not be immediately apparent but can lead to leaks over time. Early inspection helps prevent further damage and supports timely insurance claims. Discounted Roofing Co. advises scheduling within a few days to a week after a significant event to document fresh damage accurately.",
+        "@type": "Answer",
+        "description": "Request a consultation immediately after severe weather if you suspect roof damage, to prevent further issues and support insurance claims."
+      }
+    }
+  ],
+  "description": "Request a consultation immediately after severe weather if you suspect roof damage, to prevent further issues and support insurance claims."
+}

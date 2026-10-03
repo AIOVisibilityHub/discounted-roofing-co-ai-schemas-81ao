@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-do-i-have-to-file-an-insurance-claim-for-hail-damage-in-texas",
+  "name": "How long do I have to file an insurance claim for hail damage in Texas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do I have to file an insurance claim for hail damage in Texas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Texas, homeowners generally have a limited time frame, typically one to two years, from the date of the storm to file a hail damage claim. However, it's always best to file as soon as possible after discovering the damage to avoid potential issues with policy terms or delays in assessment. Promptly contacting us for an assessment after a storm allows us to help you meet these deadlines.",
+        "@type": "Answer",
+        "description": "In Texas, you typically have one to two years from the storm date to file a hail damage claim, but it's best to file as soon as possible."
+      }
+    }
+  ],
+  "description": "In Texas, you typically have one to two years from the storm date to file a hail damage claim, but it's best to file as soon as possible."
+}

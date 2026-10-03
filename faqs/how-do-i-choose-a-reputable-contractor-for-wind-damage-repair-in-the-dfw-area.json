@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-a-reputable-contractor-for-wind-damage-repair-in-the-dfw-area",
+  "name": "How do I choose a reputable contractor for wind damage repair in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reputable contractor for wind damage repair in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a contractor for wind damage repair, look for companies with local experience, proper licensing, and insurance. Check their reviews and ask for references. A reputable contractor, like Discounted Roofing Co. serving DFW and surrounding cities, should also provide a clear, detailed estimate and be transparent about the repair process and materials. Prioritize contractors who offer clear communication and a track record of quality workmanship.",
+        "@type": "Answer",
+        "description": "Choose a reputable contractor by checking for local experience, licensing, insurance, reviews, and detailed estimates."
+      }
+    }
+  ],
+  "description": "Choose a reputable contractor by checking for local experience, licensing, insurance, reviews, and detailed estimates."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/do-i-need-to-be-present-during-the-storm-damage-roof-assessment",
+  "name": "Do I need to be present during the storm damage roof assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be present during the storm damage roof assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While you don't always need to be present for the entire storm damage roof assessment, it's highly recommended to be available at the beginning and end. Being present allows you to point out any specific concerns or areas where you've noticed issues. It also gives the inspector an opportunity to explain their findings, discuss the next steps, and answer any questions you might have immediately. We appreciate your presence to ensure we address all your concerns directly.",
+        "@type": "Answer",
+        "description": "It is highly recommended to be present at the start and end of a storm damage roof assessment to discuss concerns and findings."
+      }
+    }
+  ],
+  "description": "It is highly recommended to be present at the start and end of a storm damage roof assessment to discuss concerns and findings."
+}

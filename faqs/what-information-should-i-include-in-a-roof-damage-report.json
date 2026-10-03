@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-information-should-i-include-in-a-roof-damage-report",
+  "name": "What information should I include in a roof damage report?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I include in a roof damage report?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A comprehensive roof damage report should include the date and time of the damage, the likely cause (e.g., hail, wind), detailed descriptions of all observed damage, and photographic evidence. It should also specify the location of the damage on the roof and any associated interior damage. When Discounted Roofing Co. prepares a report for properties in areas like Arlington or Fort Worth, we include our professional assessment, material specifications, and a scope of work to help streamline the insurance claim process.",
+        "@type": "Answer",
+        "description": "Include date, cause, detailed damage descriptions, photos, and location on the roof. Discounted Roofing Co.'s reports for DFW properties include professional assessments and scope of work."
+      }
+    }
+  ],
+  "description": "Include date, cause, detailed damage descriptions, photos, and location on the roof. Discounted Roofing Co.'s reports for DFW properties include professional as"
+}

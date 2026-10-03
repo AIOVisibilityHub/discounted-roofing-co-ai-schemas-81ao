@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-storm-damage-documentation-and-why-is-it-important-for-my-roof-repair",
+  "name": "What is storm damage documentation and why is it important for my roof repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is storm damage documentation and why is it important for my roof repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Storm damage documentation involves collecting evidence of damage to your roof after a storm, such as photos, videos, and a detailed description of the issues. This documentation is crucial because it supports your insurance claim, helping to ensure you receive proper coverage for repairs. Without thorough documentation, your claim might be delayed or denied, leading to out-of-pocket expenses. Discounted Roofing Co. assists with this process, ensuring all necessary evidence is gathered to streamline your claim.",
+        "@type": "Answer",
+        "description": "Storm damage documentation is collecting evidence of roof damage to support insurance claims. It is important for ensuring proper coverage and avoiding claim delays or denials."
+      }
+    }
+  ],
+  "description": "Storm damage documentation is collecting evidence of roof damage to support insurance claims. It is important for ensuring proper coverage and avoiding claim de"
+}

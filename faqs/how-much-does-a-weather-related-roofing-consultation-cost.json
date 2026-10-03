@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-weather-related-roofing-consultation-cost",
+  "name": "How much does a weather-related roofing consultation cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a weather-related roofing consultation cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For homeowners in our service areas like DFW, Abbott, Addison, and Allen, Discounted Roofing Co. typically offers weather-related roofing consultations free of charge. Our goal is to provide a comprehensive assessment without an upfront financial burden, helping you understand the damage and your options. This complimentary service is part of our commitment to customer care and helps facilitate the next steps, whether it's minor repairs or a full insurance claim.",
+        "@type": "Answer",
+        "description": "Discounted Roofing Co. offers free weather-related roofing consultations in our DFW service areas to assess damage and discuss options."
+      }
+    }
+  ],
+  "description": "Discounted Roofing Co. offers free weather-related roofing consultations in our DFW service areas to assess damage and discuss options."
+}

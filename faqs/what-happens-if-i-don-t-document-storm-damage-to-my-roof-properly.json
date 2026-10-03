@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-if-i-don-t-document-storm-damage-to-my-roof-properly",
+  "name": "What happens if I don't document storm damage to my roof properly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if I don't document storm damage to my roof properly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If storm damage isn't documented properly, your insurance claim might face significant challenges, including delays, disputes, or even denial. Incomplete or unclear evidence can lead the insurance company to question the extent or cause of the damage, potentially reducing your payout or requiring you to cover repair costs yourself. It could also make it difficult to prove the damage occurred during a specific storm. Ensuring thorough documentation is a critical first step to a successful repair outcome.",
+        "@type": "Answer",
+        "description": "Improper documentation of storm damage can lead to insurance claim delays, disputes, or denial, potentially leaving you responsible for repair costs."
+      }
+    }
+  ],
+  "description": "Improper documentation of storm damage can lead to insurance claim delays, disputes, or denial, potentially leaving you responsible for repair costs."
+}

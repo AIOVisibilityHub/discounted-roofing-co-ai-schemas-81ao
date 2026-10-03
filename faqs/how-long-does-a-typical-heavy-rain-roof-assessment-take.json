@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-typical-heavy-rain-roof-assessment-take",
+  "name": "How long does a typical heavy rain roof assessment take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical heavy rain roof assessment take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a heavy rain roof assessment typically ranges from 30 minutes to a few hours, depending on the size and complexity of your roof and the extent of the visible damage. A multi-story home with intricate rooflines or suspected widespread damage may require more time for a thorough evaluation. Our team strives to complete inspections efficiently while ensuring no detail is overlooked, providing you with prompt and accurate findings.",
+        "@type": "Answer",
+        "description": "Assessments usually take 30 minutes to a few hours, varying with roof size and complexity, ensuring thoroughness."
+      }
+    }
+  ],
+  "description": "Assessments usually take 30 minutes to a few hours, varying with roof size and complexity, ensuring thoroughness."
+}

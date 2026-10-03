@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-hail-impact-assessment-cost",
+  "name": "How much does a hail impact assessment cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a hail impact assessment cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most reputable roofing companies, including Discounted Roofing Co., offer hail impact assessments at no charge. The purpose of these assessments is to provide homeowners with an accurate understanding of their roof's condition and to facilitate potential insurance claims or necessary repairs. Our team will inspect your roof and provide a detailed report without an upfront fee, helping you understand the damage without financial commitment.",
+        "@type": "Answer",
+        "description": "Many roofing companies, including Discounted Roofing Co., offer hail impact assessments for free to help homeowners understand roof damage."
+      }
+    }
+  ],
+  "description": "Many roofing companies, including Discounted Roofing Co., offer hail impact assessments for free to help homeowners understand roof damage."
+}

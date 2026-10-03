@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-common-signs-of-heavy-rain-damage-that-an-assessment-looks-for",
+  "name": "What are the common signs of heavy rain damage that an assessment looks for?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of heavy rain damage that an assessment looks for?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a heavy rain roof assessment, we look for common signs of damage such as missing, cracked, or bruised shingles, which indicate hail or wind impact. Internally, we check for water stains on ceilings or walls, indicating active leaks. Other signs include granule loss on shingles, damaged flashing around chimneys or vents, clogged gutters, and pooling water. Our thorough inspection covers both visible and less obvious indicators to ensure all damage is identified.",
+        "@type": "Answer",
+        "description": "Common signs include missing or damaged shingles, interior water stains, granule loss, damaged flashing, and clogged gutters."
+      }
+    }
+  ],
+  "description": "Common signs include missing or damaged shingles, interior water stains, granule loss, damaged flashing, and clogged gutters."
+}

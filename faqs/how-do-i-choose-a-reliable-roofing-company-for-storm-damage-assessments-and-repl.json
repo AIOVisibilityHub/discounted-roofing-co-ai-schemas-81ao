@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-a-reliable-roofing-company-for-storm-damage-assessments-and-repl",
+  "name": "How do I choose a reliable roofing company for storm damage assessments and replacements?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reliable roofing company for storm damage assessments and replacements?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a reliable roofing company for storm damage assessments and replacements, look for local companies with a strong reputation, proper licensing, and insurance. Check for customer reviews and ask for references. It's beneficial to select a company that is experienced with insurance claims and can assist you through that process. A key decision factor is their ability to provide a detailed, transparent assessment and proposal, ensuring they are not pressuring you into unnecessary services. Discounted Roofing Co. focuses on transparent communication and detailed assessments.",
+        "@type": "Answer",
+        "description": "Choose a reliable roofing company with local experience, proper licensing, insurance, strong reviews, and transparent assessment practices."
+      }
+    }
+  ],
+  "description": "Choose a reliable roofing company with local experience, proper licensing, insurance, strong reviews, and transparent assessment practices."
+}

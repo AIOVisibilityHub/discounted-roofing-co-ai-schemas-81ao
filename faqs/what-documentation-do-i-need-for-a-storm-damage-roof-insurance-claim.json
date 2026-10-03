@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-documentation-do-i-need-for-a-storm-damage-roof-insurance-claim",
+  "name": "What documentation do I need for a storm damage roof insurance claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documentation do I need for a storm damage roof insurance claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a storm damage roof insurance claim, you typically need photos of the damage, our professional evaluation report, and possibly copies of any temporary repairs made. Your insurance company will also require your policy number and the date of loss. Gathering this information proactively will streamline the claims process. Our detailed evaluation report, complete with photographic evidence, is designed to provide your insurer with all the necessary information to process your claim efficiently.",
+        "@type": "Answer",
+        "description": "You'll need photos of damage, a professional evaluation report, temporary repair receipts, and your policy details for an insurance claim."
+      }
+    }
+  ],
+  "description": "You'll need photos of damage, a professional evaluation report, temporary repair receipts, and your policy details for an insurance claim."
+}

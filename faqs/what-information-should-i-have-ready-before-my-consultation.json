@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-information-should-i-have-ready-before-my-consultation",
+  "name": "What information should I have ready before my consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I have ready before my consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your weather-related roofing consultation, it's helpful to have any dates of recent severe weather events, your insurance policy information (if you plan to file a claim), and any observations you've made, such as leaks or unusual sounds during the storm. This information helps our inspector understand the context of potential damage and can streamline the assessment process. Documenting any interior damage like water stains also assists in a comprehensive evaluation.",
+        "@type": "Answer",
+        "description": "Before your consultation, have recent severe weather dates, insurance details, and any personal observations of damage ready."
+      }
+    }
+  ],
+  "description": "Before your consultation, have recent severe weather dates, insurance details, and any personal observations of damage ready."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/does-discounted-roofing-co-help-with-documentation-for-commercial-roof-damage",
+  "name": "Does Discounted Roofing Co. help with documentation for commercial roof damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does Discounted Roofing Co. help with documentation for commercial roof damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Discounted Roofing Co. assists with documentation for commercial roof damage as well as residential. Commercial roofs often have different materials and structural complexities, requiring specialized inspection techniques and detailed reports tailored to their specific construction. Our expertise extends to various commercial roofing systems, ensuring that businesses in areas like Addison or Garland receive thorough and accurate damage assessments and documentation to support their insurance claims effectively.",
+        "@type": "Answer",
+        "description": "Yes, Discounted Roofing Co. documents commercial roof damage, applying specialized inspection techniques and reports for various commercial roofing systems in our service areas."
+      }
+    }
+  ],
+  "description": "Yes, Discounted Roofing Co. documents commercial roof damage, applying specialized inspection techniques and reports for various commercial roofing systems in o"
+}

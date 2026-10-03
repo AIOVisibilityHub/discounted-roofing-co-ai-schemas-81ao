@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-kind-of-documentation-should-i-collect-immediately-after-my-roof-sustains-s",
+  "name": "What kind of documentation should I collect immediately after my roof sustains storm damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of documentation should I collect immediately after my roof sustains storm damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediately after storm damage, collect clear photos and videos of all affected areas of your roof and property, both close-up and from a distance. Note the date and time the damage occurred, if known, and the type of weather event. Also, gather any receipts for temporary repairs you make to prevent further damage. This initial evidence helps establish the condition of your roof right after the storm, which is critical for demonstrating the damage was fresh. Documenting these details quickly can support your claim with timely proof.",
+        "@type": "Answer",
+        "description": "Collect photos/videos of damage, note the date/time of the storm, and keep receipts for any emergency repairs to your roof."
+      }
+    }
+  ],
+  "description": "Collect photos/videos of damage, note the date/time of the storm, and keep receipts for any emergency repairs to your roof."
+}

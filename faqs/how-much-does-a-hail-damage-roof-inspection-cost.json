@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-hail-damage-roof-inspection-cost",
+  "name": "How much does a hail damage roof inspection cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a hail damage roof inspection cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Discounted Roofing Co. offers free, no-obligation hail damage roof inspections for homeowners in our service areas, including DFW, Abbott, and Aledo. We believe in making the process of assessing storm damage as accessible as possible. Our goal is to provide a comprehensive evaluation without any upfront cost, allowing you to understand the extent of any damage before committing to repairs or replacements.",
+        "@type": "Answer",
+        "description": "Discounted Roofing Co. provides free, no-obligation hail damage roof inspections. There is no upfront cost for this assessment."
+      }
+    }
+  ],
+  "description": "Discounted Roofing Co. provides free, no-obligation hail damage roof inspections. There is no upfront cost for this assessment."
+}

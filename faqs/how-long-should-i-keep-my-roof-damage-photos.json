@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-should-i-keep-my-roof-damage-photos",
+  "name": "How long should I keep my roof damage photos?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long should I keep my roof damage photos?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should keep your roof damage photos for at least as long as your insurance claim is active and potentially for several years after. It's wise to store them digitally in multiple locations (e.g., cloud storage, external hard drive) as well as having physical copies if needed. This ensures you have a permanent record should any future issues arise or if your insurance company requires further review.",
+        "@type": "Answer",
+        "description": "Keep roof damage photos throughout your insurance claim process and for several years after, storing them digitally and securely."
+      }
+    }
+  ],
+  "description": "Keep roof damage photos throughout your insurance claim process and for several years after, storing them digitally and securely."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-s-the-difference-between-a-regular-inspection-and-an-emergency-storm-damage",
+  "name": "What's the difference between a regular inspection and an emergency storm damage assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a regular inspection and an emergency storm damage assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A regular roof inspection typically focuses on routine maintenance and overall roof health, checking for wear and tear, and potential long-term issues. An emergency storm damage assessment, however, is specifically triggered by a recent weather event and focuses on identifying damage directly attributable to that storm. Its primary goal is rapid assessment for immediate repair needs and insurance claims, often prioritizing speed due to the urgent nature of the damage.",
+        "@type": "Answer",
+        "description": "A regular inspection is for general maintenance, while an emergency storm damage assessment focuses on identifying and documenting damage specifically caused by a recent weather event for urgent repairs and insurance."
+      }
+    }
+  ],
+  "description": "A regular inspection is for general maintenance, while an emergency storm damage assessment focuses on identifying and documenting damage specifically caused by"
+}

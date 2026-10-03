@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-common-signs-of-storm-damage-that-warrant-a-roof-assessment",
+  "name": "What are common signs of storm damage that warrant a roof assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of storm damage that warrant a roof assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of storm damage that warrant a roof assessment include missing or cracked shingles, dented gutters or downspouts, granules in your gutters, visible leaks inside your home, or damage to other exterior elements like siding or fences. Even if damage isn't immediately obvious, hail can cause latent damage that shortens your roof's lifespan, so a professional inspection is crucial. If you notice any of these indicators, particularly after a severe storm, scheduling an assessment is highly recommended.",
+        "@type": "Answer",
+        "description": "Look for missing shingles, gutter dents, granules in gutters, or interior leaks as common signs of storm damage needing an assessment."
+      }
+    }
+  ],
+  "description": "Look for missing shingles, gutter dents, granules in gutters, or interior leaks as common signs of storm damage needing an assessment."
+}

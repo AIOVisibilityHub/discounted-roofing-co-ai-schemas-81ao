@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-type-of-damage-should-i-document-after-a-storm-hits-my-roof",
+  "name": "What type of damage should I document after a storm hits my roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What type of damage should I document after a storm hits my roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should document all visible damage, including missing or cracked shingles, dents, punctures, and signs of water leaks inside your home. Take clear photos and videos from multiple angles, capturing both widespread damage and close-ups of specific issues. Note the date and time of the storm and any observed damage. Focus on damage directly caused by the storm, as pre-existing wear and tear is typically not covered. This comprehensive evidence is essential when working with Discounted Roofing Co. for your repair assessment and insurance claim.",
+        "@type": "Answer",
+        "description": "Document all visible roof damage like missing shingles, cracks, dents, and leaks with clear photos and videos. This evidence helps with insurance claims."
+      }
+    }
+  ],
+  "description": "Document all visible roof damage like missing shingles, cracks, dents, and leaks with clear photos and videos. This evidence helps with insurance claims."
+}

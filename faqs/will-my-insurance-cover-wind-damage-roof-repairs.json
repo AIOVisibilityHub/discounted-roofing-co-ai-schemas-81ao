@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-my-insurance-cover-wind-damage-roof-repairs",
+  "name": "Will my insurance cover wind damage roof repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover wind damage roof repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowner's insurance policies cover wind damage to your roof, depending on your specific policy's terms and deductibles. It is essential to file a claim promptly after an inspection. Discounted Roofing Co. can assist homeowners in the DFW area with the documentation and estimates needed for their insurance claims.",
+        "@type": "Answer",
+        "description": "Most homeowner's insurance covers wind damage. File a claim promptly; we can help with documentation for DFW residents."
+      }
+    }
+  ],
+  "description": "Most homeowner's insurance covers wind damage. File a claim promptly; we can help with documentation for DFW residents."
+}

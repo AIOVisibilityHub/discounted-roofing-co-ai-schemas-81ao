@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/do-i-need-to-take-photos-of-both-exterior-and-interior-damage",
+  "name": "Do I need to take photos of both exterior and interior damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to take photos of both exterior and interior damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is crucial to document both exterior and interior damage. Exterior photos show the direct impact on your roof, while interior photos, such as water stains on ceilings or walls, demonstrate the resulting consequences of the roof damage. This comprehensive documentation provides a complete picture for your insurance claim, linking the roof damage to the internal issues.",
+        "@type": "Answer",
+        "description": "Yes, document both exterior roof damage and any resulting interior damage like water stains to provide a complete picture for your claim."
+      }
+    }
+  ],
+  "description": "Yes, document both exterior roof damage and any resulting interior damage like water stains to provide a complete picture for your claim."
+}

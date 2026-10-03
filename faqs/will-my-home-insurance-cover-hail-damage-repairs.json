@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-my-home-insurance-cover-hail-damage-repairs",
+  "name": "Will my home insurance cover hail damage repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my home insurance cover hail damage repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard homeowner's insurance policies cover roof damage caused by hail, minus your deductible. However, coverage can vary depending on your specific policy, its age, and the type of damage. It's important to review your policy details or contact your insurance provider directly to understand your coverage limitations and claim process. Discounted Roofing Co. can assist by providing a detailed damage report that supports your insurance claim, which is a common part of our service.",
+        "@type": "Answer",
+        "description": "Most homeowner's insurance covers hail damage, but policy details and deductibles vary, so review your specific coverage or contact your provider."
+      }
+    }
+  ],
+  "description": "Most homeowner's insurance covers hail damage, but policy details and deductibles vary, so review your specific coverage or contact your provider."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-my-insurance-cover-storm-damage-repair-or-replacement",
+  "name": "Will my insurance cover storm damage repair or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover storm damage repair or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowner's insurance policies cover sudden and accidental storm damage, which can include both repairs and full replacements. The specific coverage depends on your policy terms, deductible, and the documented extent of the damage. Discounted Roofing Co. can assist with documentation and provide detailed reports for your insurance claim, streamlining the process for you.",
+        "@type": "Answer",
+        "description": "Many policies cover storm damage; coverage depends on your specific policy and the damage. We help with documentation."
+      }
+    }
+  ],
+  "description": "Many policies cover storm damage; coverage depends on your specific policy and the damage. We help with documentation."
+}

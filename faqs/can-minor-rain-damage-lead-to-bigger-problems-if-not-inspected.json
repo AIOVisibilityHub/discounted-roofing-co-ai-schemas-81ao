@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-minor-rain-damage-lead-to-bigger-problems-if-not-inspected",
+  "name": "Can minor rain damage lead to bigger problems if not inspected?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can minor rain damage lead to bigger problems if not inspected?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, even seemingly minor rain damage can escalate into significant and costly problems if not promptly inspected and addressed. Small leaks can lead to water saturation in insulation, ceiling damage, mold growth, and compromised structural integrity over time. What appears to be a small issue, like a lifted shingle, can allow water to penetrate deeper into the roofing system with subsequent rainfall. A professional inspection helps identify these hidden issues early, preventing extensive interior damage, costly structural repairs, and potential health hazards from mold.",
+        "@type": "Answer",
+        "description": "Yes, minor rain damage can escalate quickly; small leaks lead to insulation, ceiling, and structural damage, plus mold. Prompt inspection identifies hidden issues, preventing costly, extensive repairs."
+      }
+    }
+  ],
+  "description": "Yes, minor rain damage can escalate quickly; small leaks lead to insulation, ceiling, and structural damage, plus mold. Prompt inspection identifies hidden issu"
+}

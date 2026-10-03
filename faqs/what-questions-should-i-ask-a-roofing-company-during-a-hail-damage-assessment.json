@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-questions-should-i-ask-a-roofing-company-during-a-hail-damage-assessment",
+  "name": "What questions should I ask a roofing company during a hail damage assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What questions should I ask a roofing company during a hail damage assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a hail damage assessment, you should ask about their experience with insurance claims, the specific types of damage they identified, the proposed materials for replacement, and their warranty policies. Also, inquire about their estimated timeline for the project and any temporary repair options if your roof has active leaks. Our team provides clear answers to these questions and outlines a detailed plan for your roof's recovery.",
+        "@type": "Answer",
+        "description": "Ask about their insurance claim experience, identified damage, proposed materials, warranties, project timeline, and temporary repair options during the assessment."
+      }
+    }
+  ],
+  "description": "Ask about their insurance claim experience, identified damage, proposed materials, warranties, project timeline, and temporary repair options during the assessm"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-after-the-storm-damage-assessment-if-repairs-are-needed",
+  "name": "What happens after the storm damage assessment if repairs are needed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after the storm damage assessment if repairs are needed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After the storm damage assessment, if repairs or a replacement are needed, the roofing company will provide a detailed estimate. You would then typically file a claim with your insurance company, who will send an adjuster to verify the damage. The assessment report from Discounted Roofing Co. can be used to support your claim. Once the claim is approved, work can begin, and the contractor will schedule and complete the repairs or replacement.",
+        "@type": "Answer",
+        "description": "If repairs are needed after assessment, you'll receive an estimate and file an insurance claim. An adjuster verifies damage using the assessment report, and once approved, Discounted Roofing Co. will schedule and complete the work."
+      }
+    }
+  ],
+  "description": "If repairs are needed after assessment, you'll receive an estimate and file an insurance claim. An adjuster verifies damage using the assessment report, and onc"
+}

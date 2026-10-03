@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-storm-damaged-roof-assessment-typically-take",
+  "name": "How long does a storm-damaged roof assessment typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a storm-damaged roof assessment typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical storm-damaged roof assessment can take anywhere from 30 minutes to a few hours, depending on the size and complexity of your roof, as well as the extent of visible damage. Our thorough assessments ensure all areas are properly inspected, including the roof surface, flashing, gutters, and interior (if leaks are suspected). The duration also accounts for documenting findings with photos and discussing initial observations with you on-site. We prioritize detailed inspections to provide accurate recommendations.",
+        "@type": "Answer",
+        "description": "A storm-damaged roof assessment typically takes 30 minutes to a few hours, depending on roof size and damage extent."
+      }
+    }
+  ],
+  "description": "A storm-damaged roof assessment typically takes 30 minutes to a few hours, depending on roof size and damage extent."
+}

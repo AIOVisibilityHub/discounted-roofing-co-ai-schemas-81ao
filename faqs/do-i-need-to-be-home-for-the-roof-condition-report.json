@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/do-i-need-to-be-home-for-the-roof-condition-report",
+  "name": "Do I need to be home for the roof condition report?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be home for the roof condition report?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You typically do not need to be home for the physical roof inspection itself, as long as our team has safe and unobstructed access to your roof and property. However, it is beneficial if you are available before or after the inspection to discuss any specific concerns you might have observed or to ask questions about the process. We will need to contact you to deliver the findings and discuss next steps regarding potential repairs or insurance claims. Ensuring clear access to all sides of your home is helpful for a thorough assessment.",
+        "@type": "Answer",
+        "description": "You don't need to be home for the inspection if there's safe access, but being available to discuss findings is beneficial."
+      }
+    }
+  ],
+  "description": "You don't need to be home for the inspection if there's safe access, but being available to discuss findings is beneficial."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/why-is-it-important-to-choose-a-local-roofing-company-for-hail-damage-repair-in",
+  "name": "Why is it important to choose a local roofing company for hail damage repair in DFW?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is it important to choose a local roofing company for hail damage repair in DFW?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing a local roofing company like Discounted Roofing Co. for hail damage repair in the DFW area ensures that you are working with a contractor familiar with local building codes, weather patterns, and common insurance practices in Texas. Local companies are also more accessible for follow-up service and warranty claims, providing greater accountability and peace of mind compared to storm chasers who often leave the area after a job. Our presence across DFW, including cities like Addison, Allen, and Arlington, means we are always nearby.",
+        "@type": "Answer",
+        "description": "A local DFW roofing company understands local codes, weather, and insurance practices, offering better accountability, accessibility, and service for hail damage repairs."
+      }
+    }
+  ],
+  "description": "A local DFW roofing company understands local codes, weather, and insurance practices, offering better accountability, accessibility, and service for hail damag"
+}

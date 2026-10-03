@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-common-signs-of-rain-damage-on-a-roof",
+  "name": "What are the common signs of rain damage on a roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of rain damage on a roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of rain damage on a roof include water stains on ceilings or walls, bubbling or peeling paint indoors, sagging ceilings, and visible mold or mildew growth. On the exterior, look for missing, cracked, or curled shingles, damaged flashing around chimneys or vents, and granules accumulating in gutters. Early detection of these signs can prevent more extensive and costly repairs, so regular inspection, especially after heavy rainfall, is recommended.",
+        "@type": "Answer",
+        "description": "Signs of rain damage include interior water stains, peeling paint, and exterior issues like missing shingles or damaged flashing. Early detection helps prevent costly repairs."
+      }
+    }
+  ],
+  "description": "Signs of rain damage include interior water stains, peeling paint, and exterior issues like missing shingles or damaged flashing. Early detection helps prevent"
+}

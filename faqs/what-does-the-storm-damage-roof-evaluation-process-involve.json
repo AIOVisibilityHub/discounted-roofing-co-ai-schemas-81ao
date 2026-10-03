@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-does-the-storm-damage-roof-evaluation-process-involve",
+  "name": "What does the storm damage roof evaluation process involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does the storm damage roof evaluation process involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The storm damage roof evaluation process involves a detailed inspection of your roof's exterior and, if accessible, its attic components. Our technicians will examine shingles for bruising, cracking, or loss of granules; check for missing or damaged flashing; inspect gutters for dents or detachment; and assess the overall integrity of the roof structure. We document all findings with photographs and a written report, which can be essential for your insurance claim. This comprehensive approach ensures all affected areas are identified.",
+        "@type": "Answer",
+        "description": "The evaluation process includes a detailed inspection of your roof's exterior and attic, documenting all damage with photos and a report for insurance."
+      }
+    }
+  ],
+  "description": "The evaluation process includes a detailed inspection of your roof's exterior and attic, documenting all damage with photos and a report for insurance."
+}

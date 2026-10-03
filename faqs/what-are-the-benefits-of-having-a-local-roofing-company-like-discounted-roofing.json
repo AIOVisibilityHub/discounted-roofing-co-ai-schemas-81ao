@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-benefits-of-having-a-local-roofing-company-like-discounted-roofing",
+  "name": "What are the benefits of having a local roofing company like Discounted Roofing Co. handle storm damage documentation in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of having a local roofing company like Discounted Roofing Co. handle storm damage documentation in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing a local company like Discounted Roofing Co. in the DFW area means we are familiar with local building codes, common storm patterns, and specific insurance adjusters operating in the region. Our team is readily available for prompt inspections and follow-ups. We understand the specific weather challenges unique to areas like Dallas, Fort Worth, or Plano, which influences how we document damage and prepare claims. This local expertise can simplify the process and ensure documentation aligns with regional expectations, offering a more efficient and tailored service.",
+        "@type": "Answer",
+        "description": "A local DFW company understands regional weather, building codes, and insurance practices, providing prompt, tailored storm damage documentation."
+      }
+    }
+  ],
+  "description": "A local DFW company understands regional weather, building codes, and insurance practices, providing prompt, tailored storm damage documentation."
+}

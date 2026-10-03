@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/does-discounted-roofing-co-help-with-documentation-for-insurance-claims",
+  "name": "Does Discounted Roofing Co. help with documentation for insurance claims?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does Discounted Roofing Co. help with documentation for insurance claims?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Discounted Roofing Co. assists homeowners with the documentation required for their insurance claims. Our process includes a thorough roof inspection to identify all storm-related damage and then compiling a detailed report with photographic evidence. We provide this comprehensive documentation to you, which you can then submit to your insurance company. This service is part of our commitment to making the repair process as smooth as possible for our customers across our service areas like DFW and Aledo.",
+        "@type": "Answer",
+        "description": "Yes, Discounted Roofing Co. provides comprehensive documentation and photographic evidence from our inspections to support your insurance claim."
+      }
+    }
+  ],
+  "description": "Yes, Discounted Roofing Co. provides comprehensive documentation and photographic evidence from our inspections to support your insurance claim."
+}

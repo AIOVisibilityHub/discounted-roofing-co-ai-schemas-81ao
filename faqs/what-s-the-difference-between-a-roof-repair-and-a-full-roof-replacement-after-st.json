@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-s-the-difference-between-a-roof-repair-and-a-full-roof-replacement-after-st",
+  "name": "What's the difference between a roof repair and a full roof replacement after storm damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a roof repair and a full roof replacement after storm damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The main difference between a roof repair and a full roof replacement after storm damage lies in the extent of the damage. Repairs are suitable for localized damage, such as a few missing shingles or minor dents, where the rest of the roof remains in good condition. A full replacement is necessary when damage is widespread, structural, or has compromised the roof's overall integrity, making repairs insufficient or uneconomical. Our assessment will recommend the most appropriate solution based on the damage severity and roof's age.",
+        "@type": "Answer",
+        "description": "Roof repair addresses localized storm damage, while replacement is for widespread or structural damage compromising the roof's integrity."
+      }
+    }
+  ],
+  "description": "Roof repair addresses localized storm damage, while replacement is for widespread or structural damage compromising the roof's integrity."
+}

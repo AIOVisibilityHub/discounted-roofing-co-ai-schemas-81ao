@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-a-consultation-help-with-my-insurance-claim",
+  "name": "Can a consultation help with my insurance claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a consultation help with my insurance claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a professional weather-related roofing consultation is crucial for supporting an insurance claim. Our detailed inspection report, complete with photographic evidence of the damage, provides the necessary documentation for your insurance company. We can also assist you by meeting with your insurance adjuster on-site to ensure all storm-related damage is identified and included in their assessment. This process clarity helps homeowners navigate potentially complex insurance procedures.",
+        "@type": "Answer",
+        "description": "A consultation provides documentation and support for your insurance claim, including meeting with your adjuster to identify all storm damage."
+      }
+    }
+  ],
+  "description": "A consultation provides documentation and support for your insurance claim, including meeting with your adjuster to identify all storm damage."
+}

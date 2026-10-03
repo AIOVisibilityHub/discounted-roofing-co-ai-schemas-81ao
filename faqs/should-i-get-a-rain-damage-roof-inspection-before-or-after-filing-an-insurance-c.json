@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/should-i-get-a-rain-damage-roof-inspection-before-or-after-filing-an-insurance-c",
+  "name": "Should I get a rain damage roof inspection before or after filing an insurance claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I get a rain damage roof inspection before or after filing an insurance claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It's generally recommended to get a professional rain damage roof inspection *before* filing an insurance claim. An inspection provides a detailed assessment and documentation of the damage, which is crucial evidence for your claim. The inspector can identify all compromised areas, often spotting issues not visible to an untrained eye. This comprehensive report can streamline the claims process and help ensure you receive appropriate compensation for all covered damages. Having this evidence upfront can also help manage expectations with your insurance adjuster.",
+        "@type": "Answer",
+        "description": "Get a professional rain damage roof inspection before filing an insurance claim. The detailed assessment and documentation provide crucial evidence, streamlining the process and ensuring proper compensation."
+      }
+    }
+  ],
+  "description": "Get a professional rain damage roof inspection before filing an insurance claim. The detailed assessment and documentation provide crucial evidence, streamlinin"
+}

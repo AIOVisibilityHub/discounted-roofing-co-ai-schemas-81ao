@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-does-discounted-roofing-co-consider-during-a-storm-damage-assessmen",
+  "name": "What factors does Discounted Roofing Co. consider during a storm damage assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors does Discounted Roofing Co. consider during a storm damage assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a storm damage assessment, Discounted Roofing Co. examines shingle integrity, flashing, gutters, vents, and overall roof structure. Key factors include the type of storm (hail, wind), age of the roof, extent of visible damage, and potential hidden issues like water intrusion. Our thorough inspection helps determine whether repairs are sufficient or if a full replacement is the better course of action.",
+        "@type": "Answer",
+        "description": "We assess shingle condition, flashing, gutters, and the overall roof structure, considering the type of storm and roof age."
+      }
+    }
+  ],
+  "description": "We assess shingle condition, flashing, gutters, and the overall roof structure, considering the type of storm and roof age."
+}

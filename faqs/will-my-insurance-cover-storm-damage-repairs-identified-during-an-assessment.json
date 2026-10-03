@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-my-insurance-cover-storm-damage-repairs-identified-during-an-assessment",
+  "name": "Will my insurance cover storm damage repairs identified during an assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover storm damage repairs identified during an assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Insurance coverage for storm damage typically depends on your specific policy. Most homeowner policies cover sudden and accidental damage from perils like wind and hail, but exclusions and deductibles apply. A professional assessment provides the necessary documentation to support your claim. Discounted Roofing Co. can help homeowners navigate the insurance claim process by providing detailed reports and communicating with adjusters.",
+        "@type": "Answer",
+        "description": "Most homeowner policies cover sudden storm damage, but coverage depends on your specific policy, exclusions, and deductibles. A professional assessment provides documentation, and Discounted Roofing Co. assists with the insurance claim process."
+      }
+    }
+  ],
+  "description": "Most homeowner policies cover sudden storm damage, but coverage depends on your specific policy, exclusions, and deductibles. A professional assessment provides"
+}

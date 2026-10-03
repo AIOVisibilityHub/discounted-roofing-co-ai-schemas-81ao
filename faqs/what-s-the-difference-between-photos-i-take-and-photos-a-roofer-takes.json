@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-s-the-difference-between-photos-i-take-and-photos-a-roofer-takes",
+  "name": "What's the difference between photos I take and photos a roofer takes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between photos I take and photos a roofer takes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The photos you take serve as initial documentation and personal records of the damage. A professional roofer, like those at Discounted Roofing Co., will provide a more detailed and specialized set of photos. Their documentation often includes specific angles, close-ups of technical damage, and detailed annotations that are crucial for precise repair assessments and insurance negotiations. Our photos are often part of a comprehensive inspection report.",
+        "@type": "Answer",
+        "description": "Your photos are initial records; a roofer's photos offer detailed, specialized, and annotated documentation for precise assessments and insurance."
+      }
+    }
+  ],
+  "description": "Your photos are initial records; a roofer's photos offer detailed, specialized, and annotated documentation for precise assessments and insurance."
+}

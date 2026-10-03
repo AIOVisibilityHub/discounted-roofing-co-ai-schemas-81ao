@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-storm-damage-roof-repair-evaluation",
+  "name": "What is a storm damage roof repair evaluation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a storm damage roof repair evaluation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A storm damage roof repair evaluation is a professional assessment of your roof to identify and document any damage caused by severe weather events such as hail, high winds, or heavy rain. This evaluation helps determine the extent of the damage, the necessary repairs, and provides documentation often required for insurance claims. During the evaluation, our team inspects all roofing components, including shingles, flashing, gutters, and ventilation, to ensure no issues are overlooked.",
+        "@type": "Answer",
+        "description": "A storm damage roof repair evaluation assesses your roof for damage from severe weather, documenting findings for necessary repairs and insurance claims."
+      }
+    }
+  ],
+  "description": "A storm damage roof repair evaluation assesses your roof for damage from severe weather, documenting findings for necessary repairs and insurance claims."
+}

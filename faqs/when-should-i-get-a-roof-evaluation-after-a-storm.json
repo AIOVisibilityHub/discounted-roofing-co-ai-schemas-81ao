@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-a-roof-evaluation-after-a-storm",
+  "name": "When should I get a roof evaluation after a storm?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a roof evaluation after a storm?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should get a roof evaluation as soon as safely possible after a storm, ideally within a few days, to prevent further damage and comply with potential insurance claim timelines. While superficial damage might not be immediately apparent, underlying issues like weakened seals or lifted shingles can lead to leaks over time if not addressed promptly. Early evaluation helps establish a clear timeline for your claim and allows for timely tarping or temporary repairs to mitigate further issues.",
+        "@type": "Answer",
+        "description": "Get a roof evaluation promptly after a storm to prevent further damage, comply with insurance timelines, and identify issues quickly."
+      }
+    }
+  ],
+  "description": "Get a roof evaluation promptly after a storm to prevent further damage, comply with insurance timelines, and identify issues quickly."
+}

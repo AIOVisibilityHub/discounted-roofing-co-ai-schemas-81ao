@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-s-the-difference-between-a-free-evaluation-and-a-paid-inspection",
+  "name": "What's the difference between a free evaluation and a paid inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a free evaluation and a paid inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our wind damage evaluations are typically free and focused on assessing storm damage for potential repairs or insurance claims. A paid inspection, often done for real estate transactions or routine maintenance, usually involves a more comprehensive report on the overall condition and lifespan of the entire roofing system, beyond just storm-related issues. The choice depends on your immediate need: a free evaluation if you suspect storm damage, or a paid inspection for a broader assessment.",
+        "@type": "Answer",
+        "description": "Our free evaluations assess storm damage for repairs/claims. Paid inspections offer comprehensive reports for real estate or maintenance, covering overall roof condition."
+      }
+    }
+  ],
+  "description": "Our free evaluations assess storm damage for repairs/claims. Paid inspections offer comprehensive reports for real estate or maintenance, covering overall roof"
+}

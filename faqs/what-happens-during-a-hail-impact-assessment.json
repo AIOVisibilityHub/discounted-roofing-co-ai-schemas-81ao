@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-during-a-hail-impact-assessment",
+  "name": "What happens during a hail impact assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during a hail impact assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a hail impact assessment, a professional inspector will conduct a thorough visual and tactile examination of your entire roof system. This includes checking shingles for bruises, cracks, and missing granules, inspecting flashing, vents, skylights, and gutters for dents or damage, and assessing siding and windows. The inspector will document findings with photos and detailed notes. Our process at Discounted Roofing Co. includes providing a comprehensive report that can be used for insurance purposes, detailing any observed damage and recommended next steps.",
+        "@type": "Answer",
+        "description": "An inspector will thoroughly examine your roof, including shingles, flashing, and gutters, for hail damage, documenting findings with photos and notes."
+      }
+    }
+  ],
+  "description": "An inspector will thoroughly examine your roof, including shingles, flashing, and gutters, for hail damage, documenting findings with photos and notes."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-my-insurance-cover-a-full-roof-replacement-after-storm-damage",
+  "name": "Will my insurance cover a full roof replacement after storm damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover a full roof replacement after storm damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether your insurance covers a full roof replacement depends on your specific policy and the extent of the damage verified by a professional assessment. Most homeowner policies cover sudden and accidental damage from perils like wind and hail, which often necessitate replacement if the damage is widespread or compromises the roof's integrity. We can help you understand the assessment findings and how they relate to typical insurance claim processes, though policy specifics vary. It's important to review your policy and deductible.",
+        "@type": "Answer",
+        "description": "Insurance coverage for a full roof replacement after storm damage depends on your policy and the damage assessment; most policies cover sudden storm damage."
+      }
+    }
+  ],
+  "description": "Insurance coverage for a full roof replacement after storm damage depends on your policy and the damage assessment; most policies cover sudden storm damage."
+}

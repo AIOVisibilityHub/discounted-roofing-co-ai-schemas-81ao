@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-rain-damage-roof-repair-evaluation-take",
+  "name": "How long does a rain damage roof repair evaluation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a rain damage roof repair evaluation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical rain damage roof repair evaluation usually takes between 30 minutes to 1.5 hours, depending on the size and accessibility of your roof, as well as the apparent extent of the damage. More complex or larger roofs may require additional time for a thorough inspection. We aim to be efficient while ensuring no detail is overlooked, providing you with a comprehensive understanding of your roof's condition without unnecessary delays.",
+        "@type": "Answer",
+        "description": "An evaluation typically takes 30 minutes to 1.5 hours, varying with roof size, accessibility, and damage extent."
+      }
+    }
+  ],
+  "description": "An evaluation typically takes 30 minutes to 1.5 hours, varying with roof size, accessibility, and damage extent."
+}

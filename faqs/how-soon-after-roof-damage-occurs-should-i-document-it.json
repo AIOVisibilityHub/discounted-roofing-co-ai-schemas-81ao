@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-soon-after-roof-damage-occurs-should-i-document-it",
+  "name": "How soon after roof damage occurs should I document it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How soon after roof damage occurs should I document it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is best to document roof damage as soon as safely possible after it occurs, ideally within 24-48 hours. This helps establish a clear timeline for your insurance claim and prevents further deterioration from making the original damage harder to assess. Prompt documentation also minimizes questions from your insurer about the cause or timing of the damage. Even if you cannot get on the roof, exterior ground-level photos can be a starting point.",
+        "@type": "Answer",
+        "description": "Document roof damage within 24-48 hours, if safe, to establish a timeline for your insurance claim and prevent further deterioration."
+      }
+    }
+  ],
+  "description": "Document roof damage within 24-48 hours, if safe, to establish a timeline for your insurance claim and prevent further deterioration."
+}

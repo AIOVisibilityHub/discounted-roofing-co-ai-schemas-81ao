@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-a-professional-water-damage-roof-assessment",
+  "name": "When should I get a professional water damage roof assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a professional water damage roof assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should get a professional water damage roof assessment after severe weather, such as hail storms or strong winds, or if you observe any interior or exterior signs of water intrusion. It's also wise to schedule an assessment if your roof is older than 15-20 years, as materials degrade over time. Regular proactive assessments can identify small issues before they escalate, potentially saving you from emergency repairs.",
+        "@type": "Answer",
+        "description": "Schedule an assessment after severe weather, if you notice water damage signs, or if your roof is old to catch issues early."
+      }
+    }
+  ],
+  "description": "Schedule an assessment after severe weather, if you notice water damage signs, or if your roof is old to catch issues early."
+}

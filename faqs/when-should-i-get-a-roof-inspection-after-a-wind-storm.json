@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-a-roof-inspection-after-a-wind-storm",
+  "name": "When should I get a roof inspection after a wind storm?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a roof inspection after a wind storm?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is advisable to get a roof inspection as soon as possible after a significant wind storm, ideally within a few days. Prompt inspection helps document the damage for insurance claims and prevents minor issues from escalating into larger, more costly repairs. Discounted Roofing Co. prioritizes timely assessments to help you address damage efficiently.",
+        "@type": "Answer",
+        "description": "Get an inspection promptly after a storm to document damage for insurance and prevent further issues."
+      }
+    }
+  ],
+  "description": "Get an inspection promptly after a storm to document damage for insurance and prevent further issues."
+}

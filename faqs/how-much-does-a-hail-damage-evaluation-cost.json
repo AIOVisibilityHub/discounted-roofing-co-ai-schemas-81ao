@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-hail-damage-evaluation-cost",
+  "name": "How much does a hail damage evaluation cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a hail damage evaluation cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Discounted Roofing Co. offers free, no-obligation hail damage evaluations. We believe in providing transparent and accessible service to help homeowners in the DFW area understand the condition of their roof after a storm. Our goal is to accurately assess the damage and provide you with clear options without any upfront cost for the inspection itself.",
+        "@type": "Answer",
+        "description": "Discounted Roofing Co. provides free, no-obligation hail damage evaluations. There is no upfront cost for the inspection service."
+      }
+    }
+  ],
+  "description": "Discounted Roofing Co. provides free, no-obligation hail damage evaluations. There is no upfront cost for the inspection service."
+}

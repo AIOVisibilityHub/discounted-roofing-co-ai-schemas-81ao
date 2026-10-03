@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-3-tab-shingle-and-how-does-its-condition-affect-documentation",
+  "name": "What is a '3-tab' shingle and how does its condition affect documentation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a '3-tab' shingle and how does its condition affect documentation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A 3-tab shingle is a common, cost-effective asphalt shingle designed to look like three separate smaller shingles. Its condition affects damage documentation because these shingles can be more susceptible to wind uplift and hail damage compared to architectural shingles. When documenting, specific attention should be paid to lifted tabs, creasing, and granular loss on 3-tab shingles, as these are key indicators of storm damage. Our team often sees significant 3-tab shingle damage in older homes throughout our service areas, which requires careful documentation.",
+        "@type": "Answer",
+        "description": "A 3-tab shingle is a common asphalt shingle. Its condition affects documentation because it's more prone to wind/hail damage, requiring close attention to lifted tabs, creasing, and granular loss."
+      }
+    }
+  ],
+  "description": "A 3-tab shingle is a common asphalt shingle. Its condition affects documentation because it's more prone to wind/hail damage, requiring close attention to lifte"
+}

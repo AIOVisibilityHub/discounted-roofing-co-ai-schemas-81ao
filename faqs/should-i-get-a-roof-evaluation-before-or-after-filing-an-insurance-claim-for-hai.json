@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/should-i-get-a-roof-evaluation-before-or-after-filing-an-insurance-claim-for-hai",
+  "name": "Should I get a roof evaluation before or after filing an insurance claim for hail damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I get a roof evaluation before or after filing an insurance claim for hail damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is generally advisable to get a professional roof evaluation *before* filing an insurance claim for hail damage. An independent evaluation provides you with an objective assessment of the damage and helps you understand whether filing a claim is warranted. This preparation allows you to present well-documented evidence to your insurance adjuster. Discounted Roofing Co. can assist with this initial evaluation and help you understand the severity of the damage, which can streamline the subsequent insurance claim process.",
+        "@type": "Answer",
+        "description": "Get a professional roof evaluation before filing an insurance claim to understand the damage and provide objective evidence to your adjuster."
+      }
+    }
+  ],
+  "description": "Get a professional roof evaluation before filing an insurance claim to understand the damage and provide objective evidence to your adjuster."
+}

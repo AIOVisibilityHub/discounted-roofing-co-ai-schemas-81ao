@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-a-reliable-company-for-a-storm-damage-assessment",
+  "name": "How do I choose a reliable company for a storm damage assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reliable company for a storm damage assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a company for a storm damage assessment, look for licensed and insured local contractors with positive reviews and experience with storm damage. Ask for references and verify their credentials. A reliable company, such as Discounted Roofing Co., will provide a transparent assessment, explain findings clearly, and never pressure you into signing contracts before an insurance adjuster has reviewed the damage. Prioritize companies with a strong local presence in areas like DFW for accountability and quick service.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured local contractor with good reviews and storm damage experience. A reliable company like Discounted Roofing Co. will offer transparent assessments and explain findings clearly without pressure, especially if they are local to DFW."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured local contractor with good reviews and storm damage experience. A reliable company like Discounted Roofing Co. will offer transparent"
+}

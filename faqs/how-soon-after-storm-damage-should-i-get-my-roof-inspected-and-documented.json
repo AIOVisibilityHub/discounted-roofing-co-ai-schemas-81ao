@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-soon-after-storm-damage-should-i-get-my-roof-inspected-and-documented",
+  "name": "How soon after storm damage should I get my roof inspected and documented?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How soon after storm damage should I get my roof inspected and documented?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It's advisable to get your roof inspected and documented as soon as safely possible after a storm, ideally within a few days or weeks. Many insurance policies have time limits for filing claims, and prompt documentation helps link the damage directly to the storm event. Delaying an inspection can make it harder to differentiate storm damage from general wear and tear or pre-existing issues, which might affect your claim's outcome. Early action ensures the damage is clearly attributable to the recent weather.",
+        "@type": "Answer",
+        "description": "Inspect and document your roof safely and promptly after a storm, within weeks, to support your insurance claim and meet policy deadlines."
+      }
+    }
+  ],
+  "description": "Inspect and document your roof safely and promptly after a storm, within weeks, to support your insurance claim and meet policy deadlines."
+}

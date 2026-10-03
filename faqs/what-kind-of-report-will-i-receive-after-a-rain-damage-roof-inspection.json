@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-kind-of-report-will-i-receive-after-a-rain-damage-roof-inspection",
+  "name": "What kind of report will I receive after a rain damage roof inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of report will I receive after a rain damage roof inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a rain damage roof inspection, you should receive a detailed report outlining all findings. This typically includes descriptions of any identified damage, photographic evidence, and sometimes even drone footage for hard-to-reach areas. The report will specify the type and extent of damage, potential causes (like hail or wind), and recommendations for necessary repairs or replacement. Our reports at Discounted Roofing Co. are designed to be comprehensive and clear, providing you with the documentation needed for insurance claims and informed decision-making regarding your roof's future.",
+        "@type": "Answer",
+        "description": "You will receive a detailed report after a rain damage roof inspection, including damage descriptions, photos, and recommendations for repair or replacement, suitable for insurance claims and decision-making."
+      }
+    }
+  ],
+  "description": "You will receive a detailed report after a rain damage roof inspection, including damage descriptions, photos, and recommendations for repair or replacement, su"
+}

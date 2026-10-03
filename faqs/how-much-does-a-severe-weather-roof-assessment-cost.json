@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-severe-weather-roof-assessment-cost",
+  "name": "How much does a severe weather roof assessment cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a severe weather roof assessment cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a severe weather roof assessment can vary depending on the complexity and size of your roof, as well as the extent of visible damage requiring closer inspection. However, many reputable roofing companies, including Discounted Roofing Co., offer complimentary inspections after severe weather events. This free service is designed to help homeowners quickly assess damage without an upfront financial burden, facilitating the first step in a potential repair or insurance claim process.",
+        "@type": "Answer",
+        "description": "Many severe weather roof assessments are offered free of charge by roofing companies like ours, especially after major storms, to help homeowners assess damage."
+      }
+    }
+  ],
+  "description": "Many severe weather roof assessments are offered free of charge by roofing companies like ours, especially after major storms, to help homeowners assess damage."
+}

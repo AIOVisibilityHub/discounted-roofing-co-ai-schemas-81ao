@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-s-the-difference-between-a-general-roof-inspection-and-a-rain-damage-roof-i",
+  "name": "What's the difference between a general roof inspection and a rain damage roof inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a general roof inspection and a rain damage roof inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A general roof inspection is a routine check for overall roof health, wear and tear, and potential issues that may arise over time. It's proactive maintenance. A rain damage roof inspection, however, is specifically focused on identifying and assessing damage caused by recent weather events like heavy rain, hail, or strong winds. While both involve checking the roof's integrity, a rain damage inspection specifically looks for signs of water intrusion, impact damage, and storm-related vulnerabilities to support potential insurance claims. Discounted Roofing Co. tailors its post-storm inspections to pinpoint these specific concerns.",
+        "@type": "Answer",
+        "description": "A general roof inspection is routine maintenance, while a rain damage inspection specifically assesses damage from recent weather events like heavy rain or hail, focusing on water intrusion and storm-related vulnerabilities for insurance claims."
+      }
+    }
+  ],
+  "description": "A general roof inspection is routine maintenance, while a rain damage inspection specifically assesses damage from recent weather events like heavy rain or hail"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-a-roofing-company-for-a-severe-weather-assessment",
+  "name": "How do I choose a roofing company for a severe weather assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a roofing company for a severe weather assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a roofing company for a severe weather assessment, look for one with local experience, positive reviews, and proper licensing and insurance. A company like Discounted Roofing Co., operating in areas such as DFW and Allen, understands regional weather patterns and common storm damage. Prioritize companies that offer transparent communication, detailed reports, and do not pressure you into immediate repairs. Verifying their physical address and checking for a strong local presence can also provide assurance of their reliability and commitment.",
+        "@type": "Answer",
+        "description": "Choose a roofing company with local experience, good reviews, and proper licensing. Prioritize transparency, detailed reports, and a lack of sales pressure."
+      }
+    }
+  ],
+  "description": "Choose a roofing company with local experience, good reviews, and proper licensing. Prioritize transparency, detailed reports, and a lack of sales pressure."
+}

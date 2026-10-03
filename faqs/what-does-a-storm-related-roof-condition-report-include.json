@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-does-a-storm-related-roof-condition-report-include",
+  "name": "What does a storm-related roof condition report include?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a storm-related roof condition report include?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A comprehensive storm-related roof condition report from Discounted Roofing Co. typically includes a thorough visual inspection of the entire roof system, detailed photographic evidence of any identified damage, and a written explanation of findings. We document specific damage types, such as impact marks from hail, creased or missing shingles due to wind, and any compromised flashing or gutters. The report will also note the overall condition of the roof and areas requiring repair or replacement, providing clear evidence for your insurance company. This includes documenting specific damage indicators that differentiate storm damage from manufacturing defects or aging.",
+        "@type": "Answer",
+        "description": "A report includes visual inspection, photographic evidence, and a written explanation of storm damage, detailing specific issues for insurance claims."
+      }
+    }
+  ],
+  "description": "A report includes visual inspection, photographic evidence, and a written explanation of storm damage, detailing specific issues for insurance claims."
+}

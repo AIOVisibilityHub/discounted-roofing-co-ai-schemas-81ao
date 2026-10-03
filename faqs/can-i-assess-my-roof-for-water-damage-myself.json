@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-i-assess-my-roof-for-water-damage-myself",
+  "name": "Can I assess my roof for water damage myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I assess my roof for water damage myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While you can visually check your ceilings for stains or your attic for obvious leaks, a professional assessment is highly recommended for accurate identification of water damage. Professionals have the training and equipment to safely inspect hard-to-reach areas, identify hidden damage, and determine the root cause, which often isn't obvious from a ground-level view. Attempting a DIY assessment without proper safety measures can also be dangerous.",
+        "@type": "Answer",
+        "description": "You can check for obvious signs, but professionals are recommended for accurate, safe, and comprehensive water damage assessments."
+      }
+    }
+  ],
+  "description": "You can check for obvious signs, but professionals are recommended for accurate, safe, and comprehensive water damage assessments."
+}

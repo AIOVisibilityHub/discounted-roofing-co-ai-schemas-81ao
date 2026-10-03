@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-hail-damage-roof-replacement-assessment-take",
+  "name": "How long does a hail damage roof replacement assessment take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a hail damage roof replacement assessment take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical hail damage roof replacement assessment usually takes between 30 minutes to an hour, depending on the size and complexity of your roof and the extent of the damage. This timeframe allows our inspectors to thoroughly document all affected areas, including attic inspections if necessary. We aim for efficiency while ensuring a comprehensive and accurate report.",
+        "@type": "Answer",
+        "description": "A hail damage roof assessment typically takes 30 minutes to an hour, depending on roof size and damage extent, to ensure thorough documentation."
+      }
+    }
+  ],
+  "description": "A hail damage roof assessment typically takes 30 minutes to an hour, depending on roof size and damage extent, to ensure thorough documentation."
+}

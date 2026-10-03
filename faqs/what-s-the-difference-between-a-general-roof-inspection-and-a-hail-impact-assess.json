@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-s-the-difference-between-a-general-roof-inspection-and-a-hail-impact-assess",
+  "name": "What's the difference between a general roof inspection and a hail impact assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a general roof inspection and a hail impact assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A general roof inspection typically covers the overall condition, age, and maintenance needs of your roof. A hail impact assessment, however, specifically focuses on identifying and documenting damage caused by hail. While both involve inspecting the roof, a hail assessment uses specialized knowledge to detect specific indicators of hail impact, which might be overlooked in a general inspection. Discounted Roofing Co. performs targeted hail assessments to ensure all hail-related damage is accurately identified for insurance and repair purposes.",
+        "@type": "Answer",
+        "description": "A general roof inspection assesses overall condition, while a hail impact assessment specifically focuses on identifying and documenting hail-related damage."
+      }
+    }
+  ],
+  "description": "A general roof inspection assesses overall condition, while a hail impact assessment specifically focuses on identifying and documenting hail-related damage."
+}

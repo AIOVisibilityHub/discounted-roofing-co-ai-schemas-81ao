@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-it-take-to-get-a-storm-related-roof-condition-report",
+  "name": "How long does it take to get a storm-related roof condition report?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to get a storm-related roof condition report?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to complete a storm-related roof condition report typically depends on the size and accessibility of your roof, as well as the extent of visible damage. Most on-site inspections can be completed within 30 minutes to an hour. Following the inspection, the full written report with photographs is usually prepared and delivered within 24-48 hours. Factors such as inclement weather or high demand after a major storm can occasionally extend these timelines. We strive to provide timely reports to help you move forward with your insurance claim as quickly as possible.",
+        "@type": "Answer",
+        "description": "On-site inspections usually take 30-60 minutes, with the full report delivered within 24-48 hours, though timing can vary after major storms."
+      }
+    }
+  ],
+  "description": "On-site inspections usually take 30-60 minutes, with the full report delivered within 24-48 hours, though timing can vary after major storms."
+}

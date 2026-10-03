@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-a-roof-assessment-after-a-storm",
+  "name": "When should I get a roof assessment after a storm?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a roof assessment after a storm?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should get a roof assessment as soon as possible after severe weather, ideally within a few days of the storm passing. This allows for timely identification of damage, which is crucial for potential insurance claims, as most policies have time limits for filing. Rapid assessment also helps prevent water intrusion from any newly created vulnerabilities, minimizing further damage to your home's interior. We prioritize prompt scheduling for customers in our service areas like DFW, Abbott, and Addison following major weather events.",
+        "@type": "Answer",
+        "description": "Get a roof assessment within days after severe weather to identify damage, file potential insurance claims, and prevent further water intrusion."
+      }
+    }
+  ],
+  "description": "Get a roof assessment within days after severe weather to identify damage, file potential insurance claims, and prevent further water intrusion."
+}

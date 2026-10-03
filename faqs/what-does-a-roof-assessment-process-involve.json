@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-does-a-roof-assessment-process-involve",
+  "name": "What does a roof assessment process involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a roof assessment process involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our severe weather roof assessment process typically begins with an exterior inspection, examining shingles, flashing, gutters, and other roof components for visible storm damage. This is followed by a detailed attic inspection to check for leaks, water stains, or structural compromise not visible from the outside. We document our findings with photos and provide a comprehensive report outlining any damage, recommended repairs, and potential next steps for insurance claims. The whole process aims to give you a clear understanding of your roof's condition.",
+        "@type": "Answer",
+        "description": "The assessment involves an exterior roof inspection and an attic check for leaks or damage. We document findings with photos and provide a detailed report."
+      }
+    }
+  ],
+  "description": "The assessment involves an exterior roof inspection and an attic check for leaks or damage. We document findings with photos and provide a detailed report."
+}

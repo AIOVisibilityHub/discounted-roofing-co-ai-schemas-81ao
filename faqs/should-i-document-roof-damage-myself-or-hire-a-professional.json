@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/should-i-document-roof-damage-myself-or-hire-a-professional",
+  "name": "Should I document roof damage myself or hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I document roof damage myself or hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While you can begin documenting roof damage yourself with photos, hiring a professional roofing company like Discounted Roofing Co. for an inspection and report offers significant advantages. We can identify damage that may not be obvious to an untrained eye, such as small hail impacts or hidden leaks, and provide a detailed assessment using industry-standard practices. Our reports often include professional diagrams and detailed descriptions, which can be more credible and thorough for insurance submissions than self-taken photos alone.",
+        "@type": "Answer",
+        "description": "Start documenting yourself, but a professional inspection from Discounted Roofing Co. offers expert identification of hidden damage and a more credible report for insurance."
+      }
+    }
+  ],
+  "description": "Start documenting yourself, but a professional inspection from Discounted Roofing Co. offers expert identification of hidden damage and a more credible report f"
+}

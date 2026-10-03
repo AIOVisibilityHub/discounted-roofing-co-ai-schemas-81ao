@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-discounted-roofing-co-help-me-understand-my-insurance-policy-s-roof-damage-c",
+  "name": "Can Discounted Roofing Co. help me understand my insurance policy's roof damage coverage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can Discounted Roofing Co. help me understand my insurance policy's roof damage coverage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While we are not insurance adjusters or attorneys, Discounted Roofing Co. can guide you through the roofing repair or replacement process that aligns with typical insurance claims. We can help you understand the scope of work an adjuster might approve based on common policy coverages for storm damage. This assistance can help align expectations and streamline communication during the claim process.",
+        "@type": "Answer",
+        "description": "We can guide you on the repair process for storm damage that aligns with typical insurance coverages."
+      }
+    }
+  ],
+  "description": "We can guide you on the repair process for storm damage that aligns with typical insurance coverages."
+}

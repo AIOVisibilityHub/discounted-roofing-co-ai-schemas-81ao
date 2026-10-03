@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-a-storm-damage-assessment-after-a-storm-in-dfw",
+  "name": "When should I get a storm damage assessment after a storm in DFW?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a storm damage assessment after a storm in DFW?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should get a storm damage assessment as soon as safely possible after a severe weather event, typically within a few days to a week. Prompt action allows for quick documentation of the damage before it worsens or becomes difficult to distinguish from wear and tear. Many insurance policies have time limits for filing claims, so timely assessment can prevent claim denials. Discounted Roofing Co. provides quick response times in the DFW area to assess damage efficiently after a storm.",
+        "@type": "Answer",
+        "description": "Get a storm damage assessment within a few days to a week after a storm. Prompt assessment helps document damage for insurance claims before it worsens, which is critical given potential policy time limits."
+      }
+    }
+  ],
+  "description": "Get a storm damage assessment within a few days to a week after a storm. Prompt assessment helps document damage for insurance claims before it worsens, which i"
+}

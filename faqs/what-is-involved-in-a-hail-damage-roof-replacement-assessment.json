@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-involved-in-a-hail-damage-roof-replacement-assessment",
+  "name": "What is involved in a hail damage roof replacement assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a hail damage roof replacement assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A hail damage roof replacement assessment involves a thorough inspection of your roof by a qualified professional. They will look for direct impact damage like dents, cracks, and granule loss on shingles, as well as collateral damage to gutters, siding, and other roof components. During the assessment, photos and detailed notes are taken to document all findings, which are crucial for insurance claims. Our team specifically checks for damage patterns indicative of hail, differentiating it from normal wear or other issues to ensure an accurate report.",
+        "@type": "Answer",
+        "description": "A hail damage roof replacement assessment involves a thorough inspection of your roof for impact damage and collateral damage to other components, with detailed documentation for insurance."
+      }
+    }
+  ],
+  "description": "A hail damage roof replacement assessment involves a thorough inspection of your roof for impact damage and collateral damage to other components, with detailed"
+}

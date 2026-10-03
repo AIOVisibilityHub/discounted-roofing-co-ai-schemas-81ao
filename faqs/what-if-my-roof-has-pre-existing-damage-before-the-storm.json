@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-if-my-roof-has-pre-existing-damage-before-the-storm",
+  "name": "What if my roof has pre-existing damage before the storm?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if my roof has pre-existing damage before the storm?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your roof has pre-existing damage, a severe weather assessment will distinguish between old and new damage. Our inspectors are trained to identify characteristics that differentiate storm-related damage from wear and tear or previous issues. While insurance typically covers new storm damage, pre-existing conditions are usually excluded. Our detailed report will clarify which damage appears to be storm-induced, helping you understand what may be covered and what falls outside the scope of a new claim.",
+        "@type": "Answer",
+        "description": "Our assessment distinguishes new storm damage from pre-existing issues. Insurance typically covers new damage, not pre-existing conditions."
+      }
+    }
+  ],
+  "description": "Our assessment distinguishes new storm damage from pre-existing issues. Insurance typically covers new damage, not pre-existing conditions."
+}

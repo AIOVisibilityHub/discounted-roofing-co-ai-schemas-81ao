@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-discounted-roofing-co-help-me-with-my-insurance-claim-for-storm-damage",
+  "name": "Can Discounted Roofing Co. help me with my insurance claim for storm damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can Discounted Roofing Co. help me with my insurance claim for storm damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Discounted Roofing Co. provides support throughout the insurance claim process for storm damage. Our team can assist by performing a detailed roof inspection, preparing comprehensive documentation, and communicating with your insurance adjuster. While we do not act as public adjusters, we help ensure that all storm-related damage is accurately identified and presented to your insurance company. This service aims to simplify the process for homeowners in areas like DFW, Abbott, and Addison, allowing you to focus on restoration.",
+        "@type": "Answer",
+        "description": "Yes, Discounted Roofing Co. assists with storm damage insurance claims by performing inspections, preparing documentation, and communicating with adjusters."
+      }
+    }
+  ],
+  "description": "Yes, Discounted Roofing Co. assists with storm damage insurance claims by performing inspections, preparing documentation, and communicating with adjusters."
+}

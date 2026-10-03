@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-difference-between-acv-and-rcv-in-a-roof-damage-insurance-claim",
+  "name": "What is the difference between ACV and RCV in a roof damage insurance claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between ACV and RCV in a roof damage insurance claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Actual Cash Value (ACV) covers the depreciated value of your roof, meaning it accounts for its age and condition before the damage. Replacement Cost Value (RCV) covers the cost to replace your roof with a new one of similar quality, without deducting for depreciation. Most policies initially pay out ACV and release the depreciation holdback upon completion of repairs, which is a key difference to understand when planning your roof replacement project.",
+        "@type": "Answer",
+        "description": "ACV covers depreciated value, while RCV covers the cost to replace your roof without depreciation. Most policies pay ACV first."
+      }
+    }
+  ],
+  "description": "ACV covers depreciated value, while RCV covers the cost to replace your roof without depreciation. Most policies pay ACV first."
+}

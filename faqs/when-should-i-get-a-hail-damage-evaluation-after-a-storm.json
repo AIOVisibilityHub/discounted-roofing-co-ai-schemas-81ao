@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-a-hail-damage-evaluation-after-a-storm",
+  "name": "When should I get a hail damage evaluation after a storm?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a hail damage evaluation after a storm?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is advisable to get a hail damage evaluation as soon as safely possible after a significant hail event. Delaying an inspection can sometimes complicate insurance claims, as older damage may be harder to distinguish from new storm damage. Prompt assessment helps document the damage accurately and ensures you have the necessary information to address potential repairs. For residents in areas like Addison or Allen, contacting a local company like Discounted Roofing Co. quickly can also help secure timely service appointments.",
+        "@type": "Answer",
+        "description": "Schedule a hail damage evaluation as soon as possible after a storm. Prompt assessment helps with accurate documentation for potential insurance claims and timely service."
+      }
+    }
+  ],
+  "description": "Schedule a hail damage evaluation as soon as possible after a storm. Prompt assessment helps with accurate documentation for potential insurance claims and time"
+}

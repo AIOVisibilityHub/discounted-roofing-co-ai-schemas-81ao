@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-a-heavy-rain-roof-assessment-help-with-insurance-claims",
+  "name": "Can a heavy rain roof assessment help with insurance claims?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a heavy rain roof assessment help with insurance claims?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a professional heavy rain roof assessment is crucial for supporting insurance claims related to storm damage. Our detailed assessment reports often include photographic evidence and precise descriptions of damage, which can be invaluable when submitting a claim to your insurance provider. We can help you understand the extent of the damage and provide the necessary documentation to facilitate your claims process, ensuring you receive appropriate coverage for repairs.",
+        "@type": "Answer",
+        "description": "A professional assessment provides detailed reports and evidence essential for supporting insurance claims related to storm damage."
+      }
+    }
+  ],
+  "description": "A professional assessment provides detailed reports and evidence essential for supporting insurance claims related to storm damage."
+}

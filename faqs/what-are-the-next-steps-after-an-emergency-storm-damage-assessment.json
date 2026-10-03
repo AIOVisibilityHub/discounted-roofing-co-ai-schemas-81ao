@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-next-steps-after-an-emergency-storm-damage-assessment",
+  "name": "What are the next steps after an emergency storm damage assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the next steps after an emergency storm damage assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After an emergency storm damage assessment, Discounted Roofing Co. will provide you with a detailed report of the findings and recommended repairs. We can then assist you in navigating the insurance claims process, if applicable, and provide a comprehensive estimate for the necessary work. Our team will explain all options and help you decide on the most effective course of action to restore your roof's integrity.",
+        "@type": "Answer",
+        "description": "Following the assessment, you'll receive a detailed report and repair recommendations. We can then assist with insurance claims and provide an estimate to help you decide on next steps."
+      }
+    }
+  ],
+  "description": "Following the assessment, you'll receive a detailed report and repair recommendations. We can then assist with insurance claims and provide an estimate to help"
+}

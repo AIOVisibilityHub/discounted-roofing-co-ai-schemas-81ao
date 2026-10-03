@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-soon-after-a-storm-should-i-get-a-wind-damage-evaluation",
+  "name": "How soon after a storm should I get a wind damage evaluation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How soon after a storm should I get a wind damage evaluation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is advisable to get a wind damage evaluation as soon as safely possible after a severe storm. Timely inspection helps prevent further damage, such as water leaks, that can worsen over time and lead to more costly repairs. Our team serving the DFW area and surrounding communities like Aledo or Allen is often booked quickly after major weather events, so prompt contact helps us schedule your evaluation sooner.",
+        "@type": "Answer",
+        "description": "Get a wind damage evaluation as soon as safely possible after a storm to prevent further damage. Prompt contact helps us schedule your DFW-area evaluation sooner."
+      }
+    }
+  ],
+  "description": "Get a wind damage evaluation as soon as safely possible after a storm to prevent further damage. Prompt contact helps us schedule your DFW-area evaluation soone"
+}

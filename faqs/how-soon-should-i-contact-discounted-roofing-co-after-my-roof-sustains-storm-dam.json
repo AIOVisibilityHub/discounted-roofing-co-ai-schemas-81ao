@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-soon-should-i-contact-discounted-roofing-co-after-my-roof-sustains-storm-dam",
+  "name": "How soon should I contact Discounted Roofing Co. after my roof sustains storm damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How soon should I contact Discounted Roofing Co. after my roof sustains storm damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Contacting Discounted Roofing Co. promptly after storm damage allows us to perform an initial assessment quickly. We can help you understand the extent of the damage before you file your claim, providing valuable information for your insurance company. This early assessment can also help prevent further interior damage while you await the insurance adjuster's visit.",
+        "@type": "Answer",
+        "description": "Contact us promptly after storm damage for an initial assessment to understand the damage and prevent further issues."
+      }
+    }
+  ],
+  "description": "Contact us promptly after storm damage for an initial assessment to understand the damage and prevent further issues."
+}

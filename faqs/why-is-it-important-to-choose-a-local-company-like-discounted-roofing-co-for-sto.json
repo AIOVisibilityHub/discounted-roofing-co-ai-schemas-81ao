@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/why-is-it-important-to-choose-a-local-company-like-discounted-roofing-co-for-sto",
+  "name": "Why is it important to choose a local company like Discounted Roofing Co. for storm damage assessments in Dallas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is it important to choose a local company like Discounted Roofing Co. for storm damage assessments in Dallas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing a local company like Discounted Roofing Co. for storm damage assessments in Dallas ensures familiarity with local building codes, common storm patterns, and insurance adjusters in the area. Our proximity allows for faster response times, and we have an established reputation within the community. This local insight means we can provide more accurate assessments and efficient repair services tailored to the specific conditions in Dallas.",
+        "@type": "Answer",
+        "description": "Choosing a local company like Discounted Roofing Co. in Dallas ensures familiarity with local building codes and storm patterns, allowing for faster response, accurate assessments, and efficient repairs tailored to the region."
+      }
+    }
+  ],
+  "description": "Choosing a local company like Discounted Roofing Co. in Dallas ensures familiarity with local building codes and storm patterns, allowing for faster response, a"
+}

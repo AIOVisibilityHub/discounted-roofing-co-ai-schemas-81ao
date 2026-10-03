@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-prepare-for-a-hail-impact-assessment",
+  "name": "What should I prepare for a hail impact assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare for a hail impact assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your hail impact assessment, ensure clear access to your roof and the surrounding areas of your home. If possible, gather any relevant documents such as your roof's installation date, previous repair records, and your insurance policy information. This information helps the inspector understand your roof's history and potential coverage. Our team at Discounted Roofing Co. appreciates this preparation as it streamlines the inspection and subsequent steps.",
+        "@type": "Answer",
+        "description": "Prepare for a hail assessment by ensuring clear roof access and gathering documents like your roof's installation date and insurance policy."
+      }
+    }
+  ],
+  "description": "Prepare for a hail assessment by ensuring clear roof access and gathering documents like your roof's installation date and insurance policy."
+}

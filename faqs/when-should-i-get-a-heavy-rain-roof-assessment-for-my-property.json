@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-a-heavy-rain-roof-assessment-for-my-property",
+  "name": "When should I get a heavy rain roof assessment for my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a heavy rain roof assessment for my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a heavy rain roof assessment immediately following significant or prolonged rainfall, especially if you notice leaks, water stains, missing shingles, or debris on the ground. It's also advisable after any major storm event. Early assessment helps identify potential damage that might not be visible from the ground, preventing minor issues from escalating into costly repairs. Our team can quickly dispatch a technician to properties within our service areas, including DFW and surrounding communities, to assess the situation promptly.",
+        "@type": "Answer",
+        "description": "Schedule a heavy rain roof assessment after significant rainfall or a major storm, especially if you notice leaks or visible damage. Early action prevents larger problems."
+      }
+    }
+  ],
+  "description": "Schedule a heavy rain roof assessment after significant rainfall or a major storm, especially if you notice leaks or visible damage. Early action prevents large"
+}

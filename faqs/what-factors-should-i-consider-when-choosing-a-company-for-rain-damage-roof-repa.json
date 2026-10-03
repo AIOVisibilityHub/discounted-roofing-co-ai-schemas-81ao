@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-should-i-consider-when-choosing-a-company-for-rain-damage-roof-repa",
+  "name": "What factors should I consider when choosing a company for rain damage roof repair in DFW?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing a company for rain damage roof repair in DFW?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a company for rain damage roof repair in the DFW area, consider factors like local experience, licensing, insurance, and customer reviews. Discounted Roofing Co. has extensive experience serving numerous communities in DFW, including Dallas, Fort Worth, and Plano, and understands local building codes and weather patterns. Verify that the company provides clear estimates and warranties for their work, as these indicate reliability and commitment to quality.",
+        "@type": "Answer",
+        "description": "Choose a company in DFW with local experience, proper licensing, insurance, and good reviews. Verify clear estimates and warranties for reliability."
+      }
+    }
+  ],
+  "description": "Choose a company in DFW with local experience, proper licensing, insurance, and good reviews. Verify clear estimates and warranties for reliability."
+}

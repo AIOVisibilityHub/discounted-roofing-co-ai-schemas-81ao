@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-if-my-insurance-company-s-estimate-is-lower-than-the-contractor-s-estimate",
+  "name": "What if my insurance company's estimate is lower than the contractor's estimate for roof repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if my insurance company's estimate is lower than the contractor's estimate for roof repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If there's a discrepancy between your insurance company's estimate and your contractor's, it's not uncommon. Provide your insurance adjuster with the detailed estimate from Discounted Roofing Co. and highlight any differences in scope or materials. We can often communicate directly with your adjuster to explain the necessity of specific repairs or materials, ensuring all damage is addressed properly. This collaboration aims to reach a fair settlement that covers the required work.",
+        "@type": "Answer",
+        "description": "Provide your insurance adjuster with Discounted Roofing Co.'s detailed estimate and we can help clarify discrepancies to ensure all necessary repairs are covered."
+      }
+    }
+  ],
+  "description": "Provide your insurance adjuster with Discounted Roofing Co.'s detailed estimate and we can help clarify discrepancies to ensure all necessary repairs are covere"
+}

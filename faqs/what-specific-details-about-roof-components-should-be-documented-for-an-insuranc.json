@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-specific-details-about-roof-components-should-be-documented-for-an-insuranc",
+  "name": "What specific details about roof components should be documented for an insurance claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What specific details about roof components should be documented for an insurance claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Beyond general damage, specific components to document include the type of roofing material, the condition of flashing around chimneys and vents, gutters and downspouts, and any visible damage to the roof decking or underlying structure. Documenting the age of the roof and previous repair history can also be important. Discounted Roofing Co. provides a comprehensive component-level assessment during our inspections, which is particularly vital for older roofs in areas across DFW to determine the scope of necessary repairs versus replacement.",
+        "@type": "Answer",
+        "description": "Document roofing material type, flashing, gutters, downspouts, and any damage to decking. Discounted Roofing Co. offers component-level assessments, crucial for older DFW roofs."
+      }
+    }
+  ],
+  "description": "Document roofing material type, flashing, gutters, downspouts, and any damage to decking. Discounted Roofing Co. offers component-level assessments, crucial for"
+}

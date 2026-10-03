@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-is-the-best-time-to-take-photos-of-roof-damage-after-a-storm",
+  "name": "When is the best time to take photos of roof damage after a storm?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time to take photos of roof damage after a storm?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best time to take photos of roof damage is as soon as it is safe to do so after a storm. Early documentation captures the damage in its original state before further deterioration or temporary fixes occur. This immediate visual record is crucial for insurance adjusters to assess the cause and extent of the damage accurately. Ensure your safety first and only access areas that are stable.",
+        "@type": "Answer",
+        "description": "Take photos of roof damage as soon as it's safe after a storm to capture the damage in its original state for insurance assessment."
+      }
+    }
+  ],
+  "description": "Take photos of roof damage as soon as it's safe after a storm to capture the damage in its original state for insurance assessment."
+}

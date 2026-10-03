@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-involved-in-a-professional-hail-damage-roof-inspection",
+  "name": "What is involved in a professional hail damage roof inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a professional hail damage roof inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A professional hail damage roof inspection involves a thorough assessment of your entire roofing system. Our inspectors at Discounted Roofing Co. will examine shingles, flashing, gutters, vents, and other roof components for signs of impact, bruising, cracking, or granule loss. We also check for secondary damage to siding, windows, and outdoor units. The process includes documenting findings with photos and detailed notes to support potential insurance claims.",
+        "@type": "Answer",
+        "description": "A professional inspection includes a thorough examination of shingles, flashing, gutters, and vents, with documentation for potential insurance claims."
+      }
+    }
+  ],
+  "description": "A professional inspection includes a thorough examination of shingles, flashing, gutters, and vents, with documentation for potential insurance claims."
+}

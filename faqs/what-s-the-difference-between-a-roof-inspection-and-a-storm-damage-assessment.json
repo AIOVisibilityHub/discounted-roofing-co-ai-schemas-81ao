@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-s-the-difference-between-a-roof-inspection-and-a-storm-damage-assessment",
+  "name": "What's the difference between a roof inspection and a storm damage assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a roof inspection and a storm damage assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While both involve examining the roof, a general roof inspection assesses overall condition and identifies maintenance needs or potential issues. A storm damage assessment specifically focuses on identifying and documenting damage caused by a recent weather event, like hail or strong winds. The latter is often performed with insurance claims in mind, requiring detailed reports of specific damage points. Discounted Roofing Co. tailors its assessments to clearly distinguish storm-related damage from general wear.",
+        "@type": "Answer",
+        "description": "A general roof inspection checks overall condition, while a storm damage assessment specifically identifies and documents damage from a recent weather event for insurance purposes. Discounted Roofing Co. clearly distinguishes storm damage."
+      }
+    }
+  ],
+  "description": "A general roof inspection checks overall condition, while a storm damage assessment specifically identifies and documents damage from a recent weather event for"
+}

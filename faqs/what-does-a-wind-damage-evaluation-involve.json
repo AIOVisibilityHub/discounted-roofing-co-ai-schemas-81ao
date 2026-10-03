@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-does-a-wind-damage-evaluation-involve",
+  "name": "What does a wind damage evaluation involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a wind damage evaluation involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A wind damage evaluation involves a thorough inspection of your entire roof system, including shingles, flashing, gutters, and any vents or skylights. Our experienced technicians will look for specific indicators of wind damage, such as uplifted, creased, or missing shingles, and assess the overall integrity of your roof. We will also check for secondary damage to siding or other exterior elements that may have been affected by the same wind event.",
+        "@type": "Answer",
+        "description": "A wind damage evaluation includes a thorough inspection of your roof system, flashing, and gutters for uplifted or missing shingles and other signs of wind impact."
+      }
+    }
+  ],
+  "description": "A wind damage evaluation includes a thorough inspection of your roof system, flashing, and gutters for uplifted or missing shingles and other signs of wind impa"
+}

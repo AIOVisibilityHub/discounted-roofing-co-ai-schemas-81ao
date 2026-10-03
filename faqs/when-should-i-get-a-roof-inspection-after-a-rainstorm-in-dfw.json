@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-a-roof-inspection-after-a-rainstorm-in-dfw",
+  "name": "When should I get a roof inspection after a rainstorm in DFW?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a roof inspection after a rainstorm in DFW?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a roof inspection promptly after any significant rainstorm, especially if accompanied by high winds or hail, or if you notice visible signs of damage like missing shingles or leaks. Heavy rain can exacerbate existing issues or cause new damage that might not be immediately obvious from the ground. Scheduling a professional inspection quickly helps to assess the full extent of the damage and prevent further deterioration, which is crucial for timely insurance claims and repairs. For example, in the DFW area, storm severity can vary greatly, so a proactive inspection is a sensible first step.",
+        "@type": "Answer",
+        "description": "Get a roof inspection promptly after significant rainstorms, especially with high winds or hail, or if you see visible damage. Early assessment helps prevent further deterioration and supports timely insurance claims."
+      }
+    }
+  ],
+  "description": "Get a roof inspection promptly after significant rainstorms, especially with high winds or hail, or if you see visible damage. Early assessment helps prevent fu"
+}

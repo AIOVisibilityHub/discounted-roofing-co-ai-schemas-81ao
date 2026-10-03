@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-common-signs-of-wind-damage-to-a-roof",
+  "name": "What are the common signs of wind damage to a roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of wind damage to a roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of wind damage include missing or displaced shingles, torn or curled shingles, granules in gutters, and sometimes dark spots on the roof where the underlayment is exposed. Strong winds can also lift and separate shingles, creating weak points that lead to leaks. When inspecting your roof, pay attention to the edges and ridges, as these areas are often most susceptible to wind uplift. Our team conducting the evaluation will thoroughly check these specific areas.",
+        "@type": "Answer",
+        "description": "Common signs of wind damage are missing or displaced shingles, torn shingles, and granules in gutters. Our evaluations focus on susceptible areas like edges and ridges."
+      }
+    }
+  ],
+  "description": "Common signs of wind damage are missing or displaced shingles, torn shingles, and granules in gutters. Our evaluations focus on susceptible areas like edges and"
+}

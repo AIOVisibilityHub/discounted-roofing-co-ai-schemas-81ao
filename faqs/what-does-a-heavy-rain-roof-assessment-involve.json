@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-does-a-heavy-rain-roof-assessment-involve",
+  "name": "What does a heavy rain roof assessment involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a heavy rain roof assessment involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A heavy rain roof assessment involves a thorough inspection of your roof's exterior and interior components for water damage, wear, and potential vulnerabilities exacerbated by rainfall. Our experienced technicians will examine shingles, flashing, gutters, downspouts, and attic spaces for leaks, deterioration, or structural issues. We prioritize a comprehensive check to identify all rain-related damage, often providing photographic evidence to help you understand the assessment findings and necessary repairs.",
+        "@type": "Answer",
+        "description": "An assessment involves a comprehensive inspection of your roof's exterior, flashing, gutters, and attic for rain-related damage and potential leaks."
+      }
+    }
+  ],
+  "description": "An assessment involves a comprehensive inspection of your roof's exterior, flashing, gutters, and attic for rain-related damage and potential leaks."
+}

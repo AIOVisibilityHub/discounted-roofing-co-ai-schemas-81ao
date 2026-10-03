@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-typical-severe-weather-roof-assessment-take",
+  "name": "How long does a typical severe weather roof assessment take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical severe weather roof assessment take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard severe weather roof assessment typically takes between 30 minutes to an hour, depending on the size and complexity of your roof and the extent of the storm damage. This timeframe includes both the exterior inspection and a thorough attic check. We aim to be efficient while ensuring no detail is overlooked, providing a prompt yet comprehensive evaluation. For homes in our broad service area, including places like Mesquite or Garland, we can often schedule assessments quickly after a storm.",
+        "@type": "Answer",
+        "description": "A typical severe weather roof assessment takes 30 minutes to an hour, depending on roof size and damage, covering both exterior and attic inspections."
+      }
+    }
+  ],
+  "description": "A typical severe weather roof assessment takes 30 minutes to an hour, depending on roof size and damage, covering both exterior and attic inspections."
+}

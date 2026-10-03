@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-my-homeowner-s-insurance-cover-hail-damage-roof-repair-or-replacement",
+  "name": "Will my homeowner's insurance cover hail damage roof repair or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover hail damage roof repair or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowner's insurance policies cover roof damage caused by hail, minus your deductible. Coverage depends on your specific policy and its terms. It's important to understand your policy's depreciation schedule, as some policies will only pay out the actual cash value of your roof initially, with the remaining recoverable depreciation paid once repairs are completed. Discounted Roofing Co. can help homeowners in areas like DFW navigate the insurance claim process.",
+        "@type": "Answer",
+        "description": "Most homeowner's insurance policies cover hail damage, subject to your deductible and policy terms. Understand your policy's depreciation schedule for payouts."
+      }
+    }
+  ],
+  "description": "Most homeowner's insurance policies cover hail damage, subject to your deductible and policy terms. Understand your policy's depreciation schedule for payouts."
+}

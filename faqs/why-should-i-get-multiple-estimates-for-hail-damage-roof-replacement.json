@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/why-should-i-get-multiple-estimates-for-hail-damage-roof-replacement",
+  "name": "Why should I get multiple estimates for hail damage roof replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why should I get multiple estimates for hail damage roof replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Obtaining multiple estimates allows you to compare the scope of work, materials proposed, and pricing from different reputable roofing companies. This helps ensure you receive a fair and competitive offer for your roof replacement. When comparing, also consider the company's experience with insurance claims and their local reputation, as these factors contribute to a smoother project outcome.",
+        "@type": "Answer",
+        "description": "Getting multiple estimates allows you to compare work scope, materials, and pricing from different roofers, ensuring a fair and competitive offer."
+      }
+    }
+  ],
+  "description": "Getting multiple estimates allows you to compare work scope, materials, and pricing from different roofers, ensuring a fair and competitive offer."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-prepare-before-a-storm-damage-roof-assessment",
+  "name": "What should I prepare before a storm damage roof assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a storm damage roof assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a storm damage roof assessment, you should gather any relevant documentation, such as your insurance policy details, photos of your roof before the storm if available, and notes on any visible interior leaks or damage. Ensure clear access to your property for the inspector and secure pets. Having this information readily available can streamline the assessment process and aid in discussions regarding potential insurance claims. We also recommend noting any specific concerns you have about your roof's condition.",
+        "@type": "Answer",
+        "description": "Prepare your insurance policy, photos of prior damage, and notes on leaks before a storm damage roof assessment for a smoother process."
+      }
+    }
+  ],
+  "description": "Prepare your insurance policy, photos of prior damage, and notes on leaks before a storm damage roof assessment for a smoother process."
+}

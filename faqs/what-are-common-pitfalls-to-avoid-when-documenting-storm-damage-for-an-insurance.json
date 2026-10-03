@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-common-pitfalls-to-avoid-when-documenting-storm-damage-for-an-insurance",
+  "name": "What are common pitfalls to avoid when documenting storm damage for an insurance claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common pitfalls to avoid when documenting storm damage for an insurance claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common pitfalls include failing to take enough photos, not documenting all affected areas, or delaying the inspection. Another mistake is cleaning up debris or making extensive repairs before documenting the original damage, as this removes evidence. Only perform temporary, necessary fixes to prevent further harm. Additionally, relying solely on your insurance adjuster's assessment without independent contractor documentation can be a pitfall. Having your own comprehensive report from a qualified roofer provides a strong baseline for comparison and negotiation.",
+        "@type": "Answer",
+        "description": "Avoid insufficient photos, delayed inspections, cleaning up damage before documentation, or relying solely on the adjuster's report."
+      }
+    }
+  ],
+  "description": "Avoid insufficient photos, delayed inspections, cleaning up damage before documentation, or relying solely on the adjuster's report."
+}

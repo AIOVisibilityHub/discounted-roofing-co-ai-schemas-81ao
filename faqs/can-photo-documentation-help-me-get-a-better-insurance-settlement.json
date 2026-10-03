@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-photo-documentation-help-me-get-a-better-insurance-settlement",
+  "name": "Can photo documentation help me get a better insurance settlement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can photo documentation help me get a better insurance settlement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, thorough photo documentation can significantly improve your chances of a fair insurance settlement. Detailed images clearly show the extent of the damage, making it harder for insurance companies to deny or undervalue your claim. This visual evidence supports professional assessments and provides a factual basis for the repair costs. Photos help us advocate on your behalf during the claims process.",
+        "@type": "Answer",
+        "description": "Thorough photo documentation can improve your insurance settlement by providing clear visual evidence of damage to support your claim."
+      }
+    }
+  ],
+  "description": "Thorough photo documentation can improve your insurance settlement by providing clear visual evidence of damage to support your claim."
+}

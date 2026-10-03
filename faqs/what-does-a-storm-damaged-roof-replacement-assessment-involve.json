@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-does-a-storm-damaged-roof-replacement-assessment-involve",
+  "name": "What does a storm-damaged roof replacement assessment involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a storm-damaged roof replacement assessment involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A storm-damaged roof replacement assessment involves a thorough inspection of your roof by a qualified professional to identify damage caused by weather events like hail, wind, or fallen debris. The inspector will look for signs such as missing shingles, cracks, dents, leaks, and structural compromise. This assessment helps determine the extent of the damage, whether repairs are sufficient, or if a full replacement is necessary. We provide a detailed report and discuss the findings with you, often including photos for clarity.",
+        "@type": "Answer",
+        "description": "A storm-damaged roof replacement assessment involves a detailed inspection of your roof to identify and document all storm-related damage."
+      }
+    }
+  ],
+  "description": "A storm-damaged roof replacement assessment involves a detailed inspection of your roof to identify and document all storm-related damage."
+}

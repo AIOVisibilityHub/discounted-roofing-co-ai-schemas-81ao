@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-my-insurance-cover-storm-damage-roof-repairs",
+  "name": "Will my insurance cover storm damage roof repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover storm damage roof repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowner's insurance policies cover roof damage caused by perils like hail, wind, and lightning, but coverage details can vary. It's crucial to review your specific policy to understand your deductibles, coverage limits, and claim procedures. After our evaluation, we provide a detailed report that can be submitted to your insurance company. Our team can also assist in navigating the claims process by providing necessary documentation to your adjuster, streamlining your experience.",
+        "@type": "Answer",
+        "description": "Most homeowner's insurance covers storm damage, but policies vary. We provide a detailed report to help with your insurance claim."
+      }
+    }
+  ],
+  "description": "Most homeowner's insurance covers storm damage, but policies vary. We provide a detailed report to help with your insurance claim."
+}

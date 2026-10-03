@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-weather-related-roofing-consultation",
+  "name": "What is a weather-related roofing consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a weather-related roofing consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A weather-related roofing consultation involves a detailed inspection of your roof following severe weather events like hail, strong winds, or heavy storms. Our inspectors assess the extent of damage, identify potential leaks, and evaluate the roof's overall integrity. This service helps determine if repairs are needed or if the damage warrants an insurance claim, providing a clear understanding of your roof's condition. We often look for signs like missing shingles, dented gutters, or water stains on interior ceilings, which are common indicators of storm damage.",
+        "@type": "Answer",
+        "description": "A weather-related roofing consultation assesses roof damage after severe weather, identifying repair needs or insurance claim potential."
+      }
+    }
+  ],
+  "description": "A weather-related roofing consultation assesses roof damage after severe weather, identifying repair needs or insurance claim potential."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-types-of-photos-should-i-take-to-document-roof-damage",
+  "name": "What types of photos should I take to document roof damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of photos should I take to document roof damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When documenting roof damage, take wide shots of the entire roof and close-up photos of specific damaged areas like missing shingles, dents, or punctures. Include photos of any interior damage caused by roof leaks. It's also helpful to include date and time stamps if your camera allows. Capturing images of surrounding property damage, such as fences or gutters, can also strengthen your claim.",
+        "@type": "Answer",
+        "description": "Take wide shots of your roof, close-ups of damaged areas, and photos of any interior damage caused by leaks to document roof damage."
+      }
+    }
+  ],
+  "description": "Take wide shots of your roof, close-ups of damaged areas, and photos of any interior damage caused by leaks to document roof damage."
+}

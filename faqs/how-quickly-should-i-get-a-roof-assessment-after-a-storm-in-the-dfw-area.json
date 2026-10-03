@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-quickly-should-i-get-a-roof-assessment-after-a-storm-in-the-dfw-area",
+  "name": "How quickly should I get a roof assessment after a storm in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly should I get a roof assessment after a storm in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It's advisable to get a roof assessment as soon as safely possible after a significant storm in the DFW area, typically within a few days to a week. Delaying the assessment can lead to further damage, such as water infiltration, which may not be covered by insurance if not promptly reported. Early assessment also helps secure your place in a contractor's schedule, especially during periods of high demand following widespread storm activity. This immediate action is crucial for preventing minor damage from escalating.",
+        "@type": "Answer",
+        "description": "Get a roof assessment within a few days to a week after a storm in the DFW area to prevent further damage and ensure timely insurance claims."
+      }
+    }
+  ],
+  "description": "Get a roof assessment within a few days to a week after a storm in the DFW area to prevent further damage and ensure timely insurance claims."
+}

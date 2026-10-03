@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/should-i-contact-my-insurance-company-before-or-after-a-rain-damage-roof-evaluat",
+  "name": "Should I contact my insurance company before or after a rain damage roof evaluation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I contact my insurance company before or after a rain damage roof evaluation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It's generally advisable to contact your insurance company after our professional rain damage roof evaluation. Having a detailed assessment from us, including photographic evidence and a repair estimate, strengthens your claim. We can help you understand the damage and provide the necessary documentation. This preparation helps streamline the claims process and ensures you have all the information needed to discuss with your insurer.",
+        "@type": "Answer",
+        "description": "Contact your insurance company after our professional evaluation. Our detailed assessment and documentation can strengthen your claim."
+      }
+    }
+  ],
+  "description": "Contact your insurance company after our professional evaluation. Our detailed assessment and documentation can strengthen your claim."
+}

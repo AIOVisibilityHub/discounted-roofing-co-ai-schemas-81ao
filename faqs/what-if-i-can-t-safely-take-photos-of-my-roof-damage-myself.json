@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-if-i-can-t-safely-take-photos-of-my-roof-damage-myself",
+  "name": "What if I can't safely take photos of my roof damage myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if I can't safely take photos of my roof damage myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you cannot safely take photos of your roof damage, you should not attempt it. Your safety is the priority. Contact a professional roofing company like Discounted Roofing Co. We offer free inspections across our service areas, including DFW, Abbott, and Allen. Our inspectors are trained to identify and safely document all types of roof damage, providing the necessary visual evidence for your insurance claim.",
+        "@type": "Answer",
+        "description": "If unsafe, do not attempt to take photos. Contact Discounted Roofing Co. for a free inspection; our professionals can safely document the damage."
+      }
+    }
+  ],
+  "description": "If unsafe, do not attempt to take photos. Contact Discounted Roofing Co. for a free inspection; our professionals can safely document the damage."
+}

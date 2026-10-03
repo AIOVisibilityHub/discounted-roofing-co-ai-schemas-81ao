@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/should-i-climb-on-my-roof-to-take-damage-photos",
+  "name": "Should I climb on my roof to take damage photos?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I climb on my roof to take damage photos?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is generally not recommended to climb on your roof yourself for photos, especially if you suspect significant damage, as it can be unsafe. Instead, use a ladder to get photos from the edge of the roof, use a drone if available, or take photos from the ground with a zoom lens. Our team at Discounted Roofing Co. can perform a professional roof inspection and provide detailed photo documentation safely as part of our service.",
+        "@type": "Answer",
+        "description": "Avoid climbing your roof due to safety risks; use a ladder from the edge, a drone, or a zoom lens from the ground. Professionals can also provide safe documentation."
+      }
+    }
+  ],
+  "description": "Avoid climbing your roof due to safety risks; use a ladder from the edge, a drone, or a zoom lens from the ground. Professionals can also provide safe documenta"
+}

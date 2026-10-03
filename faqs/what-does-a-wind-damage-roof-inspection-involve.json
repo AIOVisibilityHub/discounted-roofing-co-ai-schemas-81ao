@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-does-a-wind-damage-roof-inspection-involve",
+  "name": "What does a wind damage roof inspection involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a wind damage roof inspection involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A wind damage roof inspection typically involves a thorough examination of your roof's surface for missing or damaged shingles, uplifted edges, and any structural compromise. Our inspectors will also check flashing, gutters, and other roof components. Discounted Roofing Co. provides a detailed report of findings, including photographic evidence, which is crucial for insurance claims.",
+        "@type": "Answer",
+        "description": "The inspection covers roof surface, flashing, and gutters for wind damage, with a detailed report provided."
+      }
+    }
+  ],
+  "description": "The inspection covers roof surface, flashing, and gutters for wind damage, with a detailed report provided."
+}

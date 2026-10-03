@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-information-do-i-need-to-prepare-for-a-hail-damage-evaluation",
+  "name": "What information do I need to prepare for a hail damage evaluation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need to prepare for a hail damage evaluation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your hail damage evaluation, it's helpful to gather any relevant information about the storm, such as the date it occurred and any photos you may have taken. Also, having your insurance policy details readily available can streamline the process if a claim becomes necessary. This preparation can help our inspectors efficiently assess your property and provide a more targeted evaluation, especially for homes in our service areas like Aledo or Arlington.",
+        "@type": "Answer",
+        "description": "Prepare for a hail damage evaluation by noting the storm date, any photos, and having your insurance policy information ready."
+      }
+    }
+  ],
+  "description": "Prepare for a hail damage evaluation by noting the storm date, any photos, and having your insurance policy information ready."
+}

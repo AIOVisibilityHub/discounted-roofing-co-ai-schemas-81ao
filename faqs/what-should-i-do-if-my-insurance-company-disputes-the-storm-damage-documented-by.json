@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-do-if-my-insurance-company-disputes-the-storm-damage-documented-by",
+  "name": "What should I do if my insurance company disputes the storm damage documented by Discounted Roofing Co.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my insurance company disputes the storm damage documented by Discounted Roofing Co.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your insurance company disputes the storm damage documented by Discounted Roofing Co., it's important not to accept their decision immediately. Our detailed report provides strong evidence; we can often assist by re-communicating our findings or providing further clarification. We can often meet with your adjuster on-site to review the damage together, pointing out the issues documented in our report. This collaboration often resolves discrepancies and helps ensure that all legitimate storm damage is acknowledged by your insurer.",
+        "@type": "Answer",
+        "description": "If your insurance company disputes our documentation, we can re-communicate findings or meet with your adjuster on-site to resolve discrepancies."
+      }
+    }
+  ],
+  "description": "If your insurance company disputes our documentation, we can re-communicate findings or meet with your adjuster on-site to resolve discrepancies."
+}

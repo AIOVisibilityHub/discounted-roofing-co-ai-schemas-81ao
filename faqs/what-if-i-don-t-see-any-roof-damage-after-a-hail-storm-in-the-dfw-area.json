@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-if-i-don-t-see-any-roof-damage-after-a-hail-storm-in-the-dfw-area",
+  "name": "What if I don't see any roof damage after a hail storm in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if I don't see any roof damage after a hail storm in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Even if you don't immediately see visible damage from the ground after a hail storm in the DFW area, it's still advisable to get a professional hail impact assessment. Hail damage can be subtle, such as granular loss on shingles or small dents on vents, which can lead to leaks and premature roof deterioration over time. The climate in North Texas, with its hot summers, can exacerbate initial hail damage. Discounted Roofing Co. offers free inspections to ensure your roof's integrity, preventing minor issues from becoming major problems.",
+        "@type": "Answer",
+        "description": "Even without visible damage after a DFW hail storm, a professional assessment is advised, as subtle damage can lead to future issues, exacerbated by the climate."
+      }
+    }
+  ],
+  "description": "Even without visible damage after a DFW hail storm, a professional assessment is advised, as subtle damage can lead to future issues, exacerbated by the climate"
+}

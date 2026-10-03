@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-a-roof-assessment-help-with-my-insurance-claim",
+  "name": "Will a roof assessment help with my insurance claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a roof assessment help with my insurance claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a professional severe weather roof assessment is crucial for your insurance claim. Our detailed report, including photographic evidence of damage, provides the necessary documentation to support your claim. We can help you understand the damage identified and guide you on communicating effectively with your insurance adjuster. While we don't file the claim for you, our comprehensive assessment provides clear, objective evidence, often streamlining the approval process and ensuring all eligible damage is covered.",
+        "@type": "Answer",
+        "description": "A professional roof assessment provides documented evidence, including photos, which is vital for supporting your insurance claim and helping you communicate with your adjuster."
+      }
+    }
+  ],
+  "description": "A professional roof assessment provides documented evidence, including photos, which is vital for supporting your insurance claim and helping you communicate wi"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-can-i-tell-if-my-roof-has-hail-damage-after-a-storm",
+  "name": "How can I tell if my roof has hail damage after a storm?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my roof has hail damage after a storm?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a hail storm, you can often spot signs of damage by looking for dents or divots on soft metals like gutters, downspouts, and vents. On shingles, look for bruising, cracks, or areas where granules have been dislodged, sometimes exposing the asphalt layer underneath. It's important to be cautious if inspecting from the ground. For a complete and safe assessment, especially in areas like DFW where storms are common, a professional evaluation is recommended as some damage may not be visible from the ground.",
+        "@type": "Answer",
+        "description": "Look for dents on gutters and vents, or bruising and granule loss on shingles. For a full, safe assessment, a professional evaluation is advised."
+      }
+    }
+  ],
+  "description": "Look for dents on gutters and vents, or bruising and granule loss on shingles. For a full, safe assessment, a professional evaluation is advised."
+}

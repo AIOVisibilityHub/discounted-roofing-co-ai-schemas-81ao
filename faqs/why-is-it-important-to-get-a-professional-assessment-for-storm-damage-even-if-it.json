@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/why-is-it-important-to-get-a-professional-assessment-for-storm-damage-even-if-it",
+  "name": "Why is it important to get a professional assessment for storm damage, even if it looks minor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is it important to get a professional assessment for storm damage, even if it looks minor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is crucial to get a professional assessment because what appears to be minor damage on the surface can hide significant underlying issues, such as compromised underlayment or decking. Our experienced professionals are trained to identify hidden damage that homeowners might miss, ensuring all issues are addressed and preventing future leaks or structural problems. This comprehensive evaluation is part of our commitment to quality service in the DFW area.",
+        "@type": "Answer",
+        "description": "Professional assessments identify hidden damage that homeowners might miss, preventing future leaks and structural problems."
+      }
+    }
+  ],
+  "description": "Professional assessments identify hidden damage that homeowners might miss, preventing future leaks and structural problems."
+}

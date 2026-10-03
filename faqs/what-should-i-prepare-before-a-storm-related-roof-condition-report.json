@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-prepare-before-a-storm-related-roof-condition-report",
+  "name": "What should I prepare before a storm-related roof condition report?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a storm-related roof condition report?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a storm-related roof condition report, you should clear any access points around your home and ensure pets are secured. If you have any documentation from the storm, such as the date and time it occurred, or any photos you took of visible damage from the ground, have those ready to share with the inspector. Also, gather your insurance policy information, as this will be helpful for subsequent steps. Having this information prepared helps our team at Discounted Roofing Co. provide a more efficient and targeted assessment tailored to your potential insurance claim. You may also want to note any specific areas you've observed leaking or concerns you have.",
+        "@type": "Answer",
+        "description": "Clear access, secure pets, and gather storm date, photos of damage, and insurance policy information before the report."
+      }
+    }
+  ],
+  "description": "Clear access, secure pets, and gather storm date, photos of damage, and insurance policy information before the report."
+}

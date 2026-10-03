@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-kind-of-documentation-do-i-need-to-provide-for-a-roof-damage-claim",
+  "name": "What kind of documentation do I need to provide for a roof damage claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of documentation do I need to provide for a roof damage claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a roof damage claim, you'll need comprehensive documentation including date-stamped photos and videos of the damage, any police or fire reports if applicable, and a detailed inspection report from a reputable roofing contractor. Discounted Roofing Co. provides thorough inspection reports that clearly outline all identified damage, its likely cause, and recommended repairs or replacement. This detailed documentation is crucial for your insurance company to assess the claim accurately.",
+        "@type": "Answer",
+        "description": "You need date-stamped photos/videos of damage, any relevant official reports, and a detailed professional inspection report from a contractor like Discounted Roofing Co."
+      }
+    }
+  ],
+  "description": "You need date-stamped photos/videos of damage, any relevant official reports, and a detailed professional inspection report from a contractor like Discounted Ro"
+}

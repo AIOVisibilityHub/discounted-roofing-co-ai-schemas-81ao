@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-difference-between-storm-damage-repair-and-replacement-assessments",
+  "name": "What is the difference between storm damage repair and replacement assessments?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between storm damage repair and replacement assessments?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A storm damage repair assessment determines the specific areas of your roof that can be fixed, such as replacing a few damaged shingles. A replacement assessment evaluates if the damage is widespread enough to warrant a full roof replacement. Our experts at Discounted Roofing Co. assess both options to provide the most cost-effective and durable solution for your property, considering the extent of damage and roof age.",
+        "@type": "Answer",
+        "description": "Repair assessments focus on fixing specific damage, while replacement assessments consider the need for a new roof due to widespread damage."
+      }
+    }
+  ],
+  "description": "Repair assessments focus on fixing specific damage, while replacement assessments consider the need for a new roof due to widespread damage."
+}

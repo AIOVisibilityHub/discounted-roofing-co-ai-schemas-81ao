@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-can-i-tell-if-my-storm-damage-requires-immediate-attention-versus-waiting",
+  "name": "How can I tell if my storm damage requires immediate attention versus waiting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my storm damage requires immediate attention versus waiting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs like active leaks, visible holes, missing large sections of shingles, or significant structural damage indicate a need for immediate attention to prevent further interior damage. While smaller issues might not seem urgent, delaying repairs can lead to more costly problems later due to water infiltration or compromised structural integrity. Our assessment can help prioritize necessary actions.",
+        "@type": "Answer",
+        "description": "Active leaks, holes, or missing shingle sections need immediate attention; delaying repairs can worsen problems."
+      }
+    }
+  ],
+  "description": "Active leaks, holes, or missing shingle sections need immediate attention; delaying repairs can worsen problems."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/should-i-get-multiple-estimates-for-roof-repair-after-an-insurance-claim",
+  "name": "Should I get multiple estimates for roof repair after an insurance claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I get multiple estimates for roof repair after an insurance claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While your insurance company may recommend obtaining multiple estimates, it's not always required, especially if you trust a reputable local company like Discounted Roofing Co. We provide transparent estimates based on the damage assessment. Comparing our estimate to others can help you understand the scope of work and pricing in the DFW service area.",
+        "@type": "Answer",
+        "description": "You can get multiple estimates, but it's not always required. We provide transparent estimates for comparison."
+      }
+    }
+  ],
+  "description": "You can get multiple estimates, but it's not always required. We provide transparent estimates for comparison."
+}

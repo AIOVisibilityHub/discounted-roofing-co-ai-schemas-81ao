@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-i-document-the-storm-damage-myself-or-do-i-need-a-professional",
+  "name": "Can I document the storm damage myself, or do I need a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I document the storm damage myself, or do I need a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While you can and should take initial photos yourself, relying solely on self-documentation is not recommended for an insurance claim. A professional roofing contractor, like Discounted Roofing Co., has the expertise to identify subtle or hidden damage that might not be obvious to an untrained eye. They also have specialized equipment and knowledge of insurance claim requirements to create a comprehensive, credible report. This professional assessment ensures all damage is captured and properly categorized, reducing the likelihood of missed items or disputes during the claim process.",
+        "@type": "Answer",
+        "description": "While initial self-documentation is good, a professional roofer can identify hidden damage and create a credible, comprehensive report for your claim."
+      }
+    }
+  ],
+  "description": "While initial self-documentation is good, a professional roofer can identify hidden damage and create a credible, comprehensive report for your claim."
+}

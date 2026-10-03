@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-common-signs-of-water-damage-on-a-roof",
+  "name": "What are the common signs of water damage on a roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of water damage on a roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of water damage on a roof include water stains on ceilings or walls, peeling paint, bubbling plaster, or a musty odor indoors. Externally, look for missing shingles, cracked flashing, sagging roof sections, or blocked gutters. Identifying these early can help prevent more extensive and costly repairs. We recommend a professional assessment if you notice any of these indicators, especially after heavy rains common in the DFW area.",
+        "@type": "Answer",
+        "description": "Signs of water damage include interior stains, peeling paint, and exterior issues like missing shingles or sagging sections. Early detection helps prevent costly repairs."
+      }
+    }
+  ],
+  "description": "Signs of water damage include interior stains, peeling paint, and exterior issues like missing shingles or sagging sections. Early detection helps prevent costl"
+}

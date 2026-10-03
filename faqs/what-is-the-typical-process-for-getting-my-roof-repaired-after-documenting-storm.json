@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-typical-process-for-getting-my-roof-repaired-after-documenting-storm",
+  "name": "What is the typical process for getting my roof repaired after documenting storm damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for getting my roof repaired after documenting storm damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process involves several steps after documenting storm damage. First, you'll contact your insurance company to file a claim, providing your initial documentation. An adjuster will then inspect your roof to assess the damage. Next, you'll select a roofing contractor, such as Discounted Roofing Co., to provide a detailed estimate for repairs. Once the estimate is approved by your insurance, repairs begin. Finally, your contractor will complete the work, and you'll typically pay your deductible, with the insurance covering the remaining costs. Our team aims to make this process as smooth as possible.",
+        "@type": "Answer",
+        "description": "After documenting storm damage, you file a claim, an adjuster inspects, a contractor provides an estimate, repairs are approved, and the work is completed."
+      }
+    }
+  ],
+  "description": "After documenting storm damage, you file a claim, an adjuster inspects, a contractor provides an estimate, repairs are approved, and the work is completed."
+}

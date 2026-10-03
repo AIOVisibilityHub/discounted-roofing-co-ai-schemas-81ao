@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-know-if-my-roof-has-wind-damage",
+  "name": "How do I know if my roof has wind damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my roof has wind damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of wind damage include missing, cracked, or curled shingles, especially after a strong storm. Look for granules in your gutters, which indicate shingle wear. Discounted Roofing Co. recommends a professional inspection if you suspect damage, as some issues may not be visible from the ground and can lead to further problems if left unaddressed. We can identify issues that might not be obvious to an untrained eye.",
+        "@type": "Answer",
+        "description": "Look for missing or damaged shingles, and granules in gutters. A professional inspection can confirm wind damage."
+      }
+    }
+  ],
+  "description": "Look for missing or damaged shingles, and granules in gutters. A professional inspection can confirm wind damage."
+}

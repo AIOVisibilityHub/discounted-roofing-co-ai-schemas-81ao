@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-preparations-should-i-make-before-a-heavy-rain-roof-assessment",
+  "name": "What preparations should I make before a heavy rain roof assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations should I make before a heavy rain roof assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a heavy rain roof assessment, ensure clear access to your property and remove any obstructions around the house that might impede ladder placement or inspection access. Secure pets, and if comfortable, provide information about any specific areas where you've observed leaks or water stains inside your home. This helps our assessors focus on potential problem spots and ensures a more efficient and thorough inspection process.",
+        "@type": "Answer",
+        "description": "Clear access around your home, secure pets, and point out any known leak areas to prepare for a roof assessment."
+      }
+    }
+  ],
+  "description": "Clear access around your home, secure pets, and point out any known leak areas to prepare for a roof assessment."
+}

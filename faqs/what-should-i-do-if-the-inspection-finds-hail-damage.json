@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-do-if-the-inspection-finds-hail-damage",
+  "name": "What should I do if the inspection finds hail damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if the inspection finds hail damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If our inspection uncovers hail damage, the next step is typically to file a claim with your homeowner's insurance company. We recommend contacting your insurer promptly to initiate the claim process. Discounted Roofing Co. can provide the necessary documentation and photos from our inspection to support your claim. We can also meet with your insurance adjuster to review the damage and ensure all necessary repairs are included in the scope of work.",
+        "@type": "Answer",
+        "description": "If hail damage is found, file a claim with your insurance company. Discounted Roofing Co. provides documentation and can meet with your adjuster."
+      }
+    }
+  ],
+  "description": "If hail damage is found, file a claim with your insurance company. Discounted Roofing Co. provides documentation and can meet with your adjuster."
+}

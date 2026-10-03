@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/do-i-need-to-be-present-during-the-insurance-adjuster-s-inspection",
+  "name": "Do I need to be present during the insurance adjuster's inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be present during the insurance adjuster's inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While not always mandatory, it is highly recommended that you or your chosen roofing contractor, like Discounted Roofing Co., be present during the insurance adjuster's inspection. Having a knowledgeable roofing professional on-site ensures that all damage is identified and discussed directly with the adjuster. Our team can point out issues that might otherwise be overlooked, facilitating a more thorough and accurate assessment for your claim.",
+        "@type": "Answer",
+        "description": "It is highly recommended that you or your chosen roofing contractor, such as Discounted Roofing Co., be present during the insurance adjuster's inspection to ensure all damage is identified."
+      }
+    }
+  ],
+  "description": "It is highly recommended that you or your chosen roofing contractor, such as Discounted Roofing Co., be present during the insurance adjuster's inspection to en"
+}

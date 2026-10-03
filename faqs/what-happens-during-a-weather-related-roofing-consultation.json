@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-during-a-weather-related-roofing-consultation",
+  "name": "What happens during a weather-related roofing consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during a weather-related roofing consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a weather-related roofing consultation, a qualified inspector from Discounted Roofing Co. will perform a thorough visual and tactile examination of your entire roof system, including shingles, flashing, gutters, and ventilation. We document any damage with photos and notes, specifically looking for signs of hail impact, wind uplift, or water intrusion. After the inspection, we'll discuss our findings with you, explain the recommended next steps, and provide guidance on potential insurance claims, which can include assisting you in understanding the claims process with your provider.",
+        "@type": "Answer",
+        "description": "An inspector examines your roof for storm damage, documents findings with photos, and discusses repair options or insurance claim guidance."
+      }
+    }
+  ],
+  "description": "An inspector examines your roof for storm damage, documents findings with photos, and discusses repair options or insurance claim guidance."
+}

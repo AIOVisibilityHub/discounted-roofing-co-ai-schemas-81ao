@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-do-after-a-hail-storm-to-assess-my-roof",
+  "name": "What should I do after a hail storm to assess my roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do after a hail storm to assess my roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a hail storm, first check for any obvious interior leaks or significant debris. For roof damage, avoid climbing onto the roof yourself due to safety risks and potential further damage. Instead, contact a professional roofing company for a free inspection. Document the date of the storm and any visible exterior damage from the ground, as this information will be helpful when you speak with your roofer and insurance company.",
+        "@type": "Answer",
+        "description": "After a hail storm, check for interior leaks and contact a professional roofer for a safe inspection. Document the storm date and any visible damage from the ground."
+      }
+    }
+  ],
+  "description": "After a hail storm, check for interior leaks and contact a professional roofer for a safe inspection. Document the storm date and any visible damage from the gr"
+}

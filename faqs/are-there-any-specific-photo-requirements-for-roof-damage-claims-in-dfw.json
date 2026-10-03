@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/are-there-any-specific-photo-requirements-for-roof-damage-claims-in-dfw",
+  "name": "Are there any specific photo requirements for roof damage claims in DFW?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there any specific photo requirements for roof damage claims in DFW?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While specific photo requirements can vary by insurance provider, the general recommendation in the DFW area and elsewhere is to provide clear, high-resolution images that accurately depict the damage. This includes both overall roof shots and close-ups of specific issues. Providing dated photos is always beneficial. Our team operating in the DFW area is familiar with common insurance company expectations for photo documentation.",
+        "@type": "Answer",
+        "description": "In DFW, clear, high-resolution, and dated photos of both overall roof and specific damage are generally required by insurance providers."
+      }
+    }
+  ],
+  "description": "In DFW, clear, high-resolution, and dated photos of both overall roof and specific damage are generally required by insurance providers."
+}

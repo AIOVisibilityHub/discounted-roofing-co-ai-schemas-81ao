@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-hail-damage-evaluation-take",
+  "name": "How long does a hail damage evaluation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a hail damage evaluation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard hail damage evaluation typically takes between 30 to 60 minutes, depending on the size and complexity of your roof and the extent of visible damage. Our inspectors take the necessary time to thoroughly assess all areas, photograph damage, and provide a clear explanation of their findings. We strive to be efficient while ensuring accuracy, allowing homeowners in locations such as Corinth or Corsicana to quickly understand their roof's condition.",
+        "@type": "Answer",
+        "description": "A hail damage evaluation typically takes 30-60 minutes, depending on roof size and damage, to thoroughly assess and document findings."
+      }
+    }
+  ],
+  "description": "A hail damage evaluation typically takes 30-60 minutes, depending on roof size and damage, to thoroughly assess and document findings."
+}

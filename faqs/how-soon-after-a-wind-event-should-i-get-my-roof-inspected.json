@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-soon-after-a-wind-event-should-i-get-my-roof-inspected",
+  "name": "How soon after a wind event should I get my roof inspected?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How soon after a wind event should I get my roof inspected?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is recommended to get your roof inspected as soon as possible after a significant wind event, ideally within a few days to a week. Prompt inspection helps identify damage early, preventing further issues like water intrusion, and ensures timely filing of potential insurance claims. Discounted Roofing Co. prioritizes rapid response times in the DFW service area for urgent evaluations.",
+        "@type": "Answer",
+        "description": "Inspect your roof within days to a week after a wind event to prevent further damage and ensure timely insurance claims."
+      }
+    }
+  ],
+  "description": "Inspect your roof within days to a week after a wind event to prevent further damage and ensure timely insurance claims."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-storm-related-roof-condition-report-cost",
+  "name": "How much does a storm-related roof condition report cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a storm-related roof condition report cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a storm-related roof condition report can vary depending on factors like the size and complexity of your roof. Discounted Roofing Co. often provides complimentary storm damage assessments for homeowners in our service areas, including DFW, Abbott, and Allen, who suspect their roof has been impacted by recent weather. We aim to help you understand the extent of damage without an initial financial burden. If your roof damage is likely covered by insurance, this initial assessment helps facilitate the claim process. Always confirm if there's a fee for the initial inspection when scheduling.",
+        "@type": "Answer",
+        "description": "Costs vary, but Discounted Roofing Co. often provides complimentary storm damage assessments for homeowners in their service areas."
+      }
+    }
+  ],
+  "description": "Costs vary, but Discounted Roofing Co. often provides complimentary storm damage assessments for homeowners in their service areas."
+}

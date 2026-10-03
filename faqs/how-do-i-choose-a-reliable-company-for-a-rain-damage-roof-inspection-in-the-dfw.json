@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-a-reliable-company-for-a-rain-damage-roof-inspection-in-the-dfw",
+  "name": "How do I choose a reliable company for a rain damage roof inspection in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reliable company for a rain damage roof inspection in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a reliable company for a rain damage roof inspection in the DFW area, look for one with strong local experience and positive customer reviews. Prioritize companies that are licensed, insured, and offer detailed inspection reports with transparent recommendations. Discounted Roofing Co. focuses on clear communication and provides comprehensive assessments without pressure for immediate repairs. Check for certifications and ask about their process for handling insurance claims, as local expertise in DFW weather patterns and insurance procedures can be a significant advantage.",
+        "@type": "Answer",
+        "description": "Choose a reliable DFW company for rain damage roof inspection by checking local experience, licensing, insurance, and positive reviews. Look for detailed reports and clear communication, especially regarding insurance claims."
+      }
+    }
+  ],
+  "description": "Choose a reliable DFW company for rain damage roof inspection by checking local experience, licensing, insurance, and positive reviews. Look for detailed report"
+}

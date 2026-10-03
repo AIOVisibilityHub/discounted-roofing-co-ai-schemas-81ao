@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/why-is-photo-documentation-important-for-roof-damage-claims",
+  "name": "Why is photo documentation important for roof damage claims?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is photo documentation important for roof damage claims?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Photo documentation provides visual evidence of roof damage. This helps support your insurance claim by showing the extent and nature of the damage before repairs begin. Clear photos can expedite the claims process and help ensure fair compensation for necessary repairs, especially when identifying storm-related issues that might not be immediately obvious. We recommend taking photos from multiple angles and distances.",
+        "@type": "Answer",
+        "description": "Photo documentation provides visual evidence that supports your insurance claim, helps assess damage, and can expedite the claims process."
+      }
+    }
+  ],
+  "description": "Photo documentation provides visual evidence that supports your insurance claim, helps assess damage, and can expedite the claims process."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-wind-damage-evaluation-take",
+  "name": "How long does a wind damage evaluation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a wind damage evaluation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a wind damage evaluation can vary depending on the size and complexity of your roof, as well as the extent of visible damage. Typically, a standard evaluation takes between 30 minutes to an an hour. For larger homes or properties with multiple roof sections, the inspection might take longer. Our technicians will provide a more precise estimate on-site, ensuring a thorough assessment without rushing the process.",
+        "@type": "Answer",
+        "description": "A wind damage evaluation typically takes 30 minutes to an hour, varying by roof size and damage extent. Larger roofs may take longer."
+      }
+    }
+  ],
+  "description": "A wind damage evaluation typically takes 30 minutes to an hour, varying by roof size and damage extent. Larger roofs may take longer."
+}

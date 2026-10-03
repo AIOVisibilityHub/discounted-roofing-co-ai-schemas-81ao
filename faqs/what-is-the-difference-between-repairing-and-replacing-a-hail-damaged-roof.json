@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-difference-between-repairing-and-replacing-a-hail-damaged-roof",
+  "name": "What is the difference between repairing and replacing a hail-damaged roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between repairing and replacing a hail-damaged roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair or replace a hail-damaged roof depends on the extent and severity of the damage. Minor, localized damage might be repairable by replacing a few shingles. However, widespread damage, especially if it affects the roof's integrity or lifespan, usually necessitates a full replacement. Our assessment will detail the damage extent, helping you understand the most cost-effective and structurally sound solution for your specific roof's condition.",
+        "@type": "Answer",
+        "description": "Repair is for minor, localized damage, while replacement is needed for widespread or severe damage affecting the roof's integrity. An assessment will determine the best option."
+      }
+    }
+  ],
+  "description": "Repair is for minor, localized damage, while replacement is needed for widespread or severe damage affecting the roof's integrity. An assessment will determine"
+}

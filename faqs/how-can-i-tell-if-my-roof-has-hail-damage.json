@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-can-i-tell-if-my-roof-has-hail-damage",
+  "name": "How can I tell if my roof has hail damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my roof has hail damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Identifying hail damage on your roof can be challenging without a professional eye, but common signs include dents or pockmarks on soft metals like gutters, downspouts, and vents, as well as bruising or cracking on shingles. Granule loss on asphalt shingles is another indicator. After a significant hailstorm, inspect these areas from the ground or have a professional conduct a safe roof inspection. Discounted Roofing Co. recommends a professional evaluation within 72 hours of a major hail event to ensure timely assessment before further weather causes additional issues.",
+        "@type": "Answer",
+        "description": "Look for dents on metal components, cracks or bruising on shingles, and granule loss. A professional evaluation after a hailstorm is recommended for accurate assessment."
+      }
+    }
+  ],
+  "description": "Look for dents on metal components, cracks or bruising on shingles, and granule loss. A professional evaluation after a hailstorm is recommended for accurate as"
+}

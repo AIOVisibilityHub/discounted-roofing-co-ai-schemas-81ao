@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/does-my-insurance-cover-water-damage-roof-assessments-or-repairs",
+  "name": "Does my insurance cover water damage roof assessments or repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does my insurance cover water damage roof assessments or repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many homeowner's insurance policies cover roof damage caused by sudden, unforeseen events like storms, hail, or falling trees, which often lead to water intrusion. However, policies typically exclude damage from neglect, poor maintenance, or long-term leaks. It's crucial to review your specific policy and contact your insurance provider to understand your coverage for assessments and subsequent repairs. We can help you navigate the claim process with a detailed damage report.",
+        "@type": "Answer",
+        "description": "Insurance often covers storm-related water damage but typically excludes neglect. Review your policy and contact your provider for specific coverage details."
+      }
+    }
+  ],
+  "description": "Insurance often covers storm-related water damage but typically excludes neglect. Review your policy and contact your provider for specific coverage details."
+}

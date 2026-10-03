@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-severe-weather-roof-assessment-and-why-do-i-need-one",
+  "name": "What is a severe weather roof assessment and why do I need one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a severe weather roof assessment and why do I need one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A severe weather roof assessment is a detailed inspection of your roof following events like hail, strong winds, or heavy storms. It helps identify hidden damage that might not be visible from the ground, such as bruised shingles, loosened flashing, or compromised seals. Early detection of damage can prevent minor issues from escalating into major leaks or structural problems, preserving your roof's integrity and extending its lifespan. We recommend an assessment even if damage isn't immediately obvious, as some issues manifest over time.",
+        "@type": "Answer",
+        "description": "A severe weather roof assessment inspects your roof for damage after storms, preventing minor issues from becoming major problems. It identifies hidden damage not visible from the ground."
+      }
+    }
+  ],
+  "description": "A severe weather roof assessment inspects your roof for damage after storms, preventing minor issues from becoming major problems. It identifies hidden damage n"
+}

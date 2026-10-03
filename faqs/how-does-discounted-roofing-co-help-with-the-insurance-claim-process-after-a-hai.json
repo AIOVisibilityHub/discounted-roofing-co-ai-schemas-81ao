@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-does-discounted-roofing-co-help-with-the-insurance-claim-process-after-a-hai",
+  "name": "How does Discounted Roofing Co. help with the insurance claim process after a hail damage evaluation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does Discounted Roofing Co. help with the insurance claim process after a hail damage evaluation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After completing a hail damage roof evaluation, Discounted Roofing Co. can assist homeowners throughout the insurance claim process. We provide detailed documentation of the damage, including photos and a comprehensive report, which can be shared with your insurance company. Our team can also meet with your insurance adjuster on-site to ensure all damage is properly identified and assessed. This support aims to facilitate a smoother claim experience and help ensure you receive appropriate coverage for necessary repairs or replacement.",
+        "@type": "Answer",
+        "description": "Discounted Roofing Co. helps by providing detailed damage documentation and meeting with insurance adjusters on-site to facilitate a smoother claim process."
+      }
+    }
+  ],
+  "description": "Discounted Roofing Co. helps by providing detailed damage documentation and meeting with insurance adjusters on-site to facilitate a smoother claim process."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-my-insurance-cover-wind-damage-to-my-roof",
+  "name": "Will my insurance cover wind damage to my roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover wind damage to my roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many homeowner insurance policies cover wind damage, but coverage can vary based on your specific policy and deductible. During our evaluation, we can help document the damage with detailed photos and explanations, which can be crucial for your insurance claim. We recommend reviewing your policy details and contacting your insurance provider directly to understand your specific coverage limits and claims process before initiating repairs.",
+        "@type": "Answer",
+        "description": "Many insurance policies cover wind damage, but coverage varies. We help document damage for claims; review your policy and contact your provider for specifics."
+      }
+    }
+  ],
+  "description": "Many insurance policies cover wind damage, but coverage varies. We help document damage for claims; review your policy and contact your provider for specifics."
+}

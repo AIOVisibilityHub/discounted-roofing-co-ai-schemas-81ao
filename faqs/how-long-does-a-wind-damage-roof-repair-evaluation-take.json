@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-wind-damage-roof-repair-evaluation-take",
+  "name": "How long does a wind damage roof repair evaluation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a wind damage roof repair evaluation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard wind damage roof repair evaluation typically takes between 30 minutes to an hour, depending on the size and complexity of your roof and the extent of the visible damage. If interior access is required for leak investigation or attic inspection, it may take slightly longer. Discounted Roofing Co. aims for efficient evaluations to provide you with a prompt assessment and repair recommendations.",
+        "@type": "Answer",
+        "description": "A wind damage roof evaluation usually takes 30 minutes to an hour, varying with roof size, complexity, and damage extent."
+      }
+    }
+  ],
+  "description": "A wind damage roof evaluation usually takes 30 minutes to an hour, varying with roof size, complexity, and damage extent."
+}
