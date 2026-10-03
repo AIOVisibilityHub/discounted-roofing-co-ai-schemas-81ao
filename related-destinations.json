@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-03T01:40:08.144Z",
+  "generatedAt": "2026-10-03T01:40:43.062Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -31,12 +31,18 @@
       "platform": "github",
       "label": "GitHub repository",
       "url": "https://github.com/AIOVisibilityHub/discounted-roofing-co-ai-schemas-81ao"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "github",
+      "label": "GitHub — AI Data Hub mirror",
+      "url": "https://aiovisibilityhub.github.io/discounted-roofing-co-ai-schemas-81ao/ai-data.html"
     }
   ],
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/discounted-roofing-co-ai-schemas-81ao",
-      "pagesUrl": "",
+      "pagesUrl": "https://aiovisibilityhub.github.io/discounted-roofing-co-ai-schemas-81ao/",
       "repo": "AIOVisibilityHub/discounted-roofing-co-ai-schemas-81ao"
     }
   }
