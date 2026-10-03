@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-often-should-i-clean-my-rain-gutters",
+  "name": "How often should I clean my rain gutters?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I clean my rain gutters?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should clean your rain gutters at least twice a year, typically in late spring and late fall, to remove leaves, twigs, and other debris. Homes surrounded by many trees may require more frequent cleaning. For DFW properties, proactively clearing gutters prevents blockages that can lead to water overflow, fascia damage, and ice dams during colder months, ensuring the system remains functional during unexpected heavy rainfall.",
+        "@type": "Answer",
+        "description": "Clean rain gutters at least twice a year, more often if near trees, to prevent blockages and water damage, especially in DFW's varied weather."
+      }
+    }
+  ],
+  "description": "Clean rain gutters at least twice a year, more often if near trees, to prevent blockages and water damage, especially in DFW's varied weather."
+}

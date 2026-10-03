@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-does-an-exterior-paint-project-consultation-include",
+  "name": "What does an exterior paint project consultation include?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does an exterior paint project consultation include?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An exterior paint project consultation typically involves assessing the current condition of your home's exterior, discussing your aesthetic preferences and goals, and identifying any repairs needed before painting. This often includes evaluating surface integrity, identifying mildew or rot, and proposing appropriate paint types and colors. Our consultants at Discounted Roofing Co. will provide insights into the best preparation methods and materials suitable for the DFW climate to ensure a durable finish.",
+        "@type": "Answer",
+        "description": "An exterior paint project consultation assesses your home's condition, discusses your goals, and identifies necessary repairs and suitable paint options. We will also advise on best practices for the DFW climate."
+      }
+    }
+  ],
+  "description": "An exterior paint project consultation assesses your home's condition, discusses your goals, and identifies necessary repairs and suitable paint options. We wil"
+}

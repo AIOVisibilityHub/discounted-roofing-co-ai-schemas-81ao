@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-if-my-insurance-company-denies-my-roof-claim",
+  "name": "What if my insurance company denies my roof claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if my insurance company denies my roof claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your insurance company denies your roof claim, review the denial letter carefully to understand the reasons. You have the right to appeal the decision. Often, discrepancies arise from differing assessments of damage. A detailed report from an experienced roofing contractor like Discounted Roofing Co., highlighting all damages and their cause, can provide crucial evidence for your appeal. We can help homeowners in Addison and surrounding areas in providing a thorough re-evaluation.",
+        "@type": "Answer",
+        "description": "If your claim is denied, review the reasons, appeal the decision, and consider getting a detailed report from a roofing contractor."
+      }
+    }
+  ],
+  "description": "If your claim is denied, review the reasons, appeal the decision, and consider getting a detailed report from a roofing contractor."
+}

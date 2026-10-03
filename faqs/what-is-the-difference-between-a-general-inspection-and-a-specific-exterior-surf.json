@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-difference-between-a-general-inspection-and-a-specific-exterior-surf",
+  "name": "What is the difference between a general inspection and a specific exterior surface condition assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a general inspection and a specific exterior surface condition assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A general home inspection covers various aspects of a property, including plumbing, electrical, and HVAC, in addition to a basic exterior review. An exterior surface condition assessment, however, focuses exclusively and deeply on the integrity and condition of the exterior components like the roof, siding, windows, and gutters. Our specialized assessments provide more in-depth insights into potential roofing and exterior issues, which is critical for identifying specific storm damage that a general inspection might miss.",
+        "@type": "Answer",
+        "description": "A general inspection covers many areas, while an exterior surface assessment focuses deeply on external components like the roof and siding."
+      }
+    }
+  ],
+  "description": "A general inspection covers many areas, while an exterior surface assessment focuses deeply on external components like the roof and siding."
+}

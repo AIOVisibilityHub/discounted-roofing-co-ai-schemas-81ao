@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/should-i-get-an-exterior-maintenance-consultation-if-i-m-not-planning-to-replace",
+  "name": "Should I get an exterior maintenance consultation if I'm not planning to replace my roof soon?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I get an exterior maintenance consultation if I'm not planning to replace my roof soon?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, an exterior maintenance consultation is beneficial even if you're not planning a full roof replacement. The purpose is to assess your roof's current condition, identify potential issues, and recommend preventative maintenance that can extend its lifespan. Proactive maintenance often involves less expensive repairs than waiting for a major problem to develop. It allows you to budget for future needs and avoid unexpected, urgent expenses, offering peace of mind about your property's protection.",
+        "@type": "Answer",
+        "description": "Yes, consultations assess current roof condition, identify issues, and recommend preventative maintenance to extend lifespan and avoid unexpected costs."
+      }
+    }
+  ],
+  "description": "Yes, consultations assess current roof condition, identify issues, and recommend preventative maintenance to extend lifespan and avoid unexpected costs."
+}

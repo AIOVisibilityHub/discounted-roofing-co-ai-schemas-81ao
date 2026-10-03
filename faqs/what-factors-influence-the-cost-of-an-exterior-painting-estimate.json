@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-influence-the-cost-of-an-exterior-painting-estimate",
+  "name": "What factors influence the cost of an exterior painting estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of an exterior painting estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of an exterior painting estimate is influenced by several factors, including the size and complexity of the property, the condition of the existing surface, and the type of paint and materials chosen. Factors like the number of stories, architectural details requiring intricate work, and necessary repairs to siding or trim will increase the estimate. Your choice of paint quality, which affects durability and finish, also plays a significant role in the overall cost.",
+        "@type": "Answer",
+        "description": "Factors influencing exterior painting estimates include property size and complexity, surface condition, and paint/material selection."
+      }
+    }
+  ],
+  "description": "Factors influencing exterior painting estimates include property size and complexity, surface condition, and paint/material selection."
+}

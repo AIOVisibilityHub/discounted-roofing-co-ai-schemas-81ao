@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-an-exterior-maintenance-consultation-for-my-roof",
+  "name": "When should I get an exterior maintenance consultation for my roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get an exterior maintenance consultation for my roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider an exterior maintenance consultation at least once a year, especially after severe weather events like hail storms or high winds, which are common in the DFW area. Regular consultations help identify minor issues before they escalate into major, expensive repairs. It's also advisable before buying or selling a home, or if you notice visible signs of wear such as missing shingles, leaks, or granule loss. Catching problems early can significantly save on repair costs.",
+        "@type": "Answer",
+        "description": "Consider an exterior maintenance consultation annually, after severe weather, before buying/selling a home, or if you notice visible signs of roof wear."
+      }
+    }
+  ],
+  "description": "Consider an exterior maintenance consultation annually, after severe weather, before buying/selling a home, or if you notice visible signs of roof wear."
+}

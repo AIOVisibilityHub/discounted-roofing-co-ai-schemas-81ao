@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-often-should-i-get-an-exterior-surface-condition-assessment",
+  "name": "How often should I get an exterior surface condition assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I get an exterior surface condition assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is generally recommended to have an exterior surface condition assessment conducted at least once every 1-2 years, especially after severe weather events such as hailstorms or strong winds. Regular assessments help detect minor issues before they escalate into costly problems. Customers in areas like Aledo or Midlothian, prone to significant storm activity, often benefit from more frequent checks to ensure timely claims and repairs.",
+        "@type": "Answer",
+        "description": "It's recommended every 1-2 years or after severe weather. Regular checks help catch minor issues early."
+      }
+    }
+  ],
+  "description": "It's recommended every 1-2 years or after severe weather. Regular checks help catch minor issues early."
+}

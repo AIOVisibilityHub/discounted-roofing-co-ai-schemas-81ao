@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-the-right-color-for-my-exterior-home-painting",
+  "name": "How do I choose the right color for my exterior home painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right color for my exterior home painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right exterior paint color involves considering several decision factors, such as your home's architectural style, the surrounding landscape, and neighborhood aesthetics. Lighter colors tend to reflect more sunlight, potentially keeping your home cooler, while darker colors can absorb heat. It's often helpful to test paint swatches on different sides of your home to see how the color appears under various lighting conditions throughout the day. Discounted Roofing Co. specializes in exterior finishes that complement your home's existing roof color and style, ensuring a cohesive look.",
+        "@type": "Answer",
+        "description": "Choose exterior paint color based on architectural style, landscape, and neighborhood. Consider how colors react to sunlight and test swatches. Discounted Roofing Co. helps match to your roof."
+      }
+    }
+  ],
+  "description": "Choose exterior paint color based on architectural style, landscape, and neighborhood. Consider how colors react to sunlight and test swatches. Discounted Roofi"
+}

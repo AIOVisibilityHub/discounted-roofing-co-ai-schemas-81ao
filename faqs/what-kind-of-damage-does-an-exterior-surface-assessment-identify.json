@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-kind-of-damage-does-an-exterior-surface-assessment-identify",
+  "name": "What kind of damage does an exterior surface assessment identify?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of damage does an exterior surface assessment identify?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An exterior surface assessment identifies various types of damage and wear, including hail impact, wind damage (missing shingles, lifted siding), UV degradation, moisture intrusion points, structural issues related to the exterior, and deterioration of materials. For properties in North Texas, our assessments frequently detect granular loss on shingles, soft spots, and compromised flashing due to frequent temperature fluctuations and storm activity, which are common issues we address.",
+        "@type": "Answer",
+        "description": "It identifies damage like hail impacts, wind damage, UV degradation, moisture intrusion, and material deterioration."
+      }
+    }
+  ],
+  "description": "It identifies damage like hail impacts, wind damage, UV degradation, moisture intrusion, and material deterioration."
+}

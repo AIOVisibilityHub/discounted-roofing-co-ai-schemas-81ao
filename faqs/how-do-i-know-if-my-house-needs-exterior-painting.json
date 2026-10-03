@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-know-if-my-house-needs-exterior-painting",
+  "name": "How do I know if my house needs exterior painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my house needs exterior painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs your house needs exterior painting include peeling, cracking, or blistering paint, fading color, or bare wood exposed to the elements. Inspecting your home's exterior annually for these indicators can help you determine the best time to repaint. Consider the age of your current paint job, as most exterior paints last 5-10 years depending on climate and paint quality. Regular maintenance like power washing can extend the life of your paint, but once cracking or peeling begins, repainting is often necessary to protect your home's siding and structural integrity from weather damage, particularly in the DFW area where heat and sun exposure can be significant.",
+        "@type": "Answer",
+        "description": "Look for peeling, cracking, fading, or exposed wood. Regular inspections and considering the age of your current paint job can help determine if repainting is needed."
+      }
+    }
+  ],
+  "description": "Look for peeling, cracking, fading, or exposed wood. Regular inspections and considering the age of your current paint job can help determine if repainting is n"
+}

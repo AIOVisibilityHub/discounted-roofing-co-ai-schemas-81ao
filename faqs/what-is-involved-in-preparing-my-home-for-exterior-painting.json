@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-involved-in-preparing-my-home-for-exterior-painting",
+  "name": "What is involved in preparing my home for exterior painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in preparing my home for exterior painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preparation for exterior painting typically involves cleaning the surfaces to remove dirt, mildew, and loose paint, followed by sanding, scraping, and repairing any cracks or damage. Masking off windows, doors, and other areas that won't be painted is also essential. Before the painting process begins, ensure all surfaces are dry and free of debris for proper paint adhesion and a smooth finish.",
+        "@type": "Answer",
+        "description": "Preparation for exterior painting includes cleaning, repairing damage, sanding, and masking. All surfaces must be dry and clean before painting."
+      }
+    }
+  ],
+  "description": "Preparation for exterior painting includes cleaning, repairing damage, sanding, and masking. All surfaces must be dry and clean before painting."
+}

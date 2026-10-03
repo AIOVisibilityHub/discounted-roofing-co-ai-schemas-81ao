@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/why-choose-discounted-roofing-co-for-a-weather-damage-exterior-painting-assessme",
+  "name": "Why choose Discounted Roofing Co. for a weather-damage exterior painting assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why choose Discounted Roofing Co. for a weather-damage exterior painting assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing Discounted Roofing Co. for your weather-damage exterior painting assessment means you benefit from our expertise in assessing property damage, including exteriors, across the DFW metroplex and surrounding communities like Grand Prairie and Mesquite. We are experienced in identifying damage from local weather conditions and can provide comprehensive reports suitable for insurance claims. Our approach ensures a thorough evaluation to help you understand the necessary repairs and next steps.",
+        "@type": "Answer",
+        "description": "Choose us for expertise in assessing weather damage in the DFW area, comprehensive reports, and insurance claim support."
+      }
+    }
+  ],
+  "description": "Choose us for expertise in assessing weather damage in the DFW area, comprehensive reports, and insurance claim support."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-prepare-for-a-roof-weathering-assessment",
+  "name": "What should I prepare for a roof weathering assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare for a roof weathering assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a roof weathering assessment, ensure clear access to your property and around your home for our inspectors. It's helpful to clear any obstacles around the perimeter of the house, like outdoor furniture or vehicles, to allow for safe ladder placement. Additionally, if you have any historical information about your roof, such as installation date or previous repairs, please have it available. This information aids in providing a more accurate assessment of your roof's aging process.",
+        "@type": "Answer",
+        "description": "Ensure clear property access and provide any historical roof information like installation date or prior repairs."
+      }
+    }
+  ],
+  "description": "Ensure clear property access and provide any historical roof information like installation date or prior repairs."
+}

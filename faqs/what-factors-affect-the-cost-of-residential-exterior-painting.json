@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-affect-the-cost-of-residential-exterior-painting",
+  "name": "What factors affect the cost of residential exterior painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors affect the cost of residential exterior painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of exterior painting is influenced by several factors, including the size and height of your home, the condition of the existing surfaces requiring preparation, the type and quality of paint chosen, and the complexity of architectural details. Homes with extensive repairs, multiple trim colors, or hard-to-reach areas typically cost more. We provide detailed, transparent quotes after an on-site assessment to accurately reflect these variables specific to your property.",
+        "@type": "Answer",
+        "description": "Cost depends on home size, surface condition, paint quality, and architectural complexity. Quotes are provided after assessment."
+      }
+    }
+  ],
+  "description": "Cost depends on home size, surface condition, paint quality, and architectural complexity. Quotes are provided after assessment."
+}

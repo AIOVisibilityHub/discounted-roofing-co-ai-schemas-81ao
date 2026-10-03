@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-process-for-applying-sun-protection-exterior-paint",
+  "name": "What is the process for applying sun-protection exterior paint?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for applying sun-protection exterior paint?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The application process for sun-protection exterior paint is similar to that of conventional exterior paint but often emphasizes thorough surface preparation for optimal adhesion and performance. This typically includes pressure washing to remove dirt and mildew, scraping loose paint, repairing damaged surfaces, and applying a quality primer. Many specialized sun-protective paints may also require specific temperature and humidity conditions during application for proper curing, which is a key consideration for painting projects in North Texas.",
+        "@type": "Answer",
+        "description": "The process involves thorough surface preparation, cleaning, repairs, priming, and then applying the specialized paint according to manufacturer guidelines."
+      }
+    }
+  ],
+  "description": "The process involves thorough surface preparation, cleaning, repairs, priming, and then applying the specialized paint according to manufacturer guidelines."
+}

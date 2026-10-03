@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-energy-efficient-is-a-metal-roof-in-the-texas-climate",
+  "name": "How energy efficient is a metal roof in the Texas climate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How energy efficient is a metal roof in the Texas climate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Metal roofs are highly energy efficient, especially beneficial in the warm Texas climate. Many metal roofing products feature 'cool roofing' technology, incorporating reflective pigments that reflect solar radiant heat away from your home. This significantly reduces heat gain, which can lead to lower air conditioning costs during the hot DFW summers. This first-party insight highlights that selecting the right color and finish can further enhance energy performance. Our team at Discounted Roofing Co. can guide you on ENERGY STAR® rated options that maximize thermal efficiency.",
+        "@type": "Answer",
+        "description": "Metal roofs are very energy efficient in Texas, reflecting solar heat to reduce cooling costs, especially with 'cool roofing' technology. Selecting the right color and finish enhances performance."
+      }
+    }
+  ],
+  "description": "Metal roofs are very energy efficient in Texas, reflecting solar heat to reduce cooling costs, especially with 'cool roofing' technology. Selecting the right co"
+}

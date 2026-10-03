@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-exterior-house-painting-typically-take",
+  "name": "How long does exterior house painting typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does exterior house painting typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an exterior painting project varies based on the size of the house, weather conditions, required preparation, and the number of coats. Smaller homes might take 2-3 days, while larger or more complex projects could take a week or more. In the DFW service area, we carefully monitor weather forecasts to schedule work during optimal conditions, ensuring efficient progress without compromising quality. We provide an estimated timeline during the initial consultation.",
+        "@type": "Answer",
+        "description": "Project duration varies by house size, weather, and preparation, typically 2-7+ days. Weather in DFW is a key factor."
+      }
+    }
+  ],
+  "description": "Project duration varies by house size, weather, and preparation, typically 2-7+ days. Weather in DFW is a key factor."
+}

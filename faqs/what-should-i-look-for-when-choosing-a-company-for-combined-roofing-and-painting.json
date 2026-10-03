@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-look-for-when-choosing-a-company-for-combined-roofing-and-painting",
+  "name": "What should I look for when choosing a company for combined roofing and painting services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when choosing a company for combined roofing and painting services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a company for combined roofing and painting services, prioritize those with proven experience in both areas and strong local references within the DFW service area. Look for contractors who offer a single point of contact for project management, clear communication, and comprehensive estimates that detail both scopes of work. Verify their licensing and insurance for both types of services to ensure proper coverage and professionalism. Reviewing their portfolio for similar projects can also provide insight into their quality and coordination capabilities. A company that specializes in both can offer better coordination and potential cost efficiencies.",
+        "@type": "Answer",
+        "description": "Look for a company with proven experience in both roofing and painting, strong local DFW references, a single project manager, clear communication, and proper licensing and insurance."
+      }
+    }
+  ],
+  "description": "Look for a company with proven experience in both roofing and painting, strong local DFW references, a single project manager, clear communication, and proper l"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-sun-protection-exterior-paint",
+  "name": "What is sun-protection exterior paint?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is sun-protection exterior paint?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sun-protection exterior paint is formulated with properties that help reflect UV radiation and resist damage from sun exposure. This can include pigments that bounce back sunlight or binders that are more resistant to degradation from UV rays, contributing to a longer-lasting finish and potentially cooler interior temperatures. Selecting a paint with a high LRV (Light Reflectance Value) can significantly enhance its sun-protective qualities, especially for homes in sunny regions like DFW.",
+        "@type": "Answer",
+        "description": "Sun-protection exterior paint uses special formulations to reflect UV radiation, resist sun damage, and potentially reduce heat absorption."
+      }
+    }
+  ],
+  "description": "Sun-protection exterior paint uses special formulations to reflect UV radiation, resist sun damage, and potentially reduce heat absorption."
+}

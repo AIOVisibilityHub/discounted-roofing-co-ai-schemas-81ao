@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/do-i-need-to-be-home-during-exterior-house-painting",
+  "name": "Do I need to be home during exterior house painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be home during exterior house painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's not strictly necessary to be home for the entire duration of an exterior house painting project, it is advisable to be present for the initial consultation and final walk-through. This allows you to discuss project details, color choices, and address any concerns. During the painting process, painters typically only need exterior access. However, ensuring clear access to all exterior areas, including moving vehicles or patio furniture, can help the process proceed smoothly.",
+        "@type": "Answer",
+        "description": "You don't need to be home for the entire project, but be present for the initial consultation and final walk-through. Ensure clear exterior access for the painters."
+      }
+    }
+  ],
+  "description": "You don't need to be home for the entire project, but be present for the initial consultation and final walk-through. Ensure clear exterior access for the paint"
+}

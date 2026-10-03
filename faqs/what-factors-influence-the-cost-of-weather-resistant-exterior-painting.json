@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-influence-the-cost-of-weather-resistant-exterior-painting",
+  "name": "What factors influence the cost of weather-resistant exterior painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of weather-resistant exterior painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of weather-resistant exterior painting is determined by several factors, including the size and height of your home, the type and quality of paint chosen, the condition of the existing surfaces requiring preparation (e.g., scraping, sanding, priming, repairs), and the complexity of architectural details. Labor costs also play a significant role. Before contacting us for a quote, gathering information about the total square footage of your exterior walls and noting any areas with significant damage or unique features can help us provide a more accurate estimate.",
+        "@type": "Answer",
+        "description": "Exterior painting costs depend on home size, paint quality, surface condition, architectural details, and labor. Prepare by noting square footage and any damage for an accurate quote."
+      }
+    }
+  ],
+  "description": "Exterior painting costs depend on home size, paint quality, surface condition, architectural details, and labor. Prepare by noting square footage and any damage"
+}

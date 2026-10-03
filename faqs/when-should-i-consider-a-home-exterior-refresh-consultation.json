@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-consider-a-home-exterior-refresh-consultation",
+  "name": "When should I consider a home exterior refresh consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a home exterior refresh consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a home exterior refresh consultation if you notice visible signs of wear on your roof or exterior, such as missing shingles, leaks, or significant discoloration. It's also beneficial after severe weather events, or if you are planning to sell your home and want to maximize its curb appeal and structural integrity. Regular consultations, especially for homes over 10-15 years old, can help proactively identify issues before they become costly repairs.",
+        "@type": "Answer",
+        "description": "Consider a consultation for visible wear, after severe weather, before selling your home, or if your home is over 10-15 years old."
+      }
+    }
+  ],
+  "description": "Consider a consultation for visible wear, after severe weather, before selling your home, or if your home is over 10-15 years old."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-kind-of-warranty-or-guarantee-is-offered-for-exterior-painting-services",
+  "name": "What kind of warranty or guarantee is offered for exterior painting services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty or guarantee is offered for exterior painting services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We stand behind the quality of our exterior painting services with a comprehensive warranty on both materials and labor. The specifics of the warranty, including its duration and coverage details, are clearly outlined in your project proposal. This provides assurance that your investment is protected. We encourage customers to review the warranty terms during the proposal phase to understand the long-term support provided for your newly painted home.",
+        "@type": "Answer",
+        "description": "Our exterior painting services come with a warranty on materials and labor, detailed in your project proposal."
+      }
+    }
+  ],
+  "description": "Our exterior painting services come with a warranty on materials and labor, detailed in your project proposal."
+}

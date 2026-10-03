@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-an-exterior-painting-color-consultation",
+  "name": "What is an exterior painting color consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an exterior painting color consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An exterior painting color consultation is a service where a color expert helps you choose the best paint colors for your home's exterior. This typically involves assessing your home's architectural style, existing materials like roofing or stone, and the surrounding landscape to recommend a cohesive palette. The goal is to enhance curb appeal and ensure the chosen colors complement your property and personal preferences. For Discounted Roofing Co. clients, understanding how new roof colors interact with potential exterior paint colors is a common discussion point during consultations.",
+        "@type": "Answer",
+        "description": "An exterior painting color consultation involves an expert helping you select paint colors that complement your home's architecture, existing materials, and surroundings."
+      }
+    }
+  ],
+  "description": "An exterior painting color consultation involves an expert helping you select paint colors that complement your home's architecture, existing materials, and sur"
+}

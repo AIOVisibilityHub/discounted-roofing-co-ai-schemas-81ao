@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-is-an-exterior-painting-estimate-valid-for",
+  "name": "How long is an exterior painting estimate valid for?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long is an exterior painting estimate valid for?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The validity period for an exterior painting estimate can vary, but generally, estimates are valid for 30 to 90 days. This allows for material prices and labor costs to remain consistent during that timeframe. If you plan to start your project outside this window, it's advisable to request a re-evaluation to account for potential fluctuations in material costs or labor rates.",
+        "@type": "Answer",
+        "description": "Exterior painting estimates are typically valid for 30 to 90 days, but can vary by contractor."
+      }
+    }
+  ],
+  "description": "Exterior painting estimates are typically valid for 30 to 90 days, but can vary by contractor."
+}

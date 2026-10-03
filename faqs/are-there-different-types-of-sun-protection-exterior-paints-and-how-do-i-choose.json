@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/are-there-different-types-of-sun-protection-exterior-paints-and-how-do-i-choose",
+  "name": "Are there different types of sun-protection exterior paints, and how do I choose?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there different types of sun-protection exterior paints, and how do I choose?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, sun-protection exterior paints vary in their specific formulations, including acrylics, elastomeric coatings, and those with ceramic microspheres or reflective pigments. Choosing the right type depends on your home's siding material, existing paint condition, and desired level of heat reflection and durability. For instance, an elastomeric paint might be ideal for stucco or masonry to bridge hairline cracks, while a highly reflective acrylic is excellent for wood or fiber cement siding. Consulting with a painting professional can help you select the best product for your specific needs and local climate.",
+        "@type": "Answer",
+        "description": "Types vary by formulation; choose based on siding material, existing paint, and desired performance. A professional can advise on the best fit."
+      }
+    }
+  ],
+  "description": "Types vary by formulation; choose based on siding material, existing paint, and desired performance. A professional can advise on the best fit."
+}

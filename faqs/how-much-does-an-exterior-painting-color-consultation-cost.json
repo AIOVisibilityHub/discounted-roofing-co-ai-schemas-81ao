@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-an-exterior-painting-color-consultation-cost",
+  "name": "How much does an exterior painting color consultation cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does an exterior painting color consultation cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of an exterior painting color consultation varies based on factors like the consultant's experience, the size of your home, and the depth of the consultation. Some companies offer it as a standalone service, while others include it as part of a painting project package. It's advisable to inquire about specific pricing upfront and what deliverables are included, such as color boards or digital renderings. Discounted Roofing Co. clients often find value in combining a color consultation with roof replacement planning to ensure a harmonious exterior design, potentially bundling services.",
+        "@type": "Answer",
+        "description": "The cost of an exterior painting color consultation varies by consultant experience, home size, and service scope. It may be a standalone service or part of a painting package."
+      }
+    }
+  ],
+  "description": "The cost of an exterior painting color consultation varies by consultant experience, home size, and service scope. It may be a standalone service or part of a p"
+}

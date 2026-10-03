@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/why-choose-discounted-roofing-co-for-an-exterior-weathering-assessment",
+  "name": "Why choose Discounted Roofing Co. for an exterior weathering assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why choose Discounted Roofing Co. for an exterior weathering assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing Discounted Roofing Co. for your exterior weathering assessment means you benefit from our extensive experience in the DFW, Abbott, Addison, and Aledo service areas. Our inspectors are trained to identify subtle signs of weathering specific to our region's climate challenges. We pride ourselves on providing honest, transparent assessments and practical, cost-effective solutions, whether it's a minor repair or a complete replacement. Our focus is on prolonging the life of your roof and ensuring its integrity. We offer free, no-obligation assessments to our customers.",
+        "@type": "Answer",
+        "description": "Choose us for our regional expertise, honest assessments, and cost-effective solutions tailored to DFW's climate challenges, with free assessments offered."
+      }
+    }
+  ],
+  "description": "Choose us for our regional expertise, honest assessments, and cost-effective solutions tailored to DFW's climate challenges, with free assessments offered."
+}

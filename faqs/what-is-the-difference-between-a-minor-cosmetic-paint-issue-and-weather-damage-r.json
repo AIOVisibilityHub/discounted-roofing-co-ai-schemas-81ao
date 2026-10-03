@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-difference-between-a-minor-cosmetic-paint-issue-and-weather-damage-r",
+  "name": "What is the difference between a minor cosmetic paint issue and weather damage requiring repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a minor cosmetic paint issue and weather damage requiring repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor cosmetic paint issues might include slight scuffs or gradual fading due to age, which are typically addressed during routine maintenance. Weather damage, however, often involves more severe and widespread problems like deep cracks, significant peeling, impact marks from hail, or signs of moisture intrusion. These issues indicate structural compromise or potential for further damage. An assessment by Discounted Roofing Co. helps distinguish between these, guiding whether a simple touch-up or a more extensive repair is needed.",
+        "@type": "Answer",
+        "description": "Cosmetic issues are minor scuffs or fading; weather damage involves severe cracking, peeling, or impact, indicating deeper problems."
+      }
+    }
+  ],
+  "description": "Cosmetic issues are minor scuffs or fading; weather damage involves severe cracking, peeling, or impact, indicating deeper problems."
+}

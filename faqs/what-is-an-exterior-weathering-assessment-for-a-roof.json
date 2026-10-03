@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-an-exterior-weathering-assessment-for-a-roof",
+  "name": "What is an exterior weathering assessment for a roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an exterior weathering assessment for a roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An exterior weathering assessment evaluates how environmental factors like sun, wind, rain, and hail have affected your roof over time. This inspection identifies signs of wear such as cracking, granule loss, blistering, or impact damage that are not necessarily due to a specific event. Understanding the extent of weathering helps determine the remaining lifespan of your roof and informs decisions about maintenance, repair, or replacement. For instance, in areas like DFW, extreme summer heat accelerates the aging of roofing materials.",
+        "@type": "Answer",
+        "description": "An exterior weathering assessment evaluates how environmental factors have affected your roof over time, identifying wear and helping determine its remaining lifespan."
+      }
+    }
+  ],
+  "description": "An exterior weathering assessment evaluates how environmental factors have affected your roof over time, identifying wear and helping determine its remaining li"
+}

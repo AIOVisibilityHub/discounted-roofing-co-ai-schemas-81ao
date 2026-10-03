@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-can-coordinating-roofing-and-painting-increase-my-home-s-curb-appeal",
+  "name": "How can coordinating roofing and painting increase my home's curb appeal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can coordinating roofing and painting increase my home's curb appeal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Coordinating roofing and exterior painting projects significantly enhances your home's curb appeal by ensuring a harmonious aesthetic. A new roof, combined with a freshly painted exterior, creates a unified and updated look that can dramatically improve the overall impression of your property. Our experts can help you select colors and materials that complement each other, creating a cohesive design. This coordinated refresh not only makes your home more attractive but can also contribute positively to its market value, showcasing attention to detail and maintenance. A coordinated approach ensures color schemes and material choices are complementary.",
+        "@type": "Answer",
+        "description": "Coordinating roofing and exterior painting creates a unified and refreshed aesthetic, significantly enhancing your home's curb appeal and potentially increasing its market value."
+      }
+    }
+  ],
+  "description": "Coordinating roofing and exterior painting creates a unified and refreshed aesthetic, significantly enhancing your home's curb appeal and potentially increasing"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-sun-protection-exterior-paint-last",
+  "name": "How long does sun-protection exterior paint last?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does sun-protection exterior paint last?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The lifespan of sun-protection exterior paint generally ranges from 10 to 20 years, depending on the product quality, application, and environmental factors. Its enhanced resistance to UV degradation and weathering helps it maintain its appearance and protective qualities longer than traditional paints. Proper surface preparation, including cleaning and priming, is crucial to achieving the maximum expected lifespan in regions like North Texas.",
+        "@type": "Answer",
+        "description": "Sun-protection exterior paint can last 10 to 20 years, depending on product quality, application, and environmental conditions."
+      }
+    }
+  ],
+  "description": "Sun-protection exterior paint can last 10 to 20 years, depending on product quality, application, and environmental conditions."
+}

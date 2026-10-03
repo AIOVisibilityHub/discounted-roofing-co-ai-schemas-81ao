@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/do-i-need-to-be-present-during-the-entire-long-lasting-roofing-system-consultati",
+  "name": "Do I need to be present during the entire long-lasting roofing system consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be present during the entire long-lasting roofing system consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it is not strictly required to be present for the entire consultation, especially during the initial roof inspection, it is highly recommended to be available for the discussion portion. This allows you to ask questions directly, understand the assessment findings, and discuss material and budget options face-to-face. Your presence ensures that all your concerns are addressed and you have a clear understanding of the proposed long-lasting roofing solution.",
+        "@type": "Answer",
+        "description": "While not required for the entire time, it's highly recommended to be present for the discussion portion to address concerns and understand proposed solutions."
+      }
+    }
+  ],
+  "description": "While not required for the entire time, it's highly recommended to be present for the discussion portion to address concerns and understand proposed solutions."
+}

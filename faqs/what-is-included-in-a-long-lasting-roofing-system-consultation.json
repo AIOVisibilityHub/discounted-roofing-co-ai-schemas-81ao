@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-included-in-a-long-lasting-roofing-system-consultation",
+  "name": "What is included in a long-lasting roofing system consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a long-lasting roofing system consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A long-lasting roofing system consultation involves a comprehensive assessment of your current roof's condition, identifying potential issues, and discussing options for durable materials and installation methods. Our consultants evaluate factors like roof age, damage, ventilation, and the specific needs of your property in areas like DFW or Allen. We then provide recommendations tailored to extend your roof's lifespan and ensure long-term performance, considering aspects such as material suitability for local weather patterns.",
+        "@type": "Answer",
+        "description": "A consultation includes a roof assessment, identification of issues, and recommendations for durable materials and installation methods to extend your roof's lifespan."
+      }
+    }
+  ],
+  "description": "A consultation includes a roof assessment, identification of issues, and recommendations for durable materials and installation methods to extend your roof's li"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/do-i-need-to-get-multiple-estimates-for-my-roof-insurance-claim",
+  "name": "Do I need to get multiple estimates for my roof insurance claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to get multiple estimates for my roof insurance claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While your insurance company may recommend or allow multiple estimates, you are generally not required to obtain them. The most important factor is selecting a reputable and experienced roofing contractor who can accurately assess the damage and work effectively with your insurance provider. Discounted Roofing Co. provides a comprehensive estimate that aligns with industry standards, which is often sufficient for claim processing in areas like Aledo and Allen.",
+        "@type": "Answer",
+        "description": "You are not usually required to get multiple estimates, but choose a reputable contractor who can accurately assess damage."
+      }
+    }
+  ],
+  "description": "You are not usually required to get multiple estimates, but choose a reputable contractor who can accurately assess damage."
+}

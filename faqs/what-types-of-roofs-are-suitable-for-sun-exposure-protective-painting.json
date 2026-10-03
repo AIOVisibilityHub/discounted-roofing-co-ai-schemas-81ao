@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-types-of-roofs-are-suitable-for-sun-exposure-protective-painting",
+  "name": "What types of roofs are suitable for sun-exposure protective painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of roofs are suitable for sun-exposure protective painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sun-exposure protective paints are typically suitable for a variety of low-slope and flat roof types, including modified bitumen, EPDM, TPO, metal, and some asphalt-based systems. The suitability largely depends on the specific coating product and the condition of the existing roof substrate. A professional roof inspection will determine if your roof material and its current state are compatible with a protective coating application and what surface preparation is required.",
+        "@type": "Answer",
+        "description": "They are suitable for many low-slope and flat roofs like modified bitumen, EPDM, and metal; compatibility depends on the specific coating and roof condition."
+      }
+    }
+  ],
+  "description": "They are suitable for many low-slope and flat roofs like modified bitumen, EPDM, and metal; compatibility depends on the specific coating and roof condition."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-often-should-i-repaint-my-house-s-exterior",
+  "name": "How often should I repaint my house's exterior?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I repaint my house's exterior?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The frequency of exterior house painting depends on several factors, including climate, paint quality, and siding material. In DFW, homes typically require repainting every 5-10 years due to weather conditions. High-quality paint and proper surface preparation can extend this timeframe, while extreme weather exposure, such as direct sun or heavy rain, may necessitate more frequent painting. Regularly inspecting your home for signs of peeling, chipping, or fading paint can help you determine the optimal time for repainting.",
+        "@type": "Answer",
+        "description": "Exterior house painting is typically needed every 5-10 years in the DFW area, depending on climate, paint quality, and siding material. Regular inspections for damage can help determine the optimal timing."
+      }
+    }
+  ],
+  "description": "Exterior house painting is typically needed every 5-10 years in the DFW area, depending on climate, paint quality, and siding material. Regular inspections for"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/do-i-need-to-be-home-during-the-entire-moisture-protection-exterior-painting-pro",
+  "name": "Do I need to be home during the entire moisture-protection exterior painting project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be home during the entire moisture-protection exterior painting project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You generally do not need to be home for the entire duration of the moisture-protection exterior painting project, especially once the initial consultation and color decisions are finalized. We do require access to exterior water and electrical outlets, and occasionally, access to the interior for window or door painting if agreed upon. We will communicate our daily schedule and progress, and our project manager will be available for any questions or updates. Your presence is most crucial at the beginning for a walkthrough and at the end for the final inspection.",
+        "@type": "Answer",
+        "description": "You don't need to be home for the entire project, but access to exterior utilities is required. Your presence is most crucial at the beginning and end for walkthroughs."
+      }
+    }
+  ],
+  "description": "You don't need to be home for the entire project, but access to exterior utilities is required. Your presence is most crucial at the beginning and end for walkt"
+}

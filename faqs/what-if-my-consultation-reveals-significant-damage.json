@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-if-my-consultation-reveals-significant-damage",
+  "name": "What if my consultation reveals significant damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if my consultation reveals significant damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your consultation reveals significant damage to your roof or exterior, our consultant will clearly explain the extent of the issues and discuss the most appropriate repair or replacement options. We will provide a comprehensive estimate and can assist you with understanding potential insurance claims if the damage is due to a covered event. Our goal is to offer practical and durable solutions to restore the safety and integrity of your home efficiently.",
+        "@type": "Answer",
+        "description": "If significant damage is found, we'll explain the issues, discuss repair/replacement options, and provide estimates, potentially assisting with insurance claims."
+      }
+    }
+  ],
+  "description": "If significant damage is found, we'll explain the issues, discuss repair/replacement options, and provide estimates, potentially assisting with insurance claims"
+}

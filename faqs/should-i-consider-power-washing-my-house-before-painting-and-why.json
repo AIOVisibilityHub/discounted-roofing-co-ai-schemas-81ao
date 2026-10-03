@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/should-i-consider-power-washing-my-house-before-painting-and-why",
+  "name": "Should I consider power washing my house before painting, and why?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I consider power washing my house before painting, and why?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, power washing your house before painting is highly recommended. It effectively removes dirt, grime, mildew, and loose paint flakes that can prevent new paint from adhering properly. A clean, smooth surface is essential for maximum paint adhesion and a long-lasting finish. Skipping this step can lead to premature peeling and an uneven appearance, ultimately compromising the quality and durability of your exterior paint job.",
+        "@type": "Answer",
+        "description": "Power washing is recommended before painting to remove dirt, mildew, and loose paint. A clean surface ensures proper paint adhesion and a durable finish."
+      }
+    }
+  ],
+  "description": "Power washing is recommended before painting to remove dirt, mildew, and loose paint. A clean surface ensures proper paint adhesion and a durable finish."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-kind-of-paint-should-i-choose-for-my-home-s-exterior",
+  "name": "What kind of paint should I choose for my home's exterior?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of paint should I choose for my home's exterior?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right exterior paint involves considering your home's siding material, the local climate, and your desired aesthetic. Latex paints are popular for their durability, flexibility, and resistance to fading, making them a good choice for most surfaces in areas like DFW. Oil-based paints are durable but can be less flexible and prone to chalking over time. Specialized paints, such as those with mildew resistance, might be beneficial in humid areas. The primary decision factor is balancing durability, longevity, and appearance to suit your specific home and environmental conditions.",
+        "@type": "Answer",
+        "description": "The best exterior paint depends on your siding material, climate, and desired look. Latex is popular for durability; consider specialized paints for specific needs."
+      }
+    }
+  ],
+  "description": "The best exterior paint depends on your siding material, climate, and desired look. Latex is popular for durability; consider specialized paints for specific ne"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-can-i-get-an-accurate-estimate-for-my-exterior-paint-project",
+  "name": "How can I get an accurate estimate for my exterior paint project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I get an accurate estimate for my exterior paint project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To get an accurate estimate for your exterior paint project, provide details such as the size of your home, the current condition of the existing paint and siding, and any specific repairs you know are needed. We offer complimentary on-site evaluations for properties within our service areas, including Aledo and Abbott, to assess the scope of work thoroughly. This allows us to account for all necessary preparation and materials, ensuring a precise quote.",
+        "@type": "Answer",
+        "description": "Provide details on home size, current paint/siding condition, and needed repairs. We offer free on-site evaluations in our service areas for accurate estimates."
+      }
+    }
+  ],
+  "description": "Provide details on home size, current paint/siding condition, and needed repairs. We offer free on-site evaluations in our service areas for accurate estimates."
+}

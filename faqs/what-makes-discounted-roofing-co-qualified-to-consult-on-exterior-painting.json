@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-makes-discounted-roofing-co-qualified-to-consult-on-exterior-painting",
+  "name": "What makes Discounted Roofing Co. qualified to consult on exterior painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What makes Discounted Roofing Co. qualified to consult on exterior painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "As Discounted Roofing Co., our expertise extends beyond roofing to comprehensive exterior solutions, including exterior painting. We bring a holistic understanding of exterior protection and aesthetics, which means we consider how painting integrates with roofing and other exterior elements. Our consultants are familiar with the specific challenges and weather patterns in the DFW area, ensuring recommendations for durable and long-lasting paint finishes.",
+        "@type": "Answer",
+        "description": "Discounted Roofing Co.'s expertise covers both roofing and exterior painting, offering a holistic view of home protection. We understand DFW's unique weather, ensuring durable paint recommendations."
+      }
+    }
+  ],
+  "description": "Discounted Roofing Co.'s expertise covers both roofing and exterior painting, offering a holistic view of home protection. We understand DFW's unique weather, e"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-questions-should-i-ask-a-contractor-when-getting-an-exterior-painting-estim",
+  "name": "What questions should I ask a contractor when getting an exterior painting estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What questions should I ask a contractor when getting an exterior painting estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When getting an exterior painting estimate, ask about their experience, whether they are insured and licensed, and what specific surface preparation steps are included. Inquire about the type and brand of paint they plan to use, the number of coats, and what warranty they offer on their work. Also, clarify their clean-up process and how they handle unforeseen issues during the project.",
+        "@type": "Answer",
+        "description": "Ask about experience, insurance, prep work, paint type, coats, warranty, clean-up, and unforeseen issues."
+      }
+    }
+  ],
+  "description": "Ask about experience, insurance, prep work, paint type, coats, warranty, clean-up, and unforeseen issues."
+}

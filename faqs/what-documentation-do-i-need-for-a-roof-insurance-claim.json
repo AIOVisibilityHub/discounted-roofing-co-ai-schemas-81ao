@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-documentation-do-i-need-for-a-roof-insurance-claim",
+  "name": "What documentation do I need for a roof insurance claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documentation do I need for a roof insurance claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To streamline your roof insurance claim, you'll typically need your insurance policy number, the date the damage occurred, and a description of the damage. Providing photos or videos of the damage, if available, can also be helpful. Discounted Roofing Co. assists by providing a detailed written estimate and documentation of the damage we observe during our inspection to support your claim.",
+        "@type": "Answer",
+        "description": "You need your policy number, damage date, and description; photos and a contractor's estimate are also valuable."
+      }
+    }
+  ],
+  "description": "You need your policy number, damage date, and description; photos and a contractor's estimate are also valuable."
+}

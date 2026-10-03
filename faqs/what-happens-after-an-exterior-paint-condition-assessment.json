@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-after-an-exterior-paint-condition-assessment",
+  "name": "What happens after an exterior paint condition assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after an exterior paint condition assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After completing the exterior paint condition assessment, our inspector will provide you with a detailed report outlining the findings, including any identified issues like peeling, cracking, or moisture damage. The report will also include recommendations for necessary repairs, surface preparation, and painting options tailored to your property's needs. We will then discuss these recommendations with you, answer any questions, and provide a clear, itemized quote for the recommended services, allowing you to make an informed decision on how to proceed.",
+        "@type": "Answer",
+        "description": "You will receive a detailed report with findings, recommended repairs, and painting options. We'll discuss recommendations and provide an itemized quote for services."
+      }
+    }
+  ],
+  "description": "You will receive a detailed report with findings, recommended repairs, and painting options. We'll discuss recommendations and provide an itemized quote for ser"
+}

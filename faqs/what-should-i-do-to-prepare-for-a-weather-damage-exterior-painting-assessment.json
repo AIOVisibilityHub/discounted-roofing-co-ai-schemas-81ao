@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-do-to-prepare-for-a-weather-damage-exterior-painting-assessment",
+  "name": "What should I do to prepare for a weather-damage exterior painting assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare for a weather-damage exterior painting assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a weather-damage exterior painting assessment, ensure clear access around your home's exterior by moving any obstacles like potted plants or patio furniture. Point out specific areas of concern you've noticed to the assessor, and have any relevant documentation, such as dates of recent storms or previous paint jobs, readily available. This preparation helps the assessor conduct a thorough and efficient inspection. Gathering these details can help us understand the context of the damage more quickly.",
+        "@type": "Answer",
+        "description": "Clear exterior access, highlight areas of concern, and have storm or paint history documentation ready for the assessment."
+      }
+    }
+  ],
+  "description": "Clear exterior access, highlight areas of concern, and have storm or paint history documentation ready for the assessment."
+}

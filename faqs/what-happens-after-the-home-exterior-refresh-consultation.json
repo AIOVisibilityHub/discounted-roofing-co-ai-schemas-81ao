@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-after-the-home-exterior-refresh-consultation",
+  "name": "What happens after the home exterior refresh consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after the home exterior refresh consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After your home exterior refresh consultation, our team will provide you with a detailed report outlining our findings and recommended solutions. This report typically includes options for repairs, replacements, or upgrades, along with transparent pricing. You will have the opportunity to review the recommendations, ask questions, and decide on the best course of action for your home without pressure. There is no obligation to proceed with any services following the consultation.",
+        "@type": "Answer",
+        "description": "After the consultation, you'll receive a detailed report with findings, recommended solutions, and pricing for your review."
+      }
+    }
+  ],
+  "description": "After the consultation, you'll receive a detailed report with findings, recommended solutions, and pricing for your review."
+}

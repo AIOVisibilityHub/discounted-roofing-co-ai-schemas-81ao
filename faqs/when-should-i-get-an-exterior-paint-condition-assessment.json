@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-an-exterior-paint-condition-assessment",
+  "name": "When should I get an exterior paint condition assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get an exterior paint condition assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider an exterior paint condition assessment if you notice visible signs of wear such as blistering, chalking, or fading, or if it has been several years since your last exterior painting project. It's also recommended before selling your home to address potential curb appeal issues or after severe weather events, especially hail in areas like DFW, which can damage paint surfaces. Scheduling an assessment allows you to plan for maintenance proactively, preventing minor issues from escalating into more costly repairs.",
+        "@type": "Answer",
+        "description": "Get an assessment if you see signs of wear, it's been several years since the last paint job, or after severe weather. It helps in proactive maintenance."
+      }
+    }
+  ],
+  "description": "Get an assessment if you see signs of wear, it's been several years since the last paint job, or after severe weather. It helps in proactive maintenance."
+}

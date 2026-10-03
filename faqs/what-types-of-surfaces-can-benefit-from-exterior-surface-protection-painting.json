@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-types-of-surfaces-can-benefit-from-exterior-surface-protection-painting",
+  "name": "What types of surfaces can benefit from exterior surface protection painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of surfaces can benefit from exterior surface protection painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Exterior surface protection painting can benefit a wide range of materials commonly found on residential and commercial properties. This includes stucco, concrete, brick, wood siding, fiber cement, and even metal surfaces. Each material has unique absorption and adhesion properties, requiring specific types of primers and coatings for optimal performance. When preparing for this service, it's helpful to know the exact materials on your property's exterior to ensure the correct products are selected, leading to maximum protection and longevity, especially for diverse structures across our DFW service region.",
+        "@type": "Answer",
+        "description": "Various surfaces like stucco, concrete, wood, brick, and metal benefit; knowing your material helps select the right protective coating."
+      }
+    }
+  ],
+  "description": "Various surfaces like stucco, concrete, wood, brick, and metal benefit; knowing your material helps select the right protective coating."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-involved-in-the-exterior-paint-assessment-process",
+  "name": "What is involved in the exterior paint assessment process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the exterior paint assessment process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During an exterior paint assessment, our team will conduct a thorough visual inspection of all painted surfaces, looking for signs of deterioration like cracking, peeling, or mildew. We examine the condition of the substrate beneath the paint, check for moisture issues, and assess potential areas of concern such as trim, siding, and fascia. This process often includes checking areas adjacent to the roof, which we specialize in, to ensure comprehensive coverage. The goal is to provide a detailed report outlining findings and recommended solutions.",
+        "@type": "Answer",
+        "description": "The process involves a visual inspection of all painted surfaces, checking for deterioration, substrate condition, moisture, and issues with trim or siding. A detailed report follows."
+      }
+    }
+  ],
+  "description": "The process involves a visual inspection of all painted surfaces, checking for deterioration, substrate condition, moisture, and issues with trim or siding. A d"
+}

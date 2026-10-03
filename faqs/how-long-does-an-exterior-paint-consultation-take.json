@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-an-exterior-paint-consultation-take",
+  "name": "How long does an exterior paint consultation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an exterior paint consultation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an exterior paint consultation can vary depending on the size and complexity of your home, as well as the extent of any pre-existing issues. Generally, a consultation can take anywhere from 30 minutes to 1.5 hours. During this time, our consultant will thoroughly inspect your property and discuss all your concerns, providing a detailed overview of the potential project scope and timeline.",
+        "@type": "Answer",
+        "description": "An exterior paint consultation usually takes 30 minutes to 1.5 hours, depending on your home's size and complexity. This allows for a thorough inspection and detailed discussion of the project scope."
+      }
+    }
+  ],
+  "description": "An exterior paint consultation usually takes 30 minutes to 1.5 hours, depending on your home's size and complexity. This allows for a thorough inspection and de"
+}

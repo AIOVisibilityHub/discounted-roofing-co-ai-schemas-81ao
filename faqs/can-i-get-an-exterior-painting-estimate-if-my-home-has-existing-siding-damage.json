@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-i-get-an-exterior-painting-estimate-if-my-home-has-existing-siding-damage",
+  "name": "Can I get an exterior painting estimate if my home has existing siding damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get an exterior painting estimate if my home has existing siding damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can get an exterior painting estimate even if your home has existing siding damage. However, the estimate will typically include the cost for necessary repairs before painting can commence. This is a crucial step because painting over damaged siding can compromise the longevity and finish of the new paint job. We assess the damage and include repair recommendations as part of our comprehensive estimate to ensure a durable and high-quality result.",
+        "@type": "Answer",
+        "description": "Yes, an estimate can be provided, but it will include the cost of repairing existing siding damage before painting."
+      }
+    }
+  ],
+  "description": "Yes, an estimate can be provided, but it will include the cost of repairing existing siding damage before painting."
+}

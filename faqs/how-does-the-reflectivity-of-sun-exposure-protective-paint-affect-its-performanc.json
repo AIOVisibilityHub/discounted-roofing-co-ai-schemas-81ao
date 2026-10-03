@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-does-the-reflectivity-of-sun-exposure-protective-paint-affect-its-performanc",
+  "name": "How does the reflectivity of sun-exposure protective paint affect its performance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does the reflectivity of sun-exposure protective paint affect its performance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The reflectivity of sun-exposure protective paint, often measured by its Solar Reflectance Index (SRI), directly impacts its performance in reducing heat absorption. Higher reflectivity means more sunlight is bounced away from the roof surface, resulting in lower roof temperatures and improved energy efficiency for your building. Coatings with higher SRI values are more effective at keeping the roof cool. Performance is also influenced by the coating's emissivity, which is its ability to release absorbed heat.",
+        "@type": "Answer",
+        "description": "Higher reflectivity (SRI) means more sunlight is reflected, leading to lower roof temperatures and better energy efficiency."
+      }
+    }
+  ],
+  "description": "Higher reflectivity (SRI) means more sunlight is reflected, leading to lower roof temperatures and better energy efficiency."
+}

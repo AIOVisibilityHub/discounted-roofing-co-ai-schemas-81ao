@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-is-an-exterior-weathering-assessment-different-from-a-storm-damage-inspectio",
+  "name": "How is an exterior weathering assessment different from a storm damage inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How is an exterior weathering assessment different from a storm damage inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An exterior weathering assessment focuses on gradual degradation of roofing materials due to prolonged exposure to sun, wind, and temperature fluctuations. It looks for systemic wear. In contrast, a storm damage inspection specifically targets damage caused by acute events like hail, high winds, or heavy rain, which often manifest as sudden, localized impacts or punctures. While both involve roof examination, the goal and typical findings differ significantly. We perform both types of inspections, but the approach to documenting and reporting will vary based on the primary suspected cause.",
+        "@type": "Answer",
+        "description": "Weathering assessments check for gradual wear from environmental exposure, while storm damage inspections look for acute damage from specific weather events."
+      }
+    }
+  ],
+  "description": "Weathering assessments check for gradual wear from environmental exposure, while storm damage inspections look for acute damage from specific weather events."
+}

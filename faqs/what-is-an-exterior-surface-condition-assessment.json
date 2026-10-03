@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-an-exterior-surface-condition-assessment",
+  "name": "What is an exterior surface condition assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an exterior surface condition assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An exterior surface condition assessment is a professional inspection of your property's exterior, including the roof, siding, gutters, and other components, to identify damage, wear, and potential issues. This assessment provides a detailed report on the current state of these surfaces. For Discounted Roofing Co. customers in DFW, this assessment often highlights issues specific to our local climate, such as hail or wind damage, helping prioritize necessary repairs.",
+        "@type": "Answer",
+        "description": "An exterior surface condition assessment is a professional inspection of your property's exterior, like the roof and siding, to identify damage and issues. It provides a detailed report."
+      }
+    }
+  ],
+  "description": "An exterior surface condition assessment is a professional inspection of your property's exterior, like the roof and siding, to identify damage and issues. It p"
+}

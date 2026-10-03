@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-steps-are-taken-to-protect-my-landscaping-and-property-during-painting",
+  "name": "What steps are taken to protect my landscaping and property during painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are taken to protect my landscaping and property during painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Protecting your property is a key part of our process. Before painting begins, we cover all landscaping, shrubs, and plants with drop cloths. Driveways, walkways, and other non-painted surfaces are also shielded to prevent paint splatters. Windows and light fixtures are taped off meticulously. This careful preparation ensures that paint is applied only where intended, preserving the integrity of your landscaping and property throughout the project duration.",
+        "@type": "Answer",
+        "description": "We protect landscaping, shrubs, driveways, and other surfaces with drop cloths and tape to prevent paint splatters during the project."
+      }
+    }
+  ],
+  "description": "We protect landscaping, shrubs, driveways, and other surfaces with drop cloths and tape to prevent paint splatters during the project."
+}

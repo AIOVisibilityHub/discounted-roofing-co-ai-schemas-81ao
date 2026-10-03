@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/do-i-need-to-do-anything-to-prepare-my-home-before-the-painting-crew-arrives",
+  "name": "Do I need to do anything to prepare my home before the painting crew arrives?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to do anything to prepare my home before the painting crew arrives?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To facilitate a smooth painting process, you should clear the perimeter of your home by moving patio furniture, grills, planters, and any decorative items at least 10 feet away from the house. Trim back any shrubbery or branches that are touching the exterior walls. Securing pets indoors and ensuring access to outdoor water spigots are also helpful. This preparation allows our crew unobstructed access to all areas, speeding up project completion.",
+        "@type": "Answer",
+        "description": "Clear the home's perimeter of furniture and plants, secure pets, and ensure water access before the crew arrives."
+      }
+    }
+  ],
+  "description": "Clear the home's perimeter of furniture and plants, secure pets, and ensure water access before the crew arrives."
+}

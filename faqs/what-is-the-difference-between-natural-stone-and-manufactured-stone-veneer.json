@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-difference-between-natural-stone-and-manufactured-stone-veneer",
+  "name": "What is the difference between natural stone and manufactured stone veneer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between natural stone and manufactured stone veneer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Natural stone is quarried, cut, and shaped, offering unique variations in color and texture, making each piece distinct. Manufactured stone veneer is a man-made product designed to replicate natural stone's appearance but is generally lighter and more uniform. A practical tradeoff to consider is the initial material cost versus long-term maintenance; natural stone can be more expensive upfront but often has a longer lifespan with proper care, while manufactured stone might offer a more budget-friendly aesthetic.",
+        "@type": "Answer",
+        "description": "Natural stone is quarried with unique variations; manufactured stone is man-made, lighter, and more uniform."
+      }
+    }
+  ],
+  "description": "Natural stone is quarried with unique variations; manufactured stone is man-made, lighter, and more uniform."
+}

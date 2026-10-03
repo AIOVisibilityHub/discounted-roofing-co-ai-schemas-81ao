@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/should-i-choose-bold-or-neutral-colors-for-my-exterior-paint",
+  "name": "Should I choose bold or neutral colors for my exterior paint?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose bold or neutral colors for my exterior paint?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing between bold and neutral colors for your exterior paint depends on your personal style, neighborhood aesthetic, and potential resale considerations. Neutral colors like greys, beiges, and whites offer timeless appeal, are generally safer for resale, and allow landscaping and architectural details to stand out. Bold colors can make a strong statement but might have a more limited appeal. A color consultant can help you weigh these practical tradeoffs, considering how your choice will interact with existing elements like your roof and the surrounding environment.",
+        "@type": "Answer",
+        "description": "The choice between bold or neutral exterior paint colors depends on personal style, neighborhood aesthetic, and resale considerations, each offering different advantages and tradeoffs."
+      }
+    }
+  ],
+  "description": "The choice between bold or neutral exterior paint colors depends on personal style, neighborhood aesthetic, and resale considerations, each offering different a"
+}

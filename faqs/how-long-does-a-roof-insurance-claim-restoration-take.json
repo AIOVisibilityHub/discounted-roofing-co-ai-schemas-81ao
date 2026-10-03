@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-roof-insurance-claim-restoration-take",
+  "name": "How long does a roof insurance claim restoration take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a roof insurance claim restoration take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a roof insurance claim restoration varies based on the insurance company's processing time, the extent of the damage, and material availability. The claim approval process can take several weeks, while the actual roof repair or replacement typically takes 1-3 days once materials are on site and weather permits. Discounted Roofing Co. prioritizes efficient scheduling once a claim is approved to minimize inconvenience.",
+        "@type": "Answer",
+        "description": "Claim restoration length varies; approval can take weeks, while roof work usually takes 1-3 days, depending on damage and schedule."
+      }
+    }
+  ],
+  "description": "Claim restoration length varies; approval can take weeks, while roof work usually takes 1-3 days, depending on damage and schedule."
+}

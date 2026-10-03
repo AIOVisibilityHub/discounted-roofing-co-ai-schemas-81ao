@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-influence-the-total-cost-of-a-combined-roofing-and-exterior-paintin",
+  "name": "What factors influence the total cost of a combined roofing and exterior painting project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the total cost of a combined roofing and exterior painting project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The total cost of a combined roofing and exterior painting project is influenced by several factors. For roofing, this includes the size and pitch of your roof, the type of materials chosen (e.g., asphalt shingles, metal), and any necessary repairs to the roof deck. For painting, factors include the size of the home, the type and quality of paint, the extent of surface preparation required, and architectural details. The condition of existing surfaces for both services, which might require additional repairs or extensive prep work, will also impact the overall investment. We provide detailed estimates covering all aspects.",
+        "@type": "Answer",
+        "description": "Factors influencing cost include roof size and material, home size, paint type, surface preparation needs, and any required repairs for both roofing and painting."
+      }
+    }
+  ],
+  "description": "Factors influencing cost include roof size and material, home size, paint type, surface preparation needs, and any required repairs for both roofing and paintin"
+}

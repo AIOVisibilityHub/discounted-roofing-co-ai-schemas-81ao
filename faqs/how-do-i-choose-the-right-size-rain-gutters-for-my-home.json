@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-the-right-size-rain-gutters-for-my-home",
+  "name": "How do I choose the right size rain gutters for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right size rain gutters for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right size rain gutters depends on your roof's surface area, slope, and the maximum rainfall intensity in your region. Standard sizes are 5-inch and 6-inch, but larger homes or those in areas with heavy downpours may require 6-inch gutters for adequate water diversion. As a key decision factor for DFW homes, considering the potential for heavy storms helps ensure your system can handle significant water volume effectively, preventing overflow.",
+        "@type": "Answer",
+        "description": "Select gutter size based on roof surface, slope, and local rainfall intensity. Larger homes or heavy rainfall areas often need 6-inch gutters."
+      }
+    }
+  ],
+  "description": "Select gutter size based on roof surface, slope, and local rainfall intensity. Larger homes or heavy rainfall areas often need 6-inch gutters."
+}

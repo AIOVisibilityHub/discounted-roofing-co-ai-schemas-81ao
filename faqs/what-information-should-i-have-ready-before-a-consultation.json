@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-information-should-i-have-ready-before-a-consultation",
+  "name": "What information should I have ready before a consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I have ready before a consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your consultation, it's helpful to note any specific concerns you have, such as areas where you've noticed leaks, drafts, or visible damage. Providing information about your home's age and any past major exterior work can also be beneficial. This preparation helps our consultants focus on key areas and provide more tailored recommendations during the assessment. You don't need to have architectural plans, but a general idea of your home's history is useful.",
+        "@type": "Answer",
+        "description": "Prepare a list of concerns, like leaks or damage, and your home's age, to help the consultant provide tailored recommendations."
+      }
+    }
+  ],
+  "description": "Prepare a list of concerns, like leaks or damage, and your home's age, to help the consultant provide tailored recommendations."
+}

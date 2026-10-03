@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-kind-of-weather-damage-can-affect-exterior-paint",
+  "name": "What kind of weather damage can affect exterior paint?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of weather damage can affect exterior paint?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Various types of weather can significantly affect exterior paint. Common culprits include strong winds causing abrasion or impact damage, hail leading to chips and dents, and prolonged exposure to intense UV radiation from sunlight causing fading and chalking. Extreme temperature fluctuations can lead to paint cracking or peeling, while excessive moisture from rain or humidity can cause blistering or mildew growth. These factors are especially prevalent in regions like the DFW metroplex, where diverse and sometimes severe weather conditions are common.",
+        "@type": "Answer",
+        "description": "Exterior paint can be damaged by wind, hail, UV radiation, temperature changes, and moisture, leading to issues like fading, cracking, and peeling."
+      }
+    }
+  ],
+  "description": "Exterior paint can be damaged by wind, hail, UV radiation, temperature changes, and moisture, leading to issues like fading, cracking, and peeling."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-sun-protection-paint-help-reduce-my-home-s-energy-bills",
+  "name": "Can sun-protection paint help reduce my home's energy bills?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can sun-protection paint help reduce my home's energy bills?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, sun-protection exterior paint can contribute to lower energy bills, particularly if you choose lighter colors with high solar reflectivity. These paints reflect a significant portion of the sun's infrared rays, reducing heat absorption into your home's exterior walls and attic. This can lessen the workload on your air conditioning system, especially during hot summer months typical of the DFW metroplex. The extent of savings depends on factors like insulation, window efficiency, and climate.",
+        "@type": "Answer",
+        "description": "Yes, especially lighter colors with high solar reflectivity, can reduce heat absorption and potentially lower cooling costs."
+      }
+    }
+  ],
+  "description": "Yes, especially lighter colors with high solar reflectivity, can reduce heat absorption and potentially lower cooling costs."
+}

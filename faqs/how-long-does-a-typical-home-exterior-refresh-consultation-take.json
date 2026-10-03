@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-typical-home-exterior-refresh-consultation-take",
+  "name": "How long does a typical home exterior refresh consultation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical home exterior refresh consultation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical home exterior refresh consultation with Discounted Roofing Co. usually takes between 45 minutes to 1.5 hours, depending on the size and complexity of your home's exterior. This timeframe allows our consultants to thoroughly inspect all relevant areas, including the roof, gutters, and siding, and to discuss their findings and recommendations with you in detail. We aim for efficiency while ensuring a comprehensive assessment.",
+        "@type": "Answer",
+        "description": "A consultation typically takes 45 minutes to 1.5 hours, depending on your home's size and complexity."
+      }
+    }
+  ],
+  "description": "A consultation typically takes 45 minutes to 1.5 hours, depending on your home's size and complexity."
+}

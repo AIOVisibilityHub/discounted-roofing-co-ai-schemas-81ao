@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-benefits-of-professional-exterior-house-painting",
+  "name": "What are the benefits of professional exterior house painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of professional exterior house painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional exterior house painting offers several benefits, including a high-quality finish, increased curb appeal, and enhanced protection for your home's exterior. Professionals have the tools, experience, and knowledge to properly prepare surfaces, apply paint evenly, and ensure longevity, which can be challenging for DIY projects. Discounted Roofing Co. uses quality materials and skilled painters to provide a durable and attractive finish, protecting your home from weather elements common in DFW.",
+        "@type": "Answer",
+        "description": "Professional painting provides a high-quality, durable finish, increases curb appeal, and protects your home. Experts ensure proper preparation and application for longevity."
+      }
+    }
+  ],
+  "description": "Professional painting provides a high-quality, durable finish, increases curb appeal, and protects your home. Experts ensure proper preparation and application"
+}

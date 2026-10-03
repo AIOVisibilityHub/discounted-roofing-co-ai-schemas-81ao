@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-typical-process-for-residential-exterior-painting",
+  "name": "What is the typical process for residential exterior painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for residential exterior painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally begins with a thorough inspection and surface preparation, including cleaning, scraping loose paint, and repairing minor imperfections. Next, surfaces are primed to ensure paint adhesion and durability. Two coats of high-quality exterior paint are then applied. Finally, a detailed cleanup is performed, and a final inspection ensures satisfaction. Our process includes protecting landscaping and non-painted surfaces, and we coordinate schedules efficiently to minimize disruption to your daily routine.",
+        "@type": "Answer",
+        "description": "The process includes inspection, surface preparation, priming, painting, cleanup, and final inspection, with landscape protection."
+      }
+    }
+  ],
+  "description": "The process includes inspection, surface preparation, priming, painting, cleanup, and final inspection, with landscape protection."
+}

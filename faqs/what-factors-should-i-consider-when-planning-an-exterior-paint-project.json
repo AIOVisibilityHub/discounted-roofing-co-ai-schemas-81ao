@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-should-i-consider-when-planning-an-exterior-paint-project",
+  "name": "What factors should I consider when planning an exterior paint project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when planning an exterior paint project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When planning an exterior paint project, consider the age and condition of your home's existing paint, the type of siding, and the local climate. Proper surface preparation, including cleaning, scraping, and priming, is crucial for paint adhesion and longevity. For homes in the DFW area, extreme temperature fluctuations and intense sun exposure necessitate high-quality paints designed for durability and UV resistance. Consider the overall aesthetic of your neighborhood and any HOA guidelines for color choices.",
+        "@type": "Answer",
+        "description": "Key factors include existing paint condition, siding type, and local climate. Proper surface preparation and paint quality are essential for durability, especially in regions like DFW with extreme weather."
+      }
+    }
+  ],
+  "description": "Key factors include existing paint condition, siding type, and local climate. Proper surface preparation and paint quality are essential for durability, especia"
+}

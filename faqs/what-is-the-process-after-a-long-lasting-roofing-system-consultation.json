@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-process-after-a-long-lasting-roofing-system-consultation",
+  "name": "What is the process after a long-lasting roofing system consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process after a long-lasting roofing system consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a long-lasting roofing system consultation, our team will provide you with a detailed proposal outlining the recommended materials, scope of work, and estimated costs. We will review this proposal with you, addressing any questions and making adjustments as needed. Once approved, we schedule the installation, managing all aspects from material delivery to project completion. This process ensures transparency and clarity every step of the way, leading to an efficient and high-quality roofing solution.",
+        "@type": "Answer",
+        "description": "After consultation, you receive a detailed proposal. Once approved, we schedule and manage the installation, ensuring transparency from start to finish."
+      }
+    }
+  ],
+  "description": "After consultation, you receive a detailed proposal. Once approved, we schedule and manage the installation, ensuring transparency from start to finish."
+}

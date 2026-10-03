@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-preparation-steps-should-i-take-before-your-team-arrives-for-exterior-paint",
+  "name": "What preparation steps should I take before your team arrives for exterior painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation steps should I take before your team arrives for exterior painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before our team arrives for exterior painting, we recommend clearing the perimeter of your home by moving patio furniture, grills, potted plants, and other personal items at least five feet away from the walls. Trimming back any bushes or tree branches that are touching the house is also helpful for accessibility. We will cover and protect landscaping, but removing easily movable items ensures a smoother and more efficient process. Informing us about any specific concerns or delicate areas during our initial consultation is also beneficial.",
+        "@type": "Answer",
+        "description": "Before our team arrives, clear the home's perimeter by moving furniture and plants, and trim back any touching vegetation to ensure clear access for painting."
+      }
+    }
+  ],
+  "description": "Before our team arrives, clear the home's perimeter by moving furniture and plants, and trim back any touching vegetation to ensure clear access for painting."
+}

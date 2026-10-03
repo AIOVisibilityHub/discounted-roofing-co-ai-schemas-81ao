@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-common-signs-indicate-my-home-needs-moisture-protection-exterior-painting",
+  "name": "What common signs indicate my home needs moisture-protection exterior painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common signs indicate my home needs moisture-protection exterior painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key indicators that your home needs moisture-protection exterior painting include peeling, cracking, or blistering paint, especially on areas exposed to direct weather. You might also notice wood rot, mildew or mold growth on surfaces, or visible water stains. These signs suggest that your current exterior is no longer effectively repelling moisture, leaving your home vulnerable to damage. Early detection and addressing these issues with a protective coating can prevent more costly structural repairs down the line.",
+        "@type": "Answer",
+        "description": "Signs include peeling paint, cracking, wood rot, mold growth, or water stains, indicating your current exterior is no longer effectively repelling moisture."
+      }
+    }
+  ],
+  "description": "Signs include peeling paint, cracking, wood rot, mold growth, or water stains, indicating your current exterior is no longer effectively repelling moisture."
+}

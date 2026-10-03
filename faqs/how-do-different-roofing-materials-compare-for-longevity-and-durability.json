@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-different-roofing-materials-compare-for-longevity-and-durability",
+  "name": "How do different roofing materials compare for longevity and durability?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do different roofing materials compare for longevity and durability?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Different roofing materials offer varying levels of longevity and durability. For instance, metal roofs can last 40-70 years, while high-quality asphalt shingles typically last 20-30 years, and tile roofs can exceed 50 years. The choice involves a practical tradeoff between initial cost, aesthetic preference, and expected lifespan. Our consultations weigh these factors against local weather conditions and your budget to recommend the most suitable material for your specific requirements in regions like Addison or Celina.",
+        "@type": "Answer",
+        "description": "Materials like metal, asphalt shingles, and tile offer different lifespans. We compare these options based on cost, aesthetics, and durability for local conditions."
+      }
+    }
+  ],
+  "description": "Materials like metal, asphalt shingles, and tile offer different lifespans. We compare these options based on cost, aesthetics, and durability for local conditi"
+}

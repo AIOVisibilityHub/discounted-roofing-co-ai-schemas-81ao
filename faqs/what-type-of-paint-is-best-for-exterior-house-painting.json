@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-type-of-paint-is-best-for-exterior-house-painting",
+  "name": "What type of paint is best for exterior house painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What type of paint is best for exterior house painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For exterior house painting, acrylic latex paints are generally considered the best option due to their durability, flexibility, and resistance to fading and cracking. They perform well in various climates, including the fluctuating temperatures of the DFW region. When selecting paint, it's important to consider specific features like mildew resistance for shaded areas or elastomeric properties for stucco surfaces. Choosing a high-quality paint from a reputable brand will provide better coverage and a longer-lasting finish.",
+        "@type": "Answer",
+        "description": "Acrylic latex paints are generally best for exteriors due to durability, flexibility, and resistance to fading and cracking, performing well in DFW's climate."
+      }
+    }
+  ],
+  "description": "Acrylic latex paints are generally best for exteriors due to durability, flexibility, and resistance to fading and cracking, performing well in DFW's climate."
+}

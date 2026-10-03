@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-during-an-exterior-maintenance-consultation",
+  "name": "What happens during an exterior maintenance consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during an exterior maintenance consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During an exterior maintenance consultation, a trained professional from Discounted Roofing Co. will conduct a thorough visual inspection of your roof and its surrounding components. This includes checking for damaged or missing shingles, examining flashing around chimneys and vents, assessing gutter condition, and looking for signs of water damage or structural issues. We document our findings with photos and provide a detailed report outlining any recommended repairs or maintenance tasks. This process typically allows us to give you a clear picture of your roof's health.",
+        "@type": "Answer",
+        "description": "A professional inspects your roof and its components, documents findings with photos, and provides a detailed report of recommended repairs or maintenance."
+      }
+    }
+  ],
+  "description": "A professional inspects your roof and its components, documents findings with photos, and provides a detailed report of recommended repairs or maintenance."
+}

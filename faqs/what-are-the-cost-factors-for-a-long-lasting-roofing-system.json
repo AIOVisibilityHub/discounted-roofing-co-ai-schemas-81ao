@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-cost-factors-for-a-long-lasting-roofing-system",
+  "name": "What are the cost factors for a long-lasting roofing system?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the cost factors for a long-lasting roofing system?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a long-lasting roofing system is influenced by several factors, including the type of material chosen (e.g., metal, tile, certain asphalt shingles), the roof's size and complexity, and the current condition of the underlying structure. Additional costs may arise from necessary repairs to decking or flashing. For example, selecting a durable material designed for extreme weather conditions common in DFW will impact the overall investment, offering a practical tradeoff between upfront cost and long-term durability.",
+        "@type": "Answer",
+        "description": "Cost factors include material type, roof size, complexity, and structural repairs. Material choice for local weather conditions impacts the overall investment."
+      }
+    }
+  ],
+  "description": "Cost factors include material type, roof size, complexity, and structural repairs. Material choice for local weather conditions impacts the overall investment."
+}

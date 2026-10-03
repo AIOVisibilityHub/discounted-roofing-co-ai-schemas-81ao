@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-prepare-before-an-exterior-paint-assessment",
+  "name": "What should I prepare before an exterior paint assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before an exterior paint assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before an exterior paint assessment, ensure clear access around your home, including moving any obstacles like potted plants, furniture, or vehicles away from the walls. Trim back any bushes or tree branches that might obstruct visibility. Gather any information you have about previous paint jobs, such as the date they were completed or the type of paint used, as this can provide valuable context to our inspectors. This preparation helps our team conduct a thorough and efficient inspection without delays.",
+        "@type": "Answer",
+        "description": "Clear access around your home, move obstacles, trim foliage, and gather information about previous paint jobs. This ensures an efficient assessment."
+      }
+    }
+  ],
+  "description": "Clear access around your home, move obstacles, trim foliage, and gather information about previous paint jobs. This ensures an efficient assessment."
+}

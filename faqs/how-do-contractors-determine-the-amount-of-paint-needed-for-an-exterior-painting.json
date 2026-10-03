@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-contractors-determine-the-amount-of-paint-needed-for-an-exterior-painting",
+  "name": "How do contractors determine the amount of paint needed for an exterior painting project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do contractors determine the amount of paint needed for an exterior painting project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Contractors determine the amount of paint needed by calculating the total square footage of the surfaces to be painted, taking into account the number of coats required. They also consider the porosity of the surface, as rough or unprimed surfaces absorb more paint. For example, a stucco or heavily textured surface will typically require more paint than smooth siding, and an accurate measurement of all exterior walls, gables, and trim is crucial for a precise estimate.",
+        "@type": "Answer",
+        "description": "Contractors calculate paint quantity based on surface square footage, number of coats, and surface porosity."
+      }
+    }
+  ],
+  "description": "Contractors calculate paint quantity based on surface square footage, number of coats, and surface porosity."
+}

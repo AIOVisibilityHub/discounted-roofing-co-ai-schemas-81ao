@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-an-exterior-paint-consultation-help-identify-underlying-issues-with-my-home",
+  "name": "Can an exterior paint consultation help identify underlying issues with my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can an exterior paint consultation help identify underlying issues with my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, an exterior paint consultation often includes a visual inspection that can help identify underlying issues beyond just cosmetic needs. Our consultants are trained to spot signs of water damage, wood rot, mildew, or structural problems that might need addressing before painting. For instance, in our DFW service areas, identifying and mitigating moisture issues is crucial for paint longevity, and we can advise on these necessary repairs.",
+        "@type": "Answer",
+        "description": "Yes, an exterior paint consultation helps identify underlying issues like water damage or rot. Our consultants in DFW prioritize finding and mitigating moisture issues for paint longevity."
+      }
+    }
+  ],
+  "description": "Yes, an exterior paint consultation helps identify underlying issues like water damage or rot. Our consultants in DFW prioritize finding and mitigating moisture"
+}

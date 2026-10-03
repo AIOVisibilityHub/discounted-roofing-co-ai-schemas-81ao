@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/should-i-repair-my-siding-or-paint-over-it",
+  "name": "Should I repair my siding or paint over it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair my siding or paint over it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should always repair damaged siding before painting over it. Painting over cracked, rotted, or loose siding will not address the underlying issues and can lead to paint peeling or premature failure. Addressing repairs first ensures the paint adheres properly and protects your home effectively, providing a longer-lasting finish and preventing more costly repairs down the line.",
+        "@type": "Answer",
+        "description": "Repair damaged siding before painting to ensure proper paint adhesion and prevent future issues. Painting over damage is not a long-term solution."
+      }
+    }
+  ],
+  "description": "Repair damaged siding before painting to ensure proper paint adhesion and prevent future issues. Painting over damage is not a long-term solution."
+}

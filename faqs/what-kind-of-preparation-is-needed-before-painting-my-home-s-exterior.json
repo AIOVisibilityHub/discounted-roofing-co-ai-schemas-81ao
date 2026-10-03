@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-kind-of-preparation-is-needed-before-painting-my-home-s-exterior",
+  "name": "What kind of preparation is needed before painting my home's exterior?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of preparation is needed before painting my home's exterior?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Effective preparation is crucial for a lasting exterior paint job. This typically involves power washing to remove dirt and mildew, scraping away loose or peeling paint, sanding rough areas, and repairing any cracks or holes in the siding. Additionally, priming bare wood or repaired surfaces ensures better paint adhesion and a more uniform finish. Skipping these steps can lead to premature paint failure. Discounted Roofing Co. emphasizes thorough surface preparation to ensure optimal paint performance.",
+        "@type": "Answer",
+        "description": "Preparation includes power washing, scraping loose paint, sanding, repairing cracks, and priming bare surfaces. These steps ensure proper paint adhesion and a durable finish."
+      }
+    }
+  ],
+  "description": "Preparation includes power washing, scraping loose paint, sanding, repairing cracks, and priming bare surfaces. These steps ensure proper paint adhesion and a d"
+}

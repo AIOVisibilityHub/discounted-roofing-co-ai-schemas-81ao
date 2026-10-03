@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-it-take-to-receive-an-exterior-painting-estimate-after-an-initial",
+  "name": "How long does it take to receive an exterior painting estimate after an initial consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to receive an exterior painting estimate after an initial consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to receive an exterior painting estimate after an initial consultation can vary but typically ranges from 24 hours to a few business days. This timeframe allows the contractor to accurately assess the property, calculate material and labor costs, and compile a detailed proposal. Factors like property size, complexity, and current workload can influence this duration.",
+        "@type": "Answer",
+        "description": "After a consultation, you can expect an exterior painting estimate within 24 hours to a few business days."
+      }
+    }
+  ],
+  "description": "After a consultation, you can expect an exterior painting estimate within 24 hours to a few business days."
+}

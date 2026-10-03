@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-the-right-metal-roofing-contractor-for-my-home-in-north-texas",
+  "name": "How do I choose the right metal roofing contractor for my home in North Texas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right metal roofing contractor for my home in North Texas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a metal roofing contractor in North Texas, look for experience, local knowledge, and comprehensive warranties. Verify their licensing, insurance, and ask for references. A reputable contractor will provide a detailed estimate and explain the installation process thoroughly. Discounted Roofing Co. serves many North Texas communities, and we recommend checking our local reputation and project portfolio to ensure a good fit for your needs.",
+        "@type": "Answer",
+        "description": "Choose a contractor based on experience, local knowledge, warranties, and positive references. Ensure they provide detailed estimates."
+      }
+    }
+  ],
+  "description": "Choose a contractor based on experience, local knowledge, warranties, and positive references. Ensure they provide detailed estimates."
+}

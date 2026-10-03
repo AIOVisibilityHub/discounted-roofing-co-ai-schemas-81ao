@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-an-exterior-stonework-project-take",
+  "name": "How long does an exterior stonework project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an exterior stonework project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an exterior stonework project depends on its scope and complexity. A small accent wall might be completed in a few days, while an entire home facade could take several weeks. Weather conditions can also impact timelines, especially during the hot Texas summers. A practical tradeoff is balancing project speed with precision; rushing can compromise quality, so we prioritize careful installation for lasting results.",
+        "@type": "Answer",
+        "description": "Project duration varies by scope and complexity, from a few days to several weeks. Weather can also affect timelines."
+      }
+    }
+  ],
+  "description": "Project duration varies by scope and complexity, from a few days to several weeks. Weather can also affect timelines."
+}

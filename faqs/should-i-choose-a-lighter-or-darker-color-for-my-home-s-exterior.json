@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/should-i-choose-a-lighter-or-darker-color-for-my-home-s-exterior",
+  "name": "Should I choose a lighter or darker color for my home's exterior?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose a lighter or darker color for my home's exterior?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The choice between lighter and darker exterior paint colors involves practical tradeoffs. Lighter colors tend to reflect sunlight, which can help keep your home cooler, potentially reducing energy costs, especially in hot climates like DFW. They also tend to show dirt less conspicuously and can make a home appear larger. Darker colors absorb more heat, which might be a concern in summer, but they can create a dramatic look and highlight architectural features. Ultimately, the decision factor often balances aesthetic preference with climate considerations and long-term maintenance practicalities.",
+        "@type": "Answer",
+        "description": "Lighter colors reflect heat and show less dirt, making a home appear larger. Darker colors absorb heat but offer a dramatic look; consider climate and aesthetics."
+      }
+    }
+  ],
+  "description": "Lighter colors reflect heat and show less dirt, making a home appear larger. Darker colors absorb heat but offer a dramatic look; consider climate and aesthetic"
+}

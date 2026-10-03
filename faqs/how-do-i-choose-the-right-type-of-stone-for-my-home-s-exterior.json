@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-the-right-type-of-stone-for-my-home-s-exterior",
+  "name": "How do I choose the right type of stone for my home's exterior?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right type of stone for my home's exterior?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right stone involves considering your home's architectural style, your aesthetic preferences, and the local climate. Different stones offer varied textures and color palettes that can complement or contrast with existing elements. As a preparation step, collecting images of stone styles you like and bringing them to our consultation can significantly help in narrowing down options, ensuring the final choice aligns with your vision and enhances your home's curb appeal in areas like Frisco or McKinney.",
+        "@type": "Answer",
+        "description": "Consider your home's style, aesthetic preference, and climate. Gathering inspirational images helps in the selection process."
+      }
+    }
+  ],
+  "description": "Consider your home's style, aesthetic preference, and climate. Gathering inspirational images helps in the selection process."
+}

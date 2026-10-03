@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-an-exterior-surface-condition-assessment-help-with-insurance-claims",
+  "name": "Can an exterior surface condition assessment help with insurance claims?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can an exterior surface condition assessment help with insurance claims?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, an exterior surface condition assessment can significantly help with insurance claims. The detailed report, including photographic evidence of damage, provides objective documentation for your insurance company. This documentation helps substantiate your claim and can expedite the approval process. Our comprehensive reports are formatted to be easily understood by insurance adjusters, which often smooths the path for necessary repairs in areas like Dallas and Fort Worth.",
+        "@type": "Answer",
+        "description": "Yes, the detailed report and photos from an assessment provide objective documentation to support your insurance claim."
+      }
+    }
+  ],
+  "description": "Yes, the detailed report and photos from an assessment provide objective documentation to support your insurance claim."
+}

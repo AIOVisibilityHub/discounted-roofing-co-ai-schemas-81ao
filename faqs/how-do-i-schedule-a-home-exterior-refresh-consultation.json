@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-schedule-a-home-exterior-refresh-consultation",
+  "name": "How do I schedule a home exterior refresh consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I schedule a home exterior refresh consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can schedule a home exterior refresh consultation by contacting Discounted Roofing Co. directly through our website or by phone. Our team will assist you in setting up a convenient date and time for one of our exterior specialists to visit your property. We strive to offer flexible scheduling to accommodate your availability, ensuring a timely assessment of your home's exterior needs. Scheduling is the first step towards understanding and enhancing your home's curb appeal and protection.",
+        "@type": "Answer",
+        "description": "Schedule a consultation by contacting Discounted Roofing Co. via our website or phone to arrange a convenient date and time."
+      }
+    }
+  ],
+  "description": "Schedule a consultation by contacting Discounted Roofing Co. via our website or phone to arrange a convenient date and time."
+}

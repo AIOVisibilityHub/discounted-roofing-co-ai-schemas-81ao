@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-contact-a-roofing-company-for-an-insurance-claim",
+  "name": "When should I contact a roofing company for an insurance claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I contact a roofing company for an insurance claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should contact a roofing company as soon as possible after noticing damage that you believe is covered by insurance, such as hail, wind, or storm damage. Early contact allows for a prompt assessment of the damage and helps prevent further issues, like water leaks, that could complicate your claim. Getting a professional assessment from Discounted Roofing Co. before or immediately after your insurance adjuster's visit can ensure all damages are identified and properly documented.",
+        "@type": "Answer",
+        "description": "Contact a roofing company promptly after discovering damage to your roof that might be covered by insurance."
+      }
+    }
+  ],
+  "description": "Contact a roofing company promptly after discovering damage to your roof that might be covered by insurance."
+}

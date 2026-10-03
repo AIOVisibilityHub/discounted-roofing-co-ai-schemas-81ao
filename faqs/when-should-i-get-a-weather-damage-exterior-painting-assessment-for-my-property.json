@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-a-weather-damage-exterior-painting-assessment-for-my-property",
+  "name": "When should I get a weather-damage exterior painting assessment for my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a weather-damage exterior painting assessment for my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should get a weather-damage exterior painting assessment if you notice any visible damage to your exterior paint, such as peeling, cracking, blistering, or fading, especially after severe weather events like hail, strong winds, or heavy storms. Early assessment can prevent minor issues from becoming extensive and costly repairs. For properties in areas like DFW or Plano, where hailstorms are common, a timely check after such events is especially prudent to identify potential damage. Consider an assessment if you observe discoloration or if your home's exterior has taken a direct impact.",
+        "@type": "Answer",
+        "description": "Get an assessment after severe weather or if you see visible paint damage like peeling, cracking, or fading to prevent further issues."
+      }
+    }
+  ],
+  "description": "Get an assessment after severe weather or if you see visible paint damage like peeling, cracking, or fading to prevent further issues."
+}

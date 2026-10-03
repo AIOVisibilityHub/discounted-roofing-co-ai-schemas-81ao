@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-involved-in-a-weather-damage-exterior-painting-assessment",
+  "name": "What is involved in a weather-damage exterior painting assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a weather-damage exterior painting assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A weather-damage exterior painting assessment involves a thorough inspection of your home's exterior surfaces by a professional. This typically includes examining paint for cracks, chips, blistering, fading, or signs of water intrusion, and checking for collateral damage to siding or trim. The assessor will identify areas affected by weather, document the extent of the damage, and determine if it's cosmetic or indicative of underlying structural problems. Our team at Discounted Roofing Co. focuses on comprehensive checks to provide a clear picture of necessary repairs.",
+        "@type": "Answer",
+        "description": "An assessment involves a professional inspecting your exterior paint and surfaces for damage, documenting findings, and identifying repair needs."
+      }
+    }
+  ],
+  "description": "An assessment involves a professional inspecting your exterior paint and surfaces for damage, documenting findings, and identifying repair needs."
+}

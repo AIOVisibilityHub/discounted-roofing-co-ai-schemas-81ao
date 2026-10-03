@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-often-should-i-inspect-my-exterior-paint-for-damage",
+  "name": "How often should I inspect my exterior paint for damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I inspect my exterior paint for damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is recommended to inspect your home's exterior paint annually, ideally in the spring or fall. Regular inspections allow for early detection of any issues such as peeling, cracking, blistering, or mildew growth, which, through process clarity, enables timely touch-ups or repairs. Addressing minor damage promptly can prevent more extensive and costly problems down the line, maintaining the protective barrier and aesthetic appeal of your home. Pay close attention to areas most exposed to direct sunlight and moisture.",
+        "@type": "Answer",
+        "description": "Inspect exterior paint annually, preferably in spring or fall, to catch and address peeling, cracking, or mildew early, preventing larger repairs."
+      }
+    }
+  ],
+  "description": "Inspect exterior paint annually, preferably in spring or fall, to catch and address peeling, cracking, or mildew early, preventing larger repairs."
+}

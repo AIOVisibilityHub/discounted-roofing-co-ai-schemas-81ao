@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-an-exterior-paint-condition-assessment-cost",
+  "name": "How much does an exterior paint condition assessment cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does an exterior paint condition assessment cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of an exterior paint condition assessment can vary depending on the size and accessibility of your property, as well as the complexity of the issues found. Some companies may offer it as a standalone service, while others might include it as part of a broader exterior inspection or provide it free with a painting quote. When contacting us, be prepared to share details about your property's size and any specific concerns you have, which helps us provide a more accurate estimate or explain our assessment process.",
+        "@type": "Answer",
+        "description": "Costs vary by property size and complexity. Some assessments are free with a quote, while others are a standalone service. Be ready to share property details."
+      }
+    }
+  ],
+  "description": "Costs vary by property size and complexity. Some assessments are free with a quote, while others are a standalone service. Be ready to share property details."
+}

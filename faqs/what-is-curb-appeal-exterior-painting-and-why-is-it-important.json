@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-curb-appeal-exterior-painting-and-why-is-it-important",
+  "name": "What is curb-appeal exterior painting and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is curb-appeal exterior painting and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Curb-appeal exterior painting involves refreshing or changing the paint on your home's exterior to enhance its visual attractiveness from the street. This can significantly improve your property's first impression, which is crucial if you are considering selling your home or simply want to boost personal enjoyment. A new coat of paint can also offer protection against weather elements, extending the life of your home's siding materials. When evaluating professional painters, consider their experience with different siding types like brick, stucco, or wood, as the preparation and application techniques vary.",
+        "@type": "Answer",
+        "description": "Curb-appeal exterior painting enhances your home's visual attractiveness and provides protection against weather elements, improving first impressions and property value."
+      }
+    }
+  ],
+  "description": "Curb-appeal exterior painting enhances your home's visual attractiveness and provides protection against weather elements, improving first impressions and prope"
+}

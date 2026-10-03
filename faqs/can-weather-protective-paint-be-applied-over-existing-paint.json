@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-weather-protective-paint-be-applied-over-existing-paint",
+  "name": "Can weather-protective paint be applied over existing paint?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can weather-protective paint be applied over existing paint?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, weather-protective paint can often be applied over existing paint, provided the underlying surface is properly prepared. This preparation is a critical first-party insight to ensure adhesion and a lasting finish. The existing paint must be clean, dry, dull (sanded if glossy), and free of any peeling, flaking, or mildew. If the old paint is in poor condition, extensive scraping and priming may be necessary to create a sound base. Our team assesses the condition of your current paint to recommend the best preparation approach.",
+        "@type": "Answer",
+        "description": "Yes, weather-protective paint can go over existing paint if the surface is properly prepared (clean, dry, dull, and free of peeling)."
+      }
+    }
+  ],
+  "description": "Yes, weather-protective paint can go over existing paint if the surface is properly prepared (clean, dry, dull, and free of peeling)."
+}

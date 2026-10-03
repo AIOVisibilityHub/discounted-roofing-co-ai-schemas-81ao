@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-information-should-i-prepare-before-an-exterior-paint-consultation",
+  "name": "What information should I prepare before an exterior paint consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I prepare before an exterior paint consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To make the most of your exterior paint consultation, consider having an idea of your desired color palette, any specific concerns you have about your home's exterior (like peeling paint or wood rot), and your budget range. Gathering recent photos of your home, or examples of looks you admire, can also be helpful. This preparation allows our consultants to tailor their recommendations more precisely to your vision and needs.",
+        "@type": "Answer",
+        "description": "Before an exterior paint consultation, prepare your desired color palette, any concerns about your home's exterior, and your budget range. Having example photos can also be helpful."
+      }
+    }
+  ],
+  "description": "Before an exterior paint consultation, prepare your desired color palette, any concerns about your home's exterior, and your budget range. Having example photos"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-does-sun-protection-paint-extend-the-life-of-my-home-s-exterior",
+  "name": "How does sun-protection paint extend the life of my home's exterior?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does sun-protection paint extend the life of my home's exterior?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sun-protection paint protects your home's exterior by minimizing the damaging effects of UV radiation, which can cause conventional paint to fade, crack, and peel prematurely. By reflecting sunlight, it reduces surface temperature fluctuations, which are a common cause of paint failure over time. This extended durability means fewer repainting cycles and better protection for the underlying siding materials. Choosing a high-quality, elastomeric sun-protection paint can further enhance crack resistance.",
+        "@type": "Answer",
+        "description": "It extends life by resisting UV damage, fading, and cracking, which are common issues with regular paints exposed to strong sunlight."
+      }
+    }
+  ],
+  "description": "It extends life by resisting UV damage, fading, and cracking, which are common issues with regular paints exposed to strong sunlight."
+}

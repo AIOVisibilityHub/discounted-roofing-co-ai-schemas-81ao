@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-the-right-contractor-for-a-long-lasting-roofing-system",
+  "name": "How do I choose the right contractor for a long-lasting roofing system?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for a long-lasting roofing system?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right contractor for a long-lasting roofing system involves evaluating their experience, certifications, insurance, and local reputation. Look for contractors with a proven track record in your area, such as Discounted Roofing Co. serving DFW, Aledo, and Allen. Ask for references and inspect examples of their previous work. A decision factor should be their willingness to clearly explain material options, warranties, and the installation process, ensuring transparency and trust.",
+        "@type": "Answer",
+        "description": "Choose a contractor based on experience, certifications, insurance, and local reputation. Evaluate their willingness to explain options, warranties, and processes."
+      }
+    }
+  ],
+  "description": "Choose a contractor based on experience, certifications, insurance, and local reputation. Evaluate their willingness to explain options, warranties, and process"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-typical-process-for-exterior-house-painting",
+  "name": "What is the typical process for exterior house painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for exterior house painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The exterior painting process generally begins with surface preparation, including power washing, scraping loose paint, sanding, and filling cracks or holes. Next, areas not to be painted are masked off. Primer is applied if necessary, especially on bare wood or to improve paint adhesion. Finally, one to two coats of high-quality exterior paint are applied. The process concludes with a thorough cleanup and inspection. Factors like weather conditions, surface material, and the extent of repair work needed can affect the project timeline and complexity.",
+        "@type": "Answer",
+        "description": "The process involves surface preparation (cleaning, scraping), masking, priming, painting, and cleanup. Weather and surface condition can impact the timeline."
+      }
+    }
+  ],
+  "description": "The process involves surface preparation (cleaning, scraping), masking, priming, painting, and cleanup. Weather and surface condition can impact the timeline."
+}

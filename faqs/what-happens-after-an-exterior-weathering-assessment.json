@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-after-an-exterior-weathering-assessment",
+  "name": "What happens after an exterior weathering assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after an exterior weathering assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After your exterior weathering assessment, you will receive a detailed report outlining the findings and recommendations. Based on the report, we will discuss whether minor repairs are needed to extend your roof's life, if more significant restoration is advisable, or if a full roof replacement is the most cost-effective long-term solution. We provide transparent advice to help you make an informed decision without pressure. Discounted Roofing Co. focuses on solutions that match the identified wear and your budget.",
+        "@type": "Answer",
+        "description": "You'll receive a detailed report with findings and recommendations, leading to a discussion about repairs, restoration, or replacement options."
+      }
+    }
+  ],
+  "description": "You'll receive a detailed report with findings and recommendations, leading to a discussion about repairs, restoration, or replacement options."
+}

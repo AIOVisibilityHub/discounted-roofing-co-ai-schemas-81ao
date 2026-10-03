@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-influence-the-cost-of-weather-protective-exterior-painting",
+  "name": "What factors influence the cost of weather-protective exterior painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of weather-protective exterior painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of weather-protective exterior painting is influenced by several decision factors, including the size and complexity of your home, the condition of the existing surfaces, the type and quality of paint selected, and the amount of preparation required. Homes with multiple stories, intricate architectural details, or extensive damage needing repair will incur higher costs. While Discounted Roofing Co. focuses on providing competitive pricing in the DFW, Abbott, Addison, Aledo, and Allen areas, investing in high-quality materials and professional application can lead to greater longevity and value.",
+        "@type": "Answer",
+        "description": "Cost factors for exterior painting include home size, surface condition, paint quality, and preparation needed. Higher quality and complex homes increase cost."
+      }
+    }
+  ],
+  "description": "Cost factors for exterior painting include home size, surface condition, paint quality, and preparation needed. Higher quality and complex homes increase cost."
+}

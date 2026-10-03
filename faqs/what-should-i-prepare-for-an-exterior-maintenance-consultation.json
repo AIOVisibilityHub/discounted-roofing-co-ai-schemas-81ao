@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-prepare-for-an-exterior-maintenance-consultation",
+  "name": "What should I prepare for an exterior maintenance consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare for an exterior maintenance consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To make the consultation efficient, ensure clear access around your home, especially to the perimeter and any attic access points if interior inspection is requested. Having any previous roofing repair records or warranty information available can also be helpful for our team to understand your roof's history. Please secure pets and clear any obstacles from around the house, like outdoor furniture, that might impede access to the roofline or gutters.",
+        "@type": "Answer",
+        "description": "Prepare by ensuring clear access around your home, securing pets, clearing obstacles, and having any previous roofing records available."
+      }
+    }
+  ],
+  "description": "Prepare by ensuring clear access around your home, securing pets, clearing obstacles, and having any previous roofing records available."
+}

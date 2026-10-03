@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-the-right-exterior-paint-color-for-my-home",
+  "name": "How do I choose the right exterior paint color for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right exterior paint color for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right exterior paint color involves considering your home's architectural style, the surrounding landscape, and the colors of neighboring homes. Light colors can make a house appear larger and reflect heat, while darker colors can add sophistication but absorb more heat. Requesting color samples and observing them at different times of day can help you decide, as lighting significantly affects how colors appear.",
+        "@type": "Answer",
+        "description": "Choose exterior paint colors based on your home's style, landscape, and neighborhood. Consider light reflection and heat absorption. Observe samples in various lighting."
+      }
+    }
+  ],
+  "description": "Choose exterior paint colors based on your home's style, landscape, and neighborhood. Consider light reflection and heat absorption. Observe samples in various"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-does-sun-exposure-protective-paint-extend-the-life-of-my-roof",
+  "name": "How does sun-exposure protective paint extend the life of my roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does sun-exposure protective paint extend the life of my roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sun-exposure protective paint extends roof life by minimizing the damaging effects of UV radiation and thermal shock. By reflecting sunlight, the coating reduces temperature fluctuations on the roof surface, which lessens the expansion and contraction cycles that can degrade roofing materials over time. This protective barrier helps prevent cracking, warping, and premature aging of your existing roof. Regularly inspecting the coating for wear ensures its continued effectiveness.",
+        "@type": "Answer",
+        "description": "It extends roof life by reducing UV damage and thermal stress, preventing material degradation from temperature fluctuations."
+      }
+    }
+  ],
+  "description": "It extends roof life by reducing UV damage and thermal stress, preventing material degradation from temperature fluctuations."
+}

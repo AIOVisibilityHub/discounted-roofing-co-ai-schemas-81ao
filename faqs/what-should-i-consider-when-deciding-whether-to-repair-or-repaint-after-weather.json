@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-consider-when-deciding-whether-to-repair-or-repaint-after-weather",
+  "name": "What should I consider when deciding whether to repair or repaint after weather damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when deciding whether to repair or repaint after weather damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When deciding whether to repair specific damaged areas or undertake a full repaint after weather damage, consider the extent of the damage, the age of your current paint, and your budget. If damage is localized and the existing paint is relatively new and in good condition, repairs might suffice. However, widespread damage, significant fading, or an older paint job could make a full repaint a more cost-effective and aesthetically pleasing long-term solution. Our assessment will help you weigh these practical tradeoffs and make an informed decision.",
+        "@type": "Answer",
+        "description": "Consider damage extent, current paint age, and budget to decide between repairs or a full repaint for weather damage."
+      }
+    }
+  ],
+  "description": "Consider damage extent, current paint age, and budget to decide between repairs or a full repaint for weather damage."
+}

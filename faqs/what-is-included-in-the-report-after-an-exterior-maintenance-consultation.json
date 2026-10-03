@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-included-in-the-report-after-an-exterior-maintenance-consultation",
+  "name": "What is included in the report after an exterior maintenance consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in the report after an exterior maintenance consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The report from an exterior maintenance consultation includes a detailed summary of our findings, identifying any existing damage, potential vulnerabilities, and areas requiring attention on your roof and exterior. It will feature photographic evidence of observed issues, along with clear descriptions and recommended solutions. We will prioritize necessary repairs or maintenance tasks and, if applicable, provide a no-obligation estimate for any suggested work. This comprehensive report serves as a guide for your property's ongoing upkeep.",
+        "@type": "Answer",
+        "description": "The report includes a detailed summary of findings, photographic evidence of issues, recommended solutions, prioritized repairs, and an estimate for any suggested work."
+      }
+    }
+  ],
+  "description": "The report includes a detailed summary of findings, photographic evidence of issues, recommended solutions, prioritized repairs, and an estimate for any suggest"
+}

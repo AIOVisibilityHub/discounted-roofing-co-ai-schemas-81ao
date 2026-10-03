@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-i-choose-different-colors-for-my-roof-and-exterior-paint-when-coordinating-p",
+  "name": "Can I choose different colors for my roof and exterior paint when coordinating projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I choose different colors for my roof and exterior paint when coordinating projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you absolutely can choose different colors for your roof and exterior paint, and this is encouraged to create visual interest and complement your home's architectural style. Our team can assist you in selecting a color palette that ensures both elements work harmoniously. We consider factors like your home's fixed elements (brick, stone), surrounding landscape, and personal preferences. The coordination aspect ensures that paint choices are made with the roof color in mind, preventing clashes and achieving a balanced look. We can provide samples and digital mock-ups to help visualize the final outcome.",
+        "@type": "Answer",
+        "description": "Yes, you can choose different colors; our team assists in selecting harmonious palettes for your roof and exterior paint to complement your home's style and existing elements."
+      }
+    }
+  ],
+  "description": "Yes, you can choose different colors; our team assists in selecting harmonious palettes for your roof and exterior paint to complement your home's style and exi"
+}

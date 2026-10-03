@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-exterior-house-paint-last",
+  "name": "How long does exterior house paint last?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does exterior house paint last?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The lifespan of exterior house paint typically ranges from 5 to 10 years, but this can vary significantly based on several factors. High-quality paint, thorough surface preparation, and professional application contribute to a longer-lasting finish. Climate also plays a major role; homes in harsh climates with intense sun exposure, extreme temperatures, or frequent storms, such as those experienced across the DFW region, may see paint wear faster. Regular maintenance, such as occasional power washing, can help prolong the paint's life.",
+        "@type": "Answer",
+        "description": "Exterior paint generally lasts 5-10 years. Longevity depends on paint quality, preparation, application, and local climate conditions like sun exposure in DFW."
+      }
+    }
+  ],
+  "description": "Exterior paint generally lasts 5-10 years. Longevity depends on paint quality, preparation, application, and local climate conditions like sun exposure in DFW."
+}

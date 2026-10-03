@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-weather-damage-exterior-painting-assessment-take",
+  "name": "How long does a weather-damage exterior painting assessment take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a weather-damage exterior painting assessment take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a weather-damage exterior painting assessment can vary based on the size of your property and the extent of the damage. A typical assessment for a standard residential home might take anywhere from 30 minutes to a few hours. More complex properties or extensive damage requiring detailed documentation will naturally take longer. For properties in our service areas like Allen or Carrollton, we aim to provide an efficient yet thorough inspection.",
+        "@type": "Answer",
+        "description": "An assessment usually takes 30 minutes to a few hours, depending on property size and damage complexity."
+      }
+    }
+  ],
+  "description": "An assessment usually takes 30 minutes to a few hours, depending on property size and damage complexity."
+}

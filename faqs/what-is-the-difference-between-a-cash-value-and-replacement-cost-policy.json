@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-difference-between-a-cash-value-and-replacement-cost-policy",
+  "name": "What is the difference between a cash value and replacement cost policy?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a cash value and replacement cost policy?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An Actual Cash Value (ACV) policy pays for the depreciated value of your roof, meaning it accounts for its age and wear. A Replacement Cost Value (RCV) policy covers the cost to replace your roof with a new one of similar quality, without deduction for depreciation. Understanding your policy type is critical as it directly impacts your payout. Discounted Roofing Co. provides estimates based on current replacement costs, which is especially beneficial for homeowners with RCV policies.",
+        "@type": "Answer",
+        "description": "ACV policies pay the depreciated value of your roof, while RCV policies cover the full cost to replace it."
+      }
+    }
+  ],
+  "description": "ACV policies pay the depreciated value of your roof, while RCV policies cover the full cost to replace it."
+}

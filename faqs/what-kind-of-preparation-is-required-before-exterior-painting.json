@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-kind-of-preparation-is-required-before-exterior-painting",
+  "name": "What kind of preparation is required before exterior painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of preparation is required before exterior painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Thorough preparation is critical for a long-lasting exterior paint job. This includes pressure washing to remove dirt and mildew, scraping loose or peeling paint, sanding rough areas, and repairing any damaged siding or trim. Caulking cracks and gaps around windows and doors is also essential to prevent moisture intrusion. Properly preparing the surface ensures optimal paint adhesion and a smooth finish, directly impacting the durability and appearance of the final result.",
+        "@type": "Answer",
+        "description": "Preparation for exterior painting involves pressure washing, scraping, sanding, repairing damaged areas, and caulking to ensure proper paint adhesion and a durable finish."
+      }
+    }
+  ],
+  "description": "Preparation for exterior painting involves pressure washing, scraping, sanding, repairing damaged areas, and caulking to ensure proper paint adhesion and a dura"
+}

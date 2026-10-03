@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-an-exterior-maintenance-consultation",
+  "name": "What is an exterior maintenance consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an exterior maintenance consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An exterior maintenance consultation involves an expert assessment of your property's external components, primarily focusing on the roof and related structures. We inspect for signs of wear, damage, or potential issues that could lead to costly repairs if left unaddressed. This includes evaluating shingles, flashing, gutters, and other roof-adjacent areas to provide a comprehensive understanding of your exterior's condition. The consultation aims to help you prioritize maintenance tasks to extend the life of your roof.",
+        "@type": "Answer",
+        "description": "An exterior maintenance consultation is an expert assessment of your property's external components, focusing on the roof and related structures, to identify wear, damage, and potential issues."
+      }
+    }
+  ],
+  "description": "An exterior maintenance consultation is an expert assessment of your property's external components, focusing on the roof and related structures, to identify we"
+}

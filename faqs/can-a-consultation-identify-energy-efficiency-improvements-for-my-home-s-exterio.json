@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-a-consultation-identify-energy-efficiency-improvements-for-my-home-s-exterio",
+  "name": "Can a consultation identify energy efficiency improvements for my home's exterior?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a consultation identify energy efficiency improvements for my home's exterior?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a home exterior refresh consultation can identify potential areas for energy efficiency improvements, particularly related to your roof and attic ventilation. Issues like inadequate insulation, damaged shingles allowing air infiltration, or poor ventilation can impact your home's energy consumption. While our primary focus is on the structural integrity and protection of your home, addressing these exterior components can often contribute to better energy performance. We can highlight areas where upgrades might lead to energy savings.",
+        "@type": "Answer",
+        "description": "Yes, consultations can identify energy efficiency improvements related to your roof and attic ventilation, which impact energy consumption."
+      }
+    }
+  ],
+  "description": "Yes, consultations can identify energy efficiency improvements related to your roof and attic ventilation, which impact energy consumption."
+}

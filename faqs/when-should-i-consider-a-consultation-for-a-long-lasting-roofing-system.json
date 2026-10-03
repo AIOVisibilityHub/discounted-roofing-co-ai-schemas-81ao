@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-consider-a-consultation-for-a-long-lasting-roofing-system",
+  "name": "When should I consider a consultation for a long-lasting roofing system?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a consultation for a long-lasting roofing system?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a consultation for a long-lasting roofing system if your current roof is over 15-20 years old, shows signs of extensive wear, frequent leaks, or if you're planning a major home renovation. It's also beneficial if you've recently experienced severe weather in areas like Abbott or Aledo. A consultation helps assess if immediate repairs are sufficient or if a full system upgrade would provide better long-term value, preventing costly future damage.",
+        "@type": "Answer",
+        "description": "Consider a consultation if your roof is old, shows extensive wear, leaks, or after severe weather, to determine if an upgrade is needed."
+      }
+    }
+  ],
+  "description": "Consider a consultation if your roof is old, shows extensive wear, leaks, or after severe weather, to determine if an upgrade is needed."
+}

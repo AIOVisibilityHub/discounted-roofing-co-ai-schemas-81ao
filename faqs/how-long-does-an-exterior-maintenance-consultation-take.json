@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-an-exterior-maintenance-consultation-take",
+  "name": "How long does an exterior maintenance consultation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an exterior maintenance consultation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an exterior maintenance consultation typically ranges from 30 minutes to 1.5 hours, depending on the size, accessibility, and complexity of your property's roof. A larger home with multiple roof sections or difficult access points may require more time for a thorough inspection. We aim to complete the assessment efficiently while ensuring every detail is covered to provide an accurate report. After the physical inspection, time will also be spent discussing the findings with you.",
+        "@type": "Answer",
+        "description": "Consultations typically take 30 minutes to 1.5 hours, varying by roof size and complexity, including time to discuss findings."
+      }
+    }
+  ],
+  "description": "Consultations typically take 30 minutes to 1.5 hours, varying by roof size and complexity, including time to discuss findings."
+}

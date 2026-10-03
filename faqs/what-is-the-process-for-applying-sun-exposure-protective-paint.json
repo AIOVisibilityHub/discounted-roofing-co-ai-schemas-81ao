@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-process-for-applying-sun-exposure-protective-paint",
+  "name": "What is the process for applying sun-exposure protective paint?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for applying sun-exposure protective paint?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The application process typically begins with a thorough cleaning of the roof surface to remove dirt, debris, and any loose materials. This may involve power washing or specialized cleaning agents. Next, any existing damage or leaks on the roof must be repaired. Finally, the protective coating is applied, often in multiple layers, using sprayers or rollers to ensure uniform coverage. The entire process requires specific weather conditions for proper adhesion and curing.",
+        "@type": "Answer",
+        "description": "The process involves cleaning, repairing the roof, and then applying multiple layers of the coating, requiring specific weather conditions for proper curing."
+      }
+    }
+  ],
+  "description": "The process involves cleaning, repairing the roof, and then applying multiple layers of the coating, requiring specific weather conditions for proper curing."
+}

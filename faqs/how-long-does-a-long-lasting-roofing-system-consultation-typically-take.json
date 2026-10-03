@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-long-lasting-roofing-system-consultation-typically-take",
+  "name": "How long does a long-lasting roofing system consultation typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a long-lasting roofing system consultation typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical long-lasting roofing system consultation usually takes between 45 minutes to 1.5 hours, depending on the size and complexity of your roof. This allows our experts sufficient time to thoroughly inspect the roof, assess structural integrity, discuss material options, and answer your questions. The duration can be influenced by the need to access multiple roof sections or investigate specific damage points, ensuring a comprehensive evaluation is completed.",
+        "@type": "Answer",
+        "description": "Consultations typically last 45 minutes to 1.5 hours, depending on roof size and complexity, to allow for thorough inspection and discussion."
+      }
+    }
+  ],
+  "description": "Consultations typically last 45 minutes to 1.5 hours, depending on roof size and complexity, to allow for thorough inspection and discussion."
+}

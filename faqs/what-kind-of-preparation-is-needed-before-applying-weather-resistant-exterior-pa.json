@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-kind-of-preparation-is-needed-before-applying-weather-resistant-exterior-pa",
+  "name": "What kind of preparation is needed before applying weather-resistant exterior paint?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of preparation is needed before applying weather-resistant exterior paint?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper surface preparation is crucial for the longevity and performance of weather-resistant exterior paint. This process typically involves cleaning the surfaces to remove dirt, mildew, and loose paint, followed by scraping and sanding to create a smooth, sound base. Any cracks or holes will be filled, and appropriate primers are applied to ensure proper adhesion, especially on bare wood or previously unpainted surfaces. Neglecting thorough preparation can significantly reduce the paint's lifespan and protective qualities, leading to premature peeling or chipping.",
+        "@type": "Answer",
+        "description": "Before painting, surfaces need thorough cleaning, scraping, sanding, filling cracks, and priming to ensure proper adhesion and longevity of weather-resistant paint."
+      }
+    }
+  ],
+  "description": "Before painting, surfaces need thorough cleaning, scraping, sanding, filling cracks, and priming to ensure proper adhesion and longevity of weather-resistant pa"
+}

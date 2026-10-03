@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-types-of-rain-gutters-are-available",
+  "name": "What types of rain gutters are available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of rain gutters are available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common types of rain gutters include K-style and half-round, made from materials like aluminum, copper, steel, or vinyl. K-style gutters are popular for their decorative look and high capacity, while half-round gutters offer a more traditional aesthetic. When choosing, consider the architectural style of your home and the typical rainfall volume in your specific DFW area to select a material and style that provides both durability and sufficient water diversion.",
+        "@type": "Answer",
+        "description": "Rain gutters come in K-style and half-round designs, made from materials like aluminum, copper, steel, or vinyl, with choices depending on home style and rainfall."
+      }
+    }
+  ],
+  "description": "Rain gutters come in K-style and half-round designs, made from materials like aluminum, copper, steel, or vinyl, with choices depending on home style and rainfa"
+}

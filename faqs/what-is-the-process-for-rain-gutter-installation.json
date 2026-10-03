@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-process-for-rain-gutter-installation",
+  "name": "What is the process for rain gutter installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for rain gutter installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for rain gutter installation typically involves a consultation to assess your needs, followed by precise measurements of your roofline. Our team will then fabricate or cut the gutters to size, securely attach them to your fascia, and install downspouts to direct water away from your foundation. Understanding that specific features like multi-level roofs or unique architectural elements can affect the complexity and timing of the installation, we always provide a detailed project plan.",
+        "@type": "Answer",
+        "description": "Gutter installation involves consultation, measurement, fabrication, attachment to fascia, and downspout installation. Project complexity can vary based on roof features."
+      }
+    }
+  ],
+  "description": "Gutter installation involves consultation, measurement, fabrication, attachment to fascia, and downspout installation. Project complexity can vary based on roof"
+}

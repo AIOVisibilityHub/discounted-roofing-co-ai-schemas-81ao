@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-influence-the-cost-of-an-exterior-paint-project",
+  "name": "What factors influence the cost of an exterior paint project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of an exterior paint project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of an exterior paint project is influenced by several factors, including the size and height of your home, the condition of the existing surfaces, the type and quality of paint selected, and the amount of preparation required. Extensive surface repairs, multiple colors, or specialty finishes can increase costs. Our consultation helps clarify these variables to provide a realistic understanding of the investment needed for your specific project.",
+        "@type": "Answer",
+        "description": "Exterior paint project costs depend on home size, surface condition, paint type, and preparation needed. Factors like extensive repairs or multiple colors can increase the investment."
+      }
+    }
+  ],
+  "description": "Exterior paint project costs depend on home size, surface condition, paint type, and preparation needed. Factors like extensive repairs or multiple colors can i"
+}

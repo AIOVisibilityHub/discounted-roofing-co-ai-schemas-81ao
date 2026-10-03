@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-included-in-a-typical-exterior-painting-estimate-from-discounted-roofing",
+  "name": "What is included in a typical exterior painting estimate from Discounted Roofing Co.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a typical exterior painting estimate from Discounted Roofing Co.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical exterior painting estimate from Discounted Roofing Co. includes the cost of labor, materials (paint, primer, caulk, etc.), surface preparation (cleaning, scraping, sanding), and protection for non-painted areas. It also covers the cost of any necessary repairs to the surface before painting, such as minor wood rot or crack filling. We provide a detailed breakdown to ensure transparency, outlining each service component and its associated cost.",
+        "@type": "Answer",
+        "description": "Our estimates include labor, materials, surface preparation, protection of non-painted areas, and minor repairs."
+      }
+    }
+  ],
+  "description": "Our estimates include labor, materials, surface preparation, protection of non-painted areas, and minor repairs."
+}

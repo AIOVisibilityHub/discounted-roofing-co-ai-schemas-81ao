@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-typical-process-for-a-moisture-protection-exterior-painting-project",
+  "name": "What is the typical process for a moisture-protection exterior painting project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a moisture-protection exterior painting project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our moisture-protection exterior painting process begins with a thorough inspection of your home's exterior to identify any existing moisture damage, such as rot or peeling paint. This is followed by detailed surface preparation, which includes cleaning, scraping loose paint, repairing minor damages, and priming. The specialized moisture-protective paint is then applied, often in multiple coats, ensuring complete coverage and adhesion. Finally, a quality check is performed to confirm uniform application and proper protection. The extent of preparation directly impacts the paint's performance and longevity.",
+        "@type": "Answer",
+        "description": "The process involves inspection, detailed surface preparation (cleaning, repairs, priming), application of specialized paint, and a final quality check to ensure optimal protection."
+      }
+    }
+  ],
+  "description": "The process involves inspection, detailed surface preparation (cleaning, repairs, priming), application of specialized paint, and a final quality check to ensur"
+}

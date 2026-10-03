@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-consider-replacing-my-rain-gutters",
+  "name": "When should I consider replacing my rain gutters?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my rain gutters?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your rain gutters if you notice significant rust, cracks, holes, sagging, or if they frequently overflow. Old or damaged gutters can lead to serious water damage to your home. Before contacting us, inspect your current gutters after a rain shower to identify specific areas of concern or failure points, as this information can help us assess the extent of the damage and recommend the most effective solution.",
+        "@type": "Answer",
+        "description": "Replace rain gutters if they show rust, cracks, holes, sagging, or overflow. Inspecting them after rain helps identify specific damage."
+      }
+    }
+  ],
+  "description": "Replace rain gutters if they show rust, cracks, holes, sagging, or overflow. Inspecting them after rain helps identify specific damage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/is-sun-exposure-protective-paint-a-repair-for-roof-leaks",
+  "name": "Is sun-exposure protective paint a repair for roof leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is sun-exposure protective paint a repair for roof leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, sun-exposure protective paint is not a repair for existing roof leaks. Its primary purpose is to reflect heat and protect the roof surface. Before applying any protective coating, it is critical that all existing leaks and structural damage to the roof are identified and repaired. Applying the coating over leaks will not seal them and could trap moisture, potentially worsening the problem over time. A thorough roof inspection will identify necessary repairs.",
+        "@type": "Answer",
+        "description": "No, it's not a leak repair. All existing leaks and roof damage must be repaired before applying protective paint to prevent further issues."
+      }
+    }
+  ],
+  "description": "No, it's not a leak repair. All existing leaks and roof damage must be repaired before applying protective paint to prevent further issues."
+}

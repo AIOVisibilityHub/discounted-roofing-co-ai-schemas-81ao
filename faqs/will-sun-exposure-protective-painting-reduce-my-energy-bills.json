@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-sun-exposure-protective-painting-reduce-my-energy-bills",
+  "name": "Will sun-exposure protective painting reduce my energy bills?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will sun-exposure protective painting reduce my energy bills?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sun-exposure protective painting can contribute to reducing your energy bills by lowering the amount of heat absorbed by your roof. This directly reduces the demand on your building's air conditioning system during warmer months, leading to less energy consumption. The extent of savings depends on factors like your climate, insulation, existing HVAC system efficiency, and the building's overall energy profile. Quantifiable energy savings estimates often require a building energy audit.",
+        "@type": "Answer",
+        "description": "Yes, it can reduce energy bills by lowering roof heat absorption, thus decreasing air conditioning usage, but savings vary by building specifics."
+      }
+    }
+  ],
+  "description": "Yes, it can reduce energy bills by lowering roof heat absorption, thus decreasing air conditioning usage, but savings vary by building specifics."
+}

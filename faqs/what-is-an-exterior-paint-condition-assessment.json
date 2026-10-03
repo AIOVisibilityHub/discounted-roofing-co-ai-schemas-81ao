@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-an-exterior-paint-condition-assessment",
+  "name": "What is an exterior paint condition assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an exterior paint condition assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An exterior paint condition assessment is a detailed inspection of your property's exterior paint to identify its current state, common issues like peeling, cracking, or fading, and underlying problems such as moisture intrusion or substrate damage. This assessment helps determine if repainting is necessary, what repairs might be needed before painting, and the scope of work involved. Discounted Roofing Co. specializes in identifying issues that could impact your roof system or overall property integrity.",
+        "@type": "Answer",
+        "description": "It's an inspection to evaluate the current state of your exterior paint, identify issues, and determine if repainting or repairs are needed."
+      }
+    }
+  ],
+  "description": "It's an inspection to evaluate the current state of your exterior paint, identify issues, and determine if repainting or repairs are needed."
+}

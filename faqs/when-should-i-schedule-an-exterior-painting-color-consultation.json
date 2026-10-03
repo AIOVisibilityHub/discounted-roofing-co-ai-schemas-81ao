@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-schedule-an-exterior-painting-color-consultation",
+  "name": "When should I schedule an exterior painting color consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I schedule an exterior painting color consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should schedule an exterior painting color consultation before the painting project begins, ideally once you've decided to repaint your home's exterior. This allows ample time to select colors without feeling rushed and ensures the paint order is accurate. If you are also planning a roof replacement, scheduling a consultation concurrently can be beneficial. Discounted Roofing Co. recommends coordinating these services to ensure your new roof and paint colors complement each other, creating a unified and attractive exterior.",
+        "@type": "Answer",
+        "description": "Schedule an exterior painting color consultation before your painting project starts, allowing time for color selection. Coordinate with roof replacement planning for a cohesive look."
+      }
+    }
+  ],
+  "description": "Schedule an exterior painting color consultation before your painting project starts, allowing time for color selection. Coordinate with roof replacement planni"
+}

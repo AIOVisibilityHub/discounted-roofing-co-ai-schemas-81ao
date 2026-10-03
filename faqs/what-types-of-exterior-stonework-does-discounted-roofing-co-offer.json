@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-types-of-exterior-stonework-does-discounted-roofing-co-offer",
+  "name": "What types of exterior stonework does Discounted Roofing Co. offer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of exterior stonework does Discounted Roofing Co. offer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Discounted Roofing Co. provides a range of exterior stonework services, including stone veneer installation, custom stone accents for facades, fireplaces, and entryways, and repairs to existing stonework. Our services enhance curb appeal and structural integrity. A key decision factor when choosing types of stonework is considering the local architectural styles prevalent in DFW communities like Argyle or Southlake, ensuring the stone complements existing structures and neighborhood aesthetics.",
+        "@type": "Answer",
+        "description": "We offer stone veneer installation, custom stone accents, and repairs to existing exterior stonework."
+      }
+    }
+  ],
+  "description": "We offer stone veneer installation, custom stone accents, and repairs to existing exterior stonework."
+}

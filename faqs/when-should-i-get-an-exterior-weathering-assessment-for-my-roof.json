@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-an-exterior-weathering-assessment-for-my-roof",
+  "name": "When should I get an exterior weathering assessment for my roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get an exterior weathering assessment for my roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider an exterior weathering assessment if your roof is over 10 years old, if you've noticed general signs of aging like discoloration or curled shingles, or if you're planning to sell your property. It's also beneficial after a period of harsh weather, even without an obvious storm event. This proactive assessment helps identify minor issues before they become major problems, potentially saving significant repair costs. Discounted Roofing Co. often recommends one as part of routine maintenance planning in the DFW area due to varied weather conditions.",
+        "@type": "Answer",
+        "description": "Consider an assessment for roofs over 10 years old, with visible aging, or when selling property, especially after harsh weather periods."
+      }
+    }
+  ],
+  "description": "Consider an assessment for roofs over 10 years old, with visible aging, or when selling property, especially after harsh weather periods."
+}

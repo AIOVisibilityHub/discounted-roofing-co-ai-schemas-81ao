@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-consider-applying-sun-exposure-protective-paint-to-my-roof-in-the",
+  "name": "When should I consider applying sun-exposure protective paint to my roof in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider applying sun-exposure protective paint to my roof in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider applying sun-exposure protective paint when your existing roof is in good structural condition but you want to improve energy efficiency and prolong its lifespan, especially given the intense summer heat in the DFW area. It's often a suitable option for roofs showing early signs of weathering, or for buildings where reducing internal temperatures is a priority. An assessment of your roof's current state and material compatibility is typically recommended before application.",
+        "@type": "Answer",
+        "description": "Consider it for roofs in good condition to improve energy efficiency and extend life, especially in hot climates like DFW, after a professional assessment."
+      }
+    }
+  ],
+  "description": "Consider it for roofs in good condition to improve energy efficiency and extend life, especially in hot climates like DFW, after a professional assessment."
+}

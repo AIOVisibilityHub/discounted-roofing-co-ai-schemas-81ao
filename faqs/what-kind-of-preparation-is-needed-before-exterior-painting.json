@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-kind-of-preparation-is-needed-before-exterior-painting",
+  "name": "What kind of preparation is needed before exterior painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of preparation is needed before exterior painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Effective preparation is critical for a lasting exterior paint job. This typically involves power washing to remove dirt and mildew, scraping loose paint, sanding rough areas, repairing cracks or holes, and applying primer where necessary. For homes in our service areas like Addison or Allen, checking for and repairing any wood rot or siding damage is especially important before painting. Skipping steps can lead to premature peeling and a shorter lifespan for the paint.",
+        "@type": "Answer",
+        "description": "Preparation includes power washing, scraping, sanding, repairing cracks, and priming. Addressing issues like wood rot is crucial for durability."
+      }
+    }
+  ],
+  "description": "Preparation includes power washing, scraping, sanding, repairing cracks, and priming. Addressing issues like wood rot is crucial for durability."
+}

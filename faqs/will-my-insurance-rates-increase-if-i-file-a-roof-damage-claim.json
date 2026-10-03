@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-my-insurance-rates-increase-if-i-file-a-roof-damage-claim",
+  "name": "Will my insurance rates increase if I file a roof damage claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance rates increase if I file a roof damage claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Filing an insurance claim for roof damage, especially due to severe weather events common in Texas like hail or wind, may or may not directly increase your individual premium. Often, widespread weather events lead to general rate increases across an affected region rather than being solely based on individual claims. It is best to consult directly with your insurance agent about specific policy impacts, but delaying necessary repairs can lead to more severe and costly issues not covered later.",
+        "@type": "Answer",
+        "description": "Filing a claim for weather-related roof damage may not directly impact your individual rates, but consult your insurance agent for details."
+      }
+    }
+  ],
+  "description": "Filing a claim for weather-related roof damage may not directly impact your individual rates, but consult your insurance agent for details."
+}

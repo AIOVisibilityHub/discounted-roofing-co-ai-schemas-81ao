@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-does-an-exterior-paint-assessment-differ-from-a-general-home-inspection",
+  "name": "How does an exterior paint assessment differ from a general home inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does an exterior paint assessment differ from a general home inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An exterior paint assessment is much more focused than a general home inspection. While a general home inspection covers many components of a property to ensure overall safety and function, a paint assessment specifically delves into the condition of the exterior finishes. Our assessment looks at paint adhesion, integrity, and potential underlying issues that specifically impact the paint's performance and longevity. This specialized focus allows for a more in-depth evaluation of paint-related concerns, often crucial for maintaining curb appeal and protecting your home's exterior.",
+        "@type": "Answer",
+        "description": "A paint assessment is a specialized inspection focused solely on the condition, adhesion, and integrity of exterior paint, unlike a broad general home inspection."
+      }
+    }
+  ],
+  "description": "A paint assessment is a specialized inspection focused solely on the condition, adhesion, and integrity of exterior paint, unlike a broad general home inspectio"
+}

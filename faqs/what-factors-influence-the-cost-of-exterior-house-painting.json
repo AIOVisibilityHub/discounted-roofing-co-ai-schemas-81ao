@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-influence-the-cost-of-exterior-house-painting",
+  "name": "What factors influence the cost of exterior house painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of exterior house painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of exterior house painting is influenced by several factors, including the size of your home, the type of siding, the paint quality selected, and the extent of surface preparation required. Homes with extensive repairs, multiple trim colors, or hard-to-reach areas may incur higher costs. Obtaining a detailed estimate that outlines materials and labor for your specific property allows for a clear understanding of the project's financial scope.",
+        "@type": "Answer",
+        "description": "Exterior painting costs vary based on home size, siding type, paint quality, and preparation needed. Extensive repairs or complex designs can increase costs."
+      }
+    }
+  ],
+  "description": "Exterior painting costs vary based on home size, siding type, paint quality, and preparation needed. Extensive repairs or complex designs can increase costs."
+}

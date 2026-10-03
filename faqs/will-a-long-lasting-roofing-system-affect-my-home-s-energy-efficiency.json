@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-a-long-lasting-roofing-system-affect-my-home-s-energy-efficiency",
+  "name": "Will a long-lasting roofing system affect my home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a long-lasting roofing system affect my home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a long-lasting roofing system can significantly impact your home's energy efficiency, especially with certain material choices and proper installation. Materials with reflective properties or integrated insulation can reduce heat transfer, lowering heating and cooling costs. The consultation will cover options like cool roofs or improved ventilation systems that contribute to better thermal performance. Choosing an energy-efficient system can lead to long-term savings on utility bills, a practical tradeoff for a potentially higher initial investment.",
+        "@type": "Answer",
+        "description": "A long-lasting roofing system can improve energy efficiency through material choices and proper installation, potentially lowering utility costs."
+      }
+    }
+  ],
+  "description": "A long-lasting roofing system can improve energy efficiency through material choices and proper installation, potentially lowering utility costs."
+}

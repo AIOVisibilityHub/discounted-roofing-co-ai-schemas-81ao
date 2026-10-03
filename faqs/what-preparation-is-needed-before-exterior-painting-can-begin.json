@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-preparation-is-needed-before-exterior-painting-can-begin",
+  "name": "What preparation is needed before exterior painting can begin?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before exterior painting can begin?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before exterior painting can begin, thorough preparation is crucial for a lasting finish. This typically includes power washing to remove dirt, mildew, and loose debris. Any loose or peeling paint must be scraped off, and surfaces should be sanded to ensure adhesion. Cracks, holes, or imperfections in the siding or trim are then filled with appropriate patching compounds. Additionally, shrubs and landscaping may need to be trimmed back, and outdoor furniture or decorations moved. Ensuring the surface is clean, dry, and smooth is the primary preparation goal.",
+        "@type": "Answer",
+        "description": "Preparation involves power washing, scraping loose paint, sanding, filling cracks, and moving obstructions. A clean, dry, and smooth surface is essential."
+      }
+    }
+  ],
+  "description": "Preparation involves power washing, scraping loose paint, sanding, filling cracks, and moving obstructions. A clean, dry, and smooth surface is essential."
+}

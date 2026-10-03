@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/should-i-get-multiple-estimates-for-an-exterior-painting-project",
+  "name": "Should I get multiple estimates for an exterior painting project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I get multiple estimates for an exterior painting project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is advisable to get multiple estimates for an exterior painting project. This allows you to compare pricing, scope of work, and contractor approaches. When comparing, ensure each estimate details surface preparation, the type of paint proposed, and the number of coats. This comparison helps you understand potential trade-offs between cost and the quality or durability of the proposed work.",
+        "@type": "Answer",
+        "description": "Yes, obtain multiple estimates to compare pricing, scope of work, and contractor approaches for your project."
+      }
+    }
+  ],
+  "description": "Yes, obtain multiple estimates to compare pricing, scope of work, and contractor approaches for your project."
+}

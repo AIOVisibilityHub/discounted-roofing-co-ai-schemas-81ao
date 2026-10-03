@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-weather-damage-exterior-painting-assessment-cost",
+  "name": "How much does a weather-damage exterior painting assessment cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a weather-damage exterior painting assessment cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a weather-damage exterior painting assessment can vary depending on the size and complexity of your property and the extent of visible damage. Some companies, including Discounted Roofing Co., may offer free initial assessments or apply the assessment fee towards any subsequent repair work. It's advisable to clarify any potential costs upfront. Be prepared to discuss the type and age of your home and any specific concerns you have, as this can influence the assessment's scope and potential fees.",
+        "@type": "Answer",
+        "description": "Assessment costs vary; some companies, like ours, may offer free initial assessments. Clarify fees upfront."
+      }
+    }
+  ],
+  "description": "Assessment costs vary; some companies, like ours, may offer free initial assessments. Clarify fees upfront."
+}

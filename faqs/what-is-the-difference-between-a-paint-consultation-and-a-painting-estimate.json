@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-difference-between-a-paint-consultation-and-a-painting-estimate",
+  "name": "What is the difference between a paint consultation and a painting estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a paint consultation and a painting estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A paint consultation is an initial meeting to discuss your project in detail, assess your home's needs, and provide expert advice on colors, materials, and preparation. It focuses on planning and recommendations. A painting estimate, on the other hand, provides a detailed cost breakdown based on the scope defined during or after the consultation. While our consultations can inform the estimate, they primarily serve to outline the best approach for your specific exterior painting project with Discounted Roofing Co.",
+        "@type": "Answer",
+        "description": "A paint consultation details project needs and offers expert advice, while a painting estimate provides a detailed cost breakdown. The consultation defines the project scope."
+      }
+    }
+  ],
+  "description": "A paint consultation details project needs and offers expert advice, while a painting estimate provides a detailed cost breakdown. The consultation defines the"
+}

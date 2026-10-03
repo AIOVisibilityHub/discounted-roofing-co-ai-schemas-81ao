@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-preparation-is-needed-before-applying-weather-protective-exterior-paint",
+  "name": "What preparation is needed before applying weather-protective exterior paint?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before applying weather-protective exterior paint?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper preparation is crucial for weather-protective exterior painting to ensure adhesion and durability. This process clarity step typically involves cleaning the surfaces to remove dirt, mildew, and loose paint, followed by scraping and sanding. Any cracks or holes must be filled and repaired, and existing loose caulk replaced. Priming is often necessary, especially on bare wood or previously unpainted surfaces, to promote better paint adhesion and a uniform finish. Neglecting thorough preparation can significantly reduce the paint's effectiveness and lifespan.",
+        "@type": "Answer",
+        "description": "Preparation for weather-protective painting includes cleaning, scraping, sanding, repairing cracks, caulking, and priming to ensure proper adhesion and durability."
+      }
+    }
+  ],
+  "description": "Preparation for weather-protective painting includes cleaning, scraping, sanding, repairing cracks, caulking, and priming to ensure proper adhesion and durabili"
+}

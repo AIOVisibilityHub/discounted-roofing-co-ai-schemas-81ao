@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-sun-exposure-protective-paint-last",
+  "name": "How long does sun-exposure protective paint last?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does sun-exposure protective paint last?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The lifespan of sun-exposure protective paint can vary significantly based on the product quality, application, roof type, and local environmental conditions. Typically, these coatings can last from 5 to 20 years. Regular maintenance, such as cleaning and periodic inspections for wear and tear, can help maximize the coating's longevity. Environmental factors like heavy foot traffic or severe weather can impact its durability over time.",
+        "@type": "Answer",
+        "description": "Lifespan varies from 5-20 years depending on product, application, roof type, and environment; regular maintenance can extend it."
+      }
+    }
+  ],
+  "description": "Lifespan varies from 5-20 years depending on product, application, roof type, and environment; regular maintenance can extend it."
+}

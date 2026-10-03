@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/do-i-need-to-be-home-during-the-roofing-and-exterior-painting-work",
+  "name": "Do I need to be home during the roofing and exterior painting work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be home during the roofing and exterior painting work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While you are not required to be home throughout the entire project, we recommend being available for the initial consultation, final walk-through, and any key decision points. Our team can generally complete the work with external access to your property. However, it's beneficial for you to be reachable by phone for questions or approvals that may arise. For any interior access needed for roofing (e.g., attic inspection), we will schedule this in advance for your convenience. Communication is key, even if you are not physically present.",
+        "@type": "Answer",
+        "description": "You don't need to be home constantly, but availability for initial consultations, final walk-throughs, and key decisions is recommended for coordinated projects."
+      }
+    }
+  ],
+  "description": "You don't need to be home constantly, but availability for initial consultations, final walk-throughs, and key decisions is recommended for coordinated projects"
+}

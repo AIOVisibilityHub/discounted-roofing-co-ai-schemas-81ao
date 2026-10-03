@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/does-a-metal-roof-increase-home-value",
+  "name": "Does a metal roof increase home value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does a metal roof increase home value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a metal roof can significantly increase your home's value and curb appeal. Its longevity, durability, energy efficiency, and modern aesthetic are attractive features to potential buyers. While specific ROI can vary, many homeowners see a strong return on investment, particularly as buyers prioritize low-maintenance and long-lasting home components. This is a practical tradeoff where a higher upfront investment can yield substantial long-term benefits in resale value and reduced ownership costs, making it a wise decision for properties in areas like Dallas, Fort Worth, and surrounding DFW communities.",
+        "@type": "Answer",
+        "description": "A metal roof can increase home value due to its longevity, durability, energy efficiency, and modern aesthetic. Higher upfront costs are often offset by improved resale value and reduced ownership expenses."
+      }
+    }
+  ],
+  "description": "A metal roof can increase home value due to its longevity, durability, energy efficiency, and modern aesthetic. Higher upfront costs are often offset by improve"
+}

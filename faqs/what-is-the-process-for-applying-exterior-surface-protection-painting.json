@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-process-for-applying-exterior-surface-protection-painting",
+  "name": "What is the process for applying exterior surface protection painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for applying exterior surface protection painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with a thorough inspection and surface preparation, which is crucial for proper adhesion and longevity. This often involves cleaning, repairing cracks, removing loose paint or debris, and sometimes priming the surface. Once prepared, the protective coating is applied in one or more layers, depending on the product specifications and desired level of protection. After application, there is a curing period during which the coating hardens. For properties in areas like Addison, understanding the drying and curing times is essential to avoid disturbing the newly applied coating, especially during humid or rainy seasons.",
+        "@type": "Answer",
+        "description": "The application process involves surface inspection, thorough preparation (cleaning, repair), coating application in layers, and a final curing period."
+      }
+    }
+  ],
+  "description": "The application process involves surface inspection, thorough preparation (cleaning, repair), coating application in layers, and a final curing period."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-type-of-paint-should-be-used-for-exterior-painting",
+  "name": "What type of paint should be used for exterior painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What type of paint should be used for exterior painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For exterior painting, durable acrylic latex paints are generally recommended due to their flexibility, resistance to cracking, and breathability, which helps prevent blistering. The specific type of paint and finish (e.g., satin, semi-gloss) will depend on your home's siding material and desired appearance. Higher-quality paints offer better coverage, UV protection, and longevity, which is a practical tradeoff for the initial cost, especially in areas exposed to harsh weather conditions.",
+        "@type": "Answer",
+        "description": "Durable acrylic latex paints are recommended for exterior use due to flexibility and crack resistance. Higher-quality paints offer better UV protection and longevity."
+      }
+    }
+  ],
+  "description": "Durable acrylic latex paints are recommended for exterior use due to flexibility and crack resistance. Higher-quality paints offer better UV protection and long"
+}

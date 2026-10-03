@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-process-for-a-roof-insurance-claim-restoration",
+  "name": "What is the process for a roof insurance claim restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for a roof insurance claim restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process involves several steps: first, file a claim with your insurance provider. Next, an insurance adjuster will inspect your roof to assess the damage. Concurrently, a roofing contractor like Discounted Roofing Co. will perform their own inspection and provide an estimate. We then work with your insurance company to negotiate the scope and cost of repairs. Once approved, the restoration work begins, followed by final inspection and payment. Customers should gather their policy information and any photos of the damage prior to our visit.",
+        "@type": "Answer",
+        "description": "The process includes filing a claim, adjuster inspection, contractor estimate, insurance approval, and then roof repair or replacement."
+      }
+    }
+  ],
+  "description": "The process includes filing a claim, adjuster inspection, contractor estimate, insurance approval, and then roof repair or replacement."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-does-a-home-exterior-refresh-consultation-involve",
+  "name": "What does a home exterior refresh consultation involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a home exterior refresh consultation involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A home exterior refresh consultation with Discounted Roofing Co. involves a comprehensive assessment of your roofing and exterior components. We inspect for wear, damage, and potential issues with your roof, gutters, and related exterior elements. The consultation provides a detailed overview of your home's current condition and offers recommendations for improvements, repairs, or replacements to enhance durability and curb appeal. This process helps you understand the scope of work and potential options before committing to any services.",
+        "@type": "Answer",
+        "description": "A home exterior refresh consultation assesses your roof and exterior components to identify wear or damage and recommend improvements."
+      }
+    }
+  ],
+  "description": "A home exterior refresh consultation assesses your roof and exterior components to identify wear or damage and recommend improvements."
+}

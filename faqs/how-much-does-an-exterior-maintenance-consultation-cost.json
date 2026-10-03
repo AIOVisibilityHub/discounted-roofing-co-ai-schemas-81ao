@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-an-exterior-maintenance-consultation-cost",
+  "name": "How much does an exterior maintenance consultation cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does an exterior maintenance consultation cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of an exterior maintenance consultation can vary depending on the size and complexity of your roof and property. Factors such as the roof's pitch, accessibility, and the extent of the inspection required can influence the final price. We offer competitive pricing for our services in the DFW region, providing a detailed assessment to help you understand your roof's condition and any necessary maintenance. Requesting a quote specific to your property will provide the most accurate cost.",
+        "@type": "Answer",
+        "description": "Consultation costs vary based on roof size, complexity, and accessibility. Request a specific quote for your property."
+      }
+    }
+  ],
+  "description": "Consultation costs vary based on roof size, complexity, and accessibility. Request a specific quote for your property."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-the-right-paint-type-for-my-home-s-exterior",
+  "name": "How do I choose the right paint type for my home's exterior?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right paint type for my home's exterior?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right paint type involves considering your home's siding material, local climate conditions, and desired durability. Our consultants will discuss options such as acrylic latex for versatility and longevity, or oil-based paints for certain surfaces like trim. A key factor in the DFW region is selecting paints with good UV resistance and flexibility to withstand temperature fluctuations, which we can guide you through to ensure a lasting finish.",
+        "@type": "Answer",
+        "description": "Choose paint based on your home's siding, climate, and desired durability. Our consultants will recommend options like acrylic latex or oil-based, prioritizing UV resistance for DFW's climate."
+      }
+    }
+  ],
+  "description": "Choose paint based on your home's siding, climate, and desired durability. Our consultants will recommend options like acrylic latex or oil-based, prioritizing"
+}

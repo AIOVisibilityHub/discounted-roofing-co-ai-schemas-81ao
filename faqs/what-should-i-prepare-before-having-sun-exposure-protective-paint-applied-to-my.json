@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-prepare-before-having-sun-exposure-protective-paint-applied-to-my",
+  "name": "What should I prepare before having sun-exposure protective paint applied to my roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before having sun-exposure protective paint applied to my roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before sun-exposure protective paint is applied, you should ensure clear access to your roof and any areas around the building where equipment will be set up. It's also helpful to gather any recent roof inspection reports or maintenance history you may have. Discussing your energy efficiency goals and any specific concerns with the roofing contractor beforehand will help tailor the service to your needs. Clearing the work area of personal items is also recommended.",
+        "@type": "Answer",
+        "description": "Prepare by ensuring roof access, gathering roof history, discussing goals with the contractor, and clearing the work area of personal items."
+      }
+    }
+  ],
+  "description": "Prepare by ensuring roof access, gathering roof history, discussing goals with the contractor, and clearing the work area of personal items."
+}

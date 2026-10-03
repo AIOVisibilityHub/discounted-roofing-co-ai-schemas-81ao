@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-an-exterior-surface-condition-assessment-take",
+  "name": "How long does an exterior surface condition assessment take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an exterior surface condition assessment take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an exterior surface condition assessment varies depending on the size and complexity of your property. Most residential assessments can be completed within 1 to 2 hours. Larger or more complex commercial properties may require more time. This timeframe allows our inspectors to thoroughly document all exterior components, which is essential for accurate reporting and repair planning.",
+        "@type": "Answer",
+        "description": "Most residential assessments take 1 to 2 hours, but larger properties may require more time."
+      }
+    }
+  ],
+  "description": "Most residential assessments take 1 to 2 hours, but larger properties may require more time."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-the-right-color-for-my-home-s-exterior",
+  "name": "How do I choose the right color for my home's exterior?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right color for my home's exterior?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right exterior paint color involves considering your home's architectural style, landscaping, and fixed elements like the roof and stone accents. Take into account your neighborhood's aesthetic and any homeowner association (HOA) guidelines that may restrict color choices. It's often helpful to test several color samples on different sections of your home to see how they look in various lighting conditions throughout the day before making a final decision.",
+        "@type": "Answer",
+        "description": "Consider architectural style, landscaping, fixed elements, and HOA rules. Test color samples on your home to see them in different lighting."
+      }
+    }
+  ],
+  "description": "Consider architectural style, landscaping, fixed elements, and HOA rules. Test color samples on your home to see them in different lighting."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-an-exterior-painting-color-consultation-take",
+  "name": "How long does an exterior painting color consultation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an exterior painting color consultation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an exterior painting color consultation can vary, but most initial consultations last between one to two hours. This allows sufficient time for the consultant to assess your property thoroughly, understand your vision, and present preliminary color recommendations. More complex projects or those requiring multiple rounds of revisions might extend the overall timeline. For our clients in the DFW area, we aim for efficient consultations, often integrating discussions about how new roofing choices might influence paint color decisions.",
+        "@type": "Answer",
+        "description": "Most initial exterior painting color consultations take one to two hours, allowing for assessment and preliminary recommendations."
+      }
+    }
+  ],
+  "description": "Most initial exterior painting color consultations take one to two hours, allowing for assessment and preliminary recommendations."
+}

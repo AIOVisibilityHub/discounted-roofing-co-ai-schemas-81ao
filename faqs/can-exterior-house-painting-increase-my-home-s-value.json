@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-exterior-house-painting-increase-my-home-s-value",
+  "name": "Can exterior house painting increase my home's value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can exterior house painting increase my home's value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, exterior house painting can significantly increase your home's curb appeal and, consequently, its market value. A fresh, clean, and well-maintained exterior makes a strong first impression on potential buyers. It also protects your home's structural integrity from weather damage, which is a valuable asset. Investing in a professional paint job using quality materials can yield a good return on investment when selling your home.",
+        "@type": "Answer",
+        "description": "Exterior house painting increases curb appeal and market value by making a strong first impression and protecting your home. Professional painting with quality materials offers a good return on investment."
+      }
+    }
+  ],
+  "description": "Exterior house painting increases curb appeal and market value by making a strong first impression and protecting your home. Professional painting with quality"
+}

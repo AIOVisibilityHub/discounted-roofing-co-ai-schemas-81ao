@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-i-apply-sun-protection-paint-over-my-existing-exterior-paint",
+  "name": "Can I apply sun-protection paint over my existing exterior paint?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I apply sun-protection paint over my existing exterior paint?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most cases, sun-protection paint can be applied over existing exterior paint, provided the current surface is in good condition. The existing paint must be clean, dry, dull, and free from peeling, chalking, or mildew. Any loose paint needs to be scraped and sanded smooth. Applying a high-quality primer is often recommended, especially if there are significant color changes or if the existing paint is glossy, to ensure proper adhesion and optimal performance of the new sun-protective coating. Proper preparation is key for longevity.",
+        "@type": "Answer",
+        "description": "Yes, if the existing paint is clean, dry, and in good condition. Proper preparation and priming are essential for adhesion."
+      }
+    }
+  ],
+  "description": "Yes, if the existing paint is clean, dry, and in good condition. Proper preparation and priming are essential for adhesion."
+}

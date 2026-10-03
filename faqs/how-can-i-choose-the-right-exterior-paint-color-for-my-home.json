@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-can-i-choose-the-right-exterior-paint-color-for-my-home",
+  "name": "How can I choose the right exterior paint color for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I choose the right exterior paint color for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right paint color involves considering your home's architectural style, existing fixed elements like roofing and stone, and neighborhood aesthetics. Natural light at different times of day also impacts how colors appear. For our DFW customers, we often suggest colors that complement the prevalent local architectural styles and materials. We can provide color consultation to help you visualize options and make an informed decision that enhances curb appeal.",
+        "@type": "Answer",
+        "description": "Consider your home's style, fixed elements, neighborhood, and lighting when choosing paint color. Consultation is available."
+      }
+    }
+  ],
+  "description": "Consider your home's style, fixed elements, neighborhood, and lighting when choosing paint color. Consultation is available."
+}

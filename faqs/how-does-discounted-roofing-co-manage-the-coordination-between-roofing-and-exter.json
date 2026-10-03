@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-does-discounted-roofing-co-manage-the-coordination-between-roofing-and-exter",
+  "name": "How does Discounted Roofing Co. manage the coordination between roofing and exterior painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does Discounted Roofing Co. manage the coordination between roofing and exterior painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Discounted Roofing Co. manages coordination by assigning a dedicated project manager who oversees both aspects of the job. This manager ensures that the roofing phase is completed and inspected before exterior painting commences, protecting the new paint from potential damage. We schedule trades sequentially to maintain project flow and adhere to the agreed-upon timeline, minimizing disruption to your property. This integrated approach ensures consistent quality control and a single point of contact for all updates. Our process aims to provide seamless execution for both services.",
+        "@type": "Answer",
+        "description": "A dedicated project manager at Discounted Roofing Co. coordinates both roofing and painting, ensuring sequential completion, quality control, and streamlined communication for the entire project."
+      }
+    }
+  ],
+  "description": "A dedicated project manager at Discounted Roofing Co. coordinates both roofing and painting, ensuring sequential completion, quality control, and streamlined co"
+}

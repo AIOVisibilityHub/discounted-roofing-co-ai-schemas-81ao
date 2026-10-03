@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-an-exterior-paint-assessment-identify-underlying-structural-issues",
+  "name": "Can an exterior paint assessment identify underlying structural issues?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can an exterior paint assessment identify underlying structural issues?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, an exterior paint assessment can often indicate underlying structural issues. For instance, paint blistering or peeling in certain areas might signal moisture intrusion or dry rot within the wall structure. Excessive cracking or uneven paint can also point to foundation movement or settling. While the primary focus is paint condition, our inspectors are trained to recognize these deeper problems. If significant structural concerns are identified, we will note them in our report and recommend further evaluation by a specialist.",
+        "@type": "Answer",
+        "description": "Yes, paint issues like blistering, peeling, or cracking can indicate underlying moisture intrusion, dry rot, or foundation movement. We will identify and recommend further evaluation if needed."
+      }
+    }
+  ],
+  "description": "Yes, paint issues like blistering, peeling, or cracking can indicate underlying moisture intrusion, dry rot, or foundation movement. We will identify and recomm"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-prepare-for-my-exterior-painting-color-consultation",
+  "name": "What should I prepare for my exterior painting color consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare for my exterior painting color consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To get the most out of your exterior painting color consultation, gather inspiration photos of homes whose color palettes you admire. Consider any existing elements of your home that won't be painted, such as brick, stone, or roofing materials, and have them in mind for discussion. Also, think about the overall mood or style you want to achieve. Having these details ready helps the consultant understand your vision and provide tailored recommendations, especially concerning how new roofing materials might impact color choices.",
+        "@type": "Answer",
+        "description": "Prepare for your consultation by gathering inspiration photos, noting existing unpainted elements like brick or roofing, and considering your desired aesthetic."
+      }
+    }
+  ],
+  "description": "Prepare for your consultation by gathering inspiration photos, noting existing unpainted elements like brick or roofing, and considering your desired aesthetic."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-an-exterior-weathering-assessment-help-with-insurance-claims",
+  "name": "Can an exterior weathering assessment help with insurance claims?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can an exterior weathering assessment help with insurance claims?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While an exterior weathering assessment primarily identifies gradual wear, it can sometimes support an insurance claim if weathering has exacerbated minor storm damage or if pre-existing wear is mistakenly attributed to a recent event. The assessment provides a baseline of your roof's condition, which can be useful context. However, most insurance policies cover sudden, accidental damage, not typical wear and tear. It's always best to consult your insurance provider about coverage specifics. We can help document the roof's condition accurately for any necessary discussions.",
+        "@type": "Answer",
+        "description": "It identifies gradual wear, which isn't typically covered by insurance. However, it can provide context for claims if weathering impacts storm damage."
+      }
+    }
+  ],
+  "description": "It identifies gradual wear, which isn't typically covered by insurance. However, it can provide context for claims if weathering impacts storm damage."
+}

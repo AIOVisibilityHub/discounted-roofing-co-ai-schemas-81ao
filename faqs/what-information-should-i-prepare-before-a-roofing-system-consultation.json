@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-information-should-i-prepare-before-a-roofing-system-consultation",
+  "name": "What information should I prepare before a roofing system consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I prepare before a roofing system consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your long-lasting roofing system consultation, it's helpful to gather any previous roofing repair records, know the approximate age of your current roof, and make a list of any specific concerns or issues you've observed. This preparation helps our consultants understand your roof's history and prioritize areas for inspection. Providing this information allows for a more focused and efficient assessment, enabling us to tailor recommendations more precisely to your property's needs.",
+        "@type": "Answer",
+        "description": "Prepare previous repair records, your roof's age, and a list of concerns. This helps consultants prioritize inspection and tailor recommendations."
+      }
+    }
+  ],
+  "description": "Prepare previous repair records, your roof's age, and a list of concerns. This helps consultants prioritize inspection and tailor recommendations."
+}

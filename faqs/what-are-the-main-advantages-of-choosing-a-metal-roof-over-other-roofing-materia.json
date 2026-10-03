@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-main-advantages-of-choosing-a-metal-roof-over-other-roofing-materia",
+  "name": "What are the main advantages of choosing a metal roof over other roofing materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the main advantages of choosing a metal roof over other roofing materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Metal roofs offer significant durability, often lasting 40-70 years, which is substantially longer than asphalt shingles. They are also highly resistant to fire, rot, and insects, and can withstand strong winds. Homeowners often appreciate their energy efficiency, as many metal roofing systems reflect solar radiant heat, potentially reducing cooling costs in hot climates like DFW. When considering a metal roof, a practical tradeoff is the higher initial cost compared to asphalt shingles, but this is often offset by its extended lifespan and lower maintenance needs.",
+        "@type": "Answer",
+        "description": "Metal roofs offer superior durability, fire resistance, and energy efficiency compared to other materials, lasting 40-70 years. The main tradeoff is a higher upfront cost, balanced by a longer lifespan and less maintenance."
+      }
+    }
+  ],
+  "description": "Metal roofs offer superior durability, fire resistance, and energy efficiency compared to other materials, lasting 40-70 years. The main tradeoff is a higher up"
+}

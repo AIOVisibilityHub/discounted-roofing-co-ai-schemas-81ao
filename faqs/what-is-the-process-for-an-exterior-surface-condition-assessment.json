@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-process-for-an-exterior-surface-condition-assessment",
+  "name": "What is the process for an exterior surface condition assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for an exterior surface condition assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically involves scheduling an appointment, followed by a thorough on-site inspection by a trained technician. The technician will examine the roof, siding, windows, and other exterior elements, often taking photos and notes. Afterward, you will receive a comprehensive report detailing findings, recommended repairs, and estimated costs. For Discounted Roofing Co., our assessment process includes a detailed photographic log, which is crucial for insurance claims.",
+        "@type": "Answer",
+        "description": "The process involves scheduling an appointment, an on-site inspection, and then you receive a detailed report with recommendations and costs."
+      }
+    }
+  ],
+  "description": "The process involves scheduling an appointment, an on-site inspection, and then you receive a detailed report with recommendations and costs."
+}

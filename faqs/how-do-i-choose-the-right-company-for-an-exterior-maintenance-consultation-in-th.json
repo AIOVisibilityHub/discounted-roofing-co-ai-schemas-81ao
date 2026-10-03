@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-the-right-company-for-an-exterior-maintenance-consultation-in-th",
+  "name": "How do I choose the right company for an exterior maintenance consultation in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right company for an exterior maintenance consultation in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a company for an exterior maintenance consultation in the DFW area, look for providers with established local experience, positive customer reviews, and proper licensing and insurance. Prioritize companies that offer transparent reporting and clear communication about their findings and recommendations, without high-pressure sales tactics. Discounted Roofing Co. serves many communities across DFW, including Dallas, Fort Worth, Arlington, and Plano, and focuses on delivering honest assessments to help you make informed decisions about your roof's health.",
+        "@type": "Answer",
+        "description": "Choose a company with local DFW experience, positive reviews, proper licensing, and transparent reporting without high-pressure sales."
+      }
+    }
+  ],
+  "description": "Choose a company with local DFW experience, positive reviews, proper licensing, and transparent reporting without high-pressure sales."
+}

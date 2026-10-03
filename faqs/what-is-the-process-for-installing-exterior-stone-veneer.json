@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-process-for-installing-exterior-stone-veneer",
+  "name": "What is the process for installing exterior stone veneer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing exterior stone veneer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for installing exterior stone veneer typically begins with surface preparation, which involves ensuring the substrate is clean, sound, and properly flashed. A moisture barrier and lath are then applied, followed by a scratch coat of mortar. The stone veneer is then laid, piece by piece, using mortar, and finished with jointing. During this process, consistent weather conditions are critical, as extreme temperatures in areas like Dallas can impact mortar curing times and overall adhesion, requiring adjustments to the installation schedule.",
+        "@type": "Answer",
+        "description": "Installation involves surface prep, applying moisture barrier and lath, scratch coat, then laying and jointing the stone veneer."
+      }
+    }
+  ],
+  "description": "Installation involves surface prep, applying moisture barrier and lath, scratch coat, then laying and jointing the stone veneer."
+}

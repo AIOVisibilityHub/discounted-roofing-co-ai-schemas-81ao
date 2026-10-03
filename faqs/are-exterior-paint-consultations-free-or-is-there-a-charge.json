@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/are-exterior-paint-consultations-free-or-is-there-a-charge",
+  "name": "Are exterior paint consultations free, or is there a charge?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are exterior paint consultations free, or is there a charge?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The policy on consultation fees can vary by company. Discounted Roofing Co. often provides complimentary initial consultations for exterior paint projects within our service areas, including DFW, Abbott, and Addison. This allows us to understand your needs and provide valuable insights without an upfront cost, helping you make an informed decision about your project.",
+        "@type": "Answer",
+        "description": "Our initial exterior paint consultations at Discounted Roofing Co. are often complimentary within our DFW service areas. This helps you get insights without an upfront cost."
+      }
+    }
+  ],
+  "description": "Our initial exterior paint consultations at Discounted Roofing Co. are often complimentary within our DFW service areas. This helps you get insights without an"
+}

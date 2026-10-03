@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-it-cost-to-install-new-rain-gutters",
+  "name": "How much does it cost to install new rain gutters?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to install new rain gutters?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of new rain gutter installation varies depending on the type of material, the linear footage required, and the complexity of your home's roofline. Higher-end materials like copper will be more expensive than aluminum. To get an accurate estimate, we typically need to measure your home's perimeter and assess any unique architectural features that might affect installation time or material usage. This preparation ensures our quote reflects your specific needs.",
+        "@type": "Answer",
+        "description": "Installation costs vary based on material, linear footage, and roofline complexity. We need to measure your home for an accurate estimate."
+      }
+    }
+  ],
+  "description": "Installation costs vary based on material, linear footage, and roofline complexity. We need to measure your home for an accurate estimate."
+}

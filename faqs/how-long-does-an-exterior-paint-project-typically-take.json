@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-an-exterior-paint-project-typically-take",
+  "name": "How long does an exterior paint project typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an exterior paint project typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an exterior paint project varies based on the size of your home, the extent of surface preparation required, and weather conditions. A typical residential project can take anywhere from a few days to two weeks. Extensive repairs, such as wood rot replacement or major siding prep, will add to the timeline. We aim for efficient completion while ensuring quality, and will provide a clear timeline after an on-site assessment in your DFW-area home.",
+        "@type": "Answer",
+        "description": "Project duration depends on home size, preparation needs, and weather, typically ranging from a few days to two weeks. Extensive repairs can extend the timeline."
+      }
+    }
+  ],
+  "description": "Project duration depends on home size, preparation needs, and weather, typically ranging from a few days to two weeks. Extensive repairs can extend the timeline"
+}

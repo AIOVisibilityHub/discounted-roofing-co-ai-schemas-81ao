@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-a-roofing-company-for-insurance-restoration",
+  "name": "How do I choose a roofing company for insurance restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a roofing company for insurance restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a roofing company for insurance restoration, look for local companies with experience in handling insurance claims and a strong reputation for quality work. Verify they are licensed and insured in Texas. Consider their communication style and their ability to clearly explain the claims process. Discounted Roofing Co. provides clear estimates and has experience working with various insurance providers in the DFW area.",
+        "@type": "Answer",
+        "description": "Choose a local, experienced, and licensed roofing company that has a good reputation and clearly explains the insurance claim process."
+      }
+    }
+  ],
+  "description": "Choose a local, experienced, and licensed roofing company that has a good reputation and clearly explains the insurance claim process."
+}

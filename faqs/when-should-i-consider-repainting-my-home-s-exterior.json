@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-consider-repainting-my-home-s-exterior",
+  "name": "When should I consider repainting my home's exterior?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider repainting my home's exterior?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The lifespan of exterior paint typically ranges from 5 to 10 years, depending on factors like paint quality, surface preparation, and local weather conditions. Signs that it's time to repaint include peeling, cracking, fading, or mildew growth. In the DFW area, extreme temperature fluctuations and intense sun exposure can accelerate paint degradation, making regular inspection important for maintaining your home's protection and appearance. Considering professional assessment can help determine the optimal time.",
+        "@type": "Answer",
+        "description": "Repaint when paint peels, cracks, fades, or mildews, usually every 5-10 years. DFW weather can shorten this lifespan."
+      }
+    }
+  ],
+  "description": "Repaint when paint peels, cracks, fades, or mildews, usually every 5-10 years. DFW weather can shorten this lifespan."
+}

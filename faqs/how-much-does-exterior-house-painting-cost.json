@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-exterior-house-painting-cost",
+  "name": "How much does exterior house painting cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does exterior house painting cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of exterior house painting varies widely based on factors such as house size, number of stories, type of siding, condition of the existing paint, and the quality of paint chosen. Additional costs may arise for extensive surface repairs, intricate architectural details, or specific paint types like elastomeric coatings. To get an accurate estimate, it's best to have a contractor assess your specific property. For example, a home in a service area like Plano might have different siding materials or architectural styles that influence the overall cost compared to a home in a more rural setting.",
+        "@type": "Answer",
+        "description": "Exterior painting costs depend on house size, stories, siding type, current condition, and paint quality. Extensive repairs or intricate details can increase the price."
+      }
+    }
+  ],
+  "description": "Exterior painting costs depend on house size, stories, siding type, current condition, and paint quality. Extensive repairs or intricate details can increase th"
+}

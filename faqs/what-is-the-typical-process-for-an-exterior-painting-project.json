@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-typical-process-for-an-exterior-painting-project",
+  "name": "What is the typical process for an exterior painting project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for an exterior painting project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An exterior painting project typically begins with an initial consultation and estimate, followed by surface preparation, priming (if necessary), and then applying the paint. Most projects involve at least two coats of paint for durability and consistent coverage. After painting, a final inspection ensures satisfaction. The overall timeline can vary based on the home's size and weather conditions, especially in the DFW area where rain or extreme heat can cause delays.",
+        "@type": "Answer",
+        "description": "The process involves consultation, surface preparation, priming, painting (usually two coats), and a final inspection. Weather can affect project timing."
+      }
+    }
+  ],
+  "description": "The process involves consultation, surface preparation, priming, painting (usually two coats), and a final inspection. Weather can affect project timing."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-sun-exposure-protective-painting-for-roofs",
+  "name": "What is sun-exposure protective painting for roofs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is sun-exposure protective painting for roofs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sun-exposure protective painting, often referred to as cool roof coating or reflective coating, is a specialized paint applied to a roof's surface to reflect solar radiation and reduce heat absorption. This coating helps lower the roof's surface temperature, which can contribute to a cooler interior for your building and potentially reduce energy consumption. It is different from standard roof paint as it's formulated with high reflectivity and emissivity properties specifically for thermal performance.",
+        "@type": "Answer",
+        "description": "It's a specialized paint applied to roofs to reflect solar radiation, reduce heat absorption, and help keep buildings cooler."
+      }
+    }
+  ],
+  "description": "It's a specialized paint applied to roofs to reflect solar radiation, reduce heat absorption, and help keep buildings cooler."
+}

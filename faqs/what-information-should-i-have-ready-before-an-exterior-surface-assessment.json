@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-information-should-i-have-ready-before-an-exterior-surface-assessment",
+  "name": "What information should I have ready before an exterior surface assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I have ready before an exterior surface assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before an exterior surface assessment, it's helpful to gather any previous inspection reports, repair history, and information about recent severe weather events in your area. This background information can provide valuable context to the inspector, helping them focus on potential problem areas. For Discounted Roofing Co., providing dates of previous roof work or storm events helps us conduct a more targeted and efficient inspection.",
+        "@type": "Answer",
+        "description": "Prepare previous inspection reports, repair history, and details about recent severe weather to aid the inspector."
+      }
+    }
+  ],
+  "description": "Prepare previous inspection reports, repair history, and details about recent severe weather to aid the inspector."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-areas-do-you-serve-for-home-exterior-refresh-consultations",
+  "name": "What areas do you serve for home exterior refresh consultations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for home exterior refresh consultations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We provide home exterior refresh consultations across a wide service area, including DFW, Abbott, Addison, Aledo, and Allen, among many other communities. Our team is equipped to reach various locations within the greater DFW metropolitan area and surrounding towns. When scheduling, please confirm your specific address so we can ensure we cover your location efficiently. Our extensive service range means we can assist a broad client base with their exterior assessment needs.",
+        "@type": "Answer",
+        "description": "We serve the DFW area, including Abbott, Addison, Aledo, and Allen, and many other surrounding communities."
+      }
+    }
+  ],
+  "description": "We serve the DFW area, including Abbott, Addison, Aledo, and Allen, and many other surrounding communities."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-consider-getting-an-exterior-surface-condition-assessment",
+  "name": "When should I consider getting an exterior surface condition assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider getting an exterior surface condition assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider an exterior surface condition assessment if you notice visible damage, have recently experienced severe weather, are planning to buy or sell a property, or if your roof is approaching its typical lifespan. It's also beneficial before undertaking major renovations. For example, if you're selling a home in Frisco or McKinney, a current assessment can provide buyers with peace of mind and potentially streamline the sales process.",
+        "@type": "Answer",
+        "description": "Consider an assessment for visible damage, after severe weather, when buying or selling, or if your roof is old."
+      }
+    }
+  ],
+  "description": "Consider an assessment for visible damage, after severe weather, when buying or selling, or if your roof is old."
+}

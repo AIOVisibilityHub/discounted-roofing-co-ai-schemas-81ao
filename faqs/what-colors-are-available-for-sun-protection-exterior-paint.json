@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-colors-are-available-for-sun-protection-exterior-paint",
+  "name": "What colors are available for sun-protection exterior paint?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What colors are available for sun-protection exterior paint?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sun-protection exterior paints are available in a wide array of colors, though lighter colors typically offer superior heat reflection compared to darker shades. Manufacturers have developed pigments that retain their sun-protective qualities across the color spectrum, allowing for both aesthetic choice and performance. When selecting a color for a sunny home in Texas, consider how the chosen hue's Light Reflectance Value (LRV) will contribute to both energy efficiency and UV resistance.",
+        "@type": "Answer",
+        "description": "Many colors are available for sun-protection paint, but lighter shades generally provide better heat reflection."
+      }
+    }
+  ],
+  "description": "Many colors are available for sun-protection paint, but lighter shades generally provide better heat reflection."
+}

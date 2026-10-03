@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-my-landscaping-or-property-be-protected-during-coordinated-roofing-and-pain",
+  "name": "Will my landscaping or property be protected during coordinated roofing and painting work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my landscaping or property be protected during coordinated roofing and painting work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, protecting your property, including landscaping and outdoor features, is a standard part of our project planning. During roofing work, tarps are used to catch debris, and for painting, drop cloths and masking are applied to prevent overspray. We also ensure careful placement of ladders and equipment to minimize impact on your grounds. Before starting, our team conducts a walk-through to identify vulnerable areas and establish protective measures. Your property will be covered and cleaned up at the end of each workday.",
+        "@type": "Answer",
+        "description": "Property protection is standard, with tarps and drop cloths used to shield landscaping and outdoor features during both roofing and painting, followed by daily cleanup."
+      }
+    }
+  ],
+  "description": "Property protection is standard, with tarps and drop cloths used to shield landscaping and outdoor features during both roofing and painting, followed by daily"
+}

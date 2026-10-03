@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-types-of-exterior-surfaces-can-be-painted",
+  "name": "What types of exterior surfaces can be painted?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of exterior surfaces can be painted?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Exterior surface painting typically applies to a variety of materials including wood siding, stucco, brick, concrete, and aluminum or vinyl siding. Each material requires specific preparation and paint types to ensure proper adhesion and longevity. For instance, brick and stucco may need different primers than wood to achieve the best result. Consider the existing condition and material of your home's exterior to determine the best approach.",
+        "@type": "Answer",
+        "description": "Exterior surfaces such as wood, stucco, brick, concrete, and siding can be painted. Each material requires specific preparation and paint types."
+      }
+    }
+  ],
+  "description": "Exterior surfaces such as wood, stucco, brick, concrete, and siding can be painted. Each material requires specific preparation and paint types."
+}

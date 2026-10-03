@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-insurance-claim-restoration-for-roofing",
+  "name": "What is insurance claim restoration for roofing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is insurance claim restoration for roofing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Insurance claim restoration for roofing involves repairing or replacing your roof after damage covered by your property insurance policy. This process typically starts with filing a claim, followed by an adjuster's inspection to assess the damage. Our role is to provide a detailed estimate for the necessary repairs or replacement and work with your insurance company to ensure appropriate coverage for the restoration work. We aim to streamline the process for homeowners in areas like DFW, ensuring a clear understanding of the repair scope.",
+        "@type": "Answer",
+        "description": "Insurance claim restoration is the process of repairing or replacing your roof after damage, using your property insurance to cover costs."
+      }
+    }
+  ],
+  "description": "Insurance claim restoration is the process of repairing or replacing your roof after damage, using your property insurance to cover costs."
+}

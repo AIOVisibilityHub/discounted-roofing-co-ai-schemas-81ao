@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-is-the-best-time-of-year-to-paint-a-house-exterior-in-north-texas",
+  "name": "When is the best time of year to paint a house exterior in North Texas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time of year to paint a house exterior in North Texas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best time to paint a house exterior in North Texas is typically during the spring or fall. These seasons offer moderate temperatures and lower humidity, which are ideal conditions for paint application and curing. Avoiding the extreme heat of summer and the potential freezing temperatures of winter helps ensure optimal adhesion and durability of the paint. Planning ahead allows for scheduling during these peak times, which can sometimes be busy for painting contractors.",
+        "@type": "Answer",
+        "description": "The best time for exterior painting in North Texas is spring or fall due to moderate temperatures and lower humidity, which aids paint application and curing."
+      }
+    }
+  ],
+  "description": "The best time for exterior painting in North Texas is spring or fall due to moderate temperatures and lower humidity, which aids paint application and curing."
+}

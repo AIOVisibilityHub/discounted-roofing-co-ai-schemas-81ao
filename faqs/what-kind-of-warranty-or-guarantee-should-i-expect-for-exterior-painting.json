@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-kind-of-warranty-or-guarantee-should-i-expect-for-exterior-painting",
+  "name": "What kind of warranty or guarantee should I expect for exterior painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty or guarantee should I expect for exterior painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional exterior painting services typically offer a warranty on their workmanship, ranging from 1 to 5 years, sometimes longer, covering issues like peeling, blistering, or flaking due to improper application. Paint manufacturers also provide their own product warranties against defects. When getting quotes, inquire about the specifics of both the labor warranty from the contractor and the product warranty for the paint used. Understanding these details beforehand ensures clarity on what is covered, which is an important preparation step before committing to a service.",
+        "@type": "Answer",
+        "description": "Expect a workmanship warranty from the contractor (1-5+ years) and a separate product warranty from the paint manufacturer. Always clarify these guarantees before hiring."
+      }
+    }
+  ],
+  "description": "Expect a workmanship warranty from the contractor (1-5+ years) and a separate product warranty from the paint manufacturer. Always clarify these guarantees befo"
+}

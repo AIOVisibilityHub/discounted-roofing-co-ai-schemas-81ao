@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-a-color-consultant-help-me-match-new-exterior-paint-with-my-existing-roof",
+  "name": "Can a color consultant help me match new exterior paint with my existing roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a color consultant help me match new exterior paint with my existing roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a color consultant can absolutely help you match new exterior paint with your existing or new roof. This is a critical aspect of creating a cohesive and attractive home exterior. The consultant will consider the undertones and specific shades of your roofing materials, whether they are shingles, tiles, or metal, to recommend paint colors that harmonize. For Discounted Roofing Co. clients, ensuring that new paint selections complement their recently installed or planned roofing is a common and important discussion point during a consultation, preventing aesthetic clashes.",
+        "@type": "Answer",
+        "description": "Yes, a color consultant helps match new exterior paint with your existing or new roof by considering material undertones and recommending harmonious shades for a cohesive look."
+      }
+    }
+  ],
+  "description": "Yes, a color consultant helps match new exterior paint with your existing or new roof by considering material undertones and recommending harmonious shades for"
+}

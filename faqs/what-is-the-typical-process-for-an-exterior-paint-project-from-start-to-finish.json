@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-typical-process-for-an-exterior-paint-project-from-start-to-finish",
+  "name": "What is the typical process for an exterior paint project from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for an exterior paint project from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our exterior paint project process generally begins with an initial consultation and estimate, followed by color selection. Once approved, we schedule the work, starting with thorough surface preparation like cleaning and repairs. Next, primer is applied as needed, followed by two coats of high-quality paint. The project concludes with a final inspection and cleanup. Throughout, we maintain communication, addressing any questions or concerns to ensure your satisfaction.",
+        "@type": "Answer",
+        "description": "The process involves consultation, color selection, surface prep, priming, painting, and a final inspection. We keep you informed at each step."
+      }
+    }
+  ],
+  "description": "The process involves consultation, color selection, surface prep, priming, painting, and a final inspection. We keep you informed at each step."
+}

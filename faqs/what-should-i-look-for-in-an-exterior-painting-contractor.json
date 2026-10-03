@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-look-for-in-an-exterior-painting-contractor",
+  "name": "What should I look for in an exterior painting contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for in an exterior painting contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing an exterior painting contractor, look for proof of proper licensing and insurance, a portfolio of past work, and customer references. It's also important to ensure they provide a detailed written estimate that outlines all aspects of the job, including surface preparation, the number of paint coats, and cleanup procedures. In our case, being a local company serving DFW and surrounding cities like Aledo and Allen, we understand specific regional requirements and material considerations, offering localized expertise.",
+        "@type": "Answer",
+        "description": "Look for licensed and insured contractors with a portfolio, references, and a detailed estimate. Local companies often have specific regional expertise."
+      }
+    }
+  ],
+  "description": "Look for licensed and insured contractors with a portfolio, references, and a detailed estimate. Local companies often have specific regional expertise."
+}

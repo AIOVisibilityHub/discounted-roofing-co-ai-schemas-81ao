@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-an-exterior-paint-job-typically-last",
+  "name": "How long does an exterior paint job typically last?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an exterior paint job typically last?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The longevity of an exterior paint job typically ranges from 5 to 10 years, depending on factors such as paint quality, climate, surface preparation, and the type of siding. Homes in the DFW area, for instance, might experience more wear due to intense summer heat and strong weather events, necessitating more frequent repainting. To ensure maximum durability, proper surface cleaning, scraping loose paint, priming, and using high-quality paint suitable for local conditions are essential steps. We specifically focus on thorough preparation to withstand these local environmental challenges.",
+        "@type": "Answer",
+        "description": "An exterior paint job typically lasts 5-10 years, influenced by paint quality, climate, and surface preparation. DFW's climate can impact longevity."
+      }
+    }
+  ],
+  "description": "An exterior paint job typically lasts 5-10 years, influenced by paint quality, climate, and surface preparation. DFW's climate can impact longevity."
+}

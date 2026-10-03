@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-exterior-stonework-cost",
+  "name": "How much does exterior stonework cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does exterior stonework cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of exterior stonework varies significantly based on the type of stone, complexity of the design, and the total area being covered. Natural stone is typically more expensive than manufactured stone veneer, though both offer durability. When budgeting, consider that custom designs or intricate patterns will require more labor, influencing the overall project cost. We provide detailed estimates after an on-site assessment.",
+        "@type": "Answer",
+        "description": "Exterior stonework cost depends on stone type, design complexity, and area covered. Natural stone is pricier than manufactured options."
+      }
+    }
+  ],
+  "description": "Exterior stonework cost depends on stone type, design complexity, and area covered. Natural stone is pricier than manufactured options."
+}

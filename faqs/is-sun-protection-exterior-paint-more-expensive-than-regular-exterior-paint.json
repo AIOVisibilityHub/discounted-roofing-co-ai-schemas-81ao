@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/is-sun-protection-exterior-paint-more-expensive-than-regular-exterior-paint",
+  "name": "Is sun-protection exterior paint more expensive than regular exterior paint?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is sun-protection exterior paint more expensive than regular exterior paint?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, sun-protection exterior paints typically have a higher upfront cost per gallon compared to standard exterior paints due to their specialized formulations and added performance benefits. However, the long-term value often outweighs the initial expense. Factors like reduced repainting frequency, potential energy savings from heat reflection, and enhanced curb appeal can offset the higher material price over time, especially in areas with intense sun exposure like Dallas-Fort Worth.",
+        "@type": "Answer",
+        "description": "Sun-protection paint usually costs more upfront, but its durability and potential energy savings can offer better long-term value."
+      }
+    }
+  ],
+  "description": "Sun-protection paint usually costs more upfront, but its durability and potential energy savings can offer better long-term value."
+}

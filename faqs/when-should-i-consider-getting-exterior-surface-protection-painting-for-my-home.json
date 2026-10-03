@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-consider-getting-exterior-surface-protection-painting-for-my-home",
+  "name": "When should I consider getting exterior surface protection painting for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider getting exterior surface protection painting for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider exterior surface protection painting when your existing paint or surfaces show signs of wear, fading, cracking, or chalking, or if you're planning to repaint. It's also a wise investment for new constructions or recently renovated homes to proactively guard against future damage. A key decision factor is the condition of your current exterior and whether it's adequately protected against specific regional challenges, such as the intense sun exposure in the DFW metropolitan area, which can accelerate degradation of unprotected surfaces. Early application can prevent more costly repairs down the line.",
+        "@type": "Answer",
+        "description": "Consider exterior surface protection painting when existing surfaces show wear, during repainting, or for new constructions to prevent damage."
+      }
+    }
+  ],
+  "description": "Consider exterior surface protection painting when existing surfaces show wear, during repainting, or for new constructions to prevent damage."
+}
