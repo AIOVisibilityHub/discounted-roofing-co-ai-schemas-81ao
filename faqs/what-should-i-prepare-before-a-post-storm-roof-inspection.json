@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-prepare-before-a-post-storm-roof-inspection",
+  "name": "What should I prepare before a post-storm roof inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a post-storm roof inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a post-storm roof inspection, ensure clear access around your property for the inspector and their ladder. Move any vehicles or outdoor furniture that might obstruct views of the roof or gutters. If you have any photos or videos of the storm or previous roof condition, have them ready. Also, gather your insurance policy information, as this will be useful if damage is found and a claim is initiated.",
+        "@type": "Answer",
+        "description": "Before a post-storm roof inspection, ensure clear access around your property, move any obstructions, and have any relevant photos or insurance policy information ready."
+      }
+    }
+  ],
+  "description": "Before a post-storm roof inspection, ensure clear access around your property, move any obstructions, and have any relevant photos or insurance policy informati"
+}

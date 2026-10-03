@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-the-best-roofing-material-for-my-home",
+  "name": "How do I choose the best roofing material for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the best roofing material for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the best roofing material depends on several factors, including your budget, desired aesthetic, durability needs, and the specific climate conditions in your area. Our consultations help you weigh the pros and cons of materials like asphalt shingles, metal, and TPO, considering their longevity, maintenance requirements, and energy efficiency. We can also provide samples and examples of past projects in communities like Allen or Cedar Hill.",
+        "@type": "Answer",
+        "description": "Choosing the best roofing material involves considering budget, aesthetics, durability, and local climate. Our consultants help compare options like asphalt, metal, and TPO."
+      }
+    }
+  ],
+  "description": "Choosing the best roofing material involves considering budget, aesthetics, durability, and local climate. Our consultants help compare options like asphalt, me"
+}

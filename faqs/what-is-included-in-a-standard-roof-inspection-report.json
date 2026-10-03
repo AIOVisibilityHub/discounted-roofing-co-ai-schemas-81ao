@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-included-in-a-standard-roof-inspection-report",
+  "name": "What is included in a standard roof inspection report?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a standard roof inspection report?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard roof inspection report from Discounted Roofing Co. typically details the roof's current condition, identifying any damage, wear and tear, or potential issues. It includes observations on shingles, flashing, gutters, and structural integrity. The report will also note the estimated lifespan remaining for the roof and suggest necessary repairs or maintenance. Understanding the level of detail provided helps customers decide on the next steps, whether it's minor repairs or a full replacement.",
+        "@type": "Answer",
+        "description": "A standard roof inspection report details your roof's condition, identifies damage, and suggests necessary repairs or maintenance."
+      }
+    }
+  ],
+  "description": "A standard roof inspection report details your roof's condition, identifies damage, and suggests necessary repairs or maintenance."
+}

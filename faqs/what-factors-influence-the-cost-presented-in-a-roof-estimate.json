@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-influence-the-cost-presented-in-a-roof-estimate",
+  "name": "What factors influence the cost presented in a roof estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost presented in a roof estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors impact the cost in a roof estimate, including the size and pitch of your roof, the type of materials chosen (e.g., asphalt shingles, metal, tile), the extent of any damage requiring repairs, and the complexity of the roof's design. Additionally, removal of old roofing materials and any necessary structural repairs can affect the final price. Our estimates at Discounted Roofing Co. detail these elements clearly so you understand how each contributes to the overall investment.",
+        "@type": "Answer",
+        "description": "Roof estimate costs are influenced by roof size and pitch, material choice, damage extent, and design complexity, all detailed in our proposals."
+      }
+    }
+  ],
+  "description": "Roof estimate costs are influenced by roof size and pitch, material choice, damage extent, and design complexity, all detailed in our proposals."
+}

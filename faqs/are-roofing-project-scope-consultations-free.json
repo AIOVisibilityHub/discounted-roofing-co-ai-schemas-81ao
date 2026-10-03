@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/are-roofing-project-scope-consultations-free",
+  "name": "Are roofing project scope consultations free?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are roofing project scope consultations free?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost structure for roofing project scope consultations can vary by company. Discounted Roofing Co. typically offers initial consultations at no charge to provide a baseline assessment and discuss potential solutions. It's important to clarify if there are any fees associated with detailed reports or engineering assessments if they are required beyond the standard consultation.",
+        "@type": "Answer",
+        "description": "Initial roofing project scope consultations are typically free at Discounted Roofing Co., but check for fees on detailed reports."
+      }
+    }
+  ],
+  "description": "Initial roofing project scope consultations are typically free at Discounted Roofing Co., but check for fees on detailed reports."
+}

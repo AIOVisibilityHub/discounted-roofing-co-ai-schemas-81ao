@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-common-signs-that-i-need-a-roof-material-condition-assessment",
+  "name": "What are common signs that I need a roof material condition assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that I need a roof material condition assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs include missing or curled shingles, granules in gutters, visible leaks inside your home, a sagging roofline, or sudden increases in energy bills. If you notice any of these issues, especially after strong winds or hail in areas like Dallas-Fort Worth, it's a good indicator that an assessment is needed. Recognizing these signs provides a Decision Factor for when to seek professional inspection. Addressing them promptly can prevent further damage.",
+        "@type": "Answer",
+        "description": "Look for missing shingles, granules in gutters, leaks, sagging, or high energy bills, especially after DFW storms."
+      }
+    }
+  ],
+  "description": "Look for missing shingles, granules in gutters, leaks, sagging, or high energy bills, especially after DFW storms."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-determine-if-my-roof-needs-repair-or-a-full-replacement",
+  "name": "What factors determine if my roof needs repair or a full replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors determine if my roof needs repair or a full replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors influence whether a roof requires repair or replacement. These include the age of the roof, the extent of damage, the type of roofing material, and the condition of the underlying structure. A minor leak or a few missing shingles might only need a repair, especially on a newer roof. However, widespread damage, significant granule loss, soft spots, or a roof past its typical lifespan often indicate a need for replacement. Our assessment considers these elements to recommend the most cost-effective and durable solution for your DFW area home.",
+        "@type": "Answer",
+        "description": "Factors like roof age, damage extent, material type, and structural condition determine if repair or replacement is needed."
+      }
+    }
+  ],
+  "description": "Factors like roof age, damage extent, material type, and structural condition determine if repair or replacement is needed."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-a-roof-deck-assessment-identify-hidden-damage",
+  "name": "Can a roof deck assessment identify hidden damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a roof deck assessment identify hidden damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a comprehensive roof deck assessment can often identify hidden damage that isn't visible from the exterior. This includes rot or structural issues caused by long-term leaks or inadequate ventilation, which can be found through interior attic inspections or careful probing. Our skilled inspectors are trained to recognize subtle indicators of underlying problems, helping to prevent future roofing failures and ensure a sound substrate for new installations.",
+        "@type": "Answer",
+        "description": "Yes, a comprehensive assessment can identify hidden damage like rot or structural issues from leaks or poor ventilation."
+      }
+    }
+  ],
+  "description": "Yes, a comprehensive assessment can identify hidden damage like rot or structural issues from leaks or poor ventilation."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/is-there-a-fee-for-residential-exterior-improvement-consultations",
+  "name": "Is there a fee for residential exterior improvement consultations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is there a fee for residential exterior improvement consultations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Discounted Roofing Co. often offers complimentary initial consultations for residential exterior improvements. This allows homeowners to get a professional assessment and receive recommendations without an upfront cost. It's a valuable opportunity to understand the condition of your exterior and explore options before committing to any services, helping you make an informed decision.",
+        "@type": "Answer",
+        "description": "Discounted Roofing Co. often provides complimentary initial consultations, allowing homeowners a professional assessment without an upfront fee."
+      }
+    }
+  ],
+  "description": "Discounted Roofing Co. often provides complimentary initial consultations, allowing homeowners a professional assessment without an upfront fee."
+}

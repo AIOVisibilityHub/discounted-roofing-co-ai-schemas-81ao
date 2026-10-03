@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-cost-of-a-roofing-and-exterior-remodeling-consultation-with-discount",
+  "name": "What is the cost of a roofing and exterior remodeling consultation with Discounted Roofing Co.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost of a roofing and exterior remodeling consultation with Discounted Roofing Co.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consultations with Discounted Roofing Co. for roofing and exterior remodeling projects are offered at no cost to the homeowner. We believe in providing a clear understanding of your property's needs and potential solutions without an upfront fee. This initial, free assessment allows us to evaluate the scope of work and discuss options, enabling you to make an informed decision without financial commitment.",
+        "@type": "Answer",
+        "description": "Consultations for roofing and exterior remodeling projects with Discounted Roofing Co. are provided at no cost to the homeowner."
+      }
+    }
+  ],
+  "description": "Consultations for roofing and exterior remodeling projects with Discounted Roofing Co. are provided at no cost to the homeowner."
+}

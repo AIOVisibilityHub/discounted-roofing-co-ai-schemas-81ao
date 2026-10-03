@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-major-roof-damage-assessment-take",
+  "name": "How long does a major roof damage assessment take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a major roof damage assessment take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a major roof damage assessment can vary based on the roof's size, complexity, and the extent of the damage. Typically, a comprehensive assessment for a standard residential property takes between 30 minutes to 2 hours. Factors like steep pitches or multiple roof sections might extend this timeframe. We strive to provide an efficient yet thorough inspection, giving you accurate results without unnecessary delays. We will communicate the expected timeline upfront.",
+        "@type": "Answer",
+        "description": "A major roof damage assessment usually takes 30 minutes to 2 hours, varying by roof size, complexity, and damage extent."
+      }
+    }
+  ],
+  "description": "A major roof damage assessment usually takes 30 minutes to 2 hours, varying by roof size, complexity, and damage extent."
+}

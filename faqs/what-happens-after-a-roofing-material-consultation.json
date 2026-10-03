@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-after-a-roofing-material-consultation",
+  "name": "What happens after a roofing material consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after a roofing material consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a roofing material consultation, you will receive a detailed proposal outlining the recommended materials, scope of work, and estimated costs. Our team will follow up to answer any additional questions and schedule the next steps if you decide to proceed. We ensure clear communication throughout the process, from initial assessment to project completion, for homeowners across the DFW service area.",
+        "@type": "Answer",
+        "description": "Following the consultation, you'll receive a detailed proposal. Our team will follow up to answer questions and schedule next steps."
+      }
+    }
+  ],
+  "description": "Following the consultation, you'll receive a detailed proposal. Our team will follow up to answer questions and schedule next steps."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-types-of-materials-will-be-discussed-during-a-roofing-consultation",
+  "name": "What types of materials will be discussed during a roofing consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials will be discussed during a roofing consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a roofing consultation, our specialists will discuss various material options suitable for your home and budget, including asphalt shingles, metal roofing, tile, and more, depending on your property's specific needs and aesthetic goals. We will explain the benefits, longevity, and maintenance requirements of each option. This discussion aims to help you understand the practical tradeoffs associated with different materials, such as cost versus durability and appearance.",
+        "@type": "Answer",
+        "description": "We discuss various roofing materials like asphalt shingles, metal, and tile, explaining the benefits, longevity, and maintenance of each to help you understand practical tradeoffs."
+      }
+    }
+  ],
+  "description": "We discuss various roofing materials like asphalt shingles, metal, and tile, explaining the benefits, longevity, and maintenance of each to help you understand"
+}

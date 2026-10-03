@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-do-to-prepare-for-a-storm-damage-roof-inspection",
+  "name": "What should I do to prepare for a storm damage roof inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare for a storm damage roof inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a storm damage roof inspection, ensure clear access around your property and to your roof if possible. It's helpful to clear away any vehicles, patio furniture, or other obstructions that might hinder ladder placement or inspection access. Having any initial observations about where you suspect damage can also be useful for the inspector. Our team will handle all necessary equipment and safety measures.",
+        "@type": "Answer",
+        "description": "Clear access around your property and note any suspected damage to help prepare for the inspection. Our team handles equipment and safety."
+      }
+    }
+  ],
+  "description": "Clear access around your property and note any suspected damage to help prepare for the inspection. Our team handles equipment and safety."
+}

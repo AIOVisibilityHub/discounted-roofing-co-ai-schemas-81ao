@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-look-for-in-a-roofing-company-after-a-consultation",
+  "name": "What should I look for in a roofing company after a consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for in a roofing company after a consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a consultation, look for a roofing company that provides a clear, written estimate, has positive customer reviews, and offers warranties on their work and materials. Verify they are properly licensed and insured in Texas. Discounted Roofing Co. emphasizes transparency, quality craftsmanship, and customer satisfaction, ensuring you receive reliable service and a durable roof. Comparing detailed proposals and verifying credentials helps you make an informed decision.",
+        "@type": "Answer",
+        "description": "Look for a company with clear written estimates, positive reviews, warranties, and proper licensing and insurance after a consultation."
+      }
+    }
+  ],
+  "description": "Look for a company with clear written estimates, positive reviews, warranties, and proper licensing and insurance after a consultation."
+}

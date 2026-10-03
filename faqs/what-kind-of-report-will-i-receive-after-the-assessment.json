@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-kind-of-report-will-i-receive-after-the-assessment",
+  "name": "What kind of report will I receive after the assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of report will I receive after the assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a roof replacement readiness assessment, you will typically receive a detailed report outlining the inspector's findings, complete with photographs of any identified issues. The report will include observations on the roof's condition, areas of concern, and recommended actions, such as repair or full replacement. It will also often include estimates for the recommended work. This documentation is crucial for making informed decisions and planning your next steps with confidence.",
+        "@type": "Answer",
+        "description": "You'll receive a detailed report with findings, photos, and recommendations for repair or replacement."
+      }
+    }
+  ],
+  "description": "You'll receive a detailed report with findings, photos, and recommendations for repair or replacement."
+}

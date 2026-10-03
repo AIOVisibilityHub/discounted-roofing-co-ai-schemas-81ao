@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/do-you-offer-consultations-for-both-residential-and-commercial-roofing-materials",
+  "name": "Do you offer consultations for both residential and commercial roofing materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer consultations for both residential and commercial roofing materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Discounted Roofing Co. offers material consultations for both residential and commercial properties within our service areas, including cities like Addison and Carrollton. The approach differs slightly, as commercial properties often require specialized materials like TPO or modified bitumen, whereas residential properties typically use asphalt shingles, metal, or tile. Our consultants are equipped to advise on the best solutions for either type of structure.",
+        "@type": "Answer",
+        "description": "Yes, we offer consultations for both residential and commercial roofing materials, tailoring recommendations to the specific needs of each property type."
+      }
+    }
+  ],
+  "description": "Yes, we offer consultations for both residential and commercial roofing materials, tailoring recommendations to the specific needs of each property type."
+}

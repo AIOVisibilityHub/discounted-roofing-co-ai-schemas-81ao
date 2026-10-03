@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/why-is-it-important-to-get-a-storm-damage-inspection-soon-after-a-storm-in-the-d",
+  "name": "Why is it important to get a storm damage inspection soon after a storm in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is it important to get a storm damage inspection soon after a storm in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Getting a storm damage inspection soon after a storm in the DFW area is crucial because damage can worsen over time, leading to more costly repairs. Also, many insurance policies have time limits for filing claims. Identifying and addressing issues promptly helps prevent secondary damage like leaks or mold, which may not be covered if reported too late. Discounted Roofing Co. serves the entire DFW region, offering prompt inspections.",
+        "@type": "Answer",
+        "description": "Early inspections prevent worsening damage and meet insurance claim deadlines in the DFW area. Discounted Roofing Co. serves the entire DFW region."
+      }
+    }
+  ],
+  "description": "Early inspections prevent worsening damage and meet insurance claim deadlines in the DFW area. Discounted Roofing Co. serves the entire DFW region."
+}

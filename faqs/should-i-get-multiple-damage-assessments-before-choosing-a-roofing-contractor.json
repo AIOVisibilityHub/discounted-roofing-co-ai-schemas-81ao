@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/should-i-get-multiple-damage-assessments-before-choosing-a-roofing-contractor",
+  "name": "Should I get multiple damage assessments before choosing a roofing contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I get multiple damage assessments before choosing a roofing contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While getting multiple assessments can provide different perspectives, it's more critical to choose a reputable contractor known for thorough and honest evaluations. Comparing assessments can help you understand the scope of work and pricing, but consistency in findings is key. Be cautious of significantly different repair recommendations or costs, as this could indicate an incomplete assessment or an attempt to upsell unnecessary services. Prioritize contractors with strong local references and transparent reporting.",
+        "@type": "Answer",
+        "description": "Comparing multiple assessments can be helpful, but prioritize choosing a reputable contractor with consistent, transparent evaluations to avoid discrepancies."
+      }
+    }
+  ],
+  "description": "Comparing multiple assessments can be helpful, but prioritize choosing a reputable contractor with consistent, transparent evaluations to avoid discrepancies."
+}

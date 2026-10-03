@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-a-roof-drainage-assessment",
+  "name": "When should I get a roof drainage assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a roof drainage assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should get a roof drainage assessment if you notice water pooling on your roof, overflowing gutters, staining on your exterior walls, or signs of foundation issues. It's also recommended after major storms, if your roof is older than 10 years, or if you're planning a major landscaping project that might impact water runoff. Regularly scheduled assessments can prevent minor issues from becoming costly repairs. Discounted Roofing Co. recommends an assessment if you observe any drainage problems, particularly during the rainy seasons common in our service areas.",
+        "@type": "Answer",
+        "description": "Get an assessment if you see water pooling, overflowing gutters, wall stains, or foundation issues, or after major storms. Regular assessments can prevent costly repairs."
+      }
+    }
+  ],
+  "description": "Get an assessment if you see water pooling, overflowing gutters, wall stains, or foundation issues, or after major storms. Regular assessments can prevent costl"
+}

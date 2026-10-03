@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-roof-damage-evaluation-take",
+  "name": "How long does a roof damage evaluation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a roof damage evaluation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard roof damage evaluation typically takes between 30 minutes to an hour, depending on the size and complexity of your roof. Factors such as multiple roof levels, steep pitches, or extensive damage requiring detailed documentation can extend the evaluation time. Our goal is to be thorough while respecting your schedule.",
+        "@type": "Answer",
+        "description": "Evaluations usually take 30 minutes to an hour, but complex roofs or extensive damage can extend the time."
+      }
+    }
+  ],
+  "description": "Evaluations usually take 30 minutes to an hour, but complex roofs or extensive damage can extend the time."
+}

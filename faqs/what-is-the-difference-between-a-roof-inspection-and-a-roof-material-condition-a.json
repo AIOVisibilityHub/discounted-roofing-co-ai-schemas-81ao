@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-difference-between-a-roof-inspection-and-a-roof-material-condition-a",
+  "name": "What is the difference between a roof inspection and a roof material condition assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a roof inspection and a roof material condition assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often used interchangeably, a roof material condition assessment typically involves a more in-depth evaluation of the materials' specific condition and projected lifespan compared to a general inspection. An assessment might include more detailed analysis of material degradation, focusing on specific vulnerabilities related to material type. This Practical Tradeoff means an assessment offers a more granular understanding for long-term planning, rather than just identifying immediate damage.",
+        "@type": "Answer",
+        "description": "An assessment offers a more in-depth evaluation of material condition and lifespan than a general roof inspection."
+      }
+    }
+  ],
+  "description": "An assessment offers a more in-depth evaluation of material condition and lifespan than a general roof inspection."
+}

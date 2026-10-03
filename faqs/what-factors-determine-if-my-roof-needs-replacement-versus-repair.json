@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-determine-if-my-roof-needs-replacement-versus-repair",
+  "name": "What factors determine if my roof needs replacement versus repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors determine if my roof needs replacement versus repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors determine if your roof needs replacement rather than just a repair, including the age of the roof, the extent and type of damage, and the overall condition of the roofing materials. Widespread damage, structural issues, or an aging roof nearing the end of its lifespan typically point towards replacement. If only a small, isolated section is damaged, a repair might suffice. A readiness assessment helps identify the most cost-effective and long-term solution for your specific situation. This evaluation helps you understand the practical tradeoff between short-term repair costs and the long-term investment of a replacement.",
+        "@type": "Answer",
+        "description": "Factors include roof age, damage extent, and overall condition; a replacement is often needed for widespread issues."
+      }
+    }
+  ],
+  "description": "Factors include roof age, damage extent, and overall condition; a replacement is often needed for widespread issues."
+}

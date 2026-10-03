@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-consider-a-roofing-material-selection-consultation",
+  "name": "When should I consider a roofing material selection consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a roofing material selection consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a roofing material selection consultation if your roof is nearing the end of its expected lifespan, shows signs of significant wear or damage, or if you are planning a home renovation that includes a roof replacement. It's also beneficial if you're experiencing recurring leaks or concerns about energy efficiency. Discounted Roofing Co. recommends a consultation well before a critical failure, allowing ample time to explore options, understand potential upgrades, and plan for your roofing project without urgency.",
+        "@type": "Answer",
+        "description": "Consider a consultation if your roof is old, damaged, or part of a renovation, or if you have energy efficiency concerns. It's best to plan before critical failure."
+      }
+    }
+  ],
+  "description": "Consider a consultation if your roof is old, damaged, or part of a renovation, or if you have energy efficiency concerns. It's best to plan before critical fail"
+}

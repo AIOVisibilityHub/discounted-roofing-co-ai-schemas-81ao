@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-schedule-a-roofing-project-planning-consultation",
+  "name": "When should I schedule a roofing project planning consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I schedule a roofing project planning consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should schedule a roofing project planning consultation if you notice signs of damage, such as missing shingles, leaks, or granule loss, or if your roof is over 15-20 years old. It's also wise to get a consultation after severe weather events common in the DFW area, even without obvious damage. Proactive consultations can identify issues early, potentially saving significant repair costs.",
+        "@type": "Answer",
+        "description": "Schedule a consultation for visible damage, an aging roof (15-20+ years), or after severe weather, especially in the DFW area."
+      }
+    }
+  ],
+  "description": "Schedule a consultation for visible damage, an aging roof (15-20+ years), or after severe weather, especially in the DFW area."
+}

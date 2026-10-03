@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-roof-damage-assessment",
+  "name": "What is a roof damage assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a roof damage assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roof damage assessment is a comprehensive inspection of your roof to identify any issues such as leaks, missing shingles, hail damage, or general wear and tear. It helps determine the extent of damage and if repairs or a full replacement are needed. Our assessments include checking the structural integrity, flashing, gutters, and interior for signs of water intrusion. This process clarifies the scope of work required.",
+        "@type": "Answer",
+        "description": "A roof damage assessment is a comprehensive inspection to identify damage, determine its extent, and recommend necessary repairs or replacement."
+      }
+    }
+  ],
+  "description": "A roof damage assessment is a comprehensive inspection to identify damage, determine its extent, and recommend necessary repairs or replacement."
+}

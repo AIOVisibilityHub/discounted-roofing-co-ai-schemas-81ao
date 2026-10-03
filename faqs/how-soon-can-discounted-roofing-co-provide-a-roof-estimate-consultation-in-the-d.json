@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-soon-can-discounted-roofing-co-provide-a-roof-estimate-consultation-in-the-d",
+  "name": "How soon can Discounted Roofing Co. provide a roof estimate consultation in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How soon can Discounted Roofing Co. provide a roof estimate consultation in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Discounted Roofing Co. aims to provide prompt service to our customers across the DFW area, including cities like Dallas, Fort Worth, and Plano. We typically can schedule a roof estimate consultation within a few business days of your request, depending on current demand and weather conditions. Our local presence allows us to respond efficiently to your roofing needs, ensuring timely assessment and planning for your project.",
+        "@type": "Answer",
+        "description": "Discounted Roofing Co. can typically schedule a roof estimate consultation in the DFW area within a few business days, depending on demand."
+      }
+    }
+  ],
+  "description": "Discounted Roofing Co. can typically schedule a roof estimate consultation in the DFW area within a few business days, depending on demand."
+}

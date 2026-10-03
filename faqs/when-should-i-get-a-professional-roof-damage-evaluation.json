@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-a-professional-roof-damage-evaluation",
+  "name": "When should I get a professional roof damage evaluation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a professional roof damage evaluation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should get a professional roof damage evaluation after severe weather events like hail or high winds, if you notice leaks inside your home, or if your roof is over 15-20 years old. Even if damage isn't immediately visible, hidden issues can lead to more significant problems if left unaddressed. We recommend evaluations to catch problems early, potentially saving on major repair costs.",
+        "@type": "Answer",
+        "description": "Get an evaluation after severe weather, if you see leaks, or if your roof is old to catch hidden issues early."
+      }
+    }
+  ],
+  "description": "Get an evaluation after severe weather, if you see leaks, or if your roof is old to catch hidden issues early."
+}

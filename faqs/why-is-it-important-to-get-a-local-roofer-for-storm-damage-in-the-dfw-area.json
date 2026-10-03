@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/why-is-it-important-to-get-a-local-roofer-for-storm-damage-in-the-dfw-area",
+  "name": "Why is it important to get a local roofer for storm damage in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is it important to get a local roofer for storm damage in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is important to choose a local roofer for storm damage in the DFW area because they are familiar with local building codes, weather patterns, and common storm-related issues specific to North Texas. Local companies like Discounted Roofing Co. are also more likely to be readily available for emergency tarping and repairs, and they have established relationships with local suppliers and insurance adjusters, which can streamline the repair process and claim handling. This local knowledge ensures a more efficient and compliant repair.",
+        "@type": "Answer",
+        "description": "A local roofer in the DFW area understands local building codes, weather patterns, and specific storm-related issues. They offer quicker service, and established relationships with suppliers and adjusters."
+      }
+    }
+  ],
+  "description": "A local roofer in the DFW area understands local building codes, weather patterns, and specific storm-related issues. They offer quicker service, and establishe"
+}

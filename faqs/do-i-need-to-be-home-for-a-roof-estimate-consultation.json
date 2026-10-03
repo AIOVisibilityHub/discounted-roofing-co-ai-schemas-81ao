@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/do-i-need-to-be-home-for-a-roof-estimate-consultation",
+  "name": "Do I need to be home for a roof estimate consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be home for a roof estimate consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it is not always mandatory for you to be present for the entire inspection, it is highly recommended. Being home allows you to directly discuss your concerns with our roofing specialist from Discounted Roofing Co., ask questions, and receive immediate clarification on our findings and recommendations. This direct interaction ensures we fully understand your expectations and can tailor the estimate to your specific requirements, addressing any specific issues you've noticed.",
+        "@type": "Answer",
+        "description": "Being home for a roof estimate consultation is recommended so you can discuss concerns, ask questions, and receive immediate clarification from our specialist."
+      }
+    }
+  ],
+  "description": "Being home for a roof estimate consultation is recommended so you can discuss concerns, ask questions, and receive immediate clarification from our specialist."
+}

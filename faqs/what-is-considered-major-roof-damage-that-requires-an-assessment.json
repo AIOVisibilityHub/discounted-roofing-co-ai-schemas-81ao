@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-considered-major-roof-damage-that-requires-an-assessment",
+  "name": "What is considered major roof damage that requires an assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is considered major roof damage that requires an assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Major roof damage includes significant structural issues like widespread missing shingles, large leaks, sagging roof sections, or damage from severe weather such as hail, strong winds, or fallen trees. These types of damage can compromise your home's structural integrity and lead to further interior damage. A professional assessment helps determine the extent of the damage, which is crucial for filing an insurance claim and planning repairs.",
+        "@type": "Answer",
+        "description": "Major roof damage includes significant structural issues, widespread missing shingles, large leaks, or sagging sections, often from severe weather."
+      }
+    }
+  ],
+  "description": "Major roof damage includes significant structural issues, widespread missing shingles, large leaks, or sagging sections, often from severe weather."
+}

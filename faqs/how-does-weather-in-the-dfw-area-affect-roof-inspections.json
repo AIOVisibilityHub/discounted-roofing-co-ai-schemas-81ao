@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-does-weather-in-the-dfw-area-affect-roof-inspections",
+  "name": "How does weather in the DFW area affect roof inspections?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does weather in the DFW area affect roof inspections?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Weather in the DFW area, known for its severe storms including hail and high winds, significantly impacts roof inspections. After such events, Discounted Roofing Co. often sees a surge in inspection requests to assess storm damage. Inspectors must also consider safe working conditions, as very high winds or active rainfall can delay an inspection. Consistent monitoring of your roof after DFW's unpredictable weather patterns is critical.",
+        "@type": "Answer",
+        "description": "DFW's severe weather, including hail and high winds, frequently necessitates roof inspections for storm damage, though active severe weather can delay the inspection."
+      }
+    }
+  ],
+  "description": "DFW's severe weather, including hail and high winds, frequently necessitates roof inspections for storm damage, though active severe weather can delay the inspe"
+}

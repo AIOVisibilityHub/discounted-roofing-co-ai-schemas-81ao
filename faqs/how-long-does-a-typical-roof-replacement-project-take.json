@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-typical-roof-replacement-project-take",
+  "name": "How long does a typical roof replacement project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical roof replacement project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical roof replacement for an average-sized home can take anywhere from one to three days, depending on the roof's complexity, weather conditions, and the extent of any underlying damage that needs repair. Our team strives to complete projects efficiently while maintaining high-quality standards. Factors like the type of roofing material chosen can also influence the project timeline.",
+        "@type": "Answer",
+        "description": "Roof replacement typically takes 1 to 3 days, depending on roof size, complexity, and weather."
+      }
+    }
+  ],
+  "description": "Roof replacement typically takes 1 to 3 days, depending on roof size, complexity, and weather."
+}

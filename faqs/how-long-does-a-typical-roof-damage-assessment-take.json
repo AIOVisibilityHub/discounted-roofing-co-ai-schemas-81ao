@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-typical-roof-damage-assessment-take",
+  "name": "How long does a typical roof damage assessment take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical roof damage assessment take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical roof damage assessment usually takes between 30 minutes to an hour, depending on the size and complexity of your roof and the extent of visible damage. This includes the time needed for a thorough visual inspection, photographic documentation, and discussing initial findings with you. Factors like roof accessibility and pitch can influence the overall duration.",
+        "@type": "Answer",
+        "description": "A roof damage assessment typically takes 30-60 minutes, depending on roof size and complexity."
+      }
+    }
+  ],
+  "description": "A roof damage assessment typically takes 30-60 minutes, depending on roof size and complexity."
+}

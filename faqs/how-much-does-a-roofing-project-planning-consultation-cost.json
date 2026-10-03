@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-roofing-project-planning-consultation-cost",
+  "name": "How much does a roofing project planning consultation cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a roofing project planning consultation cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Discounted Roofing Co. offers complimentary roofing project planning consultations. There is no charge for our initial visit to assess your roof and discuss your project. This allows homeowners in DFW and surrounding areas to get expert advice and a clear understanding of their roofing needs without any upfront financial commitment, helping you make an informed decision about your home's protection.",
+        "@type": "Answer",
+        "description": "Our roofing project planning consultations are complimentary. There is no charge for the initial assessment and project discussion."
+      }
+    }
+  ],
+  "description": "Our roofing project planning consultations are complimentary. There is no charge for the initial assessment and project discussion."
+}

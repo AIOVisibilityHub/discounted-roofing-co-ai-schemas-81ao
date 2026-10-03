@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-a-consultation-determine-if-i-need-a-repair-or-a-full-replacement",
+  "name": "Can a consultation determine if I need a repair or a full replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a consultation determine if I need a repair or a full replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a roofing project scope consultation is designed to determine whether a repair or a full replacement is the most appropriate solution for your roof. The assessment will consider the extent of damage, the age of the roof, and its overall structural integrity. A specialist from Discounted Roofing Co. will provide an expert recommendation based on these factors, weighing the long-term cost-effectiveness and durability of each option.",
+        "@type": "Answer",
+        "description": "Yes, a consultation assesses damage, age, and integrity to recommend if repair or full replacement is needed."
+      }
+    }
+  ],
+  "description": "Yes, a consultation assesses damage, age, and integrity to recommend if repair or full replacement is needed."
+}

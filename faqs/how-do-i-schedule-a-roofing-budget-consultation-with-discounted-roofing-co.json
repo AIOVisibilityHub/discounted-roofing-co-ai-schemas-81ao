@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-schedule-a-roofing-budget-consultation-with-discounted-roofing-co",
+  "name": "How do I schedule a roofing budget consultation with Discounted Roofing Co.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I schedule a roofing budget consultation with Discounted Roofing Co.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Scheduling a roofing budget consultation with Discounted Roofing Co. is straightforward. You can typically request one by contacting us directly via phone or through the contact form on our website. We serve all mentioned cities, including Addison, Aledo, and Allen. When you reach out, our team will work with you to find a convenient time for a specialist to visit your property and conduct the assessment.",
+        "@type": "Answer",
+        "description": "Schedule a consultation by contacting Discounted Roofing Co. directly via phone or website, and our team will arrange a convenient time."
+      }
+    }
+  ],
+  "description": "Schedule a consultation by contacting Discounted Roofing Co. directly via phone or website, and our team will arrange a convenient time."
+}

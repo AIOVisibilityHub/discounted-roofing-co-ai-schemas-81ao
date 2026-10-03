@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-is-the-best-time-to-get-a-roof-inspection-before-selling",
+  "name": "When is the best time to get a roof inspection before selling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time to get a roof inspection before selling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best time to get a roof inspection before selling your home is typically before you officially list the property. This gives you ample time to address any necessary repairs without rush, preventing potential delays once a buyer is found. Conducting it early in the process ensures you can include details about a well-maintained or newly repaired roof in your listing, which can be a selling point. Scheduling it during favorable weather conditions can also ensure a thorough assessment.",
+        "@type": "Answer",
+        "description": "The best time is before listing your home, allowing ample time for repairs and ensuring you can highlight a sound roof in your listing."
+      }
+    }
+  ],
+  "description": "The best time is before listing your home, allowing ample time for repairs and ensuring you can highlight a sound roof in your listing."
+}

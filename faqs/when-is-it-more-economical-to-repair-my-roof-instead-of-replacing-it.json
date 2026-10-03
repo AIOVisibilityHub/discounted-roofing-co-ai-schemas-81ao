@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-is-it-more-economical-to-repair-my-roof-instead-of-replacing-it",
+  "name": "When is it more economical to repair my roof instead of replacing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it more economical to repair my roof instead of replacing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is generally more economical to repair your roof when the damage is localized, minor, and the roof is still within the first two-thirds of its expected lifespan. Examples include fixing a small leak, replacing a few missing shingles, or repairing isolated storm damage. If the repair cost exceeds 25-30% of a full replacement, or if the roof is nearing the end of its typical lifespan (e.g., 15+ years for asphalt shingles), replacement often offers better long-term value. We can help you weigh these cost considerations during your assessment.",
+        "@type": "Answer",
+        "description": "Repair is more economical for localized, minor damage on a roof still within the first two-thirds of its lifespan, otherwise replacement might be better."
+      }
+    }
+  ],
+  "description": "Repair is more economical for localized, minor damage on a roof still within the first two-thirds of its lifespan, otherwise replacement might be better."
+}

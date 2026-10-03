@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/why-should-i-get-a-roof-inspection-before-selling-my-home",
+  "name": "Why should I get a roof inspection before selling my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why should I get a roof inspection before selling my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Getting a roof inspection before selling helps you understand the roof's current state and address any necessary repairs ahead of time. This proactive approach can reduce surprises during a buyer's inspection, potentially saving time and money by avoiding last-minute repair negotiations or price reductions. It also allows you to choose your roofing contractor and schedule repairs on your terms, rather than under pressure from a closing deadline.",
+        "@type": "Answer",
+        "description": "A pre-sale roof inspection helps you address issues proactively, avoid surprises from buyer inspections, and manage repairs on your schedule."
+      }
+    }
+  ],
+  "description": "A pre-sale roof inspection helps you address issues proactively, avoid surprises from buyer inspections, and manage repairs on your schedule."
+}

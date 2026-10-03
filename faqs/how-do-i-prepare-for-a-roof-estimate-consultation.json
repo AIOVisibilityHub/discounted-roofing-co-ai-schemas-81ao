@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-prepare-for-a-roof-estimate-consultation",
+  "name": "How do I prepare for a roof estimate consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I prepare for a roof estimate consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for your roof estimate consultation, ensure clear access around your home for our team. It's helpful to note any specific areas of concern or issues you've observed, such as leaks or unusual sounds. Gather any previous roofing repair or installation documentation you might have. Having this information ready for Discounted Roofing Co. allows our specialists to focus on your immediate needs and provide a more targeted assessment and accurate estimate.",
+        "@type": "Answer",
+        "description": "Prepare by ensuring clear access around your home, noting specific concerns, and gathering any prior roofing documentation for our specialists."
+      }
+    }
+  ],
+  "description": "Prepare by ensuring clear access around your home, noting specific concerns, and gathering any prior roofing documentation for our specialists."
+}

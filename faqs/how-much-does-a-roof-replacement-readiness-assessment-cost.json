@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-roof-replacement-readiness-assessment-cost",
+  "name": "How much does a roof replacement readiness assessment cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a roof replacement readiness assessment cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a roof replacement readiness assessment can vary depending on the size and complexity of your roof. Some roofing companies offer these assessments as part of a consultation, while others may charge a fee. It's often a worthwhile investment to understand the true condition of your roof before committing to a full replacement. Discounted Roofing Co. provides clear information on any associated costs upfront, ensuring transparency for our customers.",
+        "@type": "Answer",
+        "description": "Costs vary, but some companies offer assessments as part of a consultation."
+      }
+    }
+  ],
+  "description": "Costs vary, but some companies offer assessments as part of a consultation."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-a-roof-inspection-after-a-storm",
+  "name": "When should I get a roof inspection after a storm?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a roof inspection after a storm?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should get a roof inspection as soon as possible after a major storm, especially if there was hail, strong winds, or heavy rain. Visible damage like missing shingles, dents, or leaks indoors are clear indicators, but hidden damage can also compromise your roof's integrity. Prompt inspection by a professional helps prevent further damage and supports timely insurance claims. Discounted Roofing Co. serves the DFW area, including Abbott, Addison, Aledo, and Allen, and can typically schedule inspections quickly after storm events.",
+        "@type": "Answer",
+        "description": "Get a roof inspection as soon as possible after a major storm, especially if you notice visible damage like missing shingles or leaks. Prompt inspection helps prevent further issues and assists with insurance claims."
+      }
+    }
+  ],
+  "description": "Get a roof inspection as soon as possible after a major storm, especially if you notice visible damage like missing shingles or leaks. Prompt inspection helps p"
+}

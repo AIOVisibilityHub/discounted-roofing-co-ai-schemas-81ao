@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-quickly-can-discounted-roofing-co-perform-an-emergency-storm-damage-assessme",
+  "name": "How quickly can Discounted Roofing Co. perform an emergency storm damage assessment in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly can Discounted Roofing Co. perform an emergency storm damage assessment in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Discounted Roofing Co. understands the urgency of storm damage and aims to provide rapid response for emergency assessments within our service areas, including DFW. Our goal is to dispatch a team as quickly as possible, often within 24-48 hours, depending on the volume of storm-related calls. This quick turnaround helps homeowners address damage promptly and minimizes potential secondary issues.",
+        "@type": "Answer",
+        "description": "Discounted Roofing Co. prioritizes rapid response for emergency assessments in the DFW area, often within 24-48 hours, to help homeowners address storm damage quickly."
+      }
+    }
+  ],
+  "description": "Discounted Roofing Co. prioritizes rapid response for emergency assessments in the DFW area, often within 24-48 hours, to help homeowners address storm damage q"
+}

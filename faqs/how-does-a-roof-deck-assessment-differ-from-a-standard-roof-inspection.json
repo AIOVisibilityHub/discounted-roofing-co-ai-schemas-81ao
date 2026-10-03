@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-does-a-roof-deck-assessment-differ-from-a-standard-roof-inspection",
+  "name": "How does a roof deck assessment differ from a standard roof inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a roof deck assessment differ from a standard roof inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard roof inspection primarily focuses on the condition of the visible roofing materials, like shingles or membranes, for leaks or wear. A roof deck assessment, however, delves deeper to evaluate the structural components beneath the roofing material. While a standard inspection might note potential issues, a deck assessment provides a definitive understanding of the sub-structure's health, which is critical for budgeting and planning major repairs or replacements, especially in areas with varying weather like the DFW metroplex.",
+        "@type": "Answer",
+        "description": "A standard roof inspection checks visible roofing materials, while a roof deck assessment evaluates the structural components beneath for underlying issues."
+      }
+    }
+  ],
+  "description": "A standard roof inspection checks visible roofing materials, while a roof deck assessment evaluates the structural components beneath for underlying issues."
+}

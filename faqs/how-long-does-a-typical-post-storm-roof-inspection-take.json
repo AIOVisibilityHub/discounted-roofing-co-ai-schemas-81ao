@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-typical-post-storm-roof-inspection-take",
+  "name": "How long does a typical post-storm roof inspection take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical post-storm roof inspection take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a post-storm roof inspection can vary depending on the size and complexity of your roof and the extent of visible damage. Typically, a thorough inspection takes between 30 minutes to an hour. Our inspectors at Discounted Roofing Co. take the necessary time to meticulously assess all aspects of your roof, including photographic documentation, to ensure no damage is overlooked. We aim to be efficient while maintaining a high standard of detail.",
+        "@type": "Answer",
+        "description": "A typical post-storm roof inspection usually takes 30 minutes to an hour, depending on the roof's size and complexity. It involves a meticulous assessment and photographic documentation."
+      }
+    }
+  ],
+  "description": "A typical post-storm roof inspection usually takes 30 minutes to an hour, depending on the roof's size and complexity. It involves a meticulous assessment and p"
+}

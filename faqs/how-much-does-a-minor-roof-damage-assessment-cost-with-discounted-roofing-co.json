@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-minor-roof-damage-assessment-cost-with-discounted-roofing-co",
+  "name": "How much does a minor roof damage assessment cost with Discounted Roofing Co.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a minor roof damage assessment cost with Discounted Roofing Co.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For many homeowners, Discounted Roofing Co. offers free, no-obligation minor roof damage assessments. This allows our technicians to evaluate the damage and provide a detailed report and repair estimate without an upfront charge. The cost, if any, for more complex inspections would be discussed transparently beforehand.",
+        "@type": "Answer",
+        "description": "Discounted Roofing Co. offers free, no-obligation minor roof damage assessments for many homeowners."
+      }
+    }
+  ],
+  "description": "Discounted Roofing Co. offers free, no-obligation minor roof damage assessments for many homeowners."
+}

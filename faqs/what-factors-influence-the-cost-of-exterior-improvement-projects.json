@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-influence-the-cost-of-exterior-improvement-projects",
+  "name": "What factors influence the cost of exterior improvement projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of exterior improvement projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of exterior improvement projects is influenced by material choices, the scope of work, the size and accessibility of your home, and the extent of any necessary repairs or remediation. For example, opting for premium roofing materials like slate or tile will increase costs compared to standard asphalt shingles. These choices are discussed during the consultation to provide a transparent understanding of the investment required.",
+        "@type": "Answer",
+        "description": "Project costs depend on material selection, work scope, home size, accessibility, and repair extent. Premium materials typically increase the overall investment."
+      }
+    }
+  ],
+  "description": "Project costs depend on material selection, work scope, home size, accessibility, and repair extent. Premium materials typically increase the overall investment"
+}

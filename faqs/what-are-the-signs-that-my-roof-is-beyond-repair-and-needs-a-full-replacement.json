@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-signs-that-my-roof-is-beyond-repair-and-needs-a-full-replacement",
+  "name": "What are the signs that my roof is beyond repair and needs a full replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my roof is beyond repair and needs a full replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs that your roof is beyond repair and requires a full replacement include widespread missing or cracked shingles, significant granule loss (often visible in gutters), a sagging roof deck, visible water damage or mold in your attic, or if your roof is nearing the end of its expected lifespan (typically 20-25 years for asphalt shingles). Consistent leaks in multiple areas are also a strong indicator. These issues suggest the roof's integrity is compromised, making replacement the more practical long-term solution.",
+        "@type": "Answer",
+        "description": "Widespread missing shingles, granule loss, a sagging deck, attic water damage, or an old roof are signs a full replacement is needed."
+      }
+    }
+  ],
+  "description": "Widespread missing shingles, granule loss, a sagging deck, attic water damage, or an old roof are signs a full replacement is needed."
+}

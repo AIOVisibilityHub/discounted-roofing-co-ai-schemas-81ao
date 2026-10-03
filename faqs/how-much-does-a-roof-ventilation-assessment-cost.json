@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-roof-ventilation-assessment-cost",
+  "name": "How much does a roof ventilation assessment cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a roof ventilation assessment cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a roof ventilation assessment can vary based on the size and complexity of your roof and attic structure. Some roofing companies, including Discounted Roofing Co., may offer a ventilation check as part of a complimentary roof inspection or a more comprehensive service package. Always inquire about what is included in the assessment and if there are any associated fees before scheduling.",
+        "@type": "Answer",
+        "description": "The cost varies by roof size and complexity; some companies include it with a complimentary roof inspection."
+      }
+    }
+  ],
+  "description": "The cost varies by roof size and complexity; some companies include it with a complimentary roof inspection."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-my-homeowner-s-insurance-cover-a-roof-repair-or-replacement",
+  "name": "Will my homeowner's insurance cover a roof repair or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover a roof repair or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance typically covers roof repair or replacement if the damage is sudden and accidental, such as from a storm, fire, or fallen tree. Coverage usually does not extend to damage caused by wear and tear or lack of maintenance. The extent of coverage depends on your specific policy, including your deductible and the type of coverage (actual cash value vs. replacement cost). We can provide documentation for your insurance claim, but direct policy details should be discussed with your insurance provider.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance typically covers sudden, accidental damage like storms, but not wear and tear; check your specific policy details."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance typically covers sudden, accidental damage like storms, but not wear and tear; check your specific policy details."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-during-a-roofing-system-selection-consultation",
+  "name": "What happens during a roofing system selection consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during a roofing system selection consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a roofing system selection consultation, a Discounted Roofing Co. specialist will assess your current roof's condition, discuss your specific needs and budget, and present various roofing material options. This includes an explanation of material benefits, lifespan, and aesthetic choices. We also consider factors like your home's architecture and local weather patterns in the DFW area to recommend the most suitable system.",
+        "@type": "Answer",
+        "description": "A roofing system selection consultation involves assessing your current roof, discussing needs and budget, and presenting material options tailored to your home and DFW weather."
+      }
+    }
+  ],
+  "description": "A roofing system selection consultation involves assessing your current roof, discussing needs and budget, and presenting material options tailored to your home"
+}

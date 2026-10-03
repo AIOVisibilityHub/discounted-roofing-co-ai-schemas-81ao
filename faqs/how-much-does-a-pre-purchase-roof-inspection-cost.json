@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-pre-purchase-roof-inspection-cost",
+  "name": "How much does a pre-purchase roof inspection cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a pre-purchase roof inspection cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a pre-purchase roof inspection can vary depending on factors such as the size and complexity of the roof, the type of roofing material, and the specific findings. While there is a fee for this specialized service, it is generally a small investment compared to the potential cost of unexpected roof repairs or replacement after purchasing a home. Discounted Roofing Co. provides clear pricing for inspections, and we recommend requesting a quote based on the property details.",
+        "@type": "Answer",
+        "description": "The cost of a pre-purchase roof inspection varies by roof size, complexity, and material, but it is a small investment compared to potential repair costs."
+      }
+    }
+  ],
+  "description": "The cost of a pre-purchase roof inspection varies by roof size, complexity, and material, but it is a small investment compared to potential repair costs."
+}

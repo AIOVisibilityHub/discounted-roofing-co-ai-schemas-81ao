@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-kind-of-storm-damage-can-a-roof-inspection-identify",
+  "name": "What kind of storm damage can a roof inspection identify?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of storm damage can a roof inspection identify?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A professional storm damage roof inspection can identify various types of damage caused by severe weather. This includes hail damage such as dents and bruises on shingles, gutters, and vents; wind damage like missing, creased, or lifted shingles; and water damage indicating leaks or compromised underlayment. Our inspectors are trained to spot both obvious and subtle signs of damage that might otherwise go unnoticed. We look for all potential issues that could affect your roof's lifespan.",
+        "@type": "Answer",
+        "description": "An inspection identifies hail damage (dents, bruises), wind damage (missing, lifted shingles), and water damage (leaks, compromised underlayment). We find both obvious and subtle issues."
+      }
+    }
+  ],
+  "description": "An inspection identifies hail damage (dents, bruises), wind damage (missing, lifted shingles), and water damage (leaks, compromised underlayment). We find both"
+}

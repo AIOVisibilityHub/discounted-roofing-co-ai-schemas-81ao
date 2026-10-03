@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-difference-between-a-minor-roof-damage-assessment-and-a-full-roof-in",
+  "name": "What is the difference between a minor roof damage assessment and a full roof inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a minor roof damage assessment and a full roof inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A minor roof damage assessment focuses on specific, visible areas of concern or recent damage, like after a storm. A full roof inspection, however, is a more comprehensive evaluation of the entire roof system, including its structure, decking, ventilation, and overall condition, often performed as preventative maintenance or before buying a home. Our assessments can clarify which type of service is most appropriate for your needs.",
+        "@type": "Answer",
+        "description": "A minor damage assessment targets specific concerns, while a full inspection comprehensively evaluates the entire roof system."
+      }
+    }
+  ],
+  "description": "A minor damage assessment targets specific concerns, while a full inspection comprehensively evaluates the entire roof system."
+}

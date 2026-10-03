@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-minor-roof-damage-assessment-take",
+  "name": "How long does a minor roof damage assessment take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a minor roof damage assessment take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical minor roof damage assessment by Discounted Roofing Co. usually takes between 30 to 60 minutes, depending on the size and complexity of your roof and the extent of visible damage. This allows for a thorough inspection without significant disruption to your day. We aim to be efficient while ensuring accuracy in our findings.",
+        "@type": "Answer",
+        "description": "A minor roof damage assessment typically takes 30-60 minutes, depending on roof size and visible damage."
+      }
+    }
+  ],
+  "description": "A minor roof damage assessment typically takes 30-60 minutes, depending on roof size and visible damage."
+}

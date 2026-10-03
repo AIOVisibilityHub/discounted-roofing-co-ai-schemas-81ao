@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-between-different-roofing-materials-if-i-need-a-replacement",
+  "name": "How do I choose between different roofing materials if I need a replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose between different roofing materials if I need a replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing between roofing materials for a replacement involves considering factors like durability, aesthetics, weight, and cost. Asphalt shingles are common and cost-effective, while metal roofs offer superior longevity and energy efficiency but with a higher upfront investment. Tile or slate roofs provide a distinct appearance and extreme durability but are heavier and more expensive. Our team can explain the pros and cons of materials suitable for the North Texas climate and provide samples to help you make an informed decision based on your budget and desired lifespan.",
+        "@type": "Answer",
+        "description": "Choosing roofing materials requires balancing durability, aesthetics, weight, and cost; consider options like asphalt, metal, or tile based on your budget."
+      }
+    }
+  ],
+  "description": "Choosing roofing materials requires balancing durability, aesthetics, weight, and cost; consider options like asphalt, metal, or tile based on your budget."
+}

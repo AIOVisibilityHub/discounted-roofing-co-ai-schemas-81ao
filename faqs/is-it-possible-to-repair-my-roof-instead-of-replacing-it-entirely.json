@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/is-it-possible-to-repair-my-roof-instead-of-replacing-it-entirely",
+  "name": "Is it possible to repair my roof instead of replacing it entirely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it possible to repair my roof instead of replacing it entirely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, often a roof can be repaired instead of fully replaced, especially if the damage is localized and the rest of the roof is in good condition. The decision depends on the extent of the damage, the age of your roof, and the overall structural integrity. Our inspection will determine if a repair is a viable and cost-effective solution versus a complete replacement, providing you with a practical tradeoff between immediate cost and long-term investment.",
+        "@type": "Answer",
+        "description": "Yes, if damage is localized and the roof isn't too old, repair may be possible instead of replacement."
+      }
+    }
+  ],
+  "description": "Yes, if damage is localized and the roof isn't too old, repair may be possible instead of replacement."
+}

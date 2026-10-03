@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-s-the-difference-between-a-roof-inspection-and-a-drainage-assessment",
+  "name": "What's the difference between a roof inspection and a drainage assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a roof inspection and a drainage assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A general roof inspection covers the entire roof structure, including shingles, flashing, decking, and overall condition, looking for leaks, wear, and structural integrity. A roof drainage assessment, while often part of a comprehensive inspection, specifically focuses on the functionality of the drainage system – gutters, downspouts, and the roof's ability to shed water. While both are important for roof health, a drainage assessment provides a specialized look at water management, which is key to preventing water damage and foundation issues. The focus helps determine if a full roof replacement or just drainage system repair is needed.",
+        "@type": "Answer",
+        "description": "A general roof inspection covers the entire roof, while a drainage assessment specifically focuses on gutters, downspouts, and water shedding. Both are important, but the drainage assessment provides specialized water management insights."
+      }
+    }
+  ],
+  "description": "A general roof inspection covers the entire roof, while a drainage assessment specifically focuses on gutters, downspouts, and water shedding. Both are importan"
+}

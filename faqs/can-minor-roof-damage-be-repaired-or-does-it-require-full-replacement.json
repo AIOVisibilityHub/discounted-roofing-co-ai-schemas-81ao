@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-minor-roof-damage-be-repaired-or-does-it-require-full-replacement",
+  "name": "Can minor roof damage be repaired, or does it require full replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can minor roof damage be repaired, or does it require full replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor roof damage can often be repaired without needing a full roof replacement. Discounted Roofing Co. specializes in assessing whether localized repairs, such as replacing a few shingles or repairing flashing, are sufficient. The decision depends on the extent of the damage, the overall condition of your roof, and its age. Our assessment will provide a clear recommendation based on these factors.",
+        "@type": "Answer",
+        "description": "Minor damage often allows for localized repairs, but the decision depends on damage extent, roof condition, and age."
+      }
+    }
+  ],
+  "description": "Minor damage often allows for localized repairs, but the decision depends on damage extent, roof condition, and age."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-i-improve-my-roof-ventilation-myself",
+  "name": "Can I improve my roof ventilation myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I improve my roof ventilation myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor tasks like clearing blocked soffit vents can be done by a homeowner, major ventilation improvements typically require professional expertise. Proper installation of new vents, ensuring a balanced system, and addressing attic insulation are complex and can impact your roof's warranty and structural integrity if not done correctly. For homeowners in our DFW service area, we recommend consulting with a roofing professional.",
+        "@type": "Answer",
+        "description": "Minor tasks can be DIY, but major ventilation improvements, like installing new vents, are best handled by professionals."
+      }
+    }
+  ],
+  "description": "Minor tasks can be DIY, but major ventilation improvements, like installing new vents, are best handled by professionals."
+}

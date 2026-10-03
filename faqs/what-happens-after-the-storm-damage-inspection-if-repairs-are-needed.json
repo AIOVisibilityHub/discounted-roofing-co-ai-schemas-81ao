@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-after-the-storm-damage-inspection-if-repairs-are-needed",
+  "name": "What happens after the storm damage inspection if repairs are needed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after the storm damage inspection if repairs are needed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If repairs are needed after the inspection, Discounted Roofing Co. will provide a detailed estimate for the necessary work. We can assist you in navigating the insurance claims process by providing documentation and meeting with adjusters. Once the claim is approved, we schedule and perform the repairs using quality materials to restore your roof's integrity. We aim to ensure a smooth transition from inspection to repair, minimizing disruption for homeowners.",
+        "@type": "Answer",
+        "description": "After inspection, we provide repair estimates and assist with insurance claims, then schedule and perform necessary repairs."
+      }
+    }
+  ],
+  "description": "After inspection, we provide repair estimates and assist with insurance claims, then schedule and perform necessary repairs."
+}

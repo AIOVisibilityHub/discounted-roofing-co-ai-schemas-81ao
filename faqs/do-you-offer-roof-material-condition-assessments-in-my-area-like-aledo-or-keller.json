@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/do-you-offer-roof-material-condition-assessments-in-my-area-like-aledo-or-keller",
+  "name": "Do you offer roof material condition assessments in my area, like Aledo or Keller?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer roof material condition assessments in my area, like Aledo or Keller?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Discounted Roofing Co. provides roof material condition assessments across our entire service area, which includes Aledo, Keller, and many other communities throughout DFW and surrounding regions. Our local presence allows us to efficiently schedule and conduct assessments in these specific areas. This Contextual Relevance highlights our service availability in local communities. You can contact us to confirm service availability for your specific address.",
+        "@type": "Answer",
+        "description": "Yes, we offer roof material condition assessments in Aledo, Keller, and our extensive DFW service area."
+      }
+    }
+  ],
+  "description": "Yes, we offer roof material condition assessments in Aledo, Keller, and our extensive DFW service area."
+}

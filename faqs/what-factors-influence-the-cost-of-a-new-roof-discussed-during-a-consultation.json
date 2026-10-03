@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-influence-the-cost-of-a-new-roof-discussed-during-a-consultation",
+  "name": "What factors influence the cost of a new roof discussed during a consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a new roof discussed during a consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several key factors influence the cost of a new roof, which will be thoroughly discussed during your consultation. These include the size and pitch of your roof, the chosen roofing material (e.g., asphalt shingles, metal, tile), the complexity of the roof's design, and the need for any structural repairs or extensive old roof removal. The type of warranty selected also impacts the overall cost. Understanding these elements helps you compare different options effectively.",
+        "@type": "Answer",
+        "description": "Factors influencing new roof costs include roof size and pitch, material choice, design complexity, necessary repairs, and warranty options."
+      }
+    }
+  ],
+  "description": "Factors influencing new roof costs include roof size and pitch, material choice, design complexity, necessary repairs, and warranty options."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-during-a-minor-roof-damage-assessment",
+  "name": "What happens during a minor roof damage assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during a minor roof damage assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a minor roof damage assessment, a technician from Discounted Roofing Co. will thoroughly inspect your roof, looking for signs of damage such as cracked, missing, or bruised shingles, flashing issues, and gutter damage. They will often take photos and document findings to provide a comprehensive report and explain the necessary repairs. This process helps clarify the scope of work and potential costs.",
+        "@type": "Answer",
+        "description": "A technician inspects the roof for damage, documents findings with photos, and provides a comprehensive report of necessary repairs."
+      }
+    }
+  ],
+  "description": "A technician inspects the roof for damage, documents findings with photos, and provides a comprehensive report of necessary repairs."
+}

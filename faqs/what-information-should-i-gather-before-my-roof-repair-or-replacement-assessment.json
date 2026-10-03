@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-information-should-i-gather-before-my-roof-repair-or-replacement-assessment",
+  "name": "What information should I gather before my roof repair or replacement assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I gather before my roof repair or replacement assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your roof assessment, consider gathering any information about your roof's history, such as its installation date, previous repairs, or details about recent storm damage. Knowing the approximate age of your roof is particularly helpful. While not strictly necessary, having this information can provide our inspectors with additional context and aid in a more precise evaluation. You may also want to note any specific concerns or leaks you've observed, which can help guide the inspection.",
+        "@type": "Answer",
+        "description": "Before the assessment, gather details about your roof's age, installation date, prior repairs, or recent storm damage if available."
+      }
+    }
+  ],
+  "description": "Before the assessment, gather details about your roof's age, installation date, prior repairs, or recent storm damage if available."
+}

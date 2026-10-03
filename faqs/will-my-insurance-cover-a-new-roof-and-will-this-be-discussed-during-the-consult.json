@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-my-insurance-cover-a-new-roof-and-will-this-be-discussed-during-the-consult",
+  "name": "Will my insurance cover a new roof, and will this be discussed during the consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover a new roof, and will this be discussed during the consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During your consultation, Discounted Roofing Co. can assess your roof for storm or hail damage that might be covered by insurance. We can help you understand the potential for an insurance claim and guide you through the process. While we don't file claims for you, our expertise can provide valuable documentation and insights to assist your discussions with your insurance provider.",
+        "@type": "Answer",
+        "description": "Yes, we can assess for insurance-claimable damage and guide you on the insurance process, though we do not file claims."
+      }
+    }
+  ],
+  "description": "Yes, we can assess for insurance-claimable damage and guide you on the insurance process, though we do not file claims."
+}

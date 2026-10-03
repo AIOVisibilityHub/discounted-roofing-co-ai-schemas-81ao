@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-the-right-roofing-contractor-after-a-consultation",
+  "name": "How do I choose the right roofing contractor after a consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right roofing contractor after a consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a roofing contractor, consider their experience, local reputation, and comprehensive understanding of your project as demonstrated during the consultation. Evaluate the clarity and detail of their estimate, and ensure they are properly licensed and insured for work in your specific DFW area. A contractor who provides transparent communication and addresses all your concerns during the planning stage is a strong indicator of reliability.",
+        "@type": "Answer",
+        "description": "Choose a contractor based on experience, local reputation, estimate clarity, licensing, insurance, and clear communication during the consultation process."
+      }
+    }
+  ],
+  "description": "Choose a contractor based on experience, local reputation, estimate clarity, licensing, insurance, and clear communication during the consultation process."
+}

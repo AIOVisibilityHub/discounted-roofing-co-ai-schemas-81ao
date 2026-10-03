@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-can-i-prepare-my-property-for-a-roofing-project",
+  "name": "How can I prepare my property for a roofing project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare my property for a roofing project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a roofing project, it's helpful to remove any loose items from around your home, such as patio furniture, grills, and potted plants, to prevent damage. We also recommend clearing your driveway to ensure easy access for our equipment and materials. Informing neighbors about the upcoming work can also be a considerate step, as there will be some noise and activity. These preparations help ensure a smooth and efficient process.",
+        "@type": "Answer",
+        "description": "Clear outdoor items, ensure driveway access, and inform neighbors to prepare for a roofing project."
+      }
+    }
+  ],
+  "description": "Clear outdoor items, ensure driveway access, and inform neighbors to prepare for a roofing project."
+}

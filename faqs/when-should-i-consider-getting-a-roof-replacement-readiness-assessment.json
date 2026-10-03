@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-consider-getting-a-roof-replacement-readiness-assessment",
+  "name": "When should I consider getting a roof replacement readiness assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider getting a roof replacement readiness assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a roof replacement readiness assessment if your roof is over 15-20 years old, you notice signs of significant wear and tear like missing shingles or widespread leaks, or after a major storm. Getting an assessment proactively can help you avoid costly emergency repairs and ensure your home remains protected. Our team at Discounted Roofing Co. often recommends an assessment following severe weather events common in areas like DFW.",
+        "@type": "Answer",
+        "description": "Consider an assessment if your roof is old, shows significant wear, or after a major storm."
+      }
+    }
+  ],
+  "description": "Consider an assessment if your roof is old, shows significant wear, or after a major storm."
+}

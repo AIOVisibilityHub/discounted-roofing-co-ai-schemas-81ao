@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-the-right-roofing-material-for-my-home",
+  "name": "How do I choose the right roofing material for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right roofing material for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right roofing material involves considering factors such as your budget, desired aesthetic, climate, and required durability. Common options include asphalt shingles (cost-effective, versatile), metal roofing (durable, long-lasting), and tile (premium, aesthetic appeal). Your home's architectural style and local weather patterns in areas like Plano or Frisco can also influence the best choice. Discounted Roofing Co. consults with you to recommend materials that align with your needs and local conditions.",
+        "@type": "Answer",
+        "description": "Consider budget, aesthetics, climate, and durability when choosing roofing material; options include asphalt, metal, and tile. We help you select the best fit for your home and local conditions."
+      }
+    }
+  ],
+  "description": "Consider budget, aesthetics, climate, and durability when choosing roofing material; options include asphalt, metal, and tile. We help you select the best fit f"
+}

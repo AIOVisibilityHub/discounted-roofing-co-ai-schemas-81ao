@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-typical-consultation-for-roofing-or-exterior-remodeling-take",
+  "name": "How long does a typical consultation for roofing or exterior remodeling take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical consultation for roofing or exterior remodeling take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical consultation for roofing or exterior remodeling generally takes between 45 minutes to an hour and a half, depending on the size and complexity of your property and the extent of the issues found. The duration can vary based on how many questions you have and the amount of detail required for a thorough assessment. We allocate sufficient time to ensure a comprehensive evaluation and to answer all your questions, providing clarity on the proposed solutions.",
+        "@type": "Answer",
+        "description": "A consultation typically takes 45 minutes to an hour and a half, varying with property size and complexity, and allows for a comprehensive evaluation and discussion."
+      }
+    }
+  ],
+  "description": "A consultation typically takes 45 minutes to an hour and a half, varying with property size and complexity, and allows for a comprehensive evaluation and discus"
+}

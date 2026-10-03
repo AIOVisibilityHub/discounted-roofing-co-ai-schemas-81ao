@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-typical-roofing-budget-consultation-take",
+  "name": "How long does a typical roofing budget consultation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical roofing budget consultation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard roofing budget consultation usually takes between 30 to 60 minutes, depending on the complexity of your roofing needs and the size of your property. This timeframe allows our specialists to thoroughly inspect your roof, discuss your requirements in detail, and answer all your questions. The duration can vary if multiple issues are identified or if you have specific material preferences to explore.",
+        "@type": "Answer",
+        "description": "A typical roofing budget consultation lasts 30-60 minutes, allowing for inspection, discussion of needs, and answering your questions."
+      }
+    }
+  ],
+  "description": "A typical roofing budget consultation lasts 30-60 minutes, allowing for inspection, discussion of needs, and answering your questions."
+}

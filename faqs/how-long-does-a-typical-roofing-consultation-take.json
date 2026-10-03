@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-typical-roofing-consultation-take",
+  "name": "How long does a typical roofing consultation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical roofing consultation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard roofing project planning consultation with Discounted Roofing Co. typically takes between 45 to 90 minutes. The duration can vary based on the complexity of your roof, the extent of damage, and the number of questions you have. We allocate ample time to thoroughly inspect your roof and discuss all available options to ensure a comprehensive understanding.",
+        "@type": "Answer",
+        "description": "A typical roofing consultation lasts 45 to 90 minutes, depending on roof complexity and discussion depth."
+      }
+    }
+  ],
+  "description": "A typical roofing consultation lasts 45 to 90 minutes, depending on roof complexity and discussion depth."
+}

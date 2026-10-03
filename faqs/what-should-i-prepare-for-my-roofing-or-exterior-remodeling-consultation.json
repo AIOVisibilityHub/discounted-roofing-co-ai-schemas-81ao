@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-prepare-for-my-roofing-or-exterior-remodeling-consultation",
+  "name": "What should I prepare for my roofing or exterior remodeling consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare for my roofing or exterior remodeling consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To get the most out of your consultation, consider preparing a list of any specific concerns you have about your roof or exterior, such as leaks, damaged siding, or desired aesthetic changes. Gathering any past repair records, warranty information, or inspiration photos for your project can also be helpful. This preparation allows our specialists to address all your specific needs and priorities effectively, ensuring a tailored solution.",
+        "@type": "Answer",
+        "description": "Prepare a list of concerns, past repair records, warranty information, or inspiration photos to help our specialists tailor solutions to your needs."
+      }
+    }
+  ],
+  "description": "Prepare a list of concerns, past repair records, warranty information, or inspiration photos to help our specialists tailor solutions to your needs."
+}

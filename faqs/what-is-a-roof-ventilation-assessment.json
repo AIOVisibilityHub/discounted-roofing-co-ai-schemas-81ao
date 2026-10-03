@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-roof-ventilation-assessment",
+  "name": "What is a roof ventilation assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a roof ventilation assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roof ventilation assessment evaluates your attic's current ventilation system to determine its effectiveness. This includes checking the intake and exhaust vents, insulation, and overall airflow. The goal is to identify issues that can lead to heat buildup, moisture accumulation, and premature roof deterioration. For example, in the DFW area's climate, proper ventilation is crucial to mitigate extreme heat and humidity, which can significantly impact energy costs and shingle lifespan.",
+        "@type": "Answer",
+        "description": "A roof ventilation assessment evaluates your attic's ventilation system to ensure proper airflow and identify potential issues."
+      }
+    }
+  ],
+  "description": "A roof ventilation assessment evaluates your attic's ventilation system to ensure proper airflow and identify potential issues."
+}

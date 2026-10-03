@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-my-insurance-cover-the-cost-of-a-new-roof-or-repairs-found-during-the-consu",
+  "name": "Will my insurance cover the cost of a new roof or repairs found during the consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover the cost of a new roof or repairs found during the consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Insurance coverage for roof repairs or replacement typically depends on the cause of the damage, such as sudden storm damage, rather than normal wear and tear. Our team at Discounted Roofing Co. can help you understand the documentation needed for an insurance claim and provide a detailed estimate that can be submitted to your provider. We recommend reviewing your specific policy details or contacting your insurer directly to confirm your coverage.",
+        "@type": "Answer",
+        "description": "Insurance coverage depends on the damage cause; we can help with documentation for claims, but check your policy directly for specifics."
+      }
+    }
+  ],
+  "description": "Insurance coverage depends on the damage cause; we can help with documentation for claims, but check your policy directly for specifics."
+}

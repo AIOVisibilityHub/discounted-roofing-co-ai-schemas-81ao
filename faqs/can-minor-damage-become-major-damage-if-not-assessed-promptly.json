@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-minor-damage-become-major-damage-if-not-assessed-promptly",
+  "name": "Can minor damage become major damage if not assessed promptly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can minor damage become major damage if not assessed promptly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, minor roof damage can quickly escalate into major issues if not assessed and repaired promptly. Small cracks, loose shingles, or minor leaks can worsen over time, leading to significant water damage to your home's interior, rot in the roof decking, and even mold growth. Early assessment and intervention can prevent these compounding problems, saving you substantial repair costs in the long run. Addressing issues proactively is key to maintaining your roof's integrity.",
+        "@type": "Answer",
+        "description": "Minor roof damage can become major if neglected, leading to extensive water damage, rot, and mold, making prompt assessment crucial."
+      }
+    }
+  ],
+  "description": "Minor roof damage can become major if neglected, leading to extensive water damage, rot, and mold, making prompt assessment crucial."
+}

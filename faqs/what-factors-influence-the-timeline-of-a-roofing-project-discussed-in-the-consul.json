@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-influence-the-timeline-of-a-roofing-project-discussed-in-the-consul",
+  "name": "What factors influence the timeline of a roofing project discussed in the consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the timeline of a roofing project discussed in the consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors influence the timeline of a roofing project, which we'll discuss during your consultation. These include the size and complexity of your roof, the chosen material, weather conditions (especially in Texas), and the availability of materials and permits. We aim to provide a realistic project timeline during the planning phase, setting clear expectations for the duration from start to completion.",
+        "@type": "Answer",
+        "description": "Project timelines depend on roof size, material, weather, and material/permit availability, all discussed during your consultation for clear expectations."
+      }
+    }
+  ],
+  "description": "Project timelines depend on roof size, material, weather, and material/permit availability, all discussed during your consultation for clear expectations."
+}

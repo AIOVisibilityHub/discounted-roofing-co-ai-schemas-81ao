@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-roofing-budget-consultation-cost",
+  "name": "How much does a roofing budget consultation cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a roofing budget consultation cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "At Discounted Roofing Co., our initial roofing budget consultations are typically provided at no charge. We offer this as a complimentary service to help homeowners in the DFW area and surrounding communities understand their options and potential costs without an upfront financial commitment. This allows you to gather necessary information and make informed decisions about your roofing project before committing to any services.",
+        "@type": "Answer",
+        "description": "Initial roofing budget consultations with Discounted Roofing Co. are typically offered at no charge to help homeowners understand their options."
+      }
+    }
+  ],
+  "description": "Initial roofing budget consultations with Discounted Roofing Co. are typically offered at no charge to help homeowners understand their options."
+}

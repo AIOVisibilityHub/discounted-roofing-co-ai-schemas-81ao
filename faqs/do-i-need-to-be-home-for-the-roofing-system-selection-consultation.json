@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/do-i-need-to-be-home-for-the-roofing-system-selection-consultation",
+  "name": "Do I need to be home for the roofing system selection consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be home for the roofing system selection consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is highly recommended that you are present during the roofing system selection consultation. This allows you to directly communicate your needs, ask questions, and understand the options and recommendations provided by our specialist. Your presence ensures that all your concerns are addressed and that you are fully informed to make decisions about your roof.",
+        "@type": "Answer",
+        "description": "Yes, it's highly recommended you are home for the consultation to communicate needs, ask questions, and understand recommendations directly."
+      }
+    }
+  ],
+  "description": "Yes, it's highly recommended you are home for the consultation to communicate needs, ask questions, and understand recommendations directly."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-does-an-emergency-storm-damage-assessment-involve",
+  "name": "What does an emergency storm damage assessment involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does an emergency storm damage assessment involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An emergency storm damage assessment involves a thorough inspection of your roof and exterior for visible and hidden damage caused by storms. Our inspectors check for compromised shingles, flashing, gutters, and other roof components, as well as potential structural integrity issues. We also document all findings with photos and provide an initial report detailing the damage observed and recommended next steps, which is crucial for insurance claims.",
+        "@type": "Answer",
+        "description": "It involves a detailed inspection of your roof and exterior for storm damage, including photos and a report of findings for repair recommendations and insurance purposes."
+      }
+    }
+  ],
+  "description": "It involves a detailed inspection of your roof and exterior for storm damage, including photos and a report of findings for repair recommendations and insurance"
+}

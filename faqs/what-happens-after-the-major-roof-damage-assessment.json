@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-after-the-major-roof-damage-assessment",
+  "name": "What happens after the major roof damage assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after the major roof damage assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After the major roof damage assessment, our team will provide you with a detailed report outlining the findings, recommended repairs or replacement options, and a clear estimate. We will explain the assessment results thoroughly and answer any questions you have. If you decide to proceed, we can assist you with the insurance claim process and schedule the necessary repairs. Our goal is to ensure you understand the full scope of work and feel confident in the next steps.",
+        "@type": "Answer",
+        "description": "Following the assessment, you'll receive a detailed report with repair recommendations and an estimate; we can then help with insurance claims."
+      }
+    }
+  ],
+  "description": "Following the assessment, you'll receive a detailed report with repair recommendations and an estimate; we can then help with insurance claims."
+}

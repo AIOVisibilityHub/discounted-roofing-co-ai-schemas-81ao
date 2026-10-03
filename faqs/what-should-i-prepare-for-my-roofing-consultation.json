@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-prepare-for-my-roofing-consultation",
+  "name": "What should I prepare for my roofing consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare for my roofing consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for your roofing consultation, it's helpful to have an idea of your budget, any specific concerns you have about your current roof, and any aesthetic preferences for your new roof. Consider gathering any previous repair records or warranty information if available. This information helps our consultants tailor recommendations to your needs and streamline the process.",
+        "@type": "Answer",
+        "description": "Prepare your budget, concerns about your current roof, and aesthetic preferences. Any past repair records are also helpful for the consultation."
+      }
+    }
+  ],
+  "description": "Prepare your budget, concerns about your current roof, and aesthetic preferences. Any past repair records are also helpful for the consultation."
+}

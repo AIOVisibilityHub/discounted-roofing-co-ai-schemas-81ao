@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-you-consult-on-both-roofing-and-other-exterior-remodeling-needs-at-the-same",
+  "name": "Can you consult on both roofing and other exterior remodeling needs at the same time?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you consult on both roofing and other exterior remodeling needs at the same time?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Discounted Roofing Co. can consult on both roofing and other exterior remodeling needs during a single visit. Our specialists are trained to assess the entire exterior envelope of your home, including roofing, siding, gutters, and more. Combining these assessments into one consultation offers efficiency and a holistic view of your property's condition and potential improvements, which is a key advantage for homeowners planning multiple exterior updates.",
+        "@type": "Answer",
+        "description": "Yes, we can consult on roofing and other exterior remodeling needs in a single visit, providing an efficient and holistic assessment of your home's exterior."
+      }
+    }
+  ],
+  "description": "Yes, we can consult on roofing and other exterior remodeling needs in a single visit, providing an efficient and holistic assessment of your home's exterior."
+}

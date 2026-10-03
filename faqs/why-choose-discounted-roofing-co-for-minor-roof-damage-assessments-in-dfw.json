@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/why-choose-discounted-roofing-co-for-minor-roof-damage-assessments-in-dfw",
+  "name": "Why choose Discounted Roofing Co. for minor roof damage assessments in DFW?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why choose Discounted Roofing Co. for minor roof damage assessments in DFW?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Discounted Roofing Co. offers experienced and local technicians who understand the specific weather patterns and roofing challenges common in the DFW area. We provide prompt, thorough, and often free assessments, ensuring that minor issues are identified and addressed quickly. Our local presence allows for rapid response times across our service areas, including Dallas, Fort Worth, and surrounding communities.",
+        "@type": "Answer",
+        "description": "We offer experienced, local DFW technicians for prompt, thorough, and often free assessments, understanding local weather challenges."
+      }
+    }
+  ],
+  "description": "We offer experienced, local DFW technicians for prompt, thorough, and often free assessments, understanding local weather challenges."
+}

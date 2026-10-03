@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-if-my-roof-needs-repairs-after-a-home-seller-inspection",
+  "name": "What if my roof needs repairs after a home seller inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if my roof needs repairs after a home seller inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your roof needs repairs after an inspection, you have several options. You can choose to complete the repairs yourself before listing, hire a contractor to do the work, or disclose the issues to potential buyers and adjust your asking price accordingly. Deciding whether to repair or offer concessions often depends on the extent of the damage, your budget, and the current real estate market. Addressing significant issues pre-emptively often leads to a smoother sale.",
+        "@type": "Answer",
+        "description": "After a roof inspection identifies issues, you can repair them yourself, hire a contractor, or disclose the problems to buyers and adjust the price."
+      }
+    }
+  ],
+  "description": "After a roof inspection identifies issues, you can repair them yourself, hire a contractor, or disclose the problems to buyers and adjust the price."
+}

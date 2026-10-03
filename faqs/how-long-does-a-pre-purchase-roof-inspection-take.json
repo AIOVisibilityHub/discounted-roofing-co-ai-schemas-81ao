@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-pre-purchase-roof-inspection-take",
+  "name": "How long does a pre-purchase roof inspection take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a pre-purchase roof inspection take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a pre-purchase roof inspection typically ranges from 30 minutes to 1.5 hours, depending on the size, pitch, and accessibility of the roof, as well as the complexity of the findings. Our inspectors work efficiently to provide a thorough assessment without unnecessary delays. It is important to schedule the inspection well within your option period to allow time for review and potential negotiations with the seller.",
+        "@type": "Answer",
+        "description": "A pre-purchase roof inspection usually takes 30 minutes to 1.5 hours, depending on roof size and complexity."
+      }
+    }
+  ],
+  "description": "A pre-purchase roof inspection usually takes 30 minutes to 1.5 hours, depending on roof size and complexity."
+}

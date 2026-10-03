@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-typical-roof-repair-or-replacement-assessment-take",
+  "name": "How long does a typical roof repair or replacement assessment take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical roof repair or replacement assessment take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard roof repair or replacement assessment typically takes between 30 minutes to an hour, depending on the size and complexity of your roof. During this time, our inspectors will thoroughly examine the roof's surface, flashing, gutters, and attic (if accessible) to identify all issues. This allows us to provide a comprehensive and accurate estimate. We aim to complete the assessment efficiently to minimize disruption to your day.",
+        "@type": "Answer",
+        "description": "Assessments usually take 30-60 minutes, depending on roof size and complexity, to thoroughly examine all components."
+      }
+    }
+  ],
+  "description": "Assessments usually take 30-60 minutes, depending on roof size and complexity, to thoroughly examine all components."
+}

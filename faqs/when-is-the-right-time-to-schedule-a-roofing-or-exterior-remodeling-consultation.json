@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-is-the-right-time-to-schedule-a-roofing-or-exterior-remodeling-consultation",
+  "name": "When is the right time to schedule a roofing or exterior remodeling consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the right time to schedule a roofing or exterior remodeling consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The right time to schedule a consultation depends on your specific situation. If you notice signs of damage like leaks, missing shingles, or deterioration, or if you're planning a major exterior renovation, it's best to schedule one promptly. We advise scheduling a consultation if you are planning to sell your home, or if you suspect storm damage. Early consultation allows for proactive planning and can prevent minor issues from becoming major, more costly problems.",
+        "@type": "Answer",
+        "description": "Schedule a consultation if you notice damage, are planning a renovation, suspect storm damage, or are preparing to sell your home, to allow for proactive planning."
+      }
+    }
+  ],
+  "description": "Schedule a consultation if you notice damage, are planning a renovation, suspect storm damage, or are preparing to sell your home, to allow for proactive planni"
+}

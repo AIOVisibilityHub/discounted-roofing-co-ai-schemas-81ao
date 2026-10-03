@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-i-do-a-diy-roof-inspection-after-a-storm",
+  "name": "Can I do a DIY roof inspection after a storm?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I do a DIY roof inspection after a storm?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While you can visually check your roof from the ground for obvious issues like missing shingles, a DIY inspection is not a substitute for a professional assessment. Climbing onto a damaged roof can be dangerous, and untrained eyes often miss subtle but critical damage, such as hail impacts or granular loss, which can compromise your roof's lifespan. Professional inspectors have the safety equipment, training, and experience to thoroughly assess and document all damage.",
+        "@type": "Answer",
+        "description": "While you can check for obvious damage from the ground, a DIY inspection is not a substitute for a professional assessment. Professionals can safely identify subtle but critical damage."
+      }
+    }
+  ],
+  "description": "While you can check for obvious damage from the ground, a DIY inspection is not a substitute for a professional assessment. Professionals can safely identify su"
+}

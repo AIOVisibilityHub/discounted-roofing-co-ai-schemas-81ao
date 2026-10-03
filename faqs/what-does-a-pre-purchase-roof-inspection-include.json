@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-does-a-pre-purchase-roof-inspection-include",
+  "name": "What does a pre-purchase roof inspection include?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a pre-purchase roof inspection include?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A comprehensive pre-purchase roof inspection includes an assessment of the roof's structural integrity, materials (shingles, tiles, metal), flashing, gutters, and drainage systems. Inspectors look for signs of wear, damage (e.g., hail, wind), leaks, proper ventilation, and overall lifespan remaining. Our detailed inspection process involves a physical assessment and often includes photos of identified issues. We specifically check for common issues in the Dallas-Fort Worth metroplex like weather-related damage.",
+        "@type": "Answer",
+        "description": "A pre-purchase roof inspection includes assessing the roof's structure, materials, flashing, gutters, and ventilation, looking for wear, damage, and leaks."
+      }
+    }
+  ],
+  "description": "A pre-purchase roof inspection includes assessing the roof's structure, materials, flashing, gutters, and ventilation, looking for wear, damage, and leaks."
+}

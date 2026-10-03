@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/do-i-need-new-gutters-if-my-drainage-assessment-reveals-problems",
+  "name": "Do I need new gutters if my drainage assessment reveals problems?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need new gutters if my drainage assessment reveals problems?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Not necessarily. A drainage assessment might reveal that you only need gutter cleaning, repairs to damaged sections, realignment, or the addition of gutter guards. However, if your gutters are extensively corroded, severely dented, improperly sized for your roof, or if the system design is fundamentally flawed, then replacing them might be the most cost-effective long-term solution. Discounted Roofing Co. will provide a detailed report outlining the condition and recommend the most practical and durable solution, whether it's repair or replacement, based on our assessment.",
+        "@type": "Answer",
+        "description": "Not always. You might just need cleaning, repairs, or realignment. New gutters are recommended if they're severely damaged, improperly sized, or fundamentally flawed for effective water management."
+      }
+    }
+  ],
+  "description": "Not always. You might just need cleaning, repairs, or realignment. New gutters are recommended if they're severely damaged, improperly sized, or fundamentally f"
+}

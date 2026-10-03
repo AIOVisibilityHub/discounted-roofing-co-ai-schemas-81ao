@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-prepare-before-an-emergency-storm-damage-assessment",
+  "name": "What should I prepare before an emergency storm damage assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before an emergency storm damage assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before an emergency storm damage assessment, ensure clear access around your property and to your roof if it's safe to do so. Gather any documentation you have regarding the storm, such as the date and time it occurred, and details about your homeowner's insurance policy. This preparation allows our inspectors to focus on the assessment efficiently and helps streamline any potential insurance claim process afterward.",
+        "@type": "Answer",
+        "description": "Before an assessment, ensure clear property access and gather storm details and insurance policy information. This helps streamline the inspection and potential claims process."
+      }
+    }
+  ],
+  "description": "Before an assessment, ensure clear property access and gather storm details and insurance policy information. This helps streamline the inspection and potential"
+}

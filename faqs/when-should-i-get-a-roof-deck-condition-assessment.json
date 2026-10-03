@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-a-roof-deck-condition-assessment",
+  "name": "When should I get a roof deck condition assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a roof deck condition assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a roof deck condition assessment primarily before any major reroofing project, especially if your current roof is old or has experienced significant leaks. It's also advisable after severe weather events or if you notice sagging in your roof. Identifying issues early can prevent additional costs and structural problems down the line, ensuring the new roofing system is installed on a sound base.",
+        "@type": "Answer",
+        "description": "You should consider a roof deck assessment before major reroofing, after severe weather, or if you notice roof sagging."
+      }
+    }
+  ],
+  "description": "You should consider a roof deck assessment before major reroofing, after severe weather, or if you notice roof sagging."
+}

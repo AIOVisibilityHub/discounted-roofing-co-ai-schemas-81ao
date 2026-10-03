@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-influence-the-choice-of-roofing-material",
+  "name": "What factors influence the choice of roofing material?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the choice of roofing material?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The choice of roofing material is influenced by several factors, including local building codes, your home's architectural style, the roof's pitch, climate conditions in the DFW area, desired longevity, and your budget. For instance, some materials offer better hail resistance, while others provide superior energy efficiency or aesthetic appeal. Considering these factors helps determine the best fit for your specific property.",
+        "@type": "Answer",
+        "description": "Factors influencing material choice include local codes, architectural style, roof pitch, DFW climate, longevity needs, and budget."
+      }
+    }
+  ],
+  "description": "Factors influencing material choice include local codes, architectural style, roof pitch, DFW climate, longevity needs, and budget."
+}

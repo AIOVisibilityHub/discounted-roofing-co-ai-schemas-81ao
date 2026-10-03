@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-process-for-scheduling-a-roof-assessment-with-discounted-roofing-co",
+  "name": "What is the process for scheduling a roof assessment with Discounted Roofing Co.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for scheduling a roof assessment with Discounted Roofing Co.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To schedule a roof assessment with Discounted Roofing Co., simply contact us by phone or through our website. We will arrange a convenient time for one of our experienced inspectors to visit your property in areas like Arlington, Fort Worth, or Dallas. During the visit, the inspector will conduct a thorough evaluation of your roof's condition and discuss their findings with you. Following the assessment, you will receive a detailed report and a transparent quote for any recommended repairs or replacements.",
+        "@type": "Answer",
+        "description": "Schedule by contacting us via phone or website; an inspector will visit your property for an evaluation, then provide a report and quote."
+      }
+    }
+  ],
+  "description": "Schedule by contacting us via phone or website; an inspector will visit your property for an evaluation, then provide a report and quote."
+}

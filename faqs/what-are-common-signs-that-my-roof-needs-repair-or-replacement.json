@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-common-signs-that-my-roof-needs-repair-or-replacement",
+  "name": "What are common signs that my roof needs repair or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my roof needs repair or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that indicate your roof needs attention include missing, cracked, or curled shingles, dark spots or algae growth, and granules in your gutters. Inside your home, look for water stains on ceilings or walls, especially after rain. Addressing these issues promptly can prevent more extensive and costly damage to your home's structure. Regular inspections, especially after severe weather, can help identify problems early.",
+        "@type": "Answer",
+        "description": "Signs include missing or damaged shingles, granules in gutters, and interior water stains."
+      }
+    }
+  ],
+  "description": "Signs include missing or damaged shingles, granules in gutters, and interior water stains."
+}

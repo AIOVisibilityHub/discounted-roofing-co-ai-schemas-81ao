@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-you-help-me-choose-a-roofing-system-suitable-for-extreme-weather-in-the-dfw",
+  "name": "Can you help me choose a roofing system suitable for extreme weather in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you help me choose a roofing system suitable for extreme weather in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we specialize in helping customers select roofing systems designed to withstand the varied and sometimes extreme weather conditions experienced in the DFW area, including hailstorms and high winds. We will recommend materials and installation techniques that offer enhanced protection and durability against these specific local challenges. This often involves discussing impact-resistant shingles or more robust fastening systems.",
+        "@type": "Answer",
+        "description": "Yes, we help choose roofing systems for DFW's extreme weather, recommending materials and techniques for hail and high wind resistance."
+      }
+    }
+  ],
+  "description": "Yes, we help choose roofing systems for DFW's extreme weather, recommending materials and techniques for hail and high wind resistance."
+}

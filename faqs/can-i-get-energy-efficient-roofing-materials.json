@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-i-get-energy-efficient-roofing-materials",
+  "name": "Can I get energy-efficient roofing materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get energy-efficient roofing materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, many roofing materials offer energy-efficient properties that can help reduce your cooling costs, especially in hot climates like DFW. 'Cool roofs' often use reflective coatings or lighter-colored materials to reflect sunlight and absorb less heat. Metal roofing, for instance, can be highly reflective. Some asphalt shingles also incorporate granules designed to reflect solar energy. Discounted Roofing Co. can guide you through options like specific cool roof technologies or materials that contribute to better insulation, helping you understand the potential long-term savings and environmental benefits for your property.",
+        "@type": "Answer",
+        "description": "Yes, 'cool roofs' and reflective materials like certain metal roofs or specialized asphalt shingles can reduce cooling costs. We offer options to improve your home's energy efficiency."
+      }
+    }
+  ],
+  "description": "Yes, 'cool roofs' and reflective materials like certain metal roofs or specialized asphalt shingles can reduce cooling costs. We offer options to improve your h"
+}

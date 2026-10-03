@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-roofing-budget-consultation",
+  "name": "What is a roofing budget consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a roofing budget consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roofing budget consultation is a meeting where our specialists discuss your roofing needs, inspect your property, and provide a detailed estimate of the potential costs involved. This service helps you understand the financial scope of your project, whether it's a repair, replacement, or new installation. We review material options, labor costs, and any necessary permits, offering a transparent breakdown tailored to your specific situation and property. This preparation helps ensure all aspects of your roofing project are considered from a financial standpoint.",
+        "@type": "Answer",
+        "description": "A roofing budget consultation involves discussing your roofing needs with specialists, inspecting your property, and receiving a detailed cost estimate for your project."
+      }
+    }
+  ],
+  "description": "A roofing budget consultation involves discussing your roofing needs with specialists, inspecting your property, and receiving a detailed cost estimate for your"
+}

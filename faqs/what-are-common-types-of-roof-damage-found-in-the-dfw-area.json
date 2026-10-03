@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-common-types-of-roof-damage-found-in-the-dfw-area",
+  "name": "What are common types of roof damage found in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common types of roof damage found in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the DFW area, common types of roof damage include hail impact, wind-lifted or missing shingles, and general wear from intense sun exposure. Hail damage can compromise shingle granules, while strong winds can cause leaks. Our assessments frequently identify these issues, which are prevalent due to the region's weather patterns. Understanding these common problems helps tailor the inspection to local conditions.",
+        "@type": "Answer",
+        "description": "Common roof damages in DFW include hail impact, wind-lifted shingles, and sun-related wear due to regional weather."
+      }
+    }
+  ],
+  "description": "Common roof damages in DFW include hail impact, wind-lifted shingles, and sun-related wear due to regional weather."
+}

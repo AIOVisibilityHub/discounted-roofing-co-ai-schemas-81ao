@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-improving-ventilation-void-my-roof-warranty",
+  "name": "Will improving ventilation void my roof warranty?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will improving ventilation void my roof warranty?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Improperly installed ventilation or modifications that deviate from manufacturer specifications can potentially void your roof warranty. It is crucial to have any ventilation improvements performed by a qualified and certified roofing contractor. Always confirm that the contractor is familiar with your specific roofing material's warranty requirements and uses appropriate installation methods to avoid any warranty issues.",
+        "@type": "Answer",
+        "description": "Improperly installed ventilation can void a roof warranty; always use a qualified contractor familiar with warranty requirements."
+      }
+    }
+  ],
+  "description": "Improperly installed ventilation can void a roof warranty; always use a qualified contractor familiar with warranty requirements."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-does-a-storm-damage-roof-inspection-typically-involve",
+  "name": "What does a storm damage roof inspection typically involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a storm damage roof inspection typically involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A storm damage roof inspection involves a thorough assessment of your entire roofing system. Our inspectors will examine shingles, flashing, gutters, vents, and other components for signs of hail impact, wind uplift, or water penetration. We check for granule loss, cracks, punctures, and structural integrity issues. This process helps document all damage accurately for potential insurance claims. We provide a detailed report of our findings, including photos.",
+        "@type": "Answer",
+        "description": "An inspection thoroughly assesses all roof components for hail, wind, and water damage, documenting findings for insurance claims. We provide detailed reports with photos."
+      }
+    }
+  ],
+  "description": "An inspection thoroughly assesses all roof components for hail, wind, and water damage, documenting findings for insurance claims. We provide detailed reports w"
+}

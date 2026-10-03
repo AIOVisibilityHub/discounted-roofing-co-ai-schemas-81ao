@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-roof-inspection-report-cost",
+  "name": "How much does a roof inspection report cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a roof inspection report cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a roof inspection report can vary based on factors like the size and complexity of your roof, as well as the purpose of the inspection. For example, an inspection for an insurance claim might involve more detailed documentation than a routine maintenance check. Discounted Roofing Co. provides free estimates for repairs and replacements, which often include a basic assessment of the roof's condition, but a comprehensive report for real estate transactions or detailed damage assessment may incur a fee.",
+        "@type": "Answer",
+        "description": "Roof inspection report costs vary by roof size, complexity, and inspection purpose. Discounted Roofing Co. offers free estimates for repairs and replacements."
+      }
+    }
+  ],
+  "description": "Roof inspection report costs vary by roof size, complexity, and inspection purpose. Discounted Roofing Co. offers free estimates for repairs and replacements."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-you-help-me-with-the-insurance-claim-process-after-a-storm-damage-inspection",
+  "name": "Can you help me with the insurance claim process after a storm damage inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you help me with the insurance claim process after a storm damage inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Discounted Roofing Co. can assist you throughout the insurance claim process. Our inspectors are experienced in identifying and documenting storm damage in a way that aligns with insurance company requirements. We can provide the necessary documentation, including detailed reports and photos, to support your claim. While we don't file the claim for you, we can guide you on what information to provide and how to present your claim effectively.",
+        "@type": "Answer",
+        "description": "Yes, Discounted Roofing Co. assists with the insurance claim process by providing detailed documentation and guidance to support your claim. We do not file the claim directly."
+      }
+    }
+  ],
+  "description": "Yes, Discounted Roofing Co. assists with the insurance claim process by providing detailed documentation and guidance to support your claim. We do not file the"
+}

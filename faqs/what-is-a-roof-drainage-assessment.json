@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-roof-drainage-assessment",
+  "name": "What is a roof drainage assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a roof drainage assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roof drainage assessment evaluates how effectively your roof sheds water. This includes inspecting gutters, downspouts, scuppers, drains, and the roof's slope to identify blockages, damage, or design flaws that could lead to water accumulation or leaks. The assessment aims to ensure proper water flow away from the building's foundation and structure. For homeowners in the DFW area, effective drainage is crucial due to varied weather patterns, preventing common issues like fascia rot or foundation damage.",
+        "@type": "Answer",
+        "description": "A roof drainage assessment evaluates your roof's ability to shed water, checking for blockages, damage, or design flaws in the system. This helps prevent water accumulation and leaks, especially important in areas like DFW."
+      }
+    }
+  ],
+  "description": "A roof drainage assessment evaluates your roof's ability to shed water, checking for blockages, damage, or design flaws in the system. This helps prevent water"
+}

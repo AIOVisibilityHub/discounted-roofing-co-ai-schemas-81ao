@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-prepare-for-a-roofing-budget-consultation",
+  "name": "What should I prepare for a roofing budget consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare for a roofing budget consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To make the most of your roofing budget consultation, it's helpful to have a few things ready. Consider your immediate concerns, such as leaks or visible damage, and gather any previous roofing repair records or insurance information if applicable. Be prepared to discuss your budget range and any specific preferences for materials or aesthetics. Having a clear idea of your priorities will help our specialists provide the most accurate and relevant recommendations for your roofing project.",
+        "@type": "Answer",
+        "description": "Prepare by noting your roofing concerns, gathering any past repair records or insurance info, and considering your budget and material preferences."
+      }
+    }
+  ],
+  "description": "Prepare by noting your roofing concerns, gathering any past repair records or insurance info, and considering your budget and material preferences."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-between-roof-repair-and-full-replacement-after-an-assessment",
+  "name": "How do I choose between roof repair and full replacement after an assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose between roof repair and full replacement after an assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing between repair and full replacement depends on the assessment's findings regarding the extent and age of the damage. If damage is isolated and your roof is relatively new, repairs may suffice. However, widespread damage, an aging roof, or structural issues often necessitate a full replacement. Our assessment report will clearly outline these factors, helping you make an informed decision based on cost-effectiveness and long-term durability.",
+        "@type": "Answer",
+        "description": "The choice between repair and replacement depends on damage extent, roof age, and structural issues outlined in your assessment."
+      }
+    }
+  ],
+  "description": "The choice between repair and replacement depends on damage extent, roof age, and structural issues outlined in your assessment."
+}

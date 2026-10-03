@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/do-i-need-to-prepare-anything-before-a-consultation",
+  "name": "Do I need to prepare anything before a consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to prepare anything before a consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To get the most out of your roofing material selection consultation with Discounted Roofing Co., it's helpful to have a general idea of your budget range for the project. Additionally, consider your aesthetic preferences, such as preferred colors or styles. If you have any concerns about existing leaks, prior repairs, or specific issues, gathering that information will be valuable. Knowing your long-term plans for your home can also help us recommend materials with an appropriate lifespan and warranty to match your goals.",
+        "@type": "Answer",
+        "description": "Prepare a budget idea, aesthetic preferences, and information about existing roof issues or repair history. Knowing your long-term home plans is also helpful."
+      }
+    }
+  ],
+  "description": "Prepare a budget idea, aesthetic preferences, and information about existing roof issues or repair history. Knowing your long-term home plans is also helpful."
+}

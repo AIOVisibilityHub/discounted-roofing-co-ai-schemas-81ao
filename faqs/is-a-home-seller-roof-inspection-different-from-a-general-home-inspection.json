@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/is-a-home-seller-roof-inspection-different-from-a-general-home-inspection",
+  "name": "Is a home seller roof inspection different from a general home inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a home seller roof inspection different from a general home inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a home seller roof inspection is typically more detailed and focused specifically on the roof compared to the roof portion of a general home inspection. While a general home inspection covers all major components of a house, a dedicated roof inspection goes into greater depth, often involving climbing onto the roof for a closer look at materials, flashing, and potential hidden issues. This specialized focus can uncover specific roof problems that a broader inspection might overlook.",
+        "@type": "Answer",
+        "description": "A home seller roof inspection focuses solely on the roof with greater detail than the roof portion of a general home inspection, offering a more in-depth assessment."
+      }
+    }
+  ],
+  "description": "A home seller roof inspection focuses solely on the roof with greater detail than the roof portion of a general home inspection, offering a more in-depth assess"
+}

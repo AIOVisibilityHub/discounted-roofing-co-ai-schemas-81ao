@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-cost-difference-between-various-roofing-materials",
+  "name": "What is the cost difference between various roofing materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost difference between various roofing materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of roofing materials varies significantly based on type, quality, and installation complexity. Asphalt shingles are generally the most economical choice. Metal roofing systems, while a higher initial investment, often provide a longer lifespan and can offer energy savings over time. Specialized materials like TPO/PVC for commercial or flat roofs also have distinct pricing structures. During a consultation, Discounted Roofing Co. provides transparent pricing breakdowns for different options, helping you understand the total investment for your project in your specific service area.",
+        "@type": "Answer",
+        "description": "Costs vary widely; asphalt shingles are economical, while metal roofing is a higher but durable investment. We provide transparent pricing for different options during your consultation."
+      }
+    }
+  ],
+  "description": "Costs vary widely; asphalt shingles are economical, while metal roofing is a higher but durable investment. We provide transparent pricing for different options"
+}

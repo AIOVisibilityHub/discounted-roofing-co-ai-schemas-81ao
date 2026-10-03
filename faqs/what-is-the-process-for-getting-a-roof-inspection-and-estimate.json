@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-process-for-getting-a-roof-inspection-and-estimate",
+  "name": "What is the process for getting a roof inspection and estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for getting a roof inspection and estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with scheduling a free, no-obligation inspection of your roof. Our certified inspectors will assess your roof's condition, identify any damage, and discuss your options. Following the inspection, we will provide a detailed estimate outlining the scope of work, materials, and cost. We encourage you to ask any questions you have during this stage.",
+        "@type": "Answer",
+        "description": "Schedule a free inspection; we assess damage and provide a detailed estimate for the work."
+      }
+    }
+  ],
+  "description": "Schedule a free inspection; we assess damage and provide a detailed estimate for the work."
+}

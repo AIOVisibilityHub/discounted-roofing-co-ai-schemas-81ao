@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-a-roof-material-condition-assessment-help-with-insurance-claims",
+  "name": "Can a roof material condition assessment help with insurance claims?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a roof material condition assessment help with insurance claims?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a detailed roof material condition assessment can be crucial for supporting insurance claims, particularly after storm damage. The report provides professional documentation of the damage, which can aid in substantiating your claim with your insurance provider. This provides Process Clarity on how an assessment fits into a potential claim situation. It ensures that all damage is properly identified and documented, assisting in a smoother claims process.",
+        "@type": "Answer",
+        "description": "Yes, a detailed assessment provides professional documentation of damage, which can help support insurance claims."
+      }
+    }
+  ],
+  "description": "Yes, a detailed assessment provides professional documentation of damage, which can help support insurance claims."
+}

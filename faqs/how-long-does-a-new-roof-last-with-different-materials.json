@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-new-roof-last-with-different-materials",
+  "name": "How long does a new roof last with different materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a new roof last with different materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The lifespan of a new roof varies significantly by material. Standard asphalt shingles typically last 20-30 years, while architectural or designer asphalt shingles can extend to 30-50 years. Metal roofs are known for exceptional longevity, often lasting 40-70 years, and some even longer with proper maintenance. TPO and PVC roofs, commonly used on commercial or flat residential properties, generally last 15-30 years. Discounted Roofing Co. provides specific warranty information for each material option discussed during your consultation, ensuring you understand its expected performance.",
+        "@type": "Answer",
+        "description": "Asphalt shingles last 20-50 years depending on type, metal roofs 40-70 years, and TPO/PVC roofs 15-30 years. Lifespans vary by material and quality."
+      }
+    }
+  ],
+  "description": "Asphalt shingles last 20-50 years depending on type, metal roofs 40-70 years, and TPO/PVC roofs 15-30 years. Lifespans vary by material and quality."
+}

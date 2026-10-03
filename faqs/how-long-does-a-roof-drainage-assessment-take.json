@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-roof-drainage-assessment-take",
+  "name": "How long does a roof drainage assessment take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a roof drainage assessment take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a roof drainage assessment typically depends on the size and complexity of your roof and the extent of any visible issues. For an average residential property, an assessment might take anywhere from 30 minutes to 2 hours. Larger commercial properties or those with known severe drainage problems will naturally require more time. You can expect our team to provide an estimated timeframe after an initial discussion about your property and concerns.",
+        "@type": "Answer",
+        "description": "An assessment typically takes 30 minutes to 2 hours for residential properties, varying by roof size and complexity. Larger or more problematic roofs will take longer."
+      }
+    }
+  ],
+  "description": "An assessment typically takes 30 minutes to 2 hours for residential properties, varying by roof size and complexity. Larger or more problematic roofs will take"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-roof-replacement-readiness-assessment-take",
+  "name": "How long does a roof replacement readiness assessment take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a roof replacement readiness assessment take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical roof replacement readiness assessment can take anywhere from 30 minutes to a few hours, depending on the size, complexity, and accessibility of your roof. The process includes a thorough exterior inspection, attic inspection (if applicable), and a discussion of findings. Factors like multiple roof sections or difficult-to-reach areas can extend the assessment time. Our goal is to be efficient while ensuring a complete evaluation of your roofing system.",
+        "@type": "Answer",
+        "description": "Assessments usually take 30 minutes to a few hours, depending on roof size and complexity."
+      }
+    }
+  ],
+  "description": "Assessments usually take 30 minutes to a few hours, depending on roof size and complexity."
+}

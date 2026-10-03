@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-roofing-materials-will-be-discussed-during-the-consultation",
+  "name": "What roofing materials will be discussed during the consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What roofing materials will be discussed during the consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During your consultation, our team will discuss various roofing material options suitable for your home and the DFW climate, such as asphalt shingles, metal roofing, and TPO for flat roofs. We'll explain the pros and cons of each, including durability, appearance, maintenance, and cost. Your choice of material will significantly impact the lifespan and aesthetics of your roof, so we help you weigh these factors.",
+        "@type": "Answer",
+        "description": "We discuss materials like asphalt, metal, and TPO, outlining their durability, appearance, maintenance, and cost to help you choose the best fit."
+      }
+    }
+  ],
+  "description": "We discuss materials like asphalt, metal, and TPO, outlining their durability, appearance, maintenance, and cost to help you choose the best fit."
+}

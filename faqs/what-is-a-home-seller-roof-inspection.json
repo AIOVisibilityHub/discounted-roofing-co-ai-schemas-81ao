@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-home-seller-roof-inspection",
+  "name": "What is a home seller roof inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a home seller roof inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A home seller roof inspection is a detailed assessment of your roof's condition performed before you list your property for sale. This inspection identifies any issues that could affect the sale, such as leaks, damage, or wear and tear, allowing you to address them proactively. Identifying problems early can prevent delays during negotiations and ensure a smoother closing process. It provides transparency to potential buyers and helps set a realistic asking price.",
+        "@type": "Answer",
+        "description": "A home seller roof inspection assesses your roof's condition before selling, identifying issues to address proactively and prevent sale delays."
+      }
+    }
+  ],
+  "description": "A home seller roof inspection assesses your roof's condition before selling, identifying issues to address proactively and prevent sale delays."
+}

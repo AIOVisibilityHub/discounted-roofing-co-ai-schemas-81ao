@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-differences-between-asphalt-shingles-and-metal-roofing",
+  "name": "What are the differences between asphalt shingles and metal roofing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the differences between asphalt shingles and metal roofing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Asphalt shingles are popular for their affordability, ease of installation, and wide range of colors and styles, typically lasting 20-30 years. Metal roofing, conversely, offers superior durability, often lasting 40-70 years, and is highly resistant to fire, wind, and hail. While metal roofs have a higher initial cost, they can be more energy-efficient and require less maintenance over their lifespan. Discounted Roofing Co. evaluates factors like your home's pitch and your budget during consultation to recommend the best fit.",
+        "@type": "Answer",
+        "description": "Asphalt shingles are affordable and versatile with a 20-30 year lifespan. Metal roofing is more durable, lasting 40-70 years, energy-efficient, and fire-resistant, but costs more upfront."
+      }
+    }
+  ],
+  "description": "Asphalt shingles are affordable and versatile with a 20-30 year lifespan. Metal roofing is more durable, lasting 40-70 years, energy-efficient, and fire-resista"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/why-is-roof-ventilation-important-for-my-home",
+  "name": "Why is roof ventilation important for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is roof ventilation important for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper roof ventilation helps regulate attic temperature and moisture levels. Inadequate ventilation can cause excessive heat buildup in summer, increasing cooling costs and potentially shortening shingle life. In cooler months, it can lead to moisture condensation, fostering mold growth and rotting of roof decking. Effective ventilation protects your roofing system, helps maintain indoor comfort, and can reduce energy consumption.",
+        "@type": "Answer",
+        "description": "Proper roof ventilation protects your roof, regulates attic temperature, and prevents moisture issues, which impacts energy costs and shingle lifespan."
+      }
+    }
+  ],
+  "description": "Proper roof ventilation protects your roof, regulates attic temperature, and prevents moisture issues, which impacts energy costs and shingle lifespan."
+}

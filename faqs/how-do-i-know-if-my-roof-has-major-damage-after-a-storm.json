@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-know-if-my-roof-has-major-damage-after-a-storm",
+  "name": "How do I know if my roof has major damage after a storm?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my roof has major damage after a storm?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a storm, look for visible signs of damage like missing or torn shingles, dents on soft metals such as gutters or vents, and granules accumulating in downspouts. Also, check your attic for water stains or leaks, which indicate compromised roofing. If you observe any of these indicators, a professional roof inspection is recommended to identify concealed damage that may not be obvious from the ground. Early detection can prevent minor issues from escalating into major, costly repairs.",
+        "@type": "Answer",
+        "description": "Check for missing shingles, dents on metal, granule loss, or attic leaks after a storm to identify potential major roof damage."
+      }
+    }
+  ],
+  "description": "Check for missing shingles, dents on metal, granule loss, or attic leaks after a storm to identify potential major roof damage."
+}

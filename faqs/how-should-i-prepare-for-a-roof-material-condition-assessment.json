@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-should-i-prepare-for-a-roof-material-condition-assessment",
+  "name": "How should I prepare for a roof material condition assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare for a roof material condition assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare, ensure clear access to your property and the roof, including removing any obstacles around the perimeter of your home. Inform us of any known issues or concerns you have about your roof. Additionally, ensure pets are secured indoors for their safety and the inspector's focus. This Preparation step helps our team conduct a thorough and efficient assessment without hindrances. Providing prior information can also help guide the inspection.",
+        "@type": "Answer",
+        "description": "Ensure clear access to your property and roof, secure pets, and inform us of any known roof issues beforehand."
+      }
+    }
+  ],
+  "description": "Ensure clear access to your property and roof, secure pets, and inform us of any known roof issues beforehand."
+}

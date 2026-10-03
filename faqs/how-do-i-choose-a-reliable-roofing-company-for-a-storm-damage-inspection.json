@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-a-reliable-roofing-company-for-a-storm-damage-inspection",
+  "name": "How do I choose a reliable roofing company for a storm damage inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reliable roofing company for a storm damage inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a roofing company for a storm damage inspection, look for local companies with a strong reputation and experience in handling storm-related repairs and insurance claims. Verify their licensing and insurance. A reliable company, like Discounted Roofing Co., will offer a free, no-obligation inspection and clearly explain their findings and repair recommendations. Prioritize companies that provide transparent communication and comprehensive documentation of damage.",
+        "@type": "Answer",
+        "description": "Choose a local roofing company with experience in storm damage repairs and insurance claims. Verify their licensing and insurance, and ensure they offer free, comprehensive inspections with clear documentation."
+      }
+    }
+  ],
+  "description": "Choose a local roofing company with experience in storm damage repairs and insurance claims. Verify their licensing and insurance, and ensure they offer free, c"
+}

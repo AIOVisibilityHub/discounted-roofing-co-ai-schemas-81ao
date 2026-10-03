@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-roofing-project-scope-consultation",
+  "name": "What is a roofing project scope consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a roofing project scope consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roofing project scope consultation is an initial meeting with a roofing professional to define the work needed for your roof. During this consultation, a specialist from Discounted Roofing Co. will assess your roof's current condition, identify potential issues, and discuss your specific requirements. This helps establish clear expectations and outlines the extent of the project before any work begins, ensuring alignment between your needs and the proposed solutions.",
+        "@type": "Answer",
+        "description": "A roofing project scope consultation defines the work needed for your roof by assessing its condition and discussing requirements."
+      }
+    }
+  ],
+  "description": "A roofing project scope consultation defines the work needed for your roof by assessing its condition and discussing requirements."
+}

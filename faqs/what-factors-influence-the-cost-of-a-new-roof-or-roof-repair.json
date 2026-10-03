@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-influence-the-cost-of-a-new-roof-or-roof-repair",
+  "name": "What factors influence the cost of a new roof or roof repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a new roof or roof repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a new roof or repair is influenced by several factors, including the size and pitch of your roof, the type of roofing material selected (e.g., asphalt shingles, metal, tile), and the extent of any necessary structural repairs. Additional costs may arise from the removal of old roofing materials or upgrading ventilation. We provide detailed estimates to ensure transparency before any work begins.",
+        "@type": "Answer",
+        "description": "Roof cost depends on size, pitch, material type, and the extent of any required repairs."
+      }
+    }
+  ],
+  "description": "Roof cost depends on size, pitch, material type, and the extent of any required repairs."
+}

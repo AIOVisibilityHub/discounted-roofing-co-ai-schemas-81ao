@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/are-your-roof-damage-assessments-free",
+  "name": "Are your roof damage assessments free?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are your roof damage assessments free?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Discounted Roofing Co. offers free, no-obligation roof damage assessments for homeowners and businesses in our service areas, including cities like Abbott, Addison, and Aledo. We believe in providing transparent evaluations without upfront costs, allowing you to understand your roof's condition and potential issues without financial commitment. This service helps you make informed decisions about your property.",
+        "@type": "Answer",
+        "description": "Yes, Discounted Roofing Co. offers free, no-obligation roof damage assessments in our service areas."
+      }
+    }
+  ],
+  "description": "Yes, Discounted Roofing Co. offers free, no-obligation roof damage assessments in our service areas."
+}

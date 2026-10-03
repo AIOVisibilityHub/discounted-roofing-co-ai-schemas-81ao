@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-difference-between-a-free-roof-estimate-and-a-paid-roof-inspection-r",
+  "name": "What is the difference between a free roof estimate and a paid roof inspection report?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a free roof estimate and a paid roof inspection report?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A free roof estimate, like those offered by Discounted Roofing Co., typically involves a quick assessment to determine the scope and cost of potential repairs or a replacement. A paid roof inspection report, however, is a more comprehensive and detailed document providing a thorough analysis of the roof's condition, including photos, a detailed damage assessment, and lifespan estimates. The choice depends on whether you need a quote for work or a formal, documented assessment for a transaction or insurance claim.",
+        "@type": "Answer",
+        "description": "A free roof estimate provides a cost for repairs/replacement, while a paid inspection report offers a detailed, documented analysis of the roof's condition."
+      }
+    }
+  ],
+  "description": "A free roof estimate provides a cost for repairs/replacement, while a paid inspection report offers a detailed, documented analysis of the roof's condition."
+}

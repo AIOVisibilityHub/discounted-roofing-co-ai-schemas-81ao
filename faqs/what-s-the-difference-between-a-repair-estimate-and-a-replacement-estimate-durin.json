@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-s-the-difference-between-a-repair-estimate-and-a-replacement-estimate-durin",
+  "name": "What's the difference between a repair estimate and a replacement estimate during a consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a repair estimate and a replacement estimate during a consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a consultation, a repair estimate focuses on addressing localized damage, such as patching a leak or replacing a few missing shingles, aiming to extend the roof's lifespan with minimal intervention. A replacement estimate, however, covers the complete removal of the old roof and installation of a new one, addressing widespread damage or age-related deterioration. The choice between these options often depends on the extent of the damage and the overall condition of your existing roof.",
+        "@type": "Answer",
+        "description": "A repair estimate covers localized damage, while a replacement estimate involves a complete roof overhaul, with the choice depending on damage extent."
+      }
+    }
+  ],
+  "description": "A repair estimate covers localized damage, while a replacement estimate involves a complete roof overhaul, with the choice depending on damage extent."
+}

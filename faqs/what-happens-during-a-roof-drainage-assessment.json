@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-during-a-roof-drainage-assessment",
+  "name": "What happens during a roof drainage assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during a roof drainage assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a roof drainage assessment, a technician will typically inspect all components of your roof drainage system, including gutters, downspouts, scuppers, and roof slopes. They will look for debris, blockages, proper pitch, signs of corrosion, leaks, or damage. They might also test water flow to identify problematic areas. After the inspection, you will receive a report detailing any identified issues and recommended solutions. This process clarifies the extent of any problems and guides the next steps for repair or maintenance.",
+        "@type": "Answer",
+        "description": "A technician inspects gutters, downspouts, and roof slopes for blockages, damage, or improper pitch, often testing water flow. You'll then receive a report with findings and recommendations."
+      }
+    }
+  ],
+  "description": "A technician inspects gutters, downspouts, and roof slopes for blockages, damage, or improper pitch, often testing water flow. You'll then receive a report with"
+}

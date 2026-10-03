@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-my-insurance-cover-a-roof-inspection-after-storm-damage",
+  "name": "Will my insurance cover a roof inspection after storm damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover a roof inspection after storm damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many homeowner's insurance policies cover roof inspections and subsequent repairs for damage caused by sudden and accidental events like storms. The specific coverage depends on your policy's terms, including your deductible and the extent of the damage. While the inspection itself is often free, any repairs would fall under your policy's provisions. Discounted Roofing Co. can assist with documenting damage and working with your insurance adjuster, a key step in a successful claim.",
+        "@type": "Answer",
+        "description": "Most homeowner's insurance policies cover roof damage from storms, which can include the cost of repairs after an inspection. Coverage depends on your specific policy and deductible."
+      }
+    }
+  ],
+  "description": "Most homeowner's insurance policies cover roof damage from storms, which can include the cost of repairs after an inspection. Coverage depends on your specific"
+}

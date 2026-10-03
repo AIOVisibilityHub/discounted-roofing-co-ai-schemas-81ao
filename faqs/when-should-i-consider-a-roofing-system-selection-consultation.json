@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-consider-a-roofing-system-selection-consultation",
+  "name": "When should I consider a roofing system selection consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a roofing system selection consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a roofing system selection consultation if your roof is over 15-20 years old, shows signs of significant damage like widespread leaks or missing shingles, or if you're planning a home renovation that includes exterior upgrades. It's also beneficial if you're experiencing recurring issues or simply want to explore more durable or energy-efficient options available through Discounted Roofing Co.",
+        "@type": "Answer",
+        "description": "Consider a consultation if your roof is old, damaged, or if you're planning renovations. It's also for exploring durable or energy-efficient options."
+      }
+    }
+  ],
+  "description": "Consider a consultation if your roof is old, damaged, or if you're planning renovations. It's also for exploring durable or energy-efficient options."
+}

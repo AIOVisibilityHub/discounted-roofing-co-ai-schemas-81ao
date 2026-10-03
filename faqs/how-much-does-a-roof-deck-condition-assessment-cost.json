@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-roof-deck-condition-assessment-cost",
+  "name": "How much does a roof deck condition assessment cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a roof deck condition assessment cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a roof deck condition assessment can vary based on the roof's size, complexity, and the extent of the inspection required. Factors like accessibility and the need for specialized equipment can influence the final price. We provide a detailed quote after an initial consultation, ensuring transparency regarding the scope of work and associated costs before any assessment begins.",
+        "@type": "Answer",
+        "description": "The cost of a roof deck condition assessment varies based on roof size, complexity, and inspection needs."
+      }
+    }
+  ],
+  "description": "The cost of a roof deck condition assessment varies based on roof size, complexity, and inspection needs."
+}

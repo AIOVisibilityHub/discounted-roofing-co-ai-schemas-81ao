@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-documents-or-information-should-i-prepare-for-a-roof-inspection",
+  "name": "What documents or information should I prepare for a roof inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documents or information should I prepare for a roof inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your roof inspection, it's helpful to gather any previous roofing records, such as installation dates, past repair invoices, or warranty information. You should also clear access to any attic spaces or exterior areas around the home that the inspector may need to access. Inform the inspector of any known issues, like past leaks or concerns you've noticed. This preparation helps the inspector conduct a more thorough and informed assessment.",
+        "@type": "Answer",
+        "description": "Prepare previous roofing records, clear attic/exterior access, and inform the inspector of any known issues to facilitate a thorough assessment."
+      }
+    }
+  ],
+  "description": "Prepare previous roofing records, clear attic/exterior access, and inform the inspector of any known issues to facilitate a thorough assessment."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-does-a-scope-consultation-help-with-insurance-claims",
+  "name": "How does a scope consultation help with insurance claims?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a scope consultation help with insurance claims?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A detailed roofing project scope consultation provides essential documentation and a clear assessment of damage, which is crucial for filing accurate insurance claims. The findings from Discounted Roofing Co.'s inspection can help substantiate the claim, outlining the necessary repairs or replacement. This clear scope helps streamline the process with your insurer.",
+        "@type": "Answer",
+        "description": "A consultation provides documentation and damage assessment to support accurate roofing insurance claims."
+      }
+    }
+  ],
+  "description": "A consultation provides documentation and damage assessment to support accurate roofing insurance claims."
+}

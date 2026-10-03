@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-roof-deck-condition-assessment-take",
+  "name": "How long does a roof deck condition assessment take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a roof deck condition assessment take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a roof deck condition assessment varies depending on the size and complexity of your roof. A typical residential assessment might take a few hours, while larger commercial properties could require more time. We prioritize thoroughness to ensure all potential issues are identified. After the assessment, we aim to provide you with a detailed report within a few business days, outlining our findings and recommendations.",
+        "@type": "Answer",
+        "description": "The assessment duration depends on roof size and complexity, typically a few hours for residential, with a report provided within days."
+      }
+    }
+  ],
+  "description": "The assessment duration depends on roof size and complexity, typically a few hours for residential, with a report provided within days."
+}

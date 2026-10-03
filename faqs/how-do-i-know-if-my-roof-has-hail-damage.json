@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-know-if-my-roof-has-hail-damage",
+  "name": "How do I know if my roof has hail damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my roof has hail damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of hail damage can include dimples or indentations on soft metals like gutters and vents, chipped or bruised shingles, and granule loss resulting in exposed asphalt. After a significant hail storm, it's recommended to have a professional inspection, as some damage isn't visible from the ground or immediately apparent. We offer free, no-obligation inspections in the DFW service area to help homeowners identify potential hail damage promptly.",
+        "@type": "Answer",
+        "description": "Look for dimples on metal, chipped shingles, or granule loss. A professional inspection is recommended after a hail storm, as damage isn't always visible from the ground."
+      }
+    }
+  ],
+  "description": "Look for dimples on metal, chipped shingles, or granule loss. A professional inspection is recommended after a hail storm, as damage isn't always visible from t"
+}

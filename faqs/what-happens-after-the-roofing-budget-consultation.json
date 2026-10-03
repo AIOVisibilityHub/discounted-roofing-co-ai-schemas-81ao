@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-after-the-roofing-budget-consultation",
+  "name": "What happens after the roofing budget consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after the roofing budget consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After your roofing budget consultation, our specialist will provide you with a detailed estimate and proposal outlining the recommended work, material options, and associated costs. You'll have the opportunity to review this information, ask any further questions, and consider your options without pressure. If you decide to proceed, we will then discuss scheduling the project and initiating the necessary steps. You are not obligated to commit to any services immediately following the consultation.",
+        "@type": "Answer",
+        "description": "After the consultation, you receive a detailed estimate and proposal to review, allowing you to ask questions and decide on proceeding without obligation."
+      }
+    }
+  ],
+  "description": "After the consultation, you receive a detailed estimate and proposal to review, allowing you to ask questions and decide on proceeding without obligation."
+}

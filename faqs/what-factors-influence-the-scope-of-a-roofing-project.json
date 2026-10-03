@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-influence-the-scope-of-a-roofing-project",
+  "name": "What factors influence the scope of a roofing project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the scope of a roofing project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors influence the scope of a roofing project, including the type of existing roofing material, the extent of damage, the roof's pitch and complexity, and local building codes in areas like Dallas or Fort Worth. The choice of new materials and any desired upgrades or enhancements also play a significant role. A consultation helps clarify these variables to define the precise project requirements.",
+        "@type": "Answer",
+        "description": "Roofing project scope is influenced by existing materials, damage, roof complexity, local codes, and new material choices."
+      }
+    }
+  ],
+  "description": "Roofing project scope is influenced by existing materials, damage, roof complexity, local codes, and new material choices."
+}

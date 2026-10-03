@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-during-a-roofing-material-selection-consultation",
+  "name": "What happens during a roofing material selection consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during a roofing material selection consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a roofing material selection consultation, a representative from Discounted Roofing Co. will assess your current roof and discuss your property's specific needs and aesthetic preferences. We will explain the different types of roofing materials available, such as asphalt shingles, metal roofing, or TPO/PVC for flat roofs, and their respective benefits. This process helps us recommend materials best suited for your home's structure, local weather conditions in areas like DFW, and your budget. We provide clear explanations to help you understand the long-term implications of each choice.",
+        "@type": "Answer",
+        "description": "A consultation involves assessing your roof, discussing your needs, and reviewing material options like asphalt, metal, or TPO/PVC to find the best fit for your home and budget."
+      }
+    }
+  ],
+  "description": "A consultation involves assessing your roof, discussing your needs, and reviewing material options like asphalt, metal, or TPO/PVC to find the best fit for your"
+}

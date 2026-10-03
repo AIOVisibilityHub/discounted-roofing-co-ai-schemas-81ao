@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-process-after-an-exterior-improvement-consultation",
+  "name": "What is the process after an exterior improvement consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process after an exterior improvement consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After your exterior improvement consultation, we will provide a detailed proposal outlining the recommended work, materials, timeline, and cost. You'll have the opportunity to review it, ask further questions, and approve the plan. Once approved, we will schedule the project according to your availability and our team's schedule, ensuring a smooth transition from planning to execution.",
+        "@type": "Answer",
+        "description": "After the consultation, you'll receive a detailed proposal. Upon approval, we schedule the project, ensuring a smooth process from planning to execution."
+      }
+    }
+  ],
+  "description": "After the consultation, you'll receive a detailed proposal. Upon approval, we schedule the project, ensuring a smooth process from planning to execution."
+}

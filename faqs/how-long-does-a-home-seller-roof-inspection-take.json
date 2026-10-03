@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-home-seller-roof-inspection-take",
+  "name": "How long does a home seller roof inspection take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a home seller roof inspection take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical home seller roof inspection usually takes about 30 minutes to an hour, depending on the size and complexity of your roof. Factors like multiple roof levels, steep pitches, or extensive damage can extend the inspection time. The roofer will need clear access to all roof surfaces and potentially the attic for interior leak detection. Having clear access available before the inspection begins can help ensure efficiency.",
+        "@type": "Answer",
+        "description": "A home seller roof inspection usually takes 30 minutes to an hour; duration varies by roof size and complexity. Ensure clear access for efficiency."
+      }
+    }
+  ],
+  "description": "A home seller roof inspection usually takes 30 minutes to an hour; duration varies by roof size and complexity. Ensure clear access for efficiency."
+}

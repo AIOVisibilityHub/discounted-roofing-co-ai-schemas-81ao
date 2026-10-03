@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-difference-between-a-roof-inspection-and-a-roof-estimate-consultatio",
+  "name": "What is the difference between a roof inspection and a roof estimate consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a roof inspection and a roof estimate consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roof inspection is a detailed examination of your roof's condition to identify problems, often performed without an immediate intent to repair or replace. A roof estimate consultation, while including an inspection, specifically focuses on assessing damage or wear and then providing a formal quote for the recommended work. Discounted Roofing Co. uses the consultation to combine both the diagnostic inspection and the financial proposal, streamlining the process for our customers.",
+        "@type": "Answer",
+        "description": "An inspection assesses roof condition; a consultation includes that assessment plus a formal quote for recommended work."
+      }
+    }
+  ],
+  "description": "An inspection assesses roof condition; a consultation includes that assessment plus a formal quote for recommended work."
+}

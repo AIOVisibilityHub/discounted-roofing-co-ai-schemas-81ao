@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-a-pre-purchase-roof-inspection-help-with-insurance-claims",
+  "name": "Can a pre-purchase roof inspection help with insurance claims?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a pre-purchase roof inspection help with insurance claims?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While a pre-purchase roof inspection's primary goal is to inform the buyer, the detailed report can be beneficial if damage is discovered that may be covered by an insurance claim. The report provides documentation of the roof's condition at the time of purchase. However, initiating an insurance claim generally falls to the current homeowner, or the new owner after closing, for damage occurring post-purchase. This detailed documentation can help support future claims if issues are found after you've taken ownership.",
+        "@type": "Answer",
+        "description": "A pre-purchase roof inspection report documents the roof's condition, which can be useful for understanding potential insurance claims, though claims are typically handled by the homeowner."
+      }
+    }
+  ],
+  "description": "A pre-purchase roof inspection report documents the roof's condition, which can be useful for understanding potential insurance claims, though claims are typica"
+}

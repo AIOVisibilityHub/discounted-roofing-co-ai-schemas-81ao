@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-a-roofing-budget-consultation-help-me-understand-insurance-claims",
+  "name": "Can a roofing budget consultation help me understand insurance claims?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a roofing budget consultation help me understand insurance claims?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a roofing budget consultation can certainly help you understand the financial aspects related to insurance claims. Our specialists can assess the damage to your roof, provide a detailed estimate for repairs or replacement, and explain how this documentation can be used in your insurance claim process. While we don't file the claim for you, we can offer guidance on what information is typically needed by insurance companies in the DFW area to support your claim for storm or hail damage.",
+        "@type": "Answer",
+        "description": "Yes, a consultation helps you understand insurance claim aspects by providing damage assessment and estimates, useful for your claim documentation."
+      }
+    }
+  ],
+  "description": "Yes, a consultation helps you understand insurance claim aspects by providing damage assessment and estimates, useful for your claim documentation."
+}

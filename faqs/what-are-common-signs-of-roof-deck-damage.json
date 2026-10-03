@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-common-signs-of-roof-deck-damage",
+  "name": "What are common signs of roof deck damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of roof deck damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of roof deck damage include visible sagging or unevenness in the roof line, water stains on ceilings or walls, and soft or spongy areas when walking on the roof. In the attic, you might observe warped or discolored wood, mold growth, or light filtering through the deck. These indicators suggest potential moisture intrusion or structural weakness, warranting a professional assessment to prevent further deterioration.",
+        "@type": "Answer",
+        "description": "Common signs of roof deck damage include sagging, water stains, soft spots on the roof, or warped wood and mold in the attic."
+      }
+    }
+  ],
+  "description": "Common signs of roof deck damage include sagging, water stains, soft spots on the roof, or warped wood and mold in the attic."
+}

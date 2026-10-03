@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-involved-in-a-professional-major-roof-damage-assessment",
+  "name": "What is involved in a professional major roof damage assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a professional major roof damage assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A professional major roof damage assessment involves a thorough inspection of your entire roof system, including shingles, flashing, gutters, vents, and underlying structures. Our team examines the roof for visible and hidden damage, often using detailed photographs to document findings. We identify the cause of damage, its severity, and provide a comprehensive report outlining necessary repairs or replacement options. This detailed assessment is vital for insurance claims and ensuring all affected areas are addressed.",
+        "@type": "Answer",
+        "description": "A professional assessment includes a thorough inspection of the entire roof system, documenting visible and hidden damage, and providing a comprehensive report for repairs."
+      }
+    }
+  ],
+  "description": "A professional assessment includes a thorough inspection of the entire roof system, documenting visible and hidden damage, and providing a comprehensive report"
+}

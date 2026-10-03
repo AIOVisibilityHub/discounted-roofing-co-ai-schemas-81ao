@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-after-the-roof-damage-assessment-is-completed",
+  "name": "What happens after the roof damage assessment is completed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after the roof damage assessment is completed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After the roof damage assessment, our inspector will review the findings with you, explain any identified issues, and present a detailed report. This report will include photographic evidence and a recommended course of action, whether it's minor repairs or a full roof replacement. We will then provide a transparent estimate for the proposed work, allowing you to understand the next steps and make an informed decision without obligation.",
+        "@type": "Answer",
+        "description": "After assessment, we review findings, present a detailed report with recommendations, and provide a transparent estimate for proposed work."
+      }
+    }
+  ],
+  "description": "After assessment, we review findings, present a detailed report with recommendations, and provide a transparent estimate for proposed work."
+}

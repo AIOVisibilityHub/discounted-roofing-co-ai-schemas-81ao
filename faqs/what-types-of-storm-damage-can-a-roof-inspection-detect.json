@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-types-of-storm-damage-can-a-roof-inspection-detect",
+  "name": "What types of storm damage can a roof inspection detect?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of storm damage can a roof inspection detect?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A professional roof inspection can detect various types of storm damage, including hail damage (dents, granule loss, cracks), wind damage (missing, lifted, or creased shingles, damaged flashing), and water intrusion points. Inspectors also look for secondary issues like damaged gutters, weakened decking, or compromised ventilation systems. Identifying all damage, including less visible signs, is crucial for a complete repair and to prevent future leaks.",
+        "@type": "Answer",
+        "description": "A roof inspection can detect hail damage (dents, granule loss), wind damage (missing or lifted shingles), and water intrusion points, along with secondary issues to gutters and ventilation."
+      }
+    }
+  ],
+  "description": "A roof inspection can detect hail damage (dents, granule loss), wind damage (missing or lifted shingles), and water intrusion points, along with secondary issue"
+}

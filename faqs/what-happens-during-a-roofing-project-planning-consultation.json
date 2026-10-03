@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-during-a-roofing-project-planning-consultation",
+  "name": "What happens during a roofing project planning consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during a roofing project planning consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a roofing project planning consultation, a Discounted Roofing Co. specialist will assess your current roof's condition, discuss your needs, and review material options. They will explain the repair or replacement process, potential timelines, and provide a detailed estimate. This initial meeting helps us understand your specific project requirements and allows you to ask questions, ensuring alignment on the scope of work before any commitment.",
+        "@type": "Answer",
+        "description": "A consultation involves a roof assessment, discussion of needs and material options, explanation of the process, and a detailed estimate to define the project scope."
+      }
+    }
+  ],
+  "description": "A consultation involves a roof assessment, discussion of needs and material options, explanation of the process, and a detailed estimate to define the project s"
+}

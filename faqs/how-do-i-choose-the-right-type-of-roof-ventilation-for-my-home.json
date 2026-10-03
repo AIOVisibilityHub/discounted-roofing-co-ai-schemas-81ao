@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-the-right-type-of-roof-ventilation-for-my-home",
+  "name": "How do I choose the right type of roof ventilation for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right type of roof ventilation for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right ventilation depends on your roof's design, attic size, climate, and existing ventilation. Options include static vents, ridge vents, soffit vents, and powered attic fans. A professional assessment will consider these factors and recommend a balanced system of both intake and exhaust ventilation. For instance, in Texas, a combination of continuous ridge and soffit vents is often effective.",
+        "@type": "Answer",
+        "description": "The right ventilation depends on roof design, attic size, and climate; a professional assessment can recommend a balanced system."
+      }
+    }
+  ],
+  "description": "The right ventilation depends on roof design, attic size, and climate; a professional assessment can recommend a balanced system."
+}

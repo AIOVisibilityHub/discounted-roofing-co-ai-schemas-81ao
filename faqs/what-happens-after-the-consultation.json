@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-after-the-consultation",
+  "name": "What happens after the consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after the consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Following the consultation, our team will prepare a detailed proposal outlining the recommended scope of work, material options, and a transparent cost estimate based on the assessment. We will then schedule a follow-up to review this proposal with you, answer any additional questions, and discuss the next steps, including scheduling the project. This process clarity ensures you understand every aspect of your remodeling journey.",
+        "@type": "Answer",
+        "description": "After the consultation, we prepare a detailed proposal, then schedule a follow-up to review it with you, answer questions, and discuss project scheduling."
+      }
+    }
+  ],
+  "description": "After the consultation, we prepare a detailed proposal, then schedule a follow-up to review it with you, answer questions, and discuss project scheduling."
+}

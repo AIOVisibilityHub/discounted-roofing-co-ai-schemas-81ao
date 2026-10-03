@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-areas-does-discounted-roofing-co-serve-for-home-exterior-improvements",
+  "name": "What areas does Discounted Roofing Co. serve for home exterior improvements?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas does Discounted Roofing Co. serve for home exterior improvements?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Discounted Roofing Co. proudly serves a wide range of communities for home exterior improvements, including DFW, Abbott, Addison, and Aledo, Allen, among many others across the region. We are committed to bringing our quality roofing and exterior services to homeowners throughout our extensive service area. Please contact us to confirm if your specific location falls within our operational reach.",
+        "@type": "Answer",
+        "description": "We serve DFW, Abbott, Addison, Aledo, Allen, and many other communities for home exterior improvements."
+      }
+    }
+  ],
+  "description": "We serve DFW, Abbott, Addison, Aledo, Allen, and many other communities for home exterior improvements."
+}

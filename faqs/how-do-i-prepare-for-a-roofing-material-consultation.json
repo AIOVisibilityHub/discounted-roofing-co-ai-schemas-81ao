@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-prepare-for-a-roofing-material-consultation",
+  "name": "How do I prepare for a roofing material consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I prepare for a roofing material consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a roofing material consultation, consider your budget range, desired aesthetic for your home, and any specific performance concerns like hail resistance or energy efficiency. Gather any information you have about your current roof's age or issues. This helps the consultant provide more tailored recommendations that align with your priorities and the specific demands of the DFW climate.",
+        "@type": "Answer",
+        "description": "Prepare by defining your budget, aesthetic preferences, performance priorities, and any existing roof information to guide material recommendations."
+      }
+    }
+  ],
+  "description": "Prepare by defining your budget, aesthetic preferences, performance priorities, and any existing roof information to guide material recommendations."
+}

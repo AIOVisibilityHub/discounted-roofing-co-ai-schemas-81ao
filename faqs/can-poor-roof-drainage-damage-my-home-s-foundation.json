@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-poor-roof-drainage-damage-my-home-s-foundation",
+  "name": "Can poor roof drainage damage my home's foundation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can poor roof drainage damage my home's foundation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, poor roof drainage can significantly damage your home's foundation. When water doesn't properly drain away from the roof, it can pool around the foundation, leading to soil erosion, hydrostatic pressure against basement walls, and ultimately, cracks or structural shifts. This is particularly concerning in areas with expansive clay soils, such as many parts of North Texas, where fluctuating moisture levels can cause significant foundation movement. Ensuring proper drainage is a critical preventative measure.",
+        "@type": "Answer",
+        "description": "Poor roof drainage causes water to pool around the foundation, leading to soil erosion, pressure, and potential cracks or structural shifts. This is critical in areas with expansive clay soils."
+      }
+    }
+  ],
+  "description": "Poor roof drainage causes water to pool around the foundation, leading to soil erosion, pressure, and potential cracks or structural shifts. This is critical in"
+}

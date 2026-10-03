@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-a-roof-inspection-report-help-with-my-insurance-claim",
+  "name": "Can a roof inspection report help with my insurance claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a roof inspection report help with my insurance claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a detailed roof inspection report is crucial for insurance claims. It provides documented evidence of damage, which is often required by insurance companies to process claims for repairs or replacements due to storms or other events. The report from Discounted Roofing Co. can specify the type and extent of damage, helping to substantiate your claim and streamline the approval process.",
+        "@type": "Answer",
+        "description": "A detailed roof inspection report provides documented evidence of damage, which is essential for supporting insurance claims."
+      }
+    }
+  ],
+  "description": "A detailed roof inspection report provides documented evidence of damage, which is essential for supporting insurance claims."
+}

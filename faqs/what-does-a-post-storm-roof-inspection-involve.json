@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-does-a-post-storm-roof-inspection-involve",
+  "name": "What does a post-storm roof inspection involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a post-storm roof inspection involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A post-storm roof inspection involves a thorough assessment of your roof's condition to identify any damage caused by the storm. Our inspectors at Discounted Roofing Co. will examine shingles, flashing, gutters, vents, and other roof components for signs of hail impact, wind uplift, punctures, or water penetration. We also check for less obvious issues like granular loss on shingles or damaged underlayment. This detailed process ensures all damage is documented for your records and potential insurance claims.",
+        "@type": "Answer",
+        "description": "A post-storm roof inspection involves a thorough assessment of all roof components, including shingles, flashing, and gutters, to identify and document storm-related damage. Less obvious issues like granular loss are also checked."
+      }
+    }
+  ],
+  "description": "A post-storm roof inspection involves a thorough assessment of all roof components, including shingles, flashing, and gutters, to identify and document storm-re"
+}

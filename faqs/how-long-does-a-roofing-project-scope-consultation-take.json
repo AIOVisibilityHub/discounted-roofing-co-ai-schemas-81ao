@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-roofing-project-scope-consultation-take",
+  "name": "How long does a roofing project scope consultation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a roofing project scope consultation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard roofing project scope consultation typically takes between 30 minutes to an hour, depending on the size and complexity of your roof and the extent of visible damage. This timeframe allows our specialists at Discounted Roofing Co. to conduct a thorough visual inspection, gather necessary details, and discuss your concerns adequately without rushing the process.",
+        "@type": "Answer",
+        "description": "A roofing project scope consultation usually takes 30 minutes to an hour, depending on roof size and complexity."
+      }
+    }
+  ],
+  "description": "A roofing project scope consultation usually takes 30 minutes to an hour, depending on roof size and complexity."
+}

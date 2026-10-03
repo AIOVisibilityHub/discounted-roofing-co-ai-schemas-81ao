@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-questions-should-i-ask-during-a-roof-replacement-readiness-assessment",
+  "name": "What questions should I ask during a roof replacement readiness assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What questions should I ask during a roof replacement readiness assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a roof replacement readiness assessment, you should ask about the specific types of damage found, whether repairs are a viable option, and the estimated remaining lifespan of your roof. Inquire about material recommendations, warranty options, and the overall process if a replacement is needed. Also, ask about payment options and financing. Understanding these details helps you compare different approaches and decide the best course of action for your home. This helps clarify the practical tradeoffs between various material choices or repair versus replacement.",
+        "@type": "Answer",
+        "description": "Ask about damage types, repair viability, remaining roof lifespan, material recommendations, and the replacement process."
+      }
+    }
+  ],
+  "description": "Ask about damage types, repair viability, remaining roof lifespan, material recommendations, and the replacement process."
+}

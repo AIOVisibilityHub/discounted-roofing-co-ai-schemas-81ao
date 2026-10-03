@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-a-professional-roof-inspection-report",
+  "name": "When should I get a professional roof inspection report?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a professional roof inspection report?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should get a professional roof inspection report after severe weather, before buying or selling a home, or if you notice any signs of damage like leaks or missing shingles. It's also wise to schedule inspections every 1-3 years for general maintenance, especially for older roofs. Regular inspections can help identify minor issues before they become costly major repairs, extending your roof's life.",
+        "@type": "Answer",
+        "description": "Get a professional roof inspection after severe weather, before buying/selling a home, or if you notice damage. Regular checks every 1-3 years are also recommended."
+      }
+    }
+  ],
+  "description": "Get a professional roof inspection after severe weather, before buying/selling a home, or if you notice damage. Regular checks every 1-3 years are also recommen"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/do-i-need-to-be-present-during-the-roof-inspection",
+  "name": "Do I need to be present during the roof inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be present during the roof inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While you are not required to be present during the roof inspection, it can be beneficial to be there. Being present allows you to ask the inspector questions directly, understand their findings in real-time, and get a visual explanation of any issues. This direct communication can help you better understand the report and make informed decisions about potential repairs or negotiations. If you cannot be present, ensure you receive a comprehensive written report and have a contact for follow-up questions.",
+        "@type": "Answer",
+        "description": "You don't have to be present, but attending allows you to ask questions and understand findings directly, aiding in decision-making."
+      }
+    }
+  ],
+  "description": "You don't have to be present, but attending allows you to ask questions and understand findings directly, aiding in decision-making."
+}

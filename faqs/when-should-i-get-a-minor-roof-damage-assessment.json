@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-a-minor-roof-damage-assessment",
+  "name": "When should I get a minor roof damage assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a minor roof damage assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should get a minor roof damage assessment after any significant weather event, such as a hailstorm or strong winds, or if you notice small signs of wear like granular loss on shingles. Prompt assessments help identify issues before they worsen, potentially saving you from more extensive and expensive repairs later. Consider an assessment if you observe any visible changes from the ground.",
+        "@type": "Answer",
+        "description": "Get an assessment after significant weather or if you notice signs of wear like granular loss to prevent further damage."
+      }
+    }
+  ],
+  "description": "Get an assessment after significant weather or if you notice signs of wear like granular loss to prevent further damage."
+}

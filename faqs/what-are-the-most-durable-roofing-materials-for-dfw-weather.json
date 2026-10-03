@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-most-durable-roofing-materials-for-dfw-weather",
+  "name": "What are the most durable roofing materials for DFW weather?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the most durable roofing materials for DFW weather?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For DFW's varied weather, which can include hail, high winds, and intense heat, durable roofing materials are essential. Impact-resistant asphalt shingles (Class 4 rated) offer enhanced protection against hail. Metal roofing is another excellent choice due to its longevity and resistance to extreme weather conditions. TPO/PVC roofs are often used for flat or low-slope commercial properties and provide good UV and heat resistance. Discounted Roofing Co. will recommend specific materials and products rated for local conditions in the DFW metroplex during your consultation.",
+        "@type": "Answer",
+        "description": "Impact-resistant asphalt shingles (Class 4) and metal roofing are highly durable for DFW weather, resisting hail, wind, and heat. TPO/PVC suits flat roofs."
+      }
+    }
+  ],
+  "description": "Impact-resistant asphalt shingles (Class 4) and metal roofing are highly durable for DFW weather, resisting hail, wind, and heat. TPO/PVC suits flat roofs."
+}

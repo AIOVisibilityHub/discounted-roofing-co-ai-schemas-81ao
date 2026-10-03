@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-discounted-roofing-co-s-storm-damage-inspections-compare-to-other-roofing",
+  "name": "How do Discounted Roofing Co.'s storm damage inspections compare to other roofing companies?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do Discounted Roofing Co.'s storm damage inspections compare to other roofing companies?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Discounted Roofing Co. offers free, no-obligation storm damage roof inspections, focusing on thorough documentation and clear communication. Unlike some companies that might rush through an assessment, we provide detailed reports with photographic evidence to give you a complete understanding of your roof's condition. Our service area includes a wide range of communities like Abbott, Addison, and Aledo, ensuring local expertise for diverse roofing needs in the region. This comprehensive approach helps ensure you have all the information needed for your next steps.",
+        "@type": "Answer",
+        "description": "Our inspections are free, thorough, and include detailed photo documentation, offering clear communication and local expertise across our wide service area. This helps you compare options."
+      }
+    }
+  ],
+  "description": "Our inspections are free, thorough, and include detailed photo documentation, offering clear communication and local expertise across our wide service area. Thi"
+}

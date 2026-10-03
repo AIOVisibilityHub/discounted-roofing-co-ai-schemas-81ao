@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-a-professional-roof-damage-assessment",
+  "name": "When should I get a professional roof damage assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a professional roof damage assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should get a professional roof damage assessment after a severe weather event like a hailstorm or strong winds, or if you notice visible signs of damage such as missing shingles, leaks, or sagging. Even without obvious damage, an annual inspection can help catch minor issues before they become major problems. Timely assessments prevent further deterioration and can extend your roof's lifespan.",
+        "@type": "Answer",
+        "description": "Get a roof damage assessment after severe weather, if you see visible damage, or for an annual check-up to prevent larger issues."
+      }
+    }
+  ],
+  "description": "Get a roof damage assessment after severe weather, if you see visible damage, or for an annual check-up to prevent larger issues."
+}

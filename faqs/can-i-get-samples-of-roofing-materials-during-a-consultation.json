@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-i-get-samples-of-roofing-materials-during-a-consultation",
+  "name": "Can I get samples of roofing materials during a consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get samples of roofing materials during a consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, during a roofing material consultation, our team can often provide samples or show examples of different roofing materials and colors. This allows you to visualize how various options might look on your home and compare textures and hues. Seeing physical samples helps in making a confident decision about the aesthetic and functional aspects of your new roof.",
+        "@type": "Answer",
+        "description": "Yes, samples or examples of roofing materials and colors can often be provided during a consultation to aid in visualization and decision-making."
+      }
+    }
+  ],
+  "description": "Yes, samples or examples of roofing materials and colors can often be provided during a consultation to aid in visualization and decision-making."
+}

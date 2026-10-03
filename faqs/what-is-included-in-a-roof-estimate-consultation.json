@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-included-in-a-roof-estimate-consultation",
+  "name": "What is included in a roof estimate consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a roof estimate consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roof estimate consultation typically includes a thorough inspection of your existing roof to assess its condition, identify any damage, and determine the scope of work required. Our team at Discounted Roofing Co. will examine the roof structure, materials, and potential issues like leaks or missing shingles. We then provide a detailed proposal outlining the recommended services, material options, and a clear cost breakdown. This helps you understand the necessary repairs or replacement without any hidden fees.",
+        "@type": "Answer",
+        "description": "A roof estimate consultation involves a comprehensive inspection of your current roof and a detailed proposal outlining recommended services, material options, and costs."
+      }
+    }
+  ],
+  "description": "A roof estimate consultation involves a comprehensive inspection of your current roof and a detailed proposal outlining recommended services, material options,"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-roof-material-condition-assessment-take",
+  "name": "How long does a roof material condition assessment take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a roof material condition assessment take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a roof material condition assessment varies depending on the size and complexity of your roof. Typically, a standard residential assessment can take between 30 minutes to 1.5 hours. Commercial properties or roofs with multiple levels and intricate designs may require more time. This Process Clarity helps you understand the commitment for the inspection. We strive to complete the assessment efficiently while ensuring thoroughness.",
+        "@type": "Answer",
+        "description": "A typical residential assessment takes 30 minutes to 1.5 hours, depending on roof size and complexity."
+      }
+    }
+  ],
+  "description": "A typical residential assessment takes 30 minutes to 1.5 hours, depending on roof size and complexity."
+}

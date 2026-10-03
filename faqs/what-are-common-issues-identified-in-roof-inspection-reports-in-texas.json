@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-common-issues-identified-in-roof-inspection-reports-in-texas",
+  "name": "What are common issues identified in roof inspection reports in Texas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common issues identified in roof inspection reports in Texas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common issues identified in roof inspection reports across Texas often include hail damage, wind uplift, sun damage, and leaks caused by extreme weather fluctuations. Granule loss on shingles, cracked flashing, and damage to vents are also frequently noted. Understanding these common regional problems helps Discounted Roofing Co. inspectors focus on key areas, providing accurate assessments specific to the local climate challenges.",
+        "@type": "Answer",
+        "description": "Common roof issues in Texas reports include hail damage, wind uplift, sun damage, and leaks, frequently leading to granule loss or cracked flashing."
+      }
+    }
+  ],
+  "description": "Common roof issues in Texas reports include hail damage, wind uplift, sun damage, and leaks, frequently leading to granule loss or cracked flashing."
+}

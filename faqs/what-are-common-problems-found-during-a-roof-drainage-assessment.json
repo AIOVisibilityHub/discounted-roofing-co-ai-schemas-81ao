@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-common-problems-found-during-a-roof-drainage-assessment",
+  "name": "What are common problems found during a roof drainage assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common problems found during a roof drainage assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common problems include clogged gutters and downspouts from leaves and debris, improper gutter pitch causing water to sit, damaged or disconnected downspouts, insufficient number of downspouts for the roof area, and damaged fascia or soffit due to water overflow. Also, improper roof slope or sagging areas can cause water to pool directly on the roof surface. These issues are often more pronounced in older homes or properties not regularly maintained, which is a frequent observation for properties we service across DFW.",
+        "@type": "Answer",
+        "description": "Common issues include clogged gutters, improper pitch, damaged downspouts, insufficient downspouts, and roof pooling due to improper slope or sagging. These are frequent in older homes."
+      }
+    }
+  ],
+  "description": "Common issues include clogged gutters, improper pitch, damaged downspouts, insufficient downspouts, and roof pooling due to improper slope or sagging. These are"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-benefits-of-a-professional-roof-deck-assessment",
+  "name": "What are the benefits of a professional roof deck assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of a professional roof deck assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A professional roof deck assessment offers several key benefits. It ensures the structural integrity of your roof, helps avoid unexpected costs during reroofing, and can extend the lifespan of your new roof by ensuring it's installed on a solid foundation. Our detailed reports provide clarity on existing conditions, enabling informed decisions and helping you prioritize necessary repairs, which is particularly useful for insurance claims or property sales.",
+        "@type": "Answer",
+        "description": "Benefits include ensuring structural integrity, avoiding unexpected reroofing costs, and extending the new roof's lifespan by identifying necessary repairs."
+      }
+    }
+  ],
+  "description": "Benefits include ensuring structural integrity, avoiding unexpected reroofing costs, and extending the new roof's lifespan by identifying necessary repairs."
+}

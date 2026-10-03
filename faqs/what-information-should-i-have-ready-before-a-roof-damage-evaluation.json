@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-information-should-i-have-ready-before-a-roof-damage-evaluation",
+  "name": "What information should I have ready before a roof damage evaluation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I have ready before a roof damage evaluation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your evaluation, it's helpful to gather any information about your roof's history, such as its age, previous repairs, or installation dates. If you've experienced recent storms, noting the date can be useful. This preparation helps our inspectors provide a more accurate assessment and better understand potential causes of damage.",
+        "@type": "Answer",
+        "description": "Have your roof's age and repair history ready. Note recent storm dates to help inspectors with their assessment."
+      }
+    }
+  ],
+  "description": "Have your roof's age and repair history ready. Note recent storm dates to help inspectors with their assessment."
+}

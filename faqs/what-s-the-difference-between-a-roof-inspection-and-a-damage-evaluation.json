@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-s-the-difference-between-a-roof-inspection-and-a-damage-evaluation",
+  "name": "What's the difference between a roof inspection and a damage evaluation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a roof inspection and a damage evaluation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While both assess the roof's condition, a general roof inspection often focuses on routine maintenance and longevity, looking for wear and tear. A roof damage evaluation, however, specifically aims to identify and document damage, often post-event like a storm, to determine if repairs or insurance claims are necessary. The latter is more focused on identifying specific issues that compromise the roof's integrity due to an incident.",
+        "@type": "Answer",
+        "description": "An inspection checks general wear, while a damage evaluation specifically identifies and documents damage, often after an event, for repairs or insurance."
+      }
+    }
+  ],
+  "description": "An inspection checks general wear, while a damage evaluation specifically identifies and documents damage, often after an event, for repairs or insurance."
+}

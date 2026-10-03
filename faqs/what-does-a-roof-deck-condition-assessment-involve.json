@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-does-a-roof-deck-condition-assessment-involve",
+  "name": "What does a roof deck condition assessment involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a roof deck condition assessment involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roof deck condition assessment typically involves a thorough visual inspection of the roof deck from both the interior (if accessible, like an attic) and exterior. Our inspectors look for signs of water damage, rot, structural issues, and fastener performance. We document findings with photos and a detailed report, which includes recommendations for repairs or replacement. This process provides clear insight into the deck's current state.",
+        "@type": "Answer",
+        "description": "An assessment involves visual inspection from interior and exterior, looking for damage, and results in a detailed report with recommendations."
+      }
+    }
+  ],
+  "description": "An assessment involves visual inspection from interior and exterior, looking for damage, and results in a detailed report with recommendations."
+}

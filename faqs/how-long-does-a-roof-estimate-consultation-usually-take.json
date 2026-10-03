@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-roof-estimate-consultation-usually-take",
+  "name": "How long does a roof estimate consultation usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a roof estimate consultation usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a roof estimate consultation can vary depending on the size and complexity of your roof. Generally, our consultations at Discounted Roofing Co. take between 30 minutes to an hour. This allows our inspectors enough time to conduct a thorough examination and discuss your specific needs and concerns. The process is designed to be efficient while ensuring all necessary details are covered to provide an accurate estimate.",
+        "@type": "Answer",
+        "description": "A roof estimate consultation typically takes 30 minutes to an hour, depending on the roof's size and complexity, to allow for a thorough inspection and discussion."
+      }
+    }
+  ],
+  "description": "A roof estimate consultation typically takes 30 minutes to an hour, depending on the roof's size and complexity, to allow for a thorough inspection and discussi"
+}

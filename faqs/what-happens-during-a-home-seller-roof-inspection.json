@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-during-a-home-seller-roof-inspection",
+  "name": "What happens during a home seller roof inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during a home seller roof inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a home seller roof inspection, a qualified professional will thoroughly examine all components of your roof, including shingles, flashing, gutters, vents, and the underlying structure. They look for signs of damage, wear, leaks, and potential weak points. After the visual and physical assessment, you will receive a detailed report outlining any findings, recommended repairs, and their estimated costs. This report helps you decide on necessary actions before listing your home.",
+        "@type": "Answer",
+        "description": "An inspection involves a thorough examination of your roof's components for damage or wear. You'll receive a detailed report with findings and repair recommendations."
+      }
+    }
+  ],
+  "description": "An inspection involves a thorough examination of your roof's components for damage or wear. You'll receive a detailed report with findings and repair recommenda"
+}

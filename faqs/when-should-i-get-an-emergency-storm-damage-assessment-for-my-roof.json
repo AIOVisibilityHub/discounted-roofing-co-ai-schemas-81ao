@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-an-emergency-storm-damage-assessment-for-my-roof",
+  "name": "When should I get an emergency storm damage assessment for my roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get an emergency storm damage assessment for my roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should seek an emergency storm damage assessment immediately after severe weather events like hailstorms, strong winds, or heavy rain, especially if you notice visible damage such as missing shingles, leaks, or debris on your roof. Early assessment helps prevent minor issues from escalating into major structural problems. Discounted Roofing Co. prioritizes rapid response for these assessments to help you understand the extent of damage quickly and plan necessary repairs.",
+        "@type": "Answer",
+        "description": "Get an emergency storm damage assessment immediately after severe weather if you suspect roof damage, like missing shingles or leaks. Prompt assessment helps prevent further issues and allows for quick repair planning."
+      }
+    }
+  ],
+  "description": "Get an emergency storm damage assessment immediately after severe weather if you suspect roof damage, like missing shingles or leaks. Prompt assessment helps pr"
+}

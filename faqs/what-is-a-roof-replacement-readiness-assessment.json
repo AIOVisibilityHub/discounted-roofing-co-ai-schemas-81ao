@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-roof-replacement-readiness-assessment",
+  "name": "What is a roof replacement readiness assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a roof replacement readiness assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roof replacement readiness assessment is a comprehensive inspection of your existing roof to determine its current condition, identify any damage or weaknesses, and evaluate if a full replacement is necessary. This assessment helps determine the scope of work, material options, and potential challenges before beginning a project. It also provides insights into the remaining lifespan of your roof and helps you plan for future roofing needs.",
+        "@type": "Answer",
+        "description": "It's an inspection to assess your roof's condition, identify damage, and determine if replacement is necessary."
+      }
+    }
+  ],
+  "description": "It's an inspection to assess your roof's condition, identify damage, and determine if replacement is necessary."
+}

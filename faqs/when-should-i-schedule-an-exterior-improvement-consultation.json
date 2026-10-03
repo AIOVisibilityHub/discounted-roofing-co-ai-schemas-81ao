@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-schedule-an-exterior-improvement-consultation",
+  "name": "When should I schedule an exterior improvement consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I schedule an exterior improvement consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should schedule an exterior improvement consultation if you notice visible damage, experience leaks, plan a renovation, or suspect your home's exterior is nearing the end of its lifespan. It's also beneficial after severe weather events common in areas like Fort Worth or Dallas. Early consultation helps identify minor issues before they become costly major repairs, and provides a baseline for planning future projects.",
+        "@type": "Answer",
+        "description": "Schedule a consultation if you observe damage, leaks, are planning renovations, or after severe weather to address issues proactively."
+      }
+    }
+  ],
+  "description": "Schedule a consultation if you observe damage, leaks, are planning renovations, or after severe weather to address issues proactively."
+}

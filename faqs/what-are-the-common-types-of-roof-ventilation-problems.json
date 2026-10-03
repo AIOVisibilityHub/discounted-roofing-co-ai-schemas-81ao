@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-common-types-of-roof-ventilation-problems",
+  "name": "What are the common types of roof ventilation problems?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common types of roof ventilation problems?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common problems include insufficient intake or exhaust vents, blocked vents due to insulation or debris, improperly sized vents for the attic space, and unbalanced ventilation where intake and exhaust are not proportionate. Another issue is passive ventilation systems being overwhelmed by high temperatures, especially in regions like DFW. Identifying the specific problem is crucial for selecting the right corrective action.",
+        "@type": "Answer",
+        "description": "Common problems include insufficient, blocked, or improperly sized vents, and unbalanced or overwhelmed passive systems."
+      }
+    }
+  ],
+  "description": "Common problems include insufficient, blocked, or improperly sized vents, and unbalanced or overwhelmed passive systems."
+}

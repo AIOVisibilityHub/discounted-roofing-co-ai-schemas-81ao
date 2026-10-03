@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/why-should-i-choose-discounted-roofing-co-for-my-roof-damage-evaluation-in-dfw",
+  "name": "Why should I choose Discounted Roofing Co. for my roof damage evaluation in DFW?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why should I choose Discounted Roofing Co. for my roof damage evaluation in DFW?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing Discounted Roofing Co. for your DFW roof damage evaluation means benefiting from local expertise in identifying common storm-related issues specific to the Dallas-Fort Worth area. We understand the local weather patterns and building codes, ensuring a precise assessment and reliable recommendations. Our team is familiar with the types of damage prevalent in regions like Dallas, Fort Worth, and Plano.",
+        "@type": "Answer",
+        "description": "Choose us in DFW for local expertise in storm damage and building codes, specific to Dallas-Fort Worth weather patterns."
+      }
+    }
+  ],
+  "description": "Choose us in DFW for local expertise in storm damage and building codes, specific to Dallas-Fort Worth weather patterns."
+}

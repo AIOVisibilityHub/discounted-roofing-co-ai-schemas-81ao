@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-schedule-a-roofing-project-scope-consultation",
+  "name": "When should I schedule a roofing project scope consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I schedule a roofing project scope consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should schedule a roofing project scope consultation if you notice signs of roof damage, leaks, or if your roof is nearing its expected lifespan. It is also advisable before purchasing a new home or after a significant weather event in areas like DFW. Scheduling one with Discounted Roofing Co. allows for a professional assessment to determine if a minor repair, major renovation, or full replacement is necessary, helping you plan effectively.",
+        "@type": "Answer",
+        "description": "Schedule a consultation if you notice damage, leaks, or if your roof is old, especially after DFW area weather events."
+      }
+    }
+  ],
+  "description": "Schedule a consultation if you notice damage, leaks, or if your roof is old, especially after DFW area weather events."
+}

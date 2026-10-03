@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-signs-that-my-roof-flashing-needs-repair-or-replacement",
+  "name": "What are the signs that my roof flashing needs repair or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my roof flashing needs repair or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs your roof flashing may need attention include visible rust, cracks, buckling, or missing sections around chimneys, vents, or skylights. Inside your home, water stains on ceilings or walls near roof penetrations are strong indicators of flashing failure. Catching these signs early can prevent more extensive water damage. During our assessments, we look for these specific indicators to provide a precise diagnosis and recommend the most effective solution.",
+        "@type": "Answer",
+        "description": "Visible rust, cracks, buckling, or missing flashing, along with water stains on interior ceilings or walls, indicate a need for repair or replacement."
+      }
+    }
+  ],
+  "description": "Visible rust, cracks, buckling, or missing flashing, along with water stains on interior ceilings or walls, indicate a need for repair or replacement."
+}

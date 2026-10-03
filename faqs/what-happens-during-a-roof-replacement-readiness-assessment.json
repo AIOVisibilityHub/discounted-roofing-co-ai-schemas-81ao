@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-during-a-roof-replacement-readiness-assessment",
+  "name": "What happens during a roof replacement readiness assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during a roof replacement readiness assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a roof replacement readiness assessment, a professional inspector will examine your entire roof, including the shingles, underlayment, flashing, gutters, and ventilation. They will look for signs of damage, leaks, structural issues, and areas of concern. This typically includes attic inspections if accessible, to check for water intrusion or poor ventilation. The assessment concludes with a detailed report outlining findings and recommendations. Our inspectors prioritize safety and thoroughness to provide an accurate evaluation.",
+        "@type": "Answer",
+        "description": "An inspector examines your roof's components, identifies damage, and provides a detailed report."
+      }
+    }
+  ],
+  "description": "An inspector examines your roof's components, identifies damage, and provides a detailed report."
+}

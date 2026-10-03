@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-information-should-i-have-ready-for-my-roofing-consultation",
+  "name": "What information should I have ready for my roofing consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I have ready for my roofing consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your roofing consultation, it's helpful to have a general understanding of your roof's age and any past repair history. You should also note specific areas of concern, such as leaks or visible damage, and be prepared to discuss your budget and desired timeline. This preparation helps Discounted Roofing Co. tailor the assessment and recommendations more effectively to your situation.",
+        "@type": "Answer",
+        "description": "Have your roof's age, repair history, specific concerns, budget, and timeline ready for the consultation."
+      }
+    }
+  ],
+  "description": "Have your roof's age, repair history, specific concerns, budget, and timeline ready for the consultation."
+}

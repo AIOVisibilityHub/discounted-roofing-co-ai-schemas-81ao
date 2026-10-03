@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/who-performs-pre-purchase-roof-inspections-for-discounted-roofing-co",
+  "name": "Who performs pre-purchase roof inspections for Discounted Roofing Co.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Who performs pre-purchase roof inspections for Discounted Roofing Co.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our pre-purchase roof inspections are conducted by experienced and trained roofing professionals. These inspectors have a deep understanding of various roofing systems and are skilled at identifying subtle signs of damage or deterioration. They are equipped to provide an unbiased assessment of the roof's condition. We ensure our team is knowledgeable about local building codes and common weather-related impacts in areas like Arlington and Plano.",
+        "@type": "Answer",
+        "description": "Our pre-purchase roof inspections are performed by experienced roofing professionals who are trained to identify damage and assess roof condition."
+      }
+    }
+  ],
+  "description": "Our pre-purchase roof inspections are performed by experienced roofing professionals who are trained to identify damage and assess roof condition."
+}

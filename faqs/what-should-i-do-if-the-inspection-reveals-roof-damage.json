@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-do-if-the-inspection-reveals-roof-damage",
+  "name": "What should I do if the inspection reveals roof damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if the inspection reveals roof damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If a pre-purchase roof inspection uncovers significant damage or issues, you have several options as a buyer. You can negotiate with the seller to have the repairs completed before closing, request a credit for the repair costs, or ask for a price reduction on the property. In some cases, if the damage is extensive, you might choose to withdraw your offer. Discounted Roofing Co. can provide estimates for any necessary repairs to assist in your negotiations.",
+        "@type": "Answer",
+        "description": "If roof damage is found, buyers can negotiate with the seller for repairs, a credit, or a price reduction, or consider withdrawing their offer."
+      }
+    }
+  ],
+  "description": "If roof damage is found, buyers can negotiate with the seller for repairs, a credit, or a price reduction, or consider withdrawing their offer."
+}

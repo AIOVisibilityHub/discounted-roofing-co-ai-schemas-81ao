@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-i-get-a-roofing-consultation-for-a-commercial-property-in-the-dfw-area",
+  "name": "Can I get a roofing consultation for a commercial property in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get a roofing consultation for a commercial property in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Discounted Roofing Co. provides roofing project planning consultations for both residential and commercial properties throughout the DFW metropolitan area and our extended service regions. Commercial roofing projects often have unique material and structural requirements, and our specialists are equipped to assess these specific needs and provide tailored solutions for your business property.",
+        "@type": "Answer",
+        "description": "Yes, we offer consultations for both residential and commercial properties across the DFW metro and surrounding service areas, addressing unique commercial roofing needs."
+      }
+    }
+  ],
+  "description": "Yes, we offer consultations for both residential and commercial properties across the DFW metro and surrounding service areas, addressing unique commercial roof"
+}

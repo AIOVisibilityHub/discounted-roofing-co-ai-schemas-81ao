@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-roofing-system-selection-consultation-typically-take",
+  "name": "How long does a roofing system selection consultation typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a roofing system selection consultation typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical roofing system selection consultation with Discounted Roofing Co. usually takes between 60 to 90 minutes. This allows our specialist enough time to thoroughly inspect your roof, discuss your preferences, explain various material options, and answer all your questions without rushing. The duration can vary based on roof complexity and your specific inquiries.",
+        "@type": "Answer",
+        "description": "Consultations typically take 60-90 minutes. This allows for thorough inspection, discussion of preferences, and explanations of material options."
+      }
+    }
+  ],
+  "description": "Consultations typically take 60-90 minutes. This allows for thorough inspection, discussion of preferences, and explanations of material options."
+}

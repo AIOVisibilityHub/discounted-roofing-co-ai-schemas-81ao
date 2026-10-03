@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-cost-difference-between-roof-repair-and-full-roof-replacement",
+  "name": "What is the cost difference between roof repair and full roof replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost difference between roof repair and full roof replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost difference between repair and replacement varies significantly based on the scope of work. Repairs typically range from a few hundred to a few thousand dollars, addressing isolated issues. A full replacement can cost considerably more, depending on the roof size, material chosen, and labor involved. While repair is cheaper upfront, frequent repairs on an old roof can become more costly over time than a single replacement. We provide detailed estimates for both options, allowing you to compare long-term value.",
+        "@type": "Answer",
+        "description": "Repairs are generally less expensive upfront but a full replacement offers long-term value, especially for older or extensively damaged roofs."
+      }
+    }
+  ],
+  "description": "Repairs are generally less expensive upfront but a full replacement offers long-term value, especially for older or extensively damaged roofs."
+}

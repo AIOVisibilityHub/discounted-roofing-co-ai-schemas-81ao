@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-if-adverse-weather-occurs-during-my-roofing-project",
+  "name": "What happens if adverse weather occurs during my roofing project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if adverse weather occurs during my roofing project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If adverse weather, such as heavy rain or strong winds, occurs during your roofing project, our team will take immediate steps to protect your property from water intrusion and secure any loose materials. Work will be temporarily halted and resumed as soon as conditions are safe and suitable for continuing. We prioritize safety and property protection above all else, ensuring minimal disruption.",
+        "@type": "Answer",
+        "description": "Work halts during adverse weather; we secure your property and resume when conditions are safe."
+      }
+    }
+  ],
+  "description": "Work halts during adverse weather; we secure your property and resume when conditions are safe."
+}

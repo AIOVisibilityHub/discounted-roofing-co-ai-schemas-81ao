@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-pre-purchase-roof-inspection",
+  "name": "What is a pre-purchase roof inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a pre-purchase roof inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pre-purchase roof inspection is a thorough evaluation of a home's roofing system conducted by a qualified professional before a property sale is finalized. This inspection aims to identify the current condition of the roof, potential issues, remaining lifespan, and any necessary repairs or replacements. Understanding the roof's status is crucial for a buyer to avoid unexpected costs post-purchase. Discounted Roofing Co. provides detailed reports to help buyers make informed decisions.",
+        "@type": "Answer",
+        "description": "A pre-purchase roof inspection assesses the condition, potential issues, and remaining lifespan of a home's roof before a property sale."
+      }
+    }
+  ],
+  "description": "A pre-purchase roof inspection assesses the condition, potential issues, and remaining lifespan of a home's roof before a property sale."
+}

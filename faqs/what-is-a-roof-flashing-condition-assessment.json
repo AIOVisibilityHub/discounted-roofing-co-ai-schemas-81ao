@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-roof-flashing-condition-assessment",
+  "name": "What is a roof flashing condition assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a roof flashing condition assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roof flashing condition assessment involves a detailed inspection of the flashing components on your roof. Flashing is crucial for sealing vulnerable areas like chimneys, vents, and skylights against water intrusion. This assessment identifies damage, corrosion, improper installation, or wear, which can lead to leaks. Discounted Roofing Co. specializes in identifying these specific points of failure to recommend targeted repairs or replacement, helping to extend the lifespan of your roof and prevent costly water damage inside your property.",
+        "@type": "Answer",
+        "description": "A roof flashing condition assessment is an inspection of your roof's flashing components to identify damage or improper installation that could lead to leaks."
+      }
+    }
+  ],
+  "description": "A roof flashing condition assessment is an inspection of your roof's flashing components to identify damage or improper installation that could lead to leaks."
+}

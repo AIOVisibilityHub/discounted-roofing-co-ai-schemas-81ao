@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-considered-minor-roof-damage",
+  "name": "What is considered minor roof damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is considered minor roof damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor roof damage typically includes isolated issues like a few missing or cracked shingles, small dents from hail, or minor flashing separation. These issues are localized and do not immediately compromise the entire roof structure. Identifying minor damage early can prevent it from escalating into more significant and costly repairs.",
+        "@type": "Answer",
+        "description": "Minor roof damage includes localized issues like missing shingles, small hail dents, or minor flashing separation that don't compromise the entire roof."
+      }
+    }
+  ],
+  "description": "Minor roof damage includes localized issues like missing shingles, small hail dents, or minor flashing separation that don't compromise the entire roof."
+}

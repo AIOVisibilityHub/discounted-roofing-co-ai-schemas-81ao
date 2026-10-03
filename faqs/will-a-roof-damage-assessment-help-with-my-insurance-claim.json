@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-a-roof-damage-assessment-help-with-my-insurance-claim",
+  "name": "Will a roof damage assessment help with my insurance claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a roof damage assessment help with my insurance claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a detailed roof damage assessment is crucial for supporting an insurance claim. Our reports provide comprehensive documentation, including photos and descriptions of damage, which insurers often require. We can help you understand the damage identified and provide the necessary information for your claim, streamlining the process with your insurance provider. This documentation is essential for demonstrating the extent of loss.",
+        "@type": "Answer",
+        "description": "Yes, a detailed roof damage assessment provides crucial documentation and support for your insurance claim."
+      }
+    }
+  ],
+  "description": "Yes, a detailed roof damage assessment provides crucial documentation and support for your insurance claim."
+}

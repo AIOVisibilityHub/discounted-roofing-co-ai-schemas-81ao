@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/are-there-energy-efficient-roofing-options-available",
+  "name": "Are there energy-efficient roofing options available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there energy-efficient roofing options available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, there are several energy-efficient roofing options available. Materials like light-colored asphalt shingles, metal roofs, and TPO membranes can reflect more sunlight, reducing heat absorption and potentially lowering your cooling costs in warmer DFW months. During your consultation, we can discuss specific products and their potential energy savings.",
+        "@type": "Answer",
+        "description": "Energy-efficient roofing options like light-colored asphalt, metal, and TPO can reduce heat absorption and cooling costs. We discuss these during consultations."
+      }
+    }
+  ],
+  "description": "Energy-efficient roofing options like light-colored asphalt, metal, and TPO can reduce heat absorption and cooling costs. We discuss these during consultations."
+}

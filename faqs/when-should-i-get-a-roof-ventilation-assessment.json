@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-a-roof-ventilation-assessment",
+  "name": "When should I get a roof ventilation assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a roof ventilation assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a roof ventilation assessment if you notice high energy bills, attic temperatures significantly hotter than outside, ice dams in winter (if applicable in your climate), or signs of moisture like mold or mildew in your attic. It's also a good idea if your roof is nearing the end of its lifespan or after a major renovation. Discounted Roofing Co. often performs these during a routine roof inspection.",
+        "@type": "Answer",
+        "description": "Get an assessment if you have high energy bills, an excessively hot attic, or signs of moisture; also recommended during roof inspections."
+      }
+    }
+  ],
+  "description": "Get an assessment if you have high energy bills, an excessively hot attic, or signs of moisture; also recommended during roof inspections."
+}

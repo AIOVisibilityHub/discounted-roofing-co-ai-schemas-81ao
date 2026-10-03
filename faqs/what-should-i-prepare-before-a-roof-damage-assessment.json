@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-prepare-before-a-roof-damage-assessment",
+  "name": "What should I prepare before a roof damage assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a roof damage assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a roof damage assessment, ensure clear access to your roof and the area around your home for our inspectors. It's helpful to gather any relevant documentation, such as your insurance policy information, photos of the damage if you have them, and the date the damage occurred. Moving vehicles or outdoor furniture away from the house can also facilitate a safer and more efficient inspection. This preparation allows our team to focus directly on the assessment without obstacles.",
+        "@type": "Answer",
+        "description": "Prepare by ensuring clear access to your roof and yard, and have insurance documents or damage photos ready for the assessment."
+      }
+    }
+  ],
+  "description": "Prepare by ensuring clear access to your roof and yard, and have insurance documents or damage photos ready for the assessment."
+}

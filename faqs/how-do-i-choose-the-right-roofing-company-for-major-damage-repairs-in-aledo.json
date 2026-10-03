@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-the-right-roofing-company-for-major-damage-repairs-in-aledo",
+  "name": "How do I choose the right roofing company for major damage repairs in Aledo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right roofing company for major damage repairs in Aledo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a roofing company for major damage repairs in Aledo, look for contractors with strong local reputations, proper licensing, and comprehensive insurance. Prioritize companies that offer transparent estimates and provide references from satisfied customers in the area. It's also beneficial to select a company experienced with insurance claims processes, as major damage often involves working with adjusters. Discounted Roofing Co. focuses on transparent communication and quality workmanship, ensuring peace of mind throughout your repair project.",
+        "@type": "Answer",
+        "description": "In Aledo, choose a roofing company with a strong local reputation, proper licensing, insurance, transparent estimates, and experience with insurance claims."
+      }
+    }
+  ],
+  "description": "In Aledo, choose a roofing company with a strong local reputation, proper licensing, insurance, transparent estimates, and experience with insurance claims."
+}

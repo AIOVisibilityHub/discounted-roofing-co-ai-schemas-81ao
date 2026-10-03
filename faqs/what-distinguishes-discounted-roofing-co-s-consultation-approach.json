@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-distinguishes-discounted-roofing-co-s-consultation-approach",
+  "name": "What distinguishes Discounted Roofing Co.'s consultation approach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What distinguishes Discounted Roofing Co.'s consultation approach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Discounted Roofing Co.'s consultation approach focuses on providing honest, transparent assessments tailored to the specific needs and conditions of homes in the DFW service area. We prioritize educating homeowners about their options and offer solutions that balance quality and cost-effectiveness. Our extensive service footprint across numerous cities, from Abbott to Wylie, means we understand regional building considerations and common local issues.",
+        "@type": "Answer",
+        "description": "Our approach offers honest, transparent assessments tailored to DFW homes, educating homeowners on options that balance quality and cost-effectiveness."
+      }
+    }
+  ],
+  "description": "Our approach offers honest, transparent assessments tailored to DFW homes, educating homeowners on options that balance quality and cost-effectiveness."
+}

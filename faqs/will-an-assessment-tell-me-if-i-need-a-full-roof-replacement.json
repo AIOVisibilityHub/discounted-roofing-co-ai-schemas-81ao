@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-an-assessment-tell-me-if-i-need-a-full-roof-replacement",
+  "name": "Will an assessment tell me if I need a full roof replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will an assessment tell me if I need a full roof replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a primary outcome of a roof material condition assessment is to determine if repairs are sufficient or if a full roof replacement is necessary. The assessment provides detailed findings on the extent of damage, the age of the roof, and the overall integrity of the materials. This serves as a critical Decision Factor, helping you understand the most cost-effective and structurally sound solution for your property, based on a professional evaluation.",
+        "@type": "Answer",
+        "description": "Yes, an assessment will determine if repairs are sufficient or if a full roof replacement is needed."
+      }
+    }
+  ],
+  "description": "Yes, an assessment will determine if repairs are sufficient or if a full roof replacement is needed."
+}

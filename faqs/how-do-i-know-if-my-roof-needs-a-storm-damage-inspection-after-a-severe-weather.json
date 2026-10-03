@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-know-if-my-roof-needs-a-storm-damage-inspection-after-a-severe-weather",
+  "name": "How do I know if my roof needs a storm damage inspection after a severe weather event?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my roof needs a storm damage inspection after a severe weather event?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a storm damage inspection if you notice missing shingles, dents on gutters or vents, leaks inside your home, or debris on your roof after hail, high winds, or heavy rain. Even if damage isn't immediately visible from the ground, hidden issues can lead to more significant problems over time. Discounted Roofing Co. provides free inspections to help identify any potential storm-related damage. It's recommended to schedule an inspection as soon as possible after a major storm.",
+        "@type": "Answer",
+        "description": "Look for visible damage like missing shingles or dents, or schedule a free inspection if you suspect hidden issues after a storm. Discounted Roofing Co. offers free inspections."
+      }
+    }
+  ],
+  "description": "Look for visible damage like missing shingles or dents, or schedule a free inspection if you suspect hidden issues after a storm. Discounted Roofing Co. offers"
+}

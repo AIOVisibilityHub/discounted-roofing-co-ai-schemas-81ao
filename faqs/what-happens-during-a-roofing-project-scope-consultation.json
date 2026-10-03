@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-during-a-roofing-project-scope-consultation",
+  "name": "What happens during a roofing project scope consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during a roofing project scope consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a roofing project scope consultation, a specialist will conduct a thorough visual inspection of your roof, both interior (attic, if accessible) and exterior. They will identify damage, measure the roof, and document findings. This includes assessing factors like shingle condition, flashing integrity, and drainage. Based on this, Discounted Roofing Co. will outline the recommended scope of work, potential materials, and next steps.",
+        "@type": "Answer",
+        "description": "A specialist will inspect your roof, identify damage, measure, and document findings to outline the recommended scope of work."
+      }
+    }
+  ],
+  "description": "A specialist will inspect your roof, identify damage, measure, and document findings to outline the recommended scope of work."
+}

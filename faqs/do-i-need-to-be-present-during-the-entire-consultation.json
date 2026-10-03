@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/do-i-need-to-be-present-during-the-entire-consultation",
+  "name": "Do I need to be present during the entire consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be present during the entire consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it is beneficial for you to be present during the entire consultation to discuss your needs and ask questions, it is not always strictly required for the initial exterior inspection. Our team can assess the exterior of your property independently. However, being present allows you to directly communicate your priorities, budget considerations, and any specific concerns, which helps our specialists tailor the best possible recommendations for your remodeling project.",
+        "@type": "Answer",
+        "description": "Being present is beneficial for discussing your needs and asking questions, though our team can conduct the initial exterior inspection independently if necessary."
+      }
+    }
+  ],
+  "description": "Being present is beneficial for discussing your needs and asking questions, though our team can conduct the initial exterior inspection independently if necessa"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-typical-storm-damage-roof-inspection-take",
+  "name": "How long does a typical storm damage roof inspection take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical storm damage roof inspection take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a storm damage roof inspection can vary depending on the size and complexity of your roof, as well as the extent of visible damage. Generally, our inspections take between 30 minutes to an hour. We aim to be thorough while respecting your time. Our inspectors work efficiently to assess all areas of your roof and property for storm-related issues.",
+        "@type": "Answer",
+        "description": "A storm damage roof inspection typically takes 30 minutes to an hour, depending on your roof's size and complexity. We aim for thoroughness and efficiency."
+      }
+    }
+  ],
+  "description": "A storm damage roof inspection typically takes 30 minutes to an hour, depending on your roof's size and complexity. We aim for thoroughness and efficiency."
+}

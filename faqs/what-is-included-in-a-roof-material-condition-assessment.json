@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-included-in-a-roof-material-condition-assessment",
+  "name": "What is included in a roof material condition assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a roof material condition assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A comprehensive roof material condition assessment typically includes an inspection of shingles, flashing, gutters, vents, and any visible structural elements. Our assessors look for signs of wear, cracks, missing materials, water damage, and proper drainage. We provide a detailed report outlining findings, recommended repairs, and an estimated timeline for service, which is a First-Party Insight into our specific process. This ensures you receive a thorough understanding of your roof's condition.",
+        "@type": "Answer",
+        "description": "It includes inspection of shingles, flashing, gutters, and vents for wear and damage, with a detailed report of findings."
+      }
+    }
+  ],
+  "description": "It includes inspection of shingles, flashing, gutters, and vents for wear and damage, with a detailed report of findings."
+}

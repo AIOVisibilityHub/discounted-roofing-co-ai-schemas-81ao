@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-my-insurance-cover-major-roof-damage-in-the-dfw-area",
+  "name": "Will my insurance cover major roof damage in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover major roof damage in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Insurance coverage for major roof damage in the DFW area typically depends on your specific policy and the cause of the damage, often covering sudden and accidental events like severe weather. It's important to review your policy details, including your deductible and coverage limits, before filing a claim. We can provide a detailed damage assessment report to help substantiate your claim with your insurance provider, making the process smoother. Understanding your policy's terms is a critical first step.",
+        "@type": "Answer",
+        "description": "Insurance coverage for major roof damage in the DFW area depends on your policy and the cause. Review your policy and deductible."
+      }
+    }
+  ],
+  "description": "Insurance coverage for major roof damage in the DFW area depends on your policy and the cause. Review your policy and deductible."
+}

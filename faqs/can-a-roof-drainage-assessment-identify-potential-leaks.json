@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-a-roof-drainage-assessment-identify-potential-leaks",
+  "name": "Can a roof drainage assessment identify potential leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a roof drainage assessment identify potential leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a roof drainage assessment can identify conditions that could lead to leaks or are already contributing to them. By observing water flow, pooling, and checking for damaged or clogged components, technicians can often pinpoint areas where water is improperly collecting or overflowing. These conditions can degrade roofing materials, flashing, and fascia, eventually causing water to penetrate the roof structure. The assessment can help identify these weak points before they become active leaks, aiding in preventative maintenance.",
+        "@type": "Answer",
+        "description": "Yes, an assessment can identify conditions like pooling or damaged components that lead to leaks. It helps pinpoint weak spots where water might penetrate the roof structure."
+      }
+    }
+  ],
+  "description": "Yes, an assessment can identify conditions like pooling or damaged components that lead to leaks. It helps pinpoint weak spots where water might penetrate the r"
+}

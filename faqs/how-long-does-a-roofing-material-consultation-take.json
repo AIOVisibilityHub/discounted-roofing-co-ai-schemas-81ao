@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-roofing-material-consultation-take",
+  "name": "How long does a roofing material consultation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a roofing material consultation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical roofing material consultation can take anywhere from 30 minutes to an hour, depending on the complexity of your roof and the number of questions you have. We aim to thoroughly assess your needs and present options without rushing the process. This timeframe allows for a comprehensive discussion and evaluation of your property in locations like Aledo or Allen.",
+        "@type": "Answer",
+        "description": "Consultations typically last 30 minutes to an hour, allowing for thorough assessment and discussion of options for your specific property."
+      }
+    }
+  ],
+  "description": "Consultations typically last 30 minutes to an hour, allowing for thorough assessment and discussion of options for your specific property."
+}

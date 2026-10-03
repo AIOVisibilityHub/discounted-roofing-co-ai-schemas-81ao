@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-does-a-residential-exterior-improvement-consultation-involve",
+  "name": "What does a residential exterior improvement consultation involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a residential exterior improvement consultation involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A residential exterior improvement consultation with Discounted Roofing Co. involves an on-site visit to assess the current condition of your home's exterior, including roofing, siding, and other relevant components. Our team will identify potential issues, discuss your goals for improvement, and provide recommendations. This initial assessment helps us understand the scope of work and determine the most effective solutions for your property, especially given the diverse weather conditions across the DFW service area.",
+        "@type": "Answer",
+        "description": "An exterior improvement consultation includes an on-site assessment of your home's exterior to identify issues and discuss potential improvements, helping define the project scope."
+      }
+    }
+  ],
+  "description": "An exterior improvement consultation includes an on-site assessment of your home's exterior to identify issues and discuss potential improvements, helping defin"
+}

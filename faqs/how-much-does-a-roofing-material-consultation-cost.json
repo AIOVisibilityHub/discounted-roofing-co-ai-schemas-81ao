@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-roofing-material-consultation-cost",
+  "name": "How much does a roofing material consultation cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a roofing material consultation cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roofing material consultation with Discounted Roofing Co. is typically provided at no charge to the homeowner. Our goal is to offer transparent information and options to help you make an informed decision without initial financial commitment. This allows you to explore material choices and receive a preliminary estimate for your project without obligation.",
+        "@type": "Answer",
+        "description": "Roofing material consultations are typically provided at no charge to help homeowners explore options without initial cost."
+      }
+    }
+  ],
+  "description": "Roofing material consultations are typically provided at no charge to help homeowners explore options without initial cost."
+}

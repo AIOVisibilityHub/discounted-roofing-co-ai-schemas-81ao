@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-my-insurance-cover-minor-roof-damage-repairs",
+  "name": "Will my insurance cover minor roof damage repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover minor roof damage repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Insurance coverage for minor roof damage repairs depends on your specific policy and the cause of the damage. Most policies cover damage resulting from sudden, accidental events like storms or hail, but not typically wear and tear. Discounted Roofing Co. can assist with documentation and provide the necessary assessment reports to help you navigate your insurance claim process.",
+        "@type": "Answer",
+        "description": "Insurance coverage depends on your policy and damage cause. We can help with documentation for claims."
+      }
+    }
+  ],
+  "description": "Insurance coverage depends on your policy and damage cause. We can help with documentation for claims."
+}

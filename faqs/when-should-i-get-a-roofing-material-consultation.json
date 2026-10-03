@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-a-roofing-material-consultation",
+  "name": "When should I get a roofing material consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a roofing material consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should get a roofing material consultation if you are planning a new roof installation, considering replacing an aging roof, or if your current roof has sustained significant damage. It's also beneficial when you're exploring upgrading your home's aesthetics or energy efficiency. A consultation provides insights into material suitability before any commitment, especially in areas like Dallas where weather can vary significantly.",
+        "@type": "Answer",
+        "description": "Schedule a consultation for new roof installations, replacements, significant damage, or when considering aesthetic and energy efficiency upgrades."
+      }
+    }
+  ],
+  "description": "Schedule a consultation for new roof installations, replacements, significant damage, or when considering aesthetic and energy efficiency upgrades."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-during-a-roof-ventilation-assessment",
+  "name": "What happens during a roof ventilation assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during a roof ventilation assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During an assessment, a technician will typically inspect your attic's insulation, existing vents (soffit, ridge, gable), and overall airflow. They look for blockages, proper vent sizing, and adequate balance between intake and exhaust ventilation. They may also use thermal imaging to identify heat transfer issues or visually check for signs of moisture damage. This helps determine the most effective ventilation solutions.",
+        "@type": "Answer",
+        "description": "A technician inspects existing vents, insulation, airflow, and checks for blockages or moisture to determine ventilation needs."
+      }
+    }
+  ],
+  "description": "A technician inspects existing vents, insulation, airflow, and checks for blockages or moisture to determine ventilation needs."
+}

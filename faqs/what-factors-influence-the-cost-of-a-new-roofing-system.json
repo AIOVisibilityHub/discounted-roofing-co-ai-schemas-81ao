@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-influence-the-cost-of-a-new-roofing-system",
+  "name": "What factors influence the cost of a new roofing system?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a new roofing system?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a new roofing system is influenced by the material chosen, the size and complexity of your roof, the extent of any necessary structural repairs, and the labor involved. Steep pitches, multiple valleys, and the need for tear-off and disposal of old materials can all impact the final price. We provide detailed estimates after an on-site evaluation.",
+        "@type": "Answer",
+        "description": "New roofing system costs depend on material choice, roof size and complexity, necessary repairs, and labor. Steep pitches and tear-offs can increase the price."
+      }
+    }
+  ],
+  "description": "New roofing system costs depend on material choice, roof size and complexity, necessary repairs, and labor. Steep pitches and tear-offs can increase the price."
+}

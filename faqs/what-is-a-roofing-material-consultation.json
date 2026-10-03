@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-roofing-material-consultation",
+  "name": "What is a roofing material consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a roofing material consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roofing material consultation helps homeowners understand available roofing options for their property. During the consultation, a roofing expert assesses your current roof, discusses your needs and budget, and presents suitable material choices. This process helps ensure the chosen material meets local building codes and performance expectations for the DFW climate.",
+        "@type": "Answer",
+        "description": "A roofing material consultation helps homeowners understand available roofing options, considering their property needs, budget, and local conditions."
+      }
+    }
+  ],
+  "description": "A roofing material consultation helps homeowners understand available roofing options, considering their property needs, budget, and local conditions."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-an-exterior-consultation-help-with-energy-efficiency",
+  "name": "Can an exterior consultation help with energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can an exterior consultation help with energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, an exterior consultation can identify opportunities to improve your home's energy efficiency. Our assessment can pinpoint issues like inadequate insulation, gaps in siding, or old windows that contribute to energy loss. Addressing these areas can lead to significant savings on heating and cooling costs, a relevant concern for homeowners in the hot Texas climate of the DFW area.",
+        "@type": "Answer",
+        "description": "Yes, consultations identify energy efficiency issues like poor insulation or gaps in siding, helping reduce energy loss and utility costs."
+      }
+    }
+  ],
+  "description": "Yes, consultations identify energy efficiency issues like poor insulation or gaps in siding, helping reduce energy loss and utility costs."
+}

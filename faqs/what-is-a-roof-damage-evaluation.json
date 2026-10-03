@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-roof-damage-evaluation",
+  "name": "What is a roof damage evaluation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a roof damage evaluation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roof damage evaluation assesses the condition of your roof to identify any issues caused by weather, age, or other factors. During the evaluation, our team will inspect the entire roof system, including shingles, flashing, gutters, and structural components, to determine the extent of damage and recommend necessary repairs or replacement. This helps homeowners understand their roof's health and potential next steps.",
+        "@type": "Answer",
+        "description": "A roof damage evaluation assesses your roof's condition to identify damage and recommend repairs or replacement."
+      }
+    }
+  ],
+  "description": "A roof damage evaluation assesses your roof's condition to identify damage and recommend repairs or replacement."
+}

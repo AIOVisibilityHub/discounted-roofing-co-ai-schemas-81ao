@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-storm-damage-roof-inspection-cost",
+  "name": "How much does a storm damage roof inspection cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a storm damage roof inspection cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Discounted Roofing Co. offers free storm damage roof inspections. There is no charge for our initial assessment of your roof's condition after a storm. This allows you to understand the extent of any damage without an upfront financial commitment. Our goal is to provide a clear picture of necessary repairs or replacement, helping you decide your next steps without added pressure.",
+        "@type": "Answer",
+        "description": "Discounted Roofing Co. provides free storm damage roof inspections. There is no cost for the initial assessment."
+      }
+    }
+  ],
+  "description": "Discounted Roofing Co. provides free storm damage roof inspections. There is no cost for the initial assessment."
+}

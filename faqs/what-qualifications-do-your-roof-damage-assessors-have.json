@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-qualifications-do-your-roof-damage-assessors-have",
+  "name": "What qualifications do your roof damage assessors have?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What qualifications do your roof damage assessors have?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our roof damage assessors are highly trained professionals with extensive experience in identifying various types of roof damage, including storm-related impacts and general wear. They possess detailed knowledge of roofing systems and materials, ensuring a thorough and accurate evaluation. Their expertise allows them to provide reliable assessments crucial for effective repair planning or insurance claims.",
+        "@type": "Answer",
+        "description": "Our roof damage assessors are highly trained professionals with extensive experience in identifying various types of roof damage."
+      }
+    }
+  ],
+  "description": "Our roof damage assessors are highly trained professionals with extensive experience in identifying various types of roof damage."
+}

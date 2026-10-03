@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/why-should-i-get-a-roof-inspection-before-buying-a-house",
+  "name": "Why should I get a roof inspection before buying a house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why should I get a roof inspection before buying a house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Getting a pre-purchase roof inspection helps you understand the true condition of the roof, which can be a significant investment. It can uncover hidden problems like leaks, structural damage, or compromised materials that a standard home inspection might overlook. This insight allows you to negotiate repairs or a price reduction with the seller, potentially saving you thousands of dollars. Discounted Roofing Co. can identify issues specific to the DFW climate, such as hail damage, which are common in our service areas.",
+        "@type": "Answer",
+        "description": "A pre-purchase roof inspection identifies hidden roof problems, allowing buyers to negotiate repairs or a price reduction and avoid significant post-purchase expenses."
+      }
+    }
+  ],
+  "description": "A pre-purchase roof inspection identifies hidden roof problems, allowing buyers to negotiate repairs or a price reduction and avoid significant post-purchase ex"
+}

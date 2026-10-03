@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/is-a-roof-deck-assessment-required-before-replacing-my-roof",
+  "name": "Is a roof deck assessment required before replacing my roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a roof deck assessment required before replacing my roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While not always legally required in every area, a roof deck assessment is highly recommended before replacing your roof. It helps prevent costly surprises during installation by identifying necessary deck repairs or replacements in advance. If significant damage is found, addressing it before new roofing is laid can ensure the longevity and performance of your new roof and avoid potential issues with local building codes, which can vary across our DFW service area.",
+        "@type": "Answer",
+        "description": "A roof deck assessment is highly recommended before roof replacement to prevent costly surprises and ensure longevity of the new roof, though not always legally required."
+      }
+    }
+  ],
+  "description": "A roof deck assessment is highly recommended before roof replacement to prevent costly surprises and ensure longevity of the new roof, though not always legally"
+}

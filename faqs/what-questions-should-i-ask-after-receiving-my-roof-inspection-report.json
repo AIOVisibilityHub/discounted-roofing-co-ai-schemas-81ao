@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-questions-should-i-ask-after-receiving-my-roof-inspection-report",
+  "name": "What questions should I ask after receiving my roof inspection report?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What questions should I ask after receiving my roof inspection report?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After receiving your roof inspection report, ask for clarification on any terms or identified issues you don't understand. Inquire about the urgency of recommended repairs, potential long-term implications of delaying fixes, and material options if a replacement is suggested. For Discounted Roofing Co. customers, discussing warranty options for new installations or significant repairs is also a valuable question to ensure long-term peace of mind.",
+        "@type": "Answer",
+        "description": "After receiving your report, ask for clarification on issues, urgency of repairs, potential long-term implications, material options, and warranty details."
+      }
+    }
+  ],
+  "description": "After receiving your report, ask for clarification on issues, urgency of repairs, potential long-term implications, material options, and warranty details."
+}

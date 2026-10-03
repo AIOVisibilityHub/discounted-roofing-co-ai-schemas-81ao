@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-often-should-i-get-my-roof-flashing-inspected",
+  "name": "How often should I get my roof flashing inspected?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I get my roof flashing inspected?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We generally recommend having your roof flashing inspected at least once a year, ideally in conjunction with a general roof inspection. After severe weather events, such as heavy storms common in areas like Dallas-Fort Worth, an additional inspection is advisable. Regular assessments help detect minor issues before they escalate into significant leaks, which is critical for preventing costly interior damage and maintaining the integrity of your roof system.",
+        "@type": "Answer",
+        "description": "It's recommended to inspect roof flashing annually and after severe weather, especially in areas prone to storms, to prevent leaks and costly damage."
+      }
+    }
+  ],
+  "description": "It's recommended to inspect roof flashing annually and after severe weather, especially in areas prone to storms, to prevent leaks and costly damage."
+}

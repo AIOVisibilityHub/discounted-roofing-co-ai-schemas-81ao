@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-a-new-roof-material-affect-my-home-s-value",
+  "name": "Will a new roof material affect my home's value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a new roof material affect my home's value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, selecting a new roofing material can significantly impact your home's curb appeal and resale value. High-quality, durable materials like metal roofing or architectural asphalt shingles are often viewed as an upgrade by potential buyers, offering a strong return on investment, particularly in competitive markets in areas like Dallas-Fort Worth. Additionally, an energy-efficient roof can be an attractive selling point. Discounted Roofing Co. can help you balance aesthetic desires with practical investments, explaining how different material choices contribute to your property's overall market appeal.",
+        "@type": "Answer",
+        "description": "Yes, a new roof can boost curb appeal and resale value. Durable, high-quality, or energy-efficient materials like metal or architectural shingles are often seen as valuable upgrades by buyers."
+      }
+    }
+  ],
+  "description": "Yes, a new roof can boost curb appeal and resale value. Durable, high-quality, or energy-efficient materials like metal or architectural shingles are often seen"
+}

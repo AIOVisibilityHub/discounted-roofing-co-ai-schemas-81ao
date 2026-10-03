@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/do-i-need-to-be-home-during-my-roof-repair-or-replacement",
+  "name": "Do I need to be home during my roof repair or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be home during my roof repair or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You generally do not need to be home during roof repair or replacement, though we do recommend being available by phone in case our team has questions or needs to discuss any unforeseen issues. We will coordinate with you to ensure access to the property and keep you updated on progress. Before the project, ensure clear access around your home and secure any valuable outdoor items.",
+        "@type": "Answer",
+        "description": "You don't need to be home, but ensure property access and be reachable by phone."
+      }
+    }
+  ],
+  "description": "You don't need to be home, but ensure property access and be reachable by phone."
+}

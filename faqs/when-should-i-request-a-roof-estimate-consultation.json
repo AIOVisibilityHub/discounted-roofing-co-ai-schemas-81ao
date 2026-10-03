@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-request-a-roof-estimate-consultation",
+  "name": "When should I request a roof estimate consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I request a roof estimate consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should request a roof estimate consultation if you notice signs of damage like missing or curled shingles, leaks, excessive granule loss, or after a significant storm. It's also wise to get an estimate if your roof is over 15-20 years old and nearing the end of its lifespan. Proactive consultations with Discounted Roofing Co. can help identify issues early, preventing more extensive and costly damage down the line, ensuring the longevity and safety of your home.",
+        "@type": "Answer",
+        "description": "Request a consultation if you see signs of roof damage, leaks, or if your roof is over 15-20 years old, to prevent more costly issues."
+      }
+    }
+  ],
+  "description": "Request a consultation if you see signs of roof damage, leaks, or if your roof is over 15-20 years old, to prevent more costly issues."
+}

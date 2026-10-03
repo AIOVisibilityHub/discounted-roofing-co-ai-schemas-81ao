@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-during-a-roof-damage-evaluation-process",
+  "name": "What happens during a roof damage evaluation process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during a roof damage evaluation process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During an evaluation, our certified inspectors will perform a thorough visual inspection from the ground and often directly on the roof to check for missing shingles, dents, cracks, punctures, and signs of water intrusion. They will document findings with photos and explain any identified damage. This detailed process ensures all potential issues are identified and accurately assessed.",
+        "@type": "Answer",
+        "description": "Inspectors visually assess the roof from ground and on top, documenting damage with photos, and explaining findings to the homeowner."
+      }
+    }
+  ],
+  "description": "Inspectors visually assess the roof from ground and on top, documenting damage with photos, and explaining findings to the homeowner."
+}

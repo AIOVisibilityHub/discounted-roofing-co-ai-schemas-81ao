@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-an-emergency-storm-damage-assessment-cost-me-anything",
+  "name": "Will an emergency storm damage assessment cost me anything?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will an emergency storm damage assessment cost me anything?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many reputable roofing companies, including Discounted Roofing Co., offer emergency storm damage assessments at no upfront cost. This allows homeowners to understand the extent of damage without immediate financial burden. If damage requiring repair is found and you decide to proceed with us, the assessment cost is typically absorbed into the repair or replacement project. Always confirm the assessment fee policy when scheduling.",
+        "@type": "Answer",
+        "description": "Discounted Roofing Co. typically offers emergency storm damage assessments at no upfront cost. The assessment fee is often absorbed into subsequent repair or replacement projects."
+      }
+    }
+  ],
+  "description": "Discounted Roofing Co. typically offers emergency storm damage assessments at no upfront cost. The assessment fee is often absorbed into subsequent repair or re"
+}

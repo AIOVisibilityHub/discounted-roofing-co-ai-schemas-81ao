@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-roof-deck-condition-assessment",
+  "name": "What is a roof deck condition assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a roof deck condition assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roof deck condition assessment evaluates the structural integrity and overall health of the roof deck beneath your roofing material. This assessment helps identify issues like rot, water damage, or structural weaknesses that might compromise the roof's performance. Our process typically involves a visual inspection, sometimes augmented by non-destructive testing, to determine the deck's ability to support new roofing. This is crucial before any reroofing project to ensure a stable foundation.",
+        "@type": "Answer",
+        "description": "A roof deck condition assessment evaluates the structural integrity and overall health of the roof deck beneath your roofing material."
+      }
+    }
+  ],
+  "description": "A roof deck condition assessment evaluates the structural integrity and overall health of the roof deck beneath your roofing material."
+}

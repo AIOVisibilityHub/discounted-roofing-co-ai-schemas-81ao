@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/is-a-pre-purchase-roof-inspection-different-from-a-standard-home-inspection",
+  "name": "Is a pre-purchase roof inspection different from a standard home inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a pre-purchase roof inspection different from a standard home inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a pre-purchase roof inspection is a specialized service that goes into greater depth than the roof section of a general home inspection. While a home inspector will visually assess the roof, a dedicated roof inspector will often get on the roof, closely examine components, and use specialized knowledge to identify subtle issues that a general inspector might miss. Our inspectors focus solely on the roof, providing a more granular and expert assessment compared to a broader home inspection.",
+        "@type": "Answer",
+        "description": "A pre-purchase roof inspection is a specialized, in-depth assessment of the roof, more detailed than the general roof overview in a standard home inspection."
+      }
+    }
+  ],
+  "description": "A pre-purchase roof inspection is a specialized, in-depth assessment of the roof, more detailed than the general roof overview in a standard home inspection."
+}

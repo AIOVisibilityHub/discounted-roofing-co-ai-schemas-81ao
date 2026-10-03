@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-types-of-roofing-materials-are-discussed-during-a-consultation",
+  "name": "What types of roofing materials are discussed during a consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of roofing materials are discussed during a consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a consultation, various roofing materials are discussed, including asphalt shingles, metal roofing, tile, and sometimes flat roof systems like TPO or EPDM for certain properties. The choice depends on factors such as roof pitch, architectural style, desired lifespan, and budget. Our consultants will explain the pros and cons of each, considering their performance in the North Texas weather conditions.",
+        "@type": "Answer",
+        "description": "Consultations cover materials like asphalt shingles, metal, tile, and flat roof systems, detailing their suitability based on property type and local climate."
+      }
+    }
+  ],
+  "description": "Consultations cover materials like asphalt shingles, metal, tile, and flat roof systems, detailing their suitability based on property type and local climate."
+}

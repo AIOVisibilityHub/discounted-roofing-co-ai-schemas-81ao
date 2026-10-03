@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-the-right-contractor-after-a-consultation",
+  "name": "How do I choose the right contractor after a consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor after a consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a contractor, compare detailed proposals, verify licenses and insurance, and check references or reviews, especially from clients in areas like Arlington or Plano. Look for clear communication and a contractor who thoroughly addresses your concerns and provides transparent explanations. A reputable company like Discounted Roofing Co. will offer a comprehensive proposal that details the scope, materials, and timeline.",
+        "@type": "Answer",
+        "description": "Compare detailed proposals, verify licenses and insurance, and check references. Choose a contractor with clear communication and a comprehensive project plan."
+      }
+    }
+  ],
+  "description": "Compare detailed proposals, verify licenses and insurance, and check references. Choose a contractor with clear communication and a comprehensive project plan."
+}

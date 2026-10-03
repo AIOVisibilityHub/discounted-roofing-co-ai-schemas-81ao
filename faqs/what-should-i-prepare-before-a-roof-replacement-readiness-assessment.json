@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-prepare-before-a-roof-replacement-readiness-assessment",
+  "name": "What should I prepare before a roof replacement readiness assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a roof replacement readiness assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a roof replacement readiness assessment, it's helpful to clear access around your home, especially near walls and the driveway, to allow the inspector to move freely and place ladders safely. If possible, ensure attic access is clear and accessible. Gathering any past roofing documentation, such as previous repair receipts or warranty information, can also be beneficial for the inspector. Our team appreciates clear access to ensure a thorough and safe inspection of your property.",
+        "@type": "Answer",
+        "description": "Clear access around your home and ensure attic access is clear; gather any past roofing documents."
+      }
+    }
+  ],
+  "description": "Clear access around your home and ensure attic access is clear; gather any past roofing documents."
+}

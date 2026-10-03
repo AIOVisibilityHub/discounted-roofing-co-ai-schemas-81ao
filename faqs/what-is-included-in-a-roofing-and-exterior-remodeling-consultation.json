@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-included-in-a-roofing-and-exterior-remodeling-consultation",
+  "name": "What is included in a roofing and exterior remodeling consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a roofing and exterior remodeling consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roofing and exterior remodeling consultation with Discounted Roofing Co. typically involves a thorough inspection of your property's exterior, including the roof, siding, gutters, and other components. Our specialists will assess the current condition, identify any damage or areas needing repair, and discuss your specific goals for the project. We provide a detailed explanation of our findings and recommend suitable solutions, materials, and a preliminary scope of work. This preparation helps ensure all concerns are addressed before planning begins.",
+        "@type": "Answer",
+        "description": "A consultation includes a thorough inspection of your property's exterior and a discussion of your project goals, leading to recommendations and a preliminary scope of work."
+      }
+    }
+  ],
+  "description": "A consultation includes a thorough inspection of your property's exterior and a discussion of your project goals, leading to recommendations and a preliminary s"
+}
