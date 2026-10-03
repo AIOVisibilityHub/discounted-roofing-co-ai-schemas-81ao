@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-you-locate-leaks-around-roof-penetrations-that-aren-t-obvious",
+  "name": "How do you locate leaks around roof penetrations that aren't obvious?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you locate leaks around roof penetrations that aren't obvious?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Locating non-obvious leaks around roof penetrations often involves a combination of methods. Discounted Roofing Co. technicians utilize visual inspection, looking for subtle signs like deteriorated flashing, compromised sealants, or water trails in the attic. We might also use water testing, carefully applying water to specific areas of the roof penetration while an inspector monitors for signs of water intrusion inside. Thermal imaging can also be employed to detect temperature differences indicating moisture beneath the roofing materials. Our expertise in DFW, Abbott, and surrounding areas helps us understand local weather impacts.",
+        "@type": "Answer",
+        "description": "We use visual inspection, water testing, and sometimes thermal imaging to locate non-obvious leaks around roof penetrations."
+      }
+    }
+  ],
+  "description": "We use visual inspection, water testing, and sometimes thermal imaging to locate non-obvious leaks around roof penetrations."
+}

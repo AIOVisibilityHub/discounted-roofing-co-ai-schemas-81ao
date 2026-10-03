@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-influence-the-cost-of-a-water-intrusion-assessment",
+  "name": "What factors influence the cost of a water intrusion assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a water intrusion assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a water intrusion assessment is influenced by several factors, including the size and type of the property (residential vs. commercial), the complexity of the roofing system, and the suspected extent of water damage. Access difficulties, such as steep pitches or multiple roof levels, can also impact pricing. We provide detailed estimates after an initial consultation to ensure transparency for clients across our service areas like Dallas and Fort Worth.",
+        "@type": "Answer",
+        "description": "Assessment costs depend on property size, roof complexity, damage extent, and accessibility. We offer detailed estimates after an initial consultation."
+      }
+    }
+  ],
+  "description": "Assessment costs depend on property size, roof complexity, damage extent, and accessibility. We offer detailed estimates after an initial consultation."
+}

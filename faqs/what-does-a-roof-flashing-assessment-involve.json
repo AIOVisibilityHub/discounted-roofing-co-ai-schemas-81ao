@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-does-a-roof-flashing-assessment-involve",
+  "name": "What does a roof flashing assessment involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a roof flashing assessment involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roof flashing assessment involves a visual inspection of all flashing areas on your roof, including around chimneys, skylights, vents, valleys, and wall junctures. Technicians look for signs of corrosion, lifting, cracking, punctures, or improper installation that could compromise water seals. We specifically check for aged or deteriorated sealant around flashing, which is a common failure point that can be easily overlooked. This detailed inspection helps identify potential leak sources before they become major problems.",
+        "@type": "Answer",
+        "description": "An assessment involves visually inspecting all roof flashing for damage, corrosion, or improper installation, including checking sealant integrity around flashing to prevent future leaks."
+      }
+    }
+  ],
+  "description": "An assessment involves visually inspecting all roof flashing for damage, corrosion, or improper installation, including checking sealant integrity around flashi"
+}

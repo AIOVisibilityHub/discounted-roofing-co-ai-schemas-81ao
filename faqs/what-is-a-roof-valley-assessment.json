@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-roof-valley-assessment",
+  "name": "What is a roof valley assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a roof valley assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roof valley assessment evaluates the condition of the intersecting angles where two roof planes meet. These valleys are critical areas for water drainage and are often susceptible to damage from water pooling, debris accumulation, or improper installation. The assessment identifies issues like missing shingles, cracks in flashing, deteriorated sealants, or compromised underlayment that can lead to leaks. This helps determine the necessary repairs or maintenance to prevent water intrusion into your home.",
+        "@type": "Answer",
+        "description": "A roof valley assessment checks the condition of the critical drainage points where two roof sections meet to identify potential leak sources."
+      }
+    }
+  ],
+  "description": "A roof valley assessment checks the condition of the critical drainage points where two roof sections meet to identify potential leak sources."
+}

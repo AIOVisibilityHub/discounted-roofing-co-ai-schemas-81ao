@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-involved-in-a-roof-flashing-leak-assessment",
+  "name": "What is involved in a roof flashing leak assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a roof flashing leak assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roof flashing leak assessment involves a thorough inspection of all roof flashing components, including those around chimneys, vents, skylights, and wall intersections. Technicians look for signs of corrosion, improper installation, damage, or sealant failure that could lead to leaks. This often includes checking the integrity of materials and water-tight seals. Our process involves both visual inspection and, if necessary, water testing to pinpoint the exact source of a leak, providing a detailed report of findings and recommended repairs.",
+        "@type": "Answer",
+        "description": "A roof flashing leak assessment inspects all flashing components for damage or improper installation, using visual checks and water testing to identify leak sources and recommend repairs."
+      }
+    }
+  ],
+  "description": "A roof flashing leak assessment inspects all flashing components for damage or improper installation, using visual checks and water testing to identify leak sou"
+}

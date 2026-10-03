@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-common-signs-of-roof-punctures-besides-visible-holes",
+  "name": "What are the common signs of roof punctures besides visible holes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of roof punctures besides visible holes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Beyond visible holes, common signs of roof punctures include water stains on ceilings or walls, increased energy bills due to compromised insulation, and sagging sections of the roof. You might also notice discolored or cracked shingles near the area of impact, or granules collecting in your gutters. Ignoring these signs can lead to more significant structural damage and costly repairs over time.",
+        "@type": "Answer",
+        "description": "Signs include water stains on ceilings, higher energy bills, sagging roof sections, discolored shingles, and granules in gutters."
+      }
+    }
+  ],
+  "description": "Signs include water stains on ceilings, higher energy bills, sagging roof sections, discolored shingles, and granules in gutters."
+}

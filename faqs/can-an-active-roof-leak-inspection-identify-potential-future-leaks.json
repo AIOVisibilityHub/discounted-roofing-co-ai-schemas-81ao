@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-an-active-roof-leak-inspection-identify-potential-future-leaks",
+  "name": "Can an active roof leak inspection identify potential future leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can an active roof leak inspection identify potential future leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While the primary goal of an active roof leak inspection is to pinpoint the source of current water intrusion, the thorough assessment often reveals areas of weakness or deterioration that could lead to future leaks. Our inspectors look for signs of wear, compromised flashing, aging materials, or improper installations that, while not actively leaking now, may become problematic soon. This allows us to provide recommendations for proactive maintenance or repairs to prevent future issues, offering you a more comprehensive understanding of your roof's health.",
+        "@type": "Answer",
+        "description": "Yes, while focusing on current leaks, the inspection also identifies weak areas that could cause future leaks, allowing for proactive repairs."
+      }
+    }
+  ],
+  "description": "Yes, while focusing on current leaks, the inspection also identifies weak areas that could cause future leaks, allowing for proactive repairs."
+}

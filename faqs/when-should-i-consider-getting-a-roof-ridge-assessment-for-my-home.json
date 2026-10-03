@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-consider-getting-a-roof-ridge-assessment-for-my-home",
+  "name": "When should I consider getting a roof ridge assessment for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider getting a roof ridge assessment for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a roof ridge assessment after severe weather, such as hail or high winds, or if you notice any signs of leaks inside your home. Regular assessments are also recommended every 3-5 years, especially for roofs approaching 10-15 years old. Our team in the DFW area frequently sees ridge damage from common local weather events, making proactive checks a good practice to prevent minor issues from becoming major problems.",
+        "@type": "Answer",
+        "description": "Consider a roof ridge assessment after severe weather, if you notice leaks, or as part of routine maintenance every 3-5 years, especially for older roofs."
+      }
+    }
+  ],
+  "description": "Consider a roof ridge assessment after severe weather, if you notice leaks, or as part of routine maintenance every 3-5 years, especially for older roofs."
+}

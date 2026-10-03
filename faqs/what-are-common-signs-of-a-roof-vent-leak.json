@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-common-signs-of-a-roof-vent-leak",
+  "name": "What are common signs of a roof vent leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of a roof vent leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of a roof vent leak include water stains on your ceiling or walls directly below a vent, peeling paint, or discoloration around the vent on your roof. You might also notice dripping sounds during rain. Identifying these signs early helps prevent further water damage to your home's structure and interior. Discounted Roofing Co. can perform a detailed assessment to pinpoint the exact source of the leak.",
+        "@type": "Answer",
+        "description": "Look for water stains on ceilings, peeling paint, or discoloration around roof vents. Dripping sounds during rain also indicate a leak."
+      }
+    }
+  ],
+  "description": "Look for water stains on ceilings, peeling paint, or discoloration around roof vents. Dripping sounds during rain also indicate a leak."
+}

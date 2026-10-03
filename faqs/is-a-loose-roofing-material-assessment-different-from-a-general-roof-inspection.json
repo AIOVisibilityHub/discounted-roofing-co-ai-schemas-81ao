@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/is-a-loose-roofing-material-assessment-different-from-a-general-roof-inspection",
+  "name": "Is a loose roofing material assessment different from a general roof inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a loose roofing material assessment different from a general roof inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While both involve inspecting your roof, a loose roofing material assessment specifically focuses on identifying and evaluating dislodged or unsecured components like shingles, tiles, and flashing. A general roof inspection, while comprehensive, might cover a broader range of issues, including overall wear, drainage, and structural integrity without the same granular focus on individual loose elements. Discounted Roofing Co. can tailor the inspection to your specific concerns, ensuring that the focus is on the loose materials you've observed, alongside a general health check of your roof.",
+        "@type": "Answer",
+        "description": "A loose material assessment specifically targets dislodged components, while a general inspection covers broader roof health; we can tailor the focus."
+      }
+    }
+  ],
+  "description": "A loose material assessment specifically targets dislodged components, while a general inspection covers broader roof health; we can tailor the focus."
+}

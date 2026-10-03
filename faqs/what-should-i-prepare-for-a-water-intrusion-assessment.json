@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-prepare-for-a-water-intrusion-assessment",
+  "name": "What should I prepare for a water intrusion assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare for a water intrusion assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a water intrusion assessment, it's helpful to provide any documentation you have regarding past leaks, roof repairs, or renovation history. Clear any access points to the attic, crawl spaces, and areas where water damage is visible, both inside and out. Being available to discuss when and where you first noticed signs of water can significantly assist our team in narrowing down the potential sources and streamlining the assessment process.",
+        "@type": "Answer",
+        "description": "Prepare by gathering past repair records, ensuring access to affected areas, and being ready to share details about when and where you observed water damage."
+      }
+    }
+  ],
+  "description": "Prepare by gathering past repair records, ensuring access to affected areas, and being ready to share details about when and where you observed water damage."
+}

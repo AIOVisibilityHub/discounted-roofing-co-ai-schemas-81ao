@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-lifted-shingles-be-repaired-or-do-i-need-a-full-roof-replacement",
+  "name": "Can lifted shingles be repaired, or do I need a full roof replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can lifted shingles be repaired, or do I need a full roof replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether lifted shingles require repair or a full replacement depends on the extent of the damage, the age of your roof, and the underlying cause. If only a few shingles are lifted and the rest of the roof is in good condition, spot repairs are often sufficient. However, widespread lifting, significant granule loss, or an aging roof might indicate it's time for a replacement to ensure long-term protection. Discounted Roofing Co. will provide an honest assessment of your roof's overall health to help you make an informed decision.",
+        "@type": "Answer",
+        "description": "Repair or replacement depends on damage extent, roof age, and cause; widespread lifting often indicates a need for replacement."
+      }
+    }
+  ],
+  "description": "Repair or replacement depends on damage extent, roof age, and cause; widespread lifting often indicates a need for replacement."
+}

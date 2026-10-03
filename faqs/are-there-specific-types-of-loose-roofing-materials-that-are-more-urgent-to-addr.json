@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/are-there-specific-types-of-loose-roofing-materials-that-are-more-urgent-to-addr",
+  "name": "Are there specific types of loose roofing materials that are more urgent to address?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific types of loose roofing materials that are more urgent to address?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, certain types of loose roofing materials require more urgent attention. Any loose components around critical areas like valleys, chimneys, skylights, or vents are highly urgent because they are primary points of water intrusion. Also, if multiple shingles are loose, or if large sections of flashing are compromised, the risk of significant water damage increases dramatically. Discounted Roofing Co. prioritizes these high-risk areas during our assessments to mitigate potential leaks and structural damage to your home, especially important in the variable DFW weather.",
+        "@type": "Answer",
+        "description": "Loose materials around valleys, chimneys, skylights, or multiple compromised shingles are most urgent due to high water intrusion risk."
+      }
+    }
+  ],
+  "description": "Loose materials around valleys, chimneys, skylights, or multiple compromised shingles are most urgent due to high water intrusion risk."
+}

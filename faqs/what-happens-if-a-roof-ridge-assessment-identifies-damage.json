@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-if-a-roof-ridge-assessment-identifies-damage",
+  "name": "What happens if a roof ridge assessment identifies damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if a roof ridge assessment identifies damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If damage is identified during a roof ridge assessment, we will provide you with a detailed report, including photos, explaining the issues and offering recommended repair options. This might involve replacing damaged ridge caps, sealing cracks, or addressing ventilation problems. We will discuss the best course of action, explain the repair process, and provide a transparent estimate. Our goal is to empower you with information to make an informed decision on restoring your roof's protection.",
+        "@type": "Answer",
+        "description": "If damage is found, you receive a detailed report with photos, an explanation of issues, and recommended repair options and estimates to guide your decision."
+      }
+    }
+  ],
+  "description": "If damage is found, you receive a detailed report with photos, an explanation of issues, and recommended repair options and estimates to guide your decision."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-typical-roof-ridge-assessment-take",
+  "name": "How long does a typical roof ridge assessment take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical roof ridge assessment take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical roof ridge assessment usually takes between 30 minutes to an hour, depending on the size and complexity of your roof. This timeframe allows our inspectors to thoroughly examine the ridge line and surrounding areas for any potential issues. For a full roof inspection that includes the ridge, the duration might be slightly longer. We aim to be efficient while ensuring a comprehensive review for homeowners in locations like Aledo and Abbott.",
+        "@type": "Answer",
+        "description": "A typical roof ridge assessment takes 30 minutes to an hour, depending on the roof's size and complexity, ensuring a thorough examination."
+      }
+    }
+  ],
+  "description": "A typical roof ridge assessment takes 30 minutes to an hour, depending on the roof's size and complexity, ensuring a thorough examination."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-involved-in-a-roof-vent-assessment",
+  "name": "What is involved in a roof vent assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a roof vent assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roof vent assessment involves a thorough inspection of all existing roof ventilation components, including attic intake vents, exhaust vents, and any powered ventilation systems. Our technicians evaluate their type, placement, functionality, and overall condition to ensure proper attic airflow. This assessment helps identify blockages, damage, or insufficient ventilation that could lead to moisture buildup, premature roof aging, or increased energy costs. As a first-party insight, our process specifically checks for signs of common DFW weather-related damage, which can often impact vent seals and functionality.",
+        "@type": "Answer",
+        "description": "A roof vent assessment inspects all ventilation components for type, placement, functionality, and condition, identifying issues like blockages or damage to ensure proper attic airflow."
+      }
+    }
+  ],
+  "description": "A roof vent assessment inspects all ventilation components for type, placement, functionality, and condition, identifying issues like blockages or damage to ens"
+}

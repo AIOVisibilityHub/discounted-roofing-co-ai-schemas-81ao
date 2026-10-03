@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-information-should-i-provide-before-a-roof-leak-assessment",
+  "name": "What information should I provide before a roof leak assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I provide before a roof leak assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a roof leak assessment, it is helpful to provide details such as when you first noticed the leak, any visible signs of water damage inside or outside your home, and the approximate location of the leak. If you have photos of the damage, these can also be beneficial. This information allows our technicians to prepare and focus their inspection more efficiently, potentially saving time on site and leading to a quicker diagnosis.",
+        "@type": "Answer",
+        "description": "Before an assessment, provide details about when the leak started, visible damage, and its approximate location to help technicians prepare."
+      }
+    }
+  ],
+  "description": "Before an assessment, provide details about when the leak started, visible damage, and its approximate location to help technicians prepare."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-materials-are-typically-used-for-roof-ridge-repair-or-replacement",
+  "name": "What materials are typically used for roof ridge repair or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are typically used for roof ridge repair or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For roof ridge repair or replacement, the materials used often match your existing roofing system. This commonly includes asphalt ridge caps, sometimes reinforced with a different material for added durability, or specialized metal caps for metal roofs. Proper sealant and fasteners are also critical. Discounted Roofing Co. prioritizes using high-quality, durable materials suitable for the specific roof type and local climate conditions to ensure long-lasting repairs.",
+        "@type": "Answer",
+        "description": "Materials typically match your existing roof, often asphalt ridge caps, or specialized metal caps, along with appropriate sealants and fasteners for durability."
+      }
+    }
+  ],
+  "description": "Materials typically match your existing roof, often asphalt ridge caps, or specialized metal caps, along with appropriate sealants and fasteners for durability."
+}

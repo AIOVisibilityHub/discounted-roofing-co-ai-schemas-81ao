@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-a-professional-roof-leak-source-assessment",
+  "name": "When should I get a professional roof leak-source assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a professional roof leak-source assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should get a professional roof leak-source assessment as soon as you notice any signs of a leak, such as water stains on ceilings or walls, dripping water, or visible damage to your roof's exterior. Delaying an assessment can lead to more extensive and costly damage to your home's structure, insulation, and interior finishes. Early detection and repair protect your property value and prevent escalating problems.",
+        "@type": "Answer",
+        "description": "Get a professional roof leak-source assessment immediately upon noticing any signs of a leak to prevent further damage."
+      }
+    }
+  ],
+  "description": "Get a professional roof leak-source assessment immediately upon noticing any signs of a leak to prevent further damage."
+}

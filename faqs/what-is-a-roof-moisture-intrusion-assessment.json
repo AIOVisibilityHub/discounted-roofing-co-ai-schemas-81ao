@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-roof-moisture-intrusion-assessment",
+  "name": "What is a roof moisture intrusion assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a roof moisture intrusion assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roof moisture intrusion assessment identifies and evaluates areas where water has penetrated or could penetrate your roofing system. This process often involves visual inspection, thermal imaging, and moisture meters to pinpoint hidden moisture within the roof's layers. Understanding the extent of moisture intrusion is critical for determining the most effective repair or replacement strategy, preventing further damage to your property's structure and interior.",
+        "@type": "Answer",
+        "description": "A roof moisture intrusion assessment identifies and evaluates areas where water has penetrated or could penetrate your roofing system, using tools like thermal imaging and moisture meters."
+      }
+    }
+  ],
+  "description": "A roof moisture intrusion assessment identifies and evaluates areas where water has penetrated or could penetrate your roofing system, using tools like thermal"
+}

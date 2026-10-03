@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-cracked-shingle-assessment",
+  "name": "What is a cracked shingle assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a cracked shingle assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A cracked shingle assessment is an inspection performed by a roofing professional to identify damaged or cracked shingles on your roof. This assessment evaluates the extent of shingle damage, identifies potential causes, and determines if repairs or replacement are necessary. During the assessment, our team at Discounted Roofing Co. will meticulously examine all roofing surfaces, paying close attention to areas prone to wear and tear, such as valleys, eaves, and around penetrations, to provide a comprehensive understanding of your roof's condition.",
+        "@type": "Answer",
+        "description": "A cracked shingle assessment identifies damaged shingles, determines the extent of the damage, and recommends necessary repairs or replacement."
+      }
+    }
+  ],
+  "description": "A cracked shingle assessment identifies damaged shingles, determines the extent of the damage, and recommends necessary repairs or replacement."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-common-issues-found-during-a-roof-penetration-assessment",
+  "name": "What are common issues found during a roof penetration assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common issues found during a roof penetration assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common issues found during an assessment include cracked or deteriorated sealants, displaced or damaged flashing, rust on metal components, and loose or unsecured penetrations. We also frequently observe incorrect installation methods, such as insufficient overlap of materials or incompatible sealant types. Identifying these helps us recommend targeted repairs, especially in regions with temperature fluctuations like DFW.",
+        "@type": "Answer",
+        "description": "Common issues include cracked sealants, damaged flashing, rust, and improper installation, all contributing to potential leaks."
+      }
+    }
+  ],
+  "description": "Common issues include cracked sealants, damaged flashing, rust, and improper installation, all contributing to potential leaks."
+}

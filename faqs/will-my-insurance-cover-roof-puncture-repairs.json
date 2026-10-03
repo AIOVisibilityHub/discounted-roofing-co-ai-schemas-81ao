@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-my-insurance-cover-roof-puncture-repairs",
+  "name": "Will my insurance cover roof puncture repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover roof puncture repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many homeowners insurance policies cover roof damage caused by sudden, accidental events like hailstorms, wind, or falling objects. However, coverage can vary based on your policy's terms, deductible, and the cause of the puncture. It's recommended to contact your insurance provider to understand your specific coverage. We can assist by providing a detailed assessment report that you can submit to your insurance company for claims processing.",
+        "@type": "Answer",
+        "description": "Homeowners insurance often covers roof puncture repairs from sudden events, but check your policy. We can provide assessment reports for claims."
+      }
+    }
+  ],
+  "description": "Homeowners insurance often covers roof puncture repairs from sudden events, but check your policy. We can provide assessment reports for claims."
+}

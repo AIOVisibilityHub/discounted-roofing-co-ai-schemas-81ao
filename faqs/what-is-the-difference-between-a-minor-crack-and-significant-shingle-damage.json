@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-difference-between-a-minor-crack-and-significant-shingle-damage",
+  "name": "What is the difference between a minor crack and significant shingle damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a minor crack and significant shingle damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A minor crack often refers to a small, isolated surface crack that may not penetrate the shingle's entire depth and might not immediately lead to leaks. Significant shingle damage, however, involves larger, deeper cracks, multiple cracked shingles in an area, or cracks accompanied by substantial granule loss, curling, or delamination, which compromise the shingle's integrity and waterproofing. Discounted Roofing Co.'s assessment distinguishes these levels of damage by considering not only the crack's appearance but also its location and the shingle's age, as even small cracks in older shingles can indicate broader deterioration.",
+        "@type": "Answer",
+        "description": "Minor cracks are small and isolated; significant damage involves larger, deeper cracks, widespread issues, or granule loss compromising the shingle's integrity."
+      }
+    }
+  ],
+  "description": "Minor cracks are small and isolated; significant damage involves larger, deeper cracks, widespread issues, or granule loss compromising the shingle's integrity."
+}

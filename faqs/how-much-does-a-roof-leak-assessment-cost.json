@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-roof-leak-assessment-cost",
+  "name": "How much does a roof leak assessment cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a roof leak assessment cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a roof leak assessment can vary depending on factors such as the size and complexity of your roof, the accessibility of the leak, and the extent of the visible damage. Some roofing companies might offer free initial inspections, while others charge a fee that may be credited towards subsequent repairs. It's advisable to inquire about the assessment fee structure upfront. The total cost will reflect the time and expertise required to accurately diagnose the issue.",
+        "@type": "Answer",
+        "description": "Roof leak assessment costs vary based on roof size, leak complexity, and accessibility. Some companies offer free inspections, while others charge a fee that may be applied to repairs."
+      }
+    }
+  ],
+  "description": "Roof leak assessment costs vary based on roof size, leak complexity, and accessibility. Some companies offer free inspections, while others charge a fee that ma"
+}

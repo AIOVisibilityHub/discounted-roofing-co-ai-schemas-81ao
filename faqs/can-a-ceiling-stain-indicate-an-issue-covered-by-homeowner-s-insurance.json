@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-a-ceiling-stain-indicate-an-issue-covered-by-homeowner-s-insurance",
+  "name": "Can a ceiling stain indicate an issue covered by homeowner's insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a ceiling stain indicate an issue covered by homeowner's insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A ceiling stain caused by a sudden and accidental roof leak, such as from storm damage (hail, wind) or a falling object, is often covered by homeowner's insurance. However, damage from long-term neglect, wear and tear, or pre-existing conditions typically is not. Our inspection report can provide crucial documentation for your insurance claim, detailing the cause and extent of the damage. We can help you understand if the nature of your leak, as found by our inspectors, aligns with common insurance coverage scenarios in the DFW area.",
+        "@type": "Answer",
+        "description": "A ceiling stain from sudden roof damage, like storms, is often covered by homeowner's insurance; neglect is usually not. Our report helps document the cause for claims."
+      }
+    }
+  ],
+  "description": "A ceiling stain from sudden roof damage, like storms, is often covered by homeowner's insurance; neglect is usually not. Our report helps document the cause for"
+}

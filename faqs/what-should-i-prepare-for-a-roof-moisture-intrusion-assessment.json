@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-prepare-for-a-roof-moisture-intrusion-assessment",
+  "name": "What should I prepare for a roof moisture intrusion assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare for a roof moisture intrusion assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a roof moisture intrusion assessment, ensure clear access to your property's exterior and interior, especially attic or ceiling areas where leaks have been observed. Provide any previous roof inspection reports, repair histories, or details about when and where you first noticed signs of moisture. This information helps our technicians focus their investigation and provides valuable context for a more accurate assessment.",
+        "@type": "Answer",
+        "description": "Ensure clear access, and provide any previous roof reports or leak details to help technicians with the assessment."
+      }
+    }
+  ],
+  "description": "Ensure clear access, and provide any previous roof reports or leak details to help technicians with the assessment."
+}

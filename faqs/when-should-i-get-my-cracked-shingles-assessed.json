@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-my-cracked-shingles-assessed",
+  "name": "When should I get my cracked shingles assessed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get my cracked shingles assessed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should get your cracked shingles assessed as soon as you notice any signs of damage, such as visible cracks, curling, or missing granules, especially after severe weather events like hailstorms or strong winds. Proactive assessments can prevent minor issues from escalating into major leaks and structural damage. Discounted Roofing Co. recommends a professional assessment if your roof is over 10-15 years old, even without obvious damage, as shingle cracking can be a sign of natural aging and wear that might not be visible from the ground.",
+        "@type": "Answer",
+        "description": "Get cracked shingles assessed immediately after noticing damage or severe weather, or if your roof is over 10-15 years old, to prevent further issues."
+      }
+    }
+  ],
+  "description": "Get cracked shingles assessed immediately after noticing damage or severe weather, or if your roof is over 10-15 years old, to prevent further issues."
+}

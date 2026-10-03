@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/why-are-roof-valleys-so-important-for-roof-integrity",
+  "name": "Why are roof valleys so important for roof integrity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why are roof valleys so important for roof integrity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Roof valleys are crucial because they channel large volumes of rainwater and snowmelt from two converging roof sections into the gutter system. As such, they are high-stress areas that experience greater water flow and potential debris accumulation compared to flat roof sections. If a valley is compromised, even a small defect can lead to significant water penetration, potentially causing damage to the roof decking, attic, and interior of your home. Proper valley integrity is vital for preventing water damage.",
+        "@type": "Answer",
+        "description": "Valleys channel large volumes of water, making them high-stress areas where defects can cause significant leaks and water damage to the home."
+      }
+    }
+  ],
+  "description": "Valleys channel large volumes of water, making them high-stress areas where defects can cause significant leaks and water damage to the home."
+}

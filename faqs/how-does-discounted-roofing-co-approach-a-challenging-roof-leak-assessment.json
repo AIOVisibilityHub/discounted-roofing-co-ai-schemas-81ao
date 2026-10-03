@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-does-discounted-roofing-co-approach-a-challenging-roof-leak-assessment",
+  "name": "How does Discounted Roofing Co. approach a challenging roof leak assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does Discounted Roofing Co. approach a challenging roof leak assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For challenging roof leaks where the source isn't immediately obvious, Discounted Roofing Co. employs a systematic approach involving thorough interior and exterior inspections, often utilizing water tests in controlled scenarios. Our technicians are trained to consider factors like roof design, wind patterns, and the specific materials used on your roof to uncover elusive entry points. This methodical approach is essential to diagnose persistent leaks that might have baffled others, ensuring a complete and accurate resolution for homeowners in the DFW area.",
+        "@type": "Answer",
+        "description": "Discounted Roofing Co. uses systematic interior/exterior inspections and water tests for challenging leaks, considering roof design and materials in the DFW area."
+      }
+    }
+  ],
+  "description": "Discounted Roofing Co. uses systematic interior/exterior inspections and water tests for challenging leaks, considering roof design and materials in the DFW are"
+}

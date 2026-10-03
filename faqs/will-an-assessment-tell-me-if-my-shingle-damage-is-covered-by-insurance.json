@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-an-assessment-tell-me-if-my-shingle-damage-is-covered-by-insurance",
+  "name": "Will an assessment tell me if my shingle damage is covered by insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will an assessment tell me if my shingle damage is covered by insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An assessment from Discounted Roofing Co. will identify the type and extent of shingle damage, which is crucial for an insurance claim. While we can't guarantee insurance coverage, our detailed report can help you understand if the damage is typically covered by homeowner policies, such as damage from hail or wind. We provide the documentation you need to submit to your insurer, often assisting in the claims process.",
+        "@type": "Answer",
+        "description": "An assessment identifies damage type and extent, helping you understand if it's typically covered by insurance for claim submission."
+      }
+    }
+  ],
+  "description": "An assessment identifies damage type and extent, helping you understand if it's typically covered by insurance for claim submission."
+}

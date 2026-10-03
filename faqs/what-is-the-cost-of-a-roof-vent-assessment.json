@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-cost-of-a-roof-vent-assessment",
+  "name": "What is the cost of a roof vent assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost of a roof vent assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a roof vent assessment can vary, but Discounted Roofing Co. often includes this as part of a comprehensive roof inspection for homeowners in DFW and surrounding areas like Abbott, Addison, and Aledo. We provide transparent pricing for any standalone assessments. Practical tradeoff: While a comprehensive assessment might have an initial fee, it’s a small investment compared to the potential costs of neglected ventilation, which can include premature roof replacement, increased energy bills, and extensive attic repairs.",
+        "@type": "Answer",
+        "description": "Cost varies; it's often included in a full roof inspection. A small upfront cost for an assessment can prevent larger expenses from poor ventilation."
+      }
+    }
+  ],
+  "description": "Cost varies; it's often included in a full roof inspection. A small upfront cost for an assessment can prevent larger expenses from poor ventilation."
+}

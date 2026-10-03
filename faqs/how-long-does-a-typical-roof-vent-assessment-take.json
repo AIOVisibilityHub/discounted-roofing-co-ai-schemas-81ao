@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-typical-roof-vent-assessment-take",
+  "name": "How long does a typical roof vent assessment take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical roof vent assessment take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a roof vent assessment varies depending on the size and complexity of your roof and attic space, but typically, it can be completed within 30 to 60 minutes. This includes a visual inspection from the exterior and often an internal check of the attic space. Process clarity: Our technicians aim to provide a swift yet thorough inspection, allowing us to accurately diagnose any issues and discuss potential solutions without significant disruption to your day.",
+        "@type": "Answer",
+        "description": "A roof vent assessment usually takes 30-60 minutes, depending on roof size and complexity, ensuring a thorough inspection with minimal disruption."
+      }
+    }
+  ],
+  "description": "A roof vent assessment usually takes 30-60 minutes, depending on roof size and complexity, ensuring a thorough inspection with minimal disruption."
+}

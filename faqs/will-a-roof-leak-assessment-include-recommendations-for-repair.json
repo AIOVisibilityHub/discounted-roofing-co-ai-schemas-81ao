@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-a-roof-leak-assessment-include-recommendations-for-repair",
+  "name": "Will a roof leak assessment include recommendations for repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a roof leak assessment include recommendations for repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Absolutely. Following a thorough roof leak assessment, our technicians will provide detailed recommendations for necessary repairs. This includes outlining the specific issues found, the proposed solutions, and an estimated cost for the work. We aim to offer a clear plan of action to effectively resolve your leak and prevent recurrence. The recommendations will be tailored to the specific type and extent of damage discovered.",
+        "@type": "Answer",
+        "description": "Yes, a roof leak assessment includes detailed repair recommendations, outlining issues, proposed solutions, and estimated costs."
+      }
+    }
+  ],
+  "description": "Yes, a roof leak assessment includes detailed repair recommendations, outlining issues, proposed solutions, and estimated costs."
+}

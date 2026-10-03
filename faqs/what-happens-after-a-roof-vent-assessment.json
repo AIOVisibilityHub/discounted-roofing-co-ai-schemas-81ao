@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-after-a-roof-vent-assessment",
+  "name": "What happens after a roof vent assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after a roof vent assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Following a roof vent assessment, our technician will provide you with a detailed report outlining the condition of your current ventilation system, any identified issues, and recommended solutions. This may include cleaning existing vents, repairing damaged components, or installing new or additional vents. Process clarity: We will clearly explain all findings and options, allowing you to make an informed decision about the next steps without pressure, and can provide a quote for any necessary work.",
+        "@type": "Answer",
+        "description": "After assessment, you receive a detailed report with issues and recommended solutions like cleaning, repair, or new vent installation, along with a quote."
+      }
+    }
+  ],
+  "description": "After assessment, you receive a detailed report with issues and recommended solutions like cleaning, repair, or new vent installation, along with a quote."
+}

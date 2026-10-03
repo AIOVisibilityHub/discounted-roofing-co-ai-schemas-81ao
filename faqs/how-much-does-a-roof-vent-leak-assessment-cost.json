@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-roof-vent-leak-assessment-cost",
+  "name": "How much does a roof vent leak assessment cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a roof vent leak assessment cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a roof vent leak assessment can vary depending on the complexity of the leak and the accessibility of your roof. Some companies may offer free initial inspections, while others charge a diagnostic fee. It's important to clarify the assessment fee upfront. Discounted Roofing Co. provides transparent pricing for all our services, which will be discussed before any work begins.",
+        "@type": "Answer",
+        "description": "Assessment costs vary; some are free, others have a diagnostic fee. Clarify pricing upfront with the roofing company."
+      }
+    }
+  ],
+  "description": "Assessment costs vary; some are free, others have a diagnostic fee. Clarify pricing upfront with the roofing company."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-causes-shingles-to-lift",
+  "name": "What causes shingles to lift?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes shingles to lift?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Shingles can lift for several reasons, including strong winds, which can peel back edges, and normal aging, which causes the sealant strips to lose their adhesion. Improper installation can also lead to lifted shingles if they weren't adequately nailed or sealed. Temperature fluctuations can also contribute to the expansion and contraction that stresses the adhesive. Identifying the specific cause during the assessment is crucial for effective repairs and preventing future occurrences. Our experienced team can pinpoint the reason for the lifting.",
+        "@type": "Answer",
+        "description": "Strong winds, aging, improper installation, and temperature fluctuations can all cause shingles to lift."
+      }
+    }
+  ],
+  "description": "Strong winds, aging, improper installation, and temperature fluctuations can all cause shingles to lift."
+}

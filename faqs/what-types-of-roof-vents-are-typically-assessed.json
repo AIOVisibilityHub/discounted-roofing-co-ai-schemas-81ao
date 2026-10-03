@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-types-of-roof-vents-are-typically-assessed",
+  "name": "What types of roof vents are typically assessed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of roof vents are typically assessed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We assess various types of roof vents, including static vents, ridge vents, soffit vents (intake), gable vents, and powered attic fans. Each type plays a role in attic ventilation by facilitating the movement of air, whether for intake or exhaust. During the assessment, we evaluate the compatibility and efficiency of your current vent system. As a decision factor, the type of roof vent system recommended can depend on your specific roof's pitch, attic space configuration, and local building codes, especially relevant across the diverse property types in DFW.",
+        "@type": "Answer",
+        "description": "We assess static, ridge, soffit, gable, and powered attic vents. The best vent type depends on roof pitch, attic configuration, and local DFW building codes."
+      }
+    }
+  ],
+  "description": "We assess static, ridge, soffit, gable, and powered attic vents. The best vent type depends on roof pitch, attic configuration, and local DFW building codes."
+}

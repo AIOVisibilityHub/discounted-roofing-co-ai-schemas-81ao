@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/after-an-active-leak-inspection-what-are-the-next-steps-for-repair",
+  "name": "After an active leak inspection, what are the next steps for repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "After an active leak inspection, what are the next steps for repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Following an active roof leak inspection, our technician will provide a detailed report outlining the leak's source, the extent of the damage, and recommended repairs. We will then discuss these findings with you and provide a clear, itemized estimate for the necessary work. The next step is to approve the repair plan, and we will schedule the work to be completed efficiently. Depending on the severity, temporary fixes might be suggested to mitigate immediate damage until permanent repairs can be made.",
+        "@type": "Answer",
+        "description": "We provide a report and estimate for repairs. After your approval, we schedule the work, possibly with temporary fixes first."
+      }
+    }
+  ],
+  "description": "We provide a report and estimate for repairs. After your approval, we schedule the work, possibly with temporary fixes first."
+}

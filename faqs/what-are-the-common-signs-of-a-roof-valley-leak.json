@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-common-signs-of-a-roof-valley-leak",
+  "name": "What are the common signs of a roof valley leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of a roof valley leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of a roof valley leak include water stains on your ceiling or walls directly below the valley, peeling paint, discolored drywall, or a musty odor indicating mold or mildew growth in your attic or living space. On the exterior, you might observe missing or damaged shingles in the valley, cracked caulk, or visible water channeling improperly. Timely identification of these signs is crucial to prevent extensive water damage to your home's structure and interior.",
+        "@type": "Answer",
+        "description": "Signs include water stains on ceilings, peeling paint, musty odors, or visible damage to shingles or flashing in the valley area."
+      }
+    }
+  ],
+  "description": "Signs include water stains on ceilings, peeling paint, musty odors, or visible damage to shingles or flashing in the valley area."
+}

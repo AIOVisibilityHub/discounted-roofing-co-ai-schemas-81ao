@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-common-causes-of-cracked-shingles-in-the-dfw-area",
+  "name": "What are the common causes of cracked shingles in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common causes of cracked shingles in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common causes of cracked shingles in the DFW area include extreme temperature fluctuations, which cause shingles to expand and contract repeatedly, leading to fatigue and cracking. Severe weather events, such as hailstorms and strong winds common in North Texas, can also directly damage shingles, creating cracks and accelerating wear. Additionally, prolonged exposure to UV rays degrades asphalt shingles over time. Discounted Roofing Co. specializes in identifying and addressing damage from these specific regional environmental factors, which are often significant contributors to shingle issues in Dallas-Fort Worth.",
+        "@type": "Answer",
+        "description": "Cracked shingles in DFW are often caused by extreme temperature changes, severe weather like hail and wind, and prolonged UV exposure."
+      }
+    }
+  ],
+  "description": "Cracked shingles in DFW are often caused by extreme temperature changes, severe weather like hail and wind, and prolonged UV exposure."
+}

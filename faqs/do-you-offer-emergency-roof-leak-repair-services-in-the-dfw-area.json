@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/do-you-offer-emergency-roof-leak-repair-services-in-the-dfw-area",
+  "name": "Do you offer emergency roof leak repair services in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer emergency roof leak repair services in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Discounted Roofing Co. provides emergency roof leak repair services for urgent situations across our DFW service areas, including cities like Dallas, Fort Worth, Arlington, and Plano. If you have an active, significant leak that poses immediate threat to your property, contact us directly for prompt assistance to minimize water damage.",
+        "@type": "Answer",
+        "description": "We offer emergency roof leak repair services across the DFW area for urgent situations; contact us for prompt assistance."
+      }
+    }
+  ],
+  "description": "We offer emergency roof leak repair services across the DFW area for urgent situations; contact us for prompt assistance."
+}

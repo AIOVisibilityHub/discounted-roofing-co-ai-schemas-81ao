@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-if-i-suspect-storm-damage-but-can-t-see-anything-from-the-ground",
+  "name": "What if I suspect storm damage but can't see anything from the ground?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if I suspect storm damage but can't see anything from the ground?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Even if you can't see damage from the ground, it's wise to have a professional inspection after a significant storm, especially if your neighbors have sustained damage. Hail can cause unseen bruising on shingles that shortens their lifespan, and wind can loosen shingles without immediately displacing them. Discounted Roofing Co. regularly finds latent damage that isn't visible from the ground, preventing future leaks and costly repairs for homeowners in areas like DFW.",
+        "@type": "Answer",
+        "description": "Get a professional inspection even if no ground-level damage is visible; hail and wind can cause hidden issues."
+      }
+    }
+  ],
+  "description": "Get a professional inspection even if no ground-level damage is visible; hail and wind can cause hidden issues."
+}

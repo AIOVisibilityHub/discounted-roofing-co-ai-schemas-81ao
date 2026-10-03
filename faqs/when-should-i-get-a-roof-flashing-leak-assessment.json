@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-a-roof-flashing-leak-assessment",
+  "name": "When should I get a roof flashing leak assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a roof flashing leak assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a roof flashing leak assessment if you notice any signs of a leak inside your home, such as water stains on ceilings or walls, especially near chimneys, vents, or skylights. It's also advisable after severe weather events, or if your roof is older than 10-15 years. Regular inspections, ideally every 1-3 years, can help identify potential issues with flashing before they escalate into significant leaks, preserving the overall health of your roof.",
+        "@type": "Answer",
+        "description": "Get an assessment if you see interior water stains, after severe weather, or for roofs over 10-15 years old. Regular inspections every 1-3 years help catch issues early."
+      }
+    }
+  ],
+  "description": "Get an assessment if you see interior water stains, after severe weather, or for roofs over 10-15 years old. Regular inspections every 1-3 years help catch issu"
+}

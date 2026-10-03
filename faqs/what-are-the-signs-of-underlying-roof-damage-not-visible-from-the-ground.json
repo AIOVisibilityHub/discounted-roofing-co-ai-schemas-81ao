@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-signs-of-underlying-roof-damage-not-visible-from-the-ground",
+  "name": "What are the signs of underlying roof damage not visible from the ground?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs of underlying roof damage not visible from the ground?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of underlying roof damage not visible from the ground often include water stains on ceilings or walls, a sudden increase in energy bills, or a sagging roof deck. During a professional assessment, Discounted Roofing Co. uses specialized techniques to identify these less obvious issues. This may involve inspecting the attic for water penetration, wood rot, or mold growth that indicates compromised shingle layers or decking.",
+        "@type": "Answer",
+        "description": "Hidden damage signs include ceiling stains, higher energy bills, or a sagging roof; professionals inspect attic for these issues."
+      }
+    }
+  ],
+  "description": "Hidden damage signs include ceiling stains, higher energy bills, or a sagging roof; professionals inspect attic for these issues."
+}

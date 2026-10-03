@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-after-a-water-intrusion-assessment-is-completed",
+  "name": "What happens after a water intrusion assessment is completed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after a water intrusion assessment is completed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a water intrusion assessment, you will receive a comprehensive report detailing the findings, including identified entry points, the extent of moisture damage, and recommendations for necessary repairs. This report often includes photos and explanations to help you understand the issues. We will then discuss these findings with you and provide options for remediation, which may range from minor repairs to more extensive roofing work, depending on the assessment's conclusions.",
+        "@type": "Answer",
+        "description": "You'll receive a detailed report with findings, photos, and recommended repairs. We then discuss remediation options based on the assessment's results."
+      }
+    }
+  ],
+  "description": "You'll receive a detailed report with findings, photos, and recommended repairs. We then discuss remediation options based on the assessment's results."
+}

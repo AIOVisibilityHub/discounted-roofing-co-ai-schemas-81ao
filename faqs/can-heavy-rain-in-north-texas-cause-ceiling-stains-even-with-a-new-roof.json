@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-heavy-rain-in-north-texas-cause-ceiling-stains-even-with-a-new-roof",
+  "name": "Can heavy rain in North Texas cause ceiling stains even with a new roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can heavy rain in North Texas cause ceiling stains even with a new roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, heavy rain, especially the intense storms common in North Texas, can potentially cause ceiling stains even on relatively new roofs. While a new roof is designed to be watertight, issues can arise from improper installation, manufacturing defects in materials, or damage from severe weather events like hail or high winds. Flashing around vents, chimneys, or skylights can also be compromised. Our inspections focus on these vulnerable points to determine if a new roof has a specific defect or was damaged by recent weather.",
+        "@type": "Answer",
+        "description": "Yes, heavy North Texas rains can cause ceiling stains on new roofs due to installation errors, material defects, or storm damage. Inspections pinpoint these issues."
+      }
+    }
+  ],
+  "description": "Yes, heavy North Texas rains can cause ceiling stains on new roofs due to installation errors, material defects, or storm damage. Inspections pinpoint these iss"
+}

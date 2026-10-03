@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-a-professional-roof-leak-assessment",
+  "name": "When should I get a professional roof leak assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a professional roof leak assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should get a professional roof leak assessment as soon as you notice any signs of a leak, such as water stains on your ceiling, dripping water, missing or damaged shingles, or unusual odors in your attic. Ignoring minor signs can lead to more significant structural damage, mold growth, and costly repairs down the line. Early detection and repair are crucial for maintaining the integrity of your home and preventing extensive damage.",
+        "@type": "Answer",
+        "description": "Get a professional roof leak assessment immediately if you see water stains, drips, damaged shingles, or attic odors to prevent extensive damage."
+      }
+    }
+  ],
+  "description": "Get a professional roof leak assessment immediately if you see water stains, drips, damaged shingles, or attic odors to prevent extensive damage."
+}

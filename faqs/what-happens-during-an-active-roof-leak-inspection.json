@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-during-an-active-roof-leak-inspection",
+  "name": "What happens during an active roof leak inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during an active roof leak inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During an active roof leak inspection, our team will thoroughly examine your roof, attic, and interior spaces for signs of water intrusion. This process often involves visual inspection, tracing water paths, and sometimes using moisture detection tools. We will document the leak's origin, the extent of water damage, and identify contributing factors like compromised flashing, damaged shingles, or sealant failures. You should prepare by clearing access to the attic and any visible leak areas inside your home to expedite the inspection.",
+        "@type": "Answer",
+        "description": "We inspect the roof, attic, and interior for water intrusion, documenting the leak's origin and damage. Clear attic access beforehand."
+      }
+    }
+  ],
+  "description": "We inspect the roof, attic, and interior for water intrusion, documenting the leak's origin and damage. Clear attic access beforehand."
+}

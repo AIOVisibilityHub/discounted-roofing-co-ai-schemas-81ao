@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-after-a-roof-leak-inspection",
+  "name": "What happens after a roof leak inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after a roof leak inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After completing the inspection, our technician will provide you with a detailed report outlining the identified issues, their probable causes, and recommended repair solutions. This report will include photographs and a clear explanation of the findings. We will then discuss the repair options with you and provide a transparent estimate for the necessary work.",
+        "@type": "Answer",
+        "description": "Following the inspection, you will receive a detailed report with findings, photos, and a clear explanation of recommended repair options and an estimate."
+      }
+    }
+  ],
+  "description": "Following the inspection, you will receive a detailed report with findings, photos, and a clear explanation of recommended repair options and an estimate."
+}

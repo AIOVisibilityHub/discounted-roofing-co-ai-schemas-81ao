@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-typical-cost-of-a-roof-penetration-assessment",
+  "name": "What is the typical cost of a roof penetration assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost of a roof penetration assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a roof penetration assessment can vary based on factors such as the size and pitch of your roof, its accessibility, and the number of penetrations present. We provide transparent pricing after understanding your specific needs. Some assessments may be included as part of a broader roof inspection service, offering a comprehensive overview of your roof's condition.",
+        "@type": "Answer",
+        "description": "Cost varies by roof size, pitch, accessibility, and number of penetrations; some may be part of a broader inspection."
+      }
+    }
+  ],
+  "description": "Cost varies by roof size, pitch, accessibility, and number of penetrations; some may be part of a broader inspection."
+}

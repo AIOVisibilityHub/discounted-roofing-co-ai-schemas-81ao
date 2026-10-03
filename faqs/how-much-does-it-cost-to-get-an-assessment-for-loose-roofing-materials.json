@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-it-cost-to-get-an-assessment-for-loose-roofing-materials",
+  "name": "How much does it cost to get an assessment for loose roofing materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to get an assessment for loose roofing materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of an assessment for loose roofing materials typically varies based on the size and complexity of your roof. Discounted Roofing Co. provides free, no-obligation assessments to homeowners in our service areas, including DFW, Abbott, and Allen. This allows us to accurately diagnose the issue before any financial commitment from you, ensuring transparency and appropriate recommendations. We believe in providing clear information upfront so you can make an informed decision about your roofing needs.",
+        "@type": "Answer",
+        "description": "Discounted Roofing Co. offers free, no-obligation assessments for loose roofing materials, with costs varying by roof size and complexity."
+      }
+    }
+  ],
+  "description": "Discounted Roofing Co. offers free, no-obligation assessments for loose roofing materials, with costs varying by roof size and complexity."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-can-i-prepare-my-home-for-an-active-roof-leak-inspection",
+  "name": "How can I prepare my home for an active roof leak inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare my home for an active roof leak inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare your home for an active roof leak inspection, ensure that our technicians have clear and safe access to your attic, if applicable, and any areas inside your home where you've noticed signs of a leak. Remove any delicate items or furniture from directly under active drips or water stains to protect them from potential additional water exposure during the inspection. Providing our team with any details about when you first noticed the leak or under what conditions can also be helpful.",
+        "@type": "Answer",
+        "description": "Ensure clear access to your attic and leak areas, remove delicate items, and share any details about when you noticed the leak."
+      }
+    }
+  ],
+  "description": "Ensure clear access to your attic and leak areas, remove delicate items, and share any details about when you noticed the leak."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-does-a-roof-valley-assessment-process-involve",
+  "name": "What does a roof valley assessment process involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a roof valley assessment process involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our roof valley assessment process typically begins with a visual inspection from the ground to identify obvious signs of damage or debris. Next, our technicians carefully access the roof to conduct a detailed examination of the valley flashing, shingles, and underlying materials. We look for signs of wear, corrosion, cracks, or improper sealing. During the assessment, we photograph any damage to provide a clear overview, which helps you understand the extent of any necessary repairs or maintenance. This thorough approach ensures all potential issues are identified.",
+        "@type": "Answer",
+        "description": "The process includes ground-level and on-roof inspections, examining flashing, shingles, and underlying materials, with photographic documentation of any damage."
+      }
+    }
+  ],
+  "description": "The process includes ground-level and on-roof inspections, examining flashing, shingles, and underlying materials, with photographic documentation of any damage"
+}

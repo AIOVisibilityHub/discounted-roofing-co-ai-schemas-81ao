@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-roof-puncture-assessment-cost",
+  "name": "How much does a roof puncture assessment cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a roof puncture assessment cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a roof puncture assessment can vary based on the size of your roof, its accessibility, and the complexity of the damage. Some roofing companies offer free initial inspections, while others charge a fee that may be credited towards subsequent repair work. It's advisable to get a detailed quote that outlines what the assessment includes before proceeding. For properties in the DFW area, we offer free initial evaluations.",
+        "@type": "Answer",
+        "description": "Cost varies by roof size and damage complexity; some companies offer free initial inspections. We offer free initial evaluations in DFW."
+      }
+    }
+  ],
+  "description": "Cost varies by roof size and damage complexity; some companies offer free initial inspections. We offer free initial evaluations in DFW."
+}

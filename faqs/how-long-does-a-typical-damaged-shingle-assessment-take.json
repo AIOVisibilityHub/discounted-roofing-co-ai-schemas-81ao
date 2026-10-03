@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-typical-damaged-shingle-assessment-take",
+  "name": "How long does a typical damaged shingle assessment take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical damaged shingle assessment take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical damaged shingle assessment by Discounted Roofing Co. generally takes about 30 to 60 minutes, depending on the size and complexity of your roof and the extent of visible damage. During this time, our inspector will meticulously examine all roof surfaces, gutters, and related components. We aim to provide a prompt yet thorough evaluation to minimize disruption to your day while ensuring all potential issues are identified.",
+        "@type": "Answer",
+        "description": "A standard damaged shingle assessment typically takes 30-60 minutes, varying with roof size and complexity."
+      }
+    }
+  ],
+  "description": "A standard damaged shingle assessment typically takes 30-60 minutes, varying with roof size and complexity."
+}

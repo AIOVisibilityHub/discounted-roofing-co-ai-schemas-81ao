@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-during-a-cracked-shingle-assessment",
+  "name": "What happens during a cracked shingle assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during a cracked shingle assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a cracked shingle assessment, a qualified roofer will typically perform a visual inspection from the ground and then safely access the roof to examine individual shingles. They will look for cracks, missing pieces, granule loss, buckling, and other signs of wear or damage. Our technicians at Discounted Roofing Co. use a systematic approach, often documenting findings with photos or videos, to provide a clear report on the condition of your roof, outlining specific areas of concern and proposed solutions. We focus on transparent communication throughout this process.",
+        "@type": "Answer",
+        "description": "A cracked shingle assessment involves a ground and roof inspection, looking for visible damage, and documenting findings to provide a detailed report."
+      }
+    }
+  ],
+  "description": "A cracked shingle assessment involves a ground and roof inspection, looking for visible damage, and documenting findings to provide a detailed report."
+}

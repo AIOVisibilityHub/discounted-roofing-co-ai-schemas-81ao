@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-affect-the-cost-of-a-ceiling-leak-source-assessment",
+  "name": "What factors affect the cost of a ceiling leak source assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors affect the cost of a ceiling leak source assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a ceiling leak source assessment is influenced by several factors, including the complexity of the leak, the difficulty of accessing the affected areas (e.g., steep roofs, confined attic spaces), and the time required for a thorough investigation. Some companies may charge a flat fee, while others base it on an hourly rate. It's important to clarify whether the assessment fee is applied towards any subsequent repair work. We provide transparent pricing upfront based on the initial details of your situation.",
+        "@type": "Answer",
+        "description": "The cost of a ceiling leak assessment depends on the leak's complexity, accessibility of areas, and time needed; clarify if the fee applies to repairs."
+      }
+    }
+  ],
+  "description": "The cost of a ceiling leak assessment depends on the leak's complexity, accessibility of areas, and time needed; clarify if the fee applies to repairs."
+}

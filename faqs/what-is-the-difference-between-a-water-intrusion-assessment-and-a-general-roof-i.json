@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-difference-between-a-water-intrusion-assessment-and-a-general-roof-i",
+  "name": "What is the difference between a water intrusion assessment and a general roof inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a water intrusion assessment and a general roof inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A general roof inspection primarily focuses on the overall condition of your roofing materials and structure for maintenance or insurance purposes. A water intrusion assessment, however, is a specialized service specifically designed to identify and trace the exact pathways of water entering your building. While a roof inspection might flag potential issues, a water intrusion assessment provides a precise diagnosis of active leaks and their origins, often using advanced detection techniques.",
+        "@type": "Answer",
+        "description": "A general roof inspection assesses overall roof condition, while a water intrusion assessment specifically diagnoses active leaks and their entry points with specialized methods."
+      }
+    }
+  ],
+  "description": "A general roof inspection assesses overall roof condition, while a water intrusion assessment specifically diagnoses active leaks and their entry points with sp"
+}

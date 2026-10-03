@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-common-signs-that-i-need-an-active-roof-leak-inspection",
+  "name": "What are common signs that I need an active roof leak inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that I need an active roof leak inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider an active roof leak inspection if you notice dripping water, water stains on ceilings or walls, bubbling paint, or a musty odor indoors, especially after rain. These are clear indicators of active water penetration. Don't wait for significant damage; early detection can prevent more extensive and costly repairs. Ignoring these signs can lead to structural decay, mold growth, and damage to insulation and electrical systems.",
+        "@type": "Answer",
+        "description": "Look for dripping water, ceiling stains, bubbling paint, or musty odors after rain. Early detection prevents worse damage."
+      }
+    }
+  ],
+  "description": "Look for dripping water, ceiling stains, bubbling paint, or musty odors after rain. Early detection prevents worse damage."
+}

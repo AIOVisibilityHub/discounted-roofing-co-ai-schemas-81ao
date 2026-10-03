@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-cracked-shingle-assessment-take",
+  "name": "How long does a cracked shingle assessment take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a cracked shingle assessment take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a cracked shingle assessment typically ranges from 30 minutes to an hour, depending on the size and complexity of your roof. Larger roofs, those with multiple facets, or roofs with difficult access may require more time for a thorough inspection. Our team at Discounted Roofing Co. aims to complete assessments efficiently while ensuring every detail is checked, providing you with a timely and accurate evaluation without compromising thoroughness. We also factor in time to discuss our findings with you directly.",
+        "@type": "Answer",
+        "description": "A cracked shingle assessment usually takes 30 minutes to an hour, varying with roof size and complexity."
+      }
+    }
+  ],
+  "description": "A cracked shingle assessment usually takes 30 minutes to an hour, varying with roof size and complexity."
+}

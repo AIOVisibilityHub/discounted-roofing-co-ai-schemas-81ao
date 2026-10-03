@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-after-a-roof-flashing-assessment-if-damage-is-found",
+  "name": "What happens after a roof flashing assessment if damage is found?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after a roof flashing assessment if damage is found?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If damage is found during a roof flashing assessment, our inspectors will provide a detailed report outlining the issues, often with photographic evidence. We will then recommend specific repair options, such as resealing, replacing sections of flashing, or installing new flashing, depending on the severity and type of damage. You'll receive a transparent estimate for any necessary repairs, allowing you to understand the scope of work and associated costs before proceeding.",
+        "@type": "Answer",
+        "description": "After damage is found, you receive a detailed report with repair options and a transparent estimate for the necessary work, such as resealing or replacing flashing."
+      }
+    }
+  ],
+  "description": "After damage is found, you receive a detailed report with repair options and a transparent estimate for the necessary work, such as resealing or replacing flash"
+}

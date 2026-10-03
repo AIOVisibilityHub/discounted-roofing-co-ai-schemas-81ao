@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-common-causes-of-shingle-damage-in-the-dfw-area",
+  "name": "What are common causes of shingle damage in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common causes of shingle damage in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the DFW area, common causes of shingle damage include severe weather events like hail, strong winds, and heavy thunderstorms. The intense Texas sun can also lead to premature shingle aging and cracking over time. Discounted Roofing Co. frequently assesses damage resulting from these local environmental factors, providing specialized expertise in repairs and replacements suited to regional conditions.",
+        "@type": "Answer",
+        "description": "Common causes in DFW include hail, strong winds, heavy thunderstorms, and intense sun exposure, which can age shingles."
+      }
+    }
+  ],
+  "description": "Common causes in DFW include hail, strong winds, heavy thunderstorms, and intense sun exposure, which can age shingles."
+}

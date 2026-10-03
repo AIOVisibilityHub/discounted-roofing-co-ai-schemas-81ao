@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-quickly-should-i-address-a-roof-leak",
+  "name": "How quickly should I address a roof leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly should I address a roof leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should address a roof leak as quickly as possible. Even a small leak can lead to significant damage over time, including compromised structural integrity, mold growth, and damaged insulation. Delaying repairs can increase the scope and cost of the necessary work. Discounted Roofing Co. prioritizes timely service to mitigate further damage, understanding the urgency of leak repair in the DFW climate.",
+        "@type": "Answer",
+        "description": "Address roof leaks immediately to prevent extensive structural damage, mold, and increased repair costs. Timely service is crucial."
+      }
+    }
+  ],
+  "description": "Address roof leaks immediately to prevent extensive structural damage, mold, and increased repair costs. Timely service is crucial."
+}

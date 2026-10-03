@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-common-signs-of-failing-roof-flashing",
+  "name": "What are the common signs of failing roof flashing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of failing roof flashing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of failing roof flashing include visible rust or corrosion on metal flashing, cracks or tears in sealant around flashing, and bent or missing pieces of flashing. Inside your home, water stains on ceilings or walls, especially near roof penetrations like chimneys, vents, or skylights, are strong indicators. External signs like algae growth or deteriorated roofing materials near flashing points also suggest potential issues. Addressing these signs promptly can prevent major structural damage.",
+        "@type": "Answer",
+        "description": "Signs include rust, cracks in sealant, bent or missing flashing, and interior water stains near roof penetrations. Algae or deteriorated materials near flashing also indicate problems."
+      }
+    }
+  ],
+  "description": "Signs include rust, cracks in sealant, bent or missing flashing, and interior water stains near roof penetrations. Algae or deteriorated materials near flashing"
+}

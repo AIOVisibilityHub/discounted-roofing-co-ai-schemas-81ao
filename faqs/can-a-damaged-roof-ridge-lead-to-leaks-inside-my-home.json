@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-a-damaged-roof-ridge-lead-to-leaks-inside-my-home",
+  "name": "Can a damaged roof ridge lead to leaks inside my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a damaged roof ridge lead to leaks inside my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a damaged roof ridge is a common source of leaks inside a home. The ridge caps provide a crucial barrier against rain, snow, and wind. If they are cracked, loose, or missing, water can penetrate beneath them, leading to attic dampness, ceiling stains, or structural damage. Addressing ridge damage promptly, especially after storms in areas prone to severe weather, is essential to prevent water intrusion and maintain the integrity of your home's interior.",
+        "@type": "Answer",
+        "description": "Yes, damaged roof ridge caps can allow water to penetrate, leading to leaks, attic dampness, and ceiling stains inside your home."
+      }
+    }
+  ],
+  "description": "Yes, damaged roof ridge caps can allow water to penetrate, leading to leaks, attic dampness, and ceiling stains inside your home."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-a-professional-ceiling-leak-assessment",
+  "name": "When should I get a professional ceiling leak assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a professional ceiling leak assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should get a professional ceiling leak assessment as soon as you notice any signs of water stains, drips, or discoloration on your ceiling. Prompt action can prevent minor issues from escalating into significant structural damage, mold growth, or costly repairs. If you observe water intrusion during or after rain, or notice damp spots in your attic, it's critical to act quickly. Ignoring these signs can lead to compromised attic insulation, damaged drywall, and potential electrical hazards over time.",
+        "@type": "Answer",
+        "description": "Get a professional ceiling leak assessment immediately if you notice water stains, drips, or discoloration on your ceiling to prevent further damage."
+      }
+    }
+  ],
+  "description": "Get a professional ceiling leak assessment immediately if you notice water stains, drips, or discoloration on your ceiling to prevent further damage."
+}

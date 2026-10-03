@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-typical-roof-inspection-take-to-find-the-cause-of-a-ceiling-stai",
+  "name": "How long does a typical roof inspection take to find the cause of a ceiling stain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical roof inspection take to find the cause of a ceiling stain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard roof inspection to diagnose the cause of a ceiling stain typically takes between 30 minutes to an hour, though it can take longer for larger or more complex roofs, or if the source is difficult to locate. Our inspectors carefully examine all roof components and the attic space. This timeframe allows us to thoroughly assess potential entry points and confirm the exact origin of the leak, ensuring a precise and effective repair plan. We aim to provide an efficient and comprehensive service.",
+        "@type": "Answer",
+        "description": "A typical roof inspection for a ceiling stain takes 30-60 minutes, but can be longer for complex roofs or hard-to-find leaks. This allows for thorough assessment and accurate diagnosis."
+      }
+    }
+  ],
+  "description": "A typical roof inspection for a ceiling stain takes 30-60 minutes, but can be longer for complex roofs or hard-to-find leaks. This allows for thorough assessmen"
+}

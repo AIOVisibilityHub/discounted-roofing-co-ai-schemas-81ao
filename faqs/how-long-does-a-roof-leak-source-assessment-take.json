@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-roof-leak-source-assessment-take",
+  "name": "How long does a roof leak-source assessment take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a roof leak-source assessment take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a roof leak-source assessment can vary depending on the complexity and accessibility of your roof, as well as the apparent severity of the leak. Simple, visible leaks might be identified within an hour, while more elusive or widespread issues could require several hours of detailed inspection. Factors like roof pitch, material, and previous repair history can also influence the time needed to accurately locate the source.",
+        "@type": "Answer",
+        "description": "The duration of a roof leak-source assessment varies based on roof complexity and leak severity, typically from one to several hours."
+      }
+    }
+  ],
+  "description": "The duration of a roof leak-source assessment varies based on roof complexity and leak severity, typically from one to several hours."
+}

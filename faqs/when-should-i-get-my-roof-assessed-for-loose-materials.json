@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-my-roof-assessed-for-loose-materials",
+  "name": "When should I get my roof assessed for loose materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get my roof assessed for loose materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should get your roof assessed for loose materials promptly if you notice any signs like missing shingles, visible gaps, debris in your gutters after a storm, or if you suspect water leaks. It's also advisable after severe weather, such as heavy winds or hail, even if damage isn't immediately apparent. Early assessment by Discounted Roofing Co. can prevent minor issues from escalating into major, costly repairs, preserving your roof's lifespan and your home's protection. Timely intervention is key to preventing further damage.",
+        "@type": "Answer",
+        "description": "Assess your roof for loose materials immediately if you see missing shingles, gaps, or after severe weather to prevent further damage."
+      }
+    }
+  ],
+  "description": "Assess your roof for loose materials immediately if you see missing shingles, gaps, or after severe weather to prevent further damage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-roof-ridge-assessment-typically-cost",
+  "name": "How much does a roof ridge assessment typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a roof ridge assessment typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a roof ridge assessment can vary depending on factors like roof size, pitch, and accessibility. Some companies may offer it as part of a general roof inspection, while others charge a standalone fee. At Discounted Roofing Co., we aim to provide transparent pricing and often include ridge assessments as part of our free initial roof inspections. This allows homeowners in our service areas, including Allen and Addison, to get a clear understanding of their roof's condition without an upfront cost.",
+        "@type": "Answer",
+        "description": "Costs vary by roof size and complexity; some companies include it in general inspections. Discounted Roofing Co. often includes ridge assessments as part of free initial roof inspections."
+      }
+    }
+  ],
+  "description": "Costs vary by roof size and complexity; some companies include it in general inspections. Discounted Roofing Co. often includes ridge assessments as part of fre"
+}

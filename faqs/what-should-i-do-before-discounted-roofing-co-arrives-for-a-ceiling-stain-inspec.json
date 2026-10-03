@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-do-before-discounted-roofing-co-arrives-for-a-ceiling-stain-inspec",
+  "name": "What should I do before Discounted Roofing Co. arrives for a ceiling stain inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do before Discounted Roofing Co. arrives for a ceiling stain inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before Discounted Roofing Co. arrives for your ceiling stain inspection, it is helpful to clear the area directly beneath and around the ceiling stain. This allows our inspectors easier access and better visibility for interior assessment. If safe to do so, you can also note down when you first noticed the stain and if it worsens during specific weather conditions. This preliminary information can assist our team in quickly identifying potential issues, streamlining the inspection process, and ensuring we address all your concerns efficiently.",
+        "@type": "Answer",
+        "description": "Before the inspection, clear the area under the stain for access. Also, note when you first saw the stain and if weather affects it, to help our team with the assessment."
+      }
+    }
+  ],
+  "description": "Before the inspection, clear the area under the stain for access. Also, note when you first saw the stain and if weather affects it, to help our team with the a"
+}

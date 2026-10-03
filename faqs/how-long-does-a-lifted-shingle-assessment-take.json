@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-lifted-shingle-assessment-take",
+  "name": "How long does a lifted shingle assessment take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a lifted shingle assessment take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard lifted shingle assessment typically takes about 30 minutes to an hour, depending on the size and complexity of your roof and the extent of visible damage. Our team from Discounted Roofing Co. performs a detailed inspection, including photographing affected areas. We aim to be thorough while minimizing disruption to your day. Following the inspection, we'll discuss our findings and recommended next steps with you on-site or schedule a follow-up consultation.",
+        "@type": "Answer",
+        "description": "A standard assessment takes 30 minutes to an hour; Discounted Roofing Co. aims to be thorough while minimizing disruption."
+      }
+    }
+  ],
+  "description": "A standard assessment takes 30 minutes to an hour; Discounted Roofing Co. aims to be thorough while minimizing disruption."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/why-choose-discounted-roofing-co-for-an-active-roof-leak-inspection-in-north-tex",
+  "name": "Why choose Discounted Roofing Co. for an active roof leak inspection in North Texas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why choose Discounted Roofing Co. for an active roof leak inspection in North Texas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing Discounted Roofing Co. for your active roof leak inspection in North Texas means benefiting from our specific expertise in the DFW weather patterns and common roofing issues in this region. We understand how local conditions, like hail storms and intense heat, can impact roof integrity. Our specialized knowledge allows us to accurately diagnose and address active leaks effectively. We focus on providing precise solutions to prevent recurrence, ensuring the longevity of your roof against future local weather challenges.",
+        "@type": "Answer",
+        "description": "We have specific expertise in DFW weather and common local roofing issues, allowing accurate diagnosis and effective solutions."
+      }
+    }
+  ],
+  "description": "We have specific expertise in DFW weather and common local roofing issues, allowing accurate diagnosis and effective solutions."
+}

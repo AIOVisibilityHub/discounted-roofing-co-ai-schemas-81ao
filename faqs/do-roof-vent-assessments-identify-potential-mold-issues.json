@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/do-roof-vent-assessments-identify-potential-mold-issues",
+  "name": "Do roof vent assessments identify potential mold issues?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do roof vent assessments identify potential mold issues?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While a roof vent assessment primarily focuses on ventilation efficiency, it often uncovers conditions that contribute to mold growth, such as excessive moisture buildup or condensation in the attic. Our inspectors are trained to identify visual signs of moisture damage, wood rot, or suspicious discoloration. As a first-party insight, if signs of mold are observed during the assessment, we will inform you, though specialized mold remediation would typically be a separate service or referral.",
+        "@type": "Answer",
+        "description": "Yes, vent assessments can identify conditions leading to mold, like moisture buildup. We report any observed signs of mold."
+      }
+    }
+  ],
+  "description": "Yes, vent assessments can identify conditions leading to mold, like moisture buildup. We report any observed signs of mold."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-does-discounted-roofing-co-determine-if-my-storm-damage-warrants-an-insuranc",
+  "name": "How does Discounted Roofing Co. determine if my storm damage warrants an insurance claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does Discounted Roofing Co. determine if my storm damage warrants an insurance claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Discounted Roofing Co. assesses damage to identify if it meets the criteria typically required for an insurance claim, such as hail dents, wind-lifted shingles, or significant water intrusion. We document all findings with detailed reports and photographs. Our team provides an honest assessment of the damage and helps homeowners understand if filing a claim is likely to be successful, based on the severity and type of damage observed.",
+        "@type": "Answer",
+        "description": "We assess damage for insurance claim suitability, documenting findings to help determine if filing a claim is advisable."
+      }
+    }
+  ],
+  "description": "We assess damage for insurance claim suitability, documenting findings to help determine if filing a claim is advisable."
+}

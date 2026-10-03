@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-typical-roof-leak-inspection-take",
+  "name": "How long does a typical roof leak inspection take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical roof leak inspection take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard roof leak inspection usually takes between 30 minutes to 1.5 hours. However, the duration can vary based on the roof's size, complexity, and how difficult the leak is to locate. Factors like multiple stories, steep pitches, or extensive interior damage may require more time for a thorough assessment.",
+        "@type": "Answer",
+        "description": "A typical roof leak inspection takes 30 minutes to 1.5 hours, but duration can vary based on roof size, complexity, and leak difficulty."
+      }
+    }
+  ],
+  "description": "A typical roof leak inspection takes 30 minutes to 1.5 hours, but duration can vary based on roof size, complexity, and leak difficulty."
+}

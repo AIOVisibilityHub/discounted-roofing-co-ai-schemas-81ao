@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-if-the-leak-is-in-my-chimney-or-skylight",
+  "name": "What if the leak is in my chimney or skylight?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if the leak is in my chimney or skylight?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Leaks around chimneys and skylights are common due to flashing failure or sealant deterioration. Our leak detection services include inspecting these vulnerable areas specifically. We check the condition of flashing, seals, and surrounding roofing materials to identify the exact point of water entry. Repairing these specific areas often requires specialized techniques to ensure a watertight seal, a service we are equipped to provide across the DFW region.",
+        "@type": "Answer",
+        "description": "Leaks near chimneys and skylights are often due to flashing or sealant issues. We inspect these vulnerable points and apply specialized repair techniques to ensure a watertight seal."
+      }
+    }
+  ],
+  "description": "Leaks near chimneys and skylights are often due to flashing or sealant issues. We inspect these vulnerable points and apply specialized repair techniques to ens"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-loose-roofing-materials-cause-damage-to-other-parts-of-my-home",
+  "name": "Can loose roofing materials cause damage to other parts of my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can loose roofing materials cause damage to other parts of my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, loose roofing materials can cause significant damage to other parts of your home. They can allow water to penetrate the roof deck, leading to wood rot, mold growth in your attic and ceilings, and damage to insulation. Additionally, dislodged materials can become projectiles in high winds, posing a risk to windows, vehicles, or even people. Addressing loose materials quickly through an assessment from Discounted Roofing Co. is crucial to preventing these cascading issues and protecting your entire property.",
+        "@type": "Answer",
+        "description": "Loose roofing materials can lead to water damage, mold, and rot in your attic and ceilings, and can become projectiles in high winds."
+      }
+    }
+  ],
+  "description": "Loose roofing materials can lead to water damage, mold, and rot in your attic and ceilings, and can become projectiles in high winds."
+}

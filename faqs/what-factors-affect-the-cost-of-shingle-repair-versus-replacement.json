@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-affect-the-cost-of-shingle-repair-versus-replacement",
+  "name": "What factors affect the cost of shingle repair versus replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors affect the cost of shingle repair versus replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost difference between shingle repair and replacement depends on the extent of the damage, the type of shingles, and the age of your existing roof. Minor damage to a few shingles can often be repaired affordably. However, if damage is widespread, covers a large percentage of the roof, or if your roof is near the end of its lifespan, a full replacement often becomes the more cost-effective long-term solution. A professional assessment will help determine the most economical option.",
+        "@type": "Answer",
+        "description": "Cost factors include damage extent, shingle type, and roof age; extensive damage or an old roof usually makes replacement more cost-effective."
+      }
+    }
+  ],
+  "description": "Cost factors include damage extent, shingle type, and roof age; extensive damage or an old roof usually makes replacement more cost-effective."
+}

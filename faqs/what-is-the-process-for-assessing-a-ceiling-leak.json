@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-process-for-assessing-a-ceiling-leak",
+  "name": "What is the process for assessing a ceiling leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for assessing a ceiling leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial conversation to understand the history and symptoms of your leak. We then conduct a detailed inspection starting with the interior ceiling, attic (if accessible), and exterior roof areas above the leak. This often involves looking for signs of water entry, damaged roofing materials, compromised flashing, or issues with ventilation. We document our findings, including photos, to clearly illustrate the leak's origin and extent of damage. The next step involves presenting our findings and recommended repair solutions.",
+        "@type": "Answer",
+        "description": "The assessment process involves an initial conversation, a detailed inspection of the interior and exterior, documentation of findings, and presentation of repair solutions."
+      }
+    }
+  ],
+  "description": "The assessment process involves an initial conversation, a detailed inspection of the interior and exterior, documentation of findings, and presentation of repa"
+}

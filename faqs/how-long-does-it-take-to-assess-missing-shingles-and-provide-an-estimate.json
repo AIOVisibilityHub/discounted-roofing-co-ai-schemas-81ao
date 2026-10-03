@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-it-take-to-assess-missing-shingles-and-provide-an-estimate",
+  "name": "How long does it take to assess missing shingles and provide an estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to assess missing shingles and provide an estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical missing shingle assessment can usually be completed within 30 to 60 minutes, depending on the size and complexity of the roof. Following the inspection, our technicians will often provide an initial verbal summary on-site. A detailed written estimate, including photographic evidence and repair recommendations, is typically provided within 24-48 hours. This allows us to accurately calculate material costs and labor for the specific needs of properties in areas like Allen or Addison.",
+        "@type": "Answer",
+        "description": "Assessments usually take 30-60 minutes, with a detailed written estimate provided within 24-48 hours after the on-site inspection."
+      }
+    }
+  ],
+  "description": "Assessments usually take 30-60 minutes, with a detailed written estimate provided within 24-48 hours after the on-site inspection."
+}

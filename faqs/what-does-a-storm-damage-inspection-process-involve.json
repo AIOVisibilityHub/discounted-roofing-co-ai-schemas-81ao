@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-does-a-storm-damage-inspection-process-involve",
+  "name": "What does a storm damage inspection process involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a storm damage inspection process involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a storm damage inspection, our specialists will thoroughly examine your roof, gutters, siding, and other exterior components for signs of hail, wind, or debris impact. This includes checking for missing shingles, punctures, cracks, dents, and water intrusion points. The process involves documenting all findings with photographs and detailed notes to assist with insurance claims. Our team often conducts a multi-point inspection that considers potential secondary damage to ventilation and flashing, which is crucial in areas like Allen.",
+        "@type": "Answer",
+        "description": "The inspection covers your roof, gutters, and siding for damage, documented with photos and notes for insurance."
+      }
+    }
+  ],
+  "description": "The inspection covers your roof, gutters, and siding for damage, documented with photos and notes for insurance."
+}

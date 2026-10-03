@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-know-if-my-roof-needs-a-vent-assessment",
+  "name": "How do I know if my roof needs a vent assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my roof needs a vent assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You may need a roof vent assessment if you notice signs such as higher-than-usual energy bills, excessive heat in your attic, moisture or mildew growth in the attic, or ice damming in colder months (though less common in DFW). Discolored or blistering shingles can also indicate poor ventilation. A practical tradeoff to consider is that while a preventive assessment incurs a small cost, it can prevent significantly more expensive repairs down the line by addressing ventilation issues before they cause major structural or insulation damage.",
+        "@type": "Answer",
+        "description": "Look for high energy bills, attic heat/moisture, or damaged shingles. A preventive assessment can prevent costly future repairs."
+      }
+    }
+  ],
+  "description": "Look for high energy bills, attic heat/moisture, or damaged shingles. A preventive assessment can prevent costly future repairs."
+}

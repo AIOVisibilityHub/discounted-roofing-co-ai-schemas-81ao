@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-do-to-prepare-for-a-roof-penetration-leak-assessment",
+  "name": "What should I do to prepare for a roof penetration leak assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare for a roof penetration leak assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a roof penetration leak assessment, ensure clear access to your property and roof, if safely possible. Clear any obstructions around the exterior of your home that might hinder access for ladders or equipment. Internally, point out any areas where you've noticed water stains, drips, or other signs of leaks to our technicians. Providing historical information about your roof's age, previous repairs, or any recent severe weather events can also be helpful for the assessment. This allows Discounted Roofing Co. to focus on areas of concern.",
+        "@type": "Answer",
+        "description": "Ensure clear access to your property, point out any leak signs, and provide information about your roof's history to the technicians."
+      }
+    }
+  ],
+  "description": "Ensure clear access to your property, point out any leak signs, and provide information about your roof's history to the technicians."
+}

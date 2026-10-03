@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-common-signs-of-a-roof-leak",
+  "name": "What are common signs of a roof leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of a roof leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of a roof leak include water stains on ceilings or walls, peeling paint, bubbling plaster, a musty odor in your attic, or visible mold growth. Exterior signs might include missing or damaged shingles, corroded flashing, or sagging roof sections. Early detection can prevent extensive damage, so regular inspections are recommended, especially after severe weather events common in the DFW area.",
+        "@type": "Answer",
+        "description": "Look for water stains, peeling paint, or musty smells inside, and damaged shingles or flashing outside. Regular inspections after DFW storms can help with early detection."
+      }
+    }
+  ],
+  "description": "Look for water stains, peeling paint, or musty smells inside, and damaged shingles or flashing outside. Regular inspections after DFW storms can help with early"
+}

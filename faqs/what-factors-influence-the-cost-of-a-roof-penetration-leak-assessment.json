@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-influence-the-cost-of-a-roof-penetration-leak-assessment",
+  "name": "What factors influence the cost of a roof penetration leak assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a roof penetration leak assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a roof penetration leak assessment is influenced by several factors, including the size and pitch of your roof, the number and type of penetrations, and the accessibility of the roof. More complex roofs or those with numerous skylights, vents, or other elements typically require more time and specialized equipment, affecting the overall cost. Additionally, the need for extensive detective work to locate a hidden leak can also impact pricing. Discounted Roofing Co. provides a transparent quote after an initial consultation, ensuring you understand the investment.",
+        "@type": "Answer",
+        "description": "Cost is influenced by roof size, pitch, number/type of penetrations, accessibility, and complexity of leak detection."
+      }
+    }
+  ],
+  "description": "Cost is influenced by roof size, pitch, number/type of penetrations, accessibility, and complexity of leak detection."
+}

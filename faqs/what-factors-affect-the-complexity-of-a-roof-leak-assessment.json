@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-affect-the-complexity-of-a-roof-leak-assessment",
+  "name": "What factors affect the complexity of a roof leak assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors affect the complexity of a roof leak assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors can increase the complexity of a roof leak assessment. These include the age of the roof, the type of roofing material (e.g., slate, tile, metal vs. asphalt shingles), multiple layers of roofing, difficult-to-access areas like steep pitches or crowded rooflines, and previous repair attempts that may have obscured the original issue. Each of these elements requires a more detailed and time-consuming inspection to accurately identify the leak source, which can impact the overall assessment process.",
+        "@type": "Answer",
+        "description": "Factors affecting complexity include roof age, material type, multiple layers, difficult access, and previous repairs."
+      }
+    }
+  ],
+  "description": "Factors affecting complexity include roof age, material type, multiple layers, difficult access, and previous repairs."
+}

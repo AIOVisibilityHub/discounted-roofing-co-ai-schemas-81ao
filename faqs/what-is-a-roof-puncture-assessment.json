@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-roof-puncture-assessment",
+  "name": "What is a roof puncture assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a roof puncture assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roof puncture assessment identifies and evaluates damage to your roof's surface caused by punctures. This includes pinpointing the exact location, determining the size and depth of the puncture, and assessing any underlying structural or water damage. The assessment helps in understanding the extent of the problem and planning effective repairs to prevent further issues, especially after events like hail or falling debris.",
+        "@type": "Answer",
+        "description": "A roof puncture assessment identifies and evaluates damage to your roof's surface caused by punctures, assessing the location, size, and underlying issues."
+      }
+    }
+  ],
+  "description": "A roof puncture assessment identifies and evaluates damage to your roof's surface caused by punctures, assessing the location, size, and underlying issues."
+}

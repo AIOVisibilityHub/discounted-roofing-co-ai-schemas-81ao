@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-common-types-of-damage-found-during-a-roof-ridge-assessment",
+  "name": "What are the common types of damage found during a roof ridge assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common types of damage found during a roof ridge assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common types of damage include cracked or broken ridge caps, missing shingles, deteriorated sealant, and issues with the underlying ventilation system. We also frequently find damage from impacts, such as hail, or wear from strong winds, which are common in the DFW area. The type of damage can influence the repair method, from simple cap replacement to more extensive ridge repair, and our assessments aim to clearly identify these specific issues.",
+        "@type": "Answer",
+        "description": "Common damage includes cracked or missing ridge caps, deteriorated sealant, and ventilation issues, often caused by weather impacts like hail or wind."
+      }
+    }
+  ],
+  "description": "Common damage includes cracked or missing ridge caps, deteriorated sealant, and ventilation issues, often caused by weather impacts like hail or wind."
+}

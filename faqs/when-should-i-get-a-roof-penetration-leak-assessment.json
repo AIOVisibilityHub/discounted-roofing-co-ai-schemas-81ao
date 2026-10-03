@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-a-roof-penetration-leak-assessment",
+  "name": "When should I get a roof penetration leak assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a roof penetration leak assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should get a roof penetration leak assessment if you notice signs of water damage inside your property, such as water stains on ceilings or walls, dripping, or mold growth, particularly after rain. It's also advisable after severe weather events like heavy storms or hail, which can damage flashing or seals around penetrations. Proactive assessments can catch minor issues before they escalate. Consider the age of your roof and the last time these areas were inspected, as seals can degrade over time. Early detection helps minimize repair costs and structural damage.",
+        "@type": "Answer",
+        "description": "Get an assessment if you see water damage, after severe weather, or if your roof is older, to catch minor issues early."
+      }
+    }
+  ],
+  "description": "Get an assessment if you see water damage, after severe weather, or if your roof is older, to catch minor issues early."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/is-a-leak-assessment-different-from-a-general-roof-inspection",
+  "name": "Is a leak assessment different from a general roof inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a leak assessment different from a general roof inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a leak assessment for penetrations is more specialized than a general roof inspection. A general roof inspection provides an overview of the entire roof system's condition, including shingles, gutters, and overall integrity. In contrast, a penetration leak assessment focuses specifically on points where the roof surface is interrupted, such as chimneys, skylights, vents, and pipes. It involves a detailed examination of flashing, sealants, and surrounding materials at these specific points to identify and diagnose water intrusion sources. This specialized focus ensures targeted and efficient leak detection.",
+        "@type": "Answer",
+        "description": "Yes, a leak assessment specifically targets points where the roof surface is interrupted, while a general inspection covers the entire roof system."
+      }
+    }
+  ],
+  "description": "Yes, a leak assessment specifically targets points where the roof surface is interrupted, while a general inspection covers the entire roof system."
+}

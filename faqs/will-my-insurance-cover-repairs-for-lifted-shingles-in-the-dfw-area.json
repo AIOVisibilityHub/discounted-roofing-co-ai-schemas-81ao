@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-my-insurance-cover-repairs-for-lifted-shingles-in-the-dfw-area",
+  "name": "Will my insurance cover repairs for lifted shingles in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover repairs for lifted shingles in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Insurance coverage for lifted shingles typically depends on the cause of the damage and your specific policy terms. Most homeowner's insurance policies cover damage caused by sudden and accidental events, such as strong winds or hail. Damage due to normal wear and tear or lack of maintenance is usually not covered. Discounted Roofing Co. can provide documentation and assist you through the insurance claim process, offering guidance specific to common claim procedures in the DFW region.",
+        "@type": "Answer",
+        "description": "Insurance often covers lifted shingles caused by sudden events like wind or hail, but not normal wear; coverage depends on your policy."
+      }
+    }
+  ],
+  "description": "Insurance often covers lifted shingles caused by sudden events like wind or hail, but not normal wear; coverage depends on your policy."
+}

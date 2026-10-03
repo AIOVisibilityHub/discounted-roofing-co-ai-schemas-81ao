@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-preparation-do-i-need-for-a-loose-roofing-material-assessment",
+  "name": "What preparation do I need for a loose roofing material assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation do I need for a loose roofing material assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a loose roofing material assessment, ensure clear access around your home's perimeter and to your attic, if possible, for our technicians. Remove any vehicles or obstructions that might hinder ladder placement or access to the roofline. You should also be prepared to discuss any specific observations you've made, such as sounds, leaks, or visible damage. Discounted Roofing Co. appreciates any details you can provide, as this helps us focus our inspection and deliver the most accurate assessment of your roofing needs.",
+        "@type": "Answer",
+        "description": "Prepare for a loose roofing material assessment by ensuring clear access around your home, to your attic, and be ready to discuss any observations."
+      }
+    }
+  ],
+  "description": "Prepare for a loose roofing material assessment by ensuring clear access around your home, to your attic, and be ready to discuss any observations."
+}

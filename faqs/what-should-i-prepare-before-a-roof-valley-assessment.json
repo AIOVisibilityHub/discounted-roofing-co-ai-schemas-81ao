@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-prepare-before-a-roof-valley-assessment",
+  "name": "What should I prepare before a roof valley assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a roof valley assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a roof valley assessment, ensure clear access around your property for the inspection team. If possible, clear any overgrown tree branches that might obstruct the valleys or make roof access difficult. Provide any previous roofing reports or repair history you may have, as this can offer valuable context to the assessment. Inform the technicians of any specific concerns you have, such as areas where you've noticed leaks or stains inside your home, to help them focus their investigation effectively.",
+        "@type": "Answer",
+        "description": "Ensure clear property access, trim obstructing branches, provide any past roofing reports, and point out specific areas of concern."
+      }
+    }
+  ],
+  "description": "Ensure clear property access, trim obstructing branches, provide any past roofing reports, and point out specific areas of concern."
+}

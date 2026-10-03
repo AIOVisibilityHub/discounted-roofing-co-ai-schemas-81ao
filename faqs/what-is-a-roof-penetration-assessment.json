@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-roof-penetration-assessment",
+  "name": "What is a roof penetration assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a roof penetration assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roof penetration assessment identifies and evaluates all objects that pass through your roof, such as pipes, vents, skylights, and HVAC units. The assessment checks for proper sealing, flashing, and structural integrity around these penetrations to prevent leaks and ensure the roof's longevity. This is a critical step in maintaining your roof, especially in areas like DFW where weather can cause rapid deterioration of seals.",
+        "@type": "Answer",
+        "description": "A roof penetration assessment identifies and evaluates all objects passing through your roof, checking for proper sealing and structural integrity to prevent leaks."
+      }
+    }
+  ],
+  "description": "A roof penetration assessment identifies and evaluates all objects passing through your roof, checking for proper sealing and structural integrity to prevent le"
+}

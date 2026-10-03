@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-information-should-i-have-ready-before-a-shingle-assessment",
+  "name": "What information should I have ready before a shingle assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I have ready before a shingle assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your shingle assessment, it's helpful to note any specific areas where you've observed leaks or damage, and the approximate date of the last major storm or roof work. Providing access to your property and ensuring pets are secured will also streamline the process. Our team will handle the comprehensive inspection, but any details you can offer help focus the evaluation.",
+        "@type": "Answer",
+        "description": "Prepare information on observed leaks, recent storms, and ensure property access to help streamline your shingle assessment."
+      }
+    }
+  ],
+  "description": "Prepare information on observed leaks, recent storms, and ensure property access to help streamline your shingle assessment."
+}

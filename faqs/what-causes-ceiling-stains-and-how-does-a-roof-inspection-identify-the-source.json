@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-causes-ceiling-stains-and-how-does-a-roof-inspection-identify-the-source",
+  "name": "What causes ceiling stains and how does a roof inspection identify the source?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes ceiling stains and how does a roof inspection identify the source?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ceiling stains are often caused by water intrusion from the roof, but can also be due to plumbing leaks or condensation. During a roof inspection, our team at Discounted Roofing Co. will examine the roof's exterior for damaged shingles, compromised flashing around chimneys or vents, clogged gutters, and any signs of water pooling. We then investigate the attic space directly above the stain for evidence of water entry, such as wet insulation, mold, or deteriorated wood, to pinpoint if the roof is indeed the source. Understanding the exact cause is crucial for recommending the correct repair.",
+        "@type": "Answer",
+        "description": "Ceiling stains usually indicate water leaks from the roof, but can also be from plumbing or condensation. A roof inspection identifies the source by checking roof integrity and attic for water entry."
+      }
+    }
+  ],
+  "description": "Ceiling stains usually indicate water leaks from the roof, but can also be from plumbing or condensation. A roof inspection identifies the source by checking ro"
+}

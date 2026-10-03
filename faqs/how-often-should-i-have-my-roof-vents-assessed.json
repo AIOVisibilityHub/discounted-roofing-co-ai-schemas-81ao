@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-often-should-i-have-my-roof-vents-assessed",
+  "name": "How often should I have my roof vents assessed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I have my roof vents assessed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is generally recommended to have your roof vents assessed as part of your overall roof inspection, ideally every 1-3 years, or immediately if you notice any signs of ventilation problems or after a major weather event. Regular maintenance helps ensure optimal performance and can prevent minor issues from becoming costly repairs. Contextual relevance: Given the severe weather patterns common in the DFW area, more frequent checks after storms are particularly advisable to ensure vent integrity.",
+        "@type": "Answer",
+        "description": "Assess roof vents every 1-3 years with a full roof inspection, or after noticing issues or major DFW weather events."
+      }
+    }
+  ],
+  "description": "Assess roof vents every 1-3 years with a full roof inspection, or after noticing issues or major DFW weather events."
+}

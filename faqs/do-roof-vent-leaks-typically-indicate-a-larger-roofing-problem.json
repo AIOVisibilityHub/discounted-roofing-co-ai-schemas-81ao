@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/do-roof-vent-leaks-typically-indicate-a-larger-roofing-problem",
+  "name": "Do roof vent leaks typically indicate a larger roofing problem?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do roof vent leaks typically indicate a larger roofing problem?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Not always. A roof vent leak can sometimes be an isolated issue caused by failed sealant or damaged flashing specific to the vent itself. However, it can also be an early indicator of general roof deterioration, especially if multiple vents are leaking or if the roof is older. An assessment will help determine if the issue is localized or part of a broader concern. Discounted Roofing Co. assesses your entire roof system to advise on both immediate fixes and potential future needs.",
+        "@type": "Answer",
+        "description": "Vent leaks can be isolated or signal general roof deterioration. An assessment determines if it's localized or a broader issue."
+      }
+    }
+  ],
+  "description": "Vent leaks can be isolated or signal general roof deterioration. An assessment determines if it's localized or a broader issue."
+}

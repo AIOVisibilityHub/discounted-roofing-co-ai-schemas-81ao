@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-involved-in-a-roof-puncture-assessment-process",
+  "name": "What is involved in a roof puncture assessment process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a roof puncture assessment process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The assessment typically begins with an exterior inspection of your roof to identify visible punctures, often involving climbing onto the roof. Technicians look for signs of damage, compromised flashing, and potential entry points for water. This is followed by an interior inspection, if accessible, to check for water stains, mold, or structural damage in the attic or ceilings. The findings are then documented with photos, and a detailed report outlining the recommended repairs is provided.",
+        "@type": "Answer",
+        "description": "The process involves exterior and interior inspections to locate damage, document findings, and recommend repairs."
+      }
+    }
+  ],
+  "description": "The process involves exterior and interior inspections to locate damage, document findings, and recommend repairs."
+}

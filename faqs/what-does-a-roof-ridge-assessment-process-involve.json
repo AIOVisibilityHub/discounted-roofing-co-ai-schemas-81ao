@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-does-a-roof-ridge-assessment-process-involve",
+  "name": "What does a roof ridge assessment process involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a roof ridge assessment process involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our roof ridge assessment process begins with a visual inspection from the ground, followed by a detailed examination of the ridge line from the roof. We look for cracked, missing, or misaligned ridge caps, signs of wear, and proper ventilation. We also check the condition of the underlayment and flashing in the ridge area. After the inspection, we provide a comprehensive report outlining any issues and recommended solutions, helping you understand the exact state of your roof's most vulnerable points.",
+        "@type": "Answer",
+        "description": "The process involves a ground and roof-level inspection of the ridge line for damage, wear, and proper ventilation, followed by a detailed report of findings and recommendations."
+      }
+    }
+  ],
+  "description": "The process involves a ground and roof-level inspection of the ridge line for damage, wear, and proper ventilation, followed by a detailed report of findings an"
+}

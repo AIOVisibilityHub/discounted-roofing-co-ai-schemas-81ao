@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-i-detect-a-roof-leak-myself",
+  "name": "Can I detect a roof leak myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I detect a roof leak myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While you can look for obvious signs like water stains or visible roof damage, precisely locating the source of a leak, especially hidden ones, often requires professional expertise. Many leaks originate far from where water appears inside. Attempting repairs without proper knowledge can lead to further damage or safety risks. Discounted Roofing Co. uses specialized techniques to accurately detect and repair leaks, ensuring a lasting solution.",
+        "@type": "Answer",
+        "description": "You can spot obvious signs, but precise leak detection is best left to professionals. DIY attempts can cause more damage; we use specialized techniques for accurate and lasting repairs."
+      }
+    }
+  ],
+  "description": "You can spot obvious signs, but precise leak detection is best left to professionals. DIY attempts can cause more damage; we use specialized techniques for accu"
+}

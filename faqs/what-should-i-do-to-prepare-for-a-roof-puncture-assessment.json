@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-do-to-prepare-for-a-roof-puncture-assessment",
+  "name": "What should I do to prepare for a roof puncture assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare for a roof puncture assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a roof puncture assessment, ensure clear access to your property and the roof. Clear any debris from around the perimeter of your house and secure pets. If you have noticed any specific leaks or areas of concern inside your home, point these out to the inspector. Providing any prior roof repair history or warranty information can also be helpful for a comprehensive evaluation.",
+        "@type": "Answer",
+        "description": "Ensure clear access to your property and roof, secure pets, and point out any specific leaks or concerns to the inspector."
+      }
+    }
+  ],
+  "description": "Ensure clear access to your property and roof, secure pets, and point out any specific leaks or concerns to the inspector."
+}

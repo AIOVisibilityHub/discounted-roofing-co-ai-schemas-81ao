@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-after-a-roof-vent-leak-assessment",
+  "name": "What happens after a roof vent leak assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after a roof vent leak assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a roof vent leak assessment, the professional will provide you with a detailed report outlining the findings, including the identified source of the leak, the extent of any damage, and recommended repair options. They will also provide an estimate for the necessary repairs. You should review this report and ask any questions you have to fully understand the scope of work. Discounted Roofing Co. ensures clear communication regarding repair proposals.",
+        "@type": "Answer",
+        "description": "You receive a detailed report of findings, recommended repairs, and an estimate. Review it and ask questions to understand the work."
+      }
+    }
+  ],
+  "description": "You receive a detailed report of findings, recommended repairs, and an estimate. Review it and ask questions to understand the work."
+}

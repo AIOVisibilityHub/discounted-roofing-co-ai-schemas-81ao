@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-schedule-a-professional-roof-leak-inspection",
+  "name": "When should I schedule a professional roof leak inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I schedule a professional roof leak inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should schedule a professional roof leak inspection immediately if you notice any signs of water intrusion, such as ceiling stains, dripping water, or damp spots in your attic. It's also advisable after severe weather events like hailstorms or strong winds, even if you don't see immediate leaks. Early detection can prevent more extensive and costly damage.",
+        "@type": "Answer",
+        "description": "Schedule an inspection immediately if you see signs of water or after severe weather to prevent further damage."
+      }
+    }
+  ],
+  "description": "Schedule an inspection immediately if you see signs of water or after severe weather to prevent further damage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-types-of-roof-flashing-do-you-assess-for-leaks",
+  "name": "What types of roof flashing do you assess for leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of roof flashing do you assess for leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We assess all common types of roof flashing, including step flashing, continuous flashing, counter flashing, valley flashing, and vent pipe flashing. Our inspections cover flashing made from various materials such as aluminum, steel, copper, and lead. We examine each type for proper installation, signs of corrosion, cracking, sealant failure, or any other damage that could compromise its ability to prevent water intrusion. This comprehensive approach ensures all vulnerable areas are checked.",
+        "@type": "Answer",
+        "description": "We assess all common flashing types like step, continuous, counter, valley, and vent pipe flashing, regardless of material, checking for proper installation and damage."
+      }
+    }
+  ],
+  "description": "We assess all common flashing types like step, continuous, counter, valley, and vent pipe flashing, regardless of material, checking for proper installation and"
+}

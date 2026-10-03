@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-filing-a-roof-damage-claim-increase-my-insurance-premiums",
+  "name": "Will filing a roof damage claim increase my insurance premiums?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will filing a roof damage claim increase my insurance premiums?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether filing a roof damage claim increases your premiums can vary based on your specific insurance provider, policy terms, and the nature of the claim. Generally, claims due to natural disasters often have less impact than those from negligence. It's a practical tradeoff to consider the potential premium increase against the cost of paying for repairs entirely out-of-pocket, particularly for significant storm damage.",
+        "@type": "Answer",
+        "description": "Premium increases vary by provider and claim type; consider the tradeoff between potential increases and out-of-pocket costs."
+      }
+    }
+  ],
+  "description": "Premium increases vary by provider and claim type; consider the tradeoff between potential increases and out-of-pocket costs."
+}

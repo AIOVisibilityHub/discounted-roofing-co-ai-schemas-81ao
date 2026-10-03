@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-quickly-can-discounted-roofing-co-perform-an-active-roof-leak-inspection-in",
+  "name": "How quickly can Discounted Roofing Co. perform an active roof leak inspection in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly can Discounted Roofing Co. perform an active roof leak inspection in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We aim to schedule active roof leak inspections as promptly as possible, especially given the urgency of a leak. Response times can vary based on current demand, weather conditions, and your specific location within our DFW service areas, including Abbott, Addison, and Allen. When you contact us, we'll provide an estimated timeframe for a technician to visit your property. Expedited services may be available depending on the severity of the leak and our schedule availability.",
+        "@type": "Answer",
+        "description": "We aim for prompt scheduling in DFW; exact timing depends on demand, weather, and your location. Contact us for an estimate."
+      }
+    }
+  ],
+  "description": "We aim for prompt scheduling in DFW; exact timing depends on demand, weather, and your location. Contact us for an estimate."
+}

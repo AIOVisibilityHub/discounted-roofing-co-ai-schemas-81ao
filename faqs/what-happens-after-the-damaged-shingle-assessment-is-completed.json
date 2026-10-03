@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-after-the-damaged-shingle-assessment-is-completed",
+  "name": "What happens after the damaged shingle assessment is completed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after the damaged shingle assessment is completed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After the damaged shingle assessment, our inspector will provide a detailed report outlining the findings, including photos of the damage. We will then discuss the recommended solutions, which may involve minor repairs, partial shingle replacement, or a full roof replacement, depending on the severity. We provide a transparent quote for any recommended work and can guide you through the next steps, including insurance claim assistance if applicable.",
+        "@type": "Answer",
+        "description": "Following the assessment, you'll receive a detailed report with findings, recommended solutions, and a transparent quote for any necessary work."
+      }
+    }
+  ],
+  "description": "Following the assessment, you'll receive a detailed report with findings, recommended solutions, and a transparent quote for any necessary work."
+}

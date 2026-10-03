@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-common-causes-of-missing-shingles",
+  "name": "What are the common causes of missing shingles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common causes of missing shingles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Missing shingles are frequently caused by severe weather conditions, particularly strong winds and hail, which can lift, crack, or tear shingles from the roof decking. Other factors include improper installation, aging roof materials, and poor maintenance. For homes in the DFW region, the sudden and intense storms can rapidly degrade shingle adhesion. Understanding the cause helps in recommending preventive measures and ensuring long-term durability of the repair.",
+        "@type": "Answer",
+        "description": "Common causes include strong winds, hail, improper installation, and aging roof materials, with severe weather being a major factor in DFW."
+      }
+    }
+  ],
+  "description": "Common causes include strong winds, hail, improper installation, and aging roof materials, with severe weather being a major factor in DFW."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-preventative-measures-can-i-take-against-roof-leaks",
+  "name": "What preventative measures can I take against roof leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preventative measures can I take against roof leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regular roof maintenance is key to preventing leaks. This includes cleaning gutters to ensure proper drainage, trimming overhanging tree branches, and scheduling periodic professional inspections to identify potential issues early. For properties in the DFW area, considering the impact of seasonal storms and hail is particularly important for maintaining your roof's integrity. Proactive care can significantly extend your roof's lifespan.",
+        "@type": "Answer",
+        "description": "Prevent leaks with regular gutter cleaning, trimming branches, and professional inspections. In DFW, consider seasonal storms and hail impacts for proactive roof care."
+      }
+    }
+  ],
+  "description": "Prevent leaks with regular gutter cleaning, trimming branches, and professional inspections. In DFW, consider seasonal storms and hail impacts for proactive roo"
+}

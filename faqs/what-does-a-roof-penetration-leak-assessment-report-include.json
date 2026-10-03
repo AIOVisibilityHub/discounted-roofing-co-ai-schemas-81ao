@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-does-a-roof-penetration-leak-assessment-report-include",
+  "name": "What does a roof penetration leak assessment report include?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a roof penetration leak assessment report include?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A comprehensive roof penetration leak assessment report from Discounted Roofing Co. typically includes detailed findings of all identified leaks and potential weak points around penetrations. It will outline the specific type of penetration (e.g., vent pipe, chimney, skylight), the nature and cause of the leak, and photographic evidence to illustrate the issues. The report also provides recommended repair solutions and an estimated cost for each. This detailed documentation allows property owners to understand the problem fully and make informed decisions about necessary repairs.",
+        "@type": "Answer",
+        "description": "A report includes detailed findings of leaks around penetrations, causes, photographic evidence, and recommended repair solutions with estimated costs."
+      }
+    }
+  ],
+  "description": "A report includes detailed findings of leaks around penetrations, causes, photographic evidence, and recommended repair solutions with estimated costs."
+}

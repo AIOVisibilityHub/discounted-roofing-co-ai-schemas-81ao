@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-quickly-should-i-schedule-a-storm-damage-inspection-after-a-storm",
+  "name": "How quickly should I schedule a storm damage inspection after a storm?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly should I schedule a storm damage inspection after a storm?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should schedule a storm damage inspection as soon as safely possible after a severe weather event, ideally within a few days. Many insurance policies have deadlines for reporting storm damage, often within 1-2 years, but early reporting can streamline the claims process and prevent secondary damage. Discounted Roofing Co. recommends contacting us within 24-48 hours of a significant storm to ensure a timely assessment and documentation before hidden problems worsen.",
+        "@type": "Answer",
+        "description": "Schedule an inspection within days of a storm; early reporting aids insurance claims and prevents worsening damage."
+      }
+    }
+  ],
+  "description": "Schedule an inspection within days of a storm; early reporting aids insurance claims and prevents worsening damage."
+}

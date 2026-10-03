@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-my-insurance-cover-the-cost-of-missing-shingle-repairs",
+  "name": "Will my insurance cover the cost of missing shingle repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover the cost of missing shingle repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many homeowner insurance policies cover roof damage caused by sudden and accidental events, such as wind or hail storms, which often result in missing shingles. Coverage depends on your specific policy, deductible, and the cause of the damage. Discounted Roofing Co. can assist with the insurance claim process by providing detailed documentation and working directly with your adjuster. It's important to review your policy or speak with your insurer to understand your coverage specifics.",
+        "@type": "Answer",
+        "description": "Homeowner insurance often covers missing shingle repairs from storm damage, but coverage depends on your policy; we can help with claims."
+      }
+    }
+  ],
+  "description": "Homeowner insurance often covers missing shingle repairs from storm damage, but coverage depends on your policy; we can help with claims."
+}

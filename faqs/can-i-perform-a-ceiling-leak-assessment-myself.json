@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-i-perform-a-ceiling-leak-assessment-myself",
+  "name": "Can I perform a ceiling leak assessment myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I perform a ceiling leak assessment myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While you can visually inspect your ceiling and attic for obvious signs of water, a comprehensive and accurate ceiling leak assessment is best performed by trained professionals. Identifying the precise source of a leak often requires expertise in roofing systems, flashing details, and knowledge of how water travels. A DIY assessment might misidentify the source, leading to ineffective repairs. Professional assessors have the experience to spot subtle indicators and potential secondary issues you might overlook, ensuring a lasting solution.",
+        "@type": "Answer",
+        "description": "While you can do a visual check, a professional assessment is recommended for accurate leak identification due to the complexity of roofing systems."
+      }
+    }
+  ],
+  "description": "While you can do a visual check, a professional assessment is recommended for accurate leak identification due to the complexity of roofing systems."
+}

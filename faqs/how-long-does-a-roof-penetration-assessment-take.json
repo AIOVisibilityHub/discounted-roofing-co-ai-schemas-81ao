@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-roof-penetration-assessment-take",
+  "name": "How long does a roof penetration assessment take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a roof penetration assessment take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a roof penetration assessment varies depending on the size and complexity of your roof and the number of penetrations. For a standard residential roof, it typically takes 1 to 2 hours. Larger commercial properties or roofs with extensive penetrations may require more time. We aim to complete the assessment efficiently while ensuring thoroughness.",
+        "@type": "Answer",
+        "description": "The assessment usually takes 1-2 hours for a standard residential roof, varying with roof size and penetration count."
+      }
+    }
+  ],
+  "description": "The assessment usually takes 1-2 hours for a standard residential roof, varying with roof size and penetration count."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/does-my-homeowner-s-insurance-cover-cracked-shingle-assessments-or-repairs",
+  "name": "Does my homeowner's insurance cover cracked shingle assessments or repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does my homeowner's insurance cover cracked shingle assessments or repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance typically covers damage to shingles caused by sudden, accidental events like windstorms, hail, or falling trees, but usually not damage due to normal wear and tear or lack of maintenance. The assessment itself may not be covered unless it's part of a claim for covered damage. Discounted Roofing Co. can assist homeowners in our service areas like Allen and Addison with understanding the documentation needed for insurance claims, and we can provide detailed reports following our assessments to support your claim process, though we do not handle claims directly.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance usually covers cracked shingles from sudden events like storms, but not wear and tear; assessments may be covered if part of a claim."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance usually covers cracked shingles from sudden events like storms, but not wear and tear; assessments may be covered if part of a claim."
+}

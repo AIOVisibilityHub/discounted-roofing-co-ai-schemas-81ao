@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-prepare-for-a-lifted-shingle-assessment",
+  "name": "What should I prepare for a lifted shingle assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare for a lifted shingle assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a lifted shingle assessment, ensure clear access around your property for our inspectors to safely set up ladders and move around the exterior. Secure pets indoors and clear any obstacles from the path to your roof. If you have any previous inspection reports, warranty information, or knowledge of recent storm activity, have these readily available to provide our team. This information helps Discounted Roofing Co. conduct a more thorough and informed assessment.",
+        "@type": "Answer",
+        "description": "Prepare by ensuring clear access around your property for inspectors and having any previous reports or storm details ready."
+      }
+    }
+  ],
+  "description": "Prepare by ensuring clear access around your property for inspectors and having any previous reports or storm details ready."
+}

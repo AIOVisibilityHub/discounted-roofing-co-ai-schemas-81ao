@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/why-is-a-time-sensitive-storm-damage-inspection-important-after-severe-weather",
+  "name": "Why is a time-sensitive storm damage inspection important after severe weather?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is a time-sensitive storm damage inspection important after severe weather?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A time-sensitive storm damage inspection is crucial because damage may not always be visible from the ground, and delaying an inspection can lead to further deterioration. Identifying and documenting damage promptly helps in filing insurance claims within the typical limited timeframe set by most policies. Discounted Roofing Co. prioritizes rapid assessments to prevent minor issues from escalating into major repairs, which is a common observation in the DFW service area after hailstorms.",
+        "@type": "Answer",
+        "description": "Prompt inspections identify hidden damage and support timely insurance claims, preventing further deterioration and larger repair costs."
+      }
+    }
+  ],
+  "description": "Prompt inspections identify hidden damage and support timely insurance claims, preventing further deterioration and larger repair costs."
+}

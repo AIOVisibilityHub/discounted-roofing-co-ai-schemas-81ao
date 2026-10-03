@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-can-i-prepare-my-home-for-a-roof-vent-leak-assessment",
+  "name": "How can I prepare my home for a roof vent leak assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare my home for a roof vent leak assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a roof vent leak assessment, ensure clear access to your attic if possible, and remove any obstacles near the interior areas where you've noticed signs of a leak. Also, clear the area around your home where ladders might be placed for exterior access. Providing any details about when you first noticed the leak or recent weather events can also assist the inspection. Our team appreciates clear access to perform a thorough job.",
+        "@type": "Answer",
+        "description": "Ensure clear attic access and exterior areas for ladders. Provide details about when the leak started or recent weather."
+      }
+    }
+  ],
+  "description": "Ensure clear attic access and exterior areas for ladders. Provide details about when the leak started or recent weather."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-kind-of-report-do-i-receive-after-a-ceiling-stain-roof-inspection-from-disc",
+  "name": "What kind of report do I receive after a ceiling stain roof inspection from Discounted Roofing Co.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of report do I receive after a ceiling stain roof inspection from Discounted Roofing Co.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a ceiling stain roof inspection, Discounted Roofing Co. provides a comprehensive report detailing our findings. This report will include a clear explanation of the identified cause of the ceiling stain, photographic evidence of any damage found on the roof or in the attic, and a professional assessment of the roof's overall condition. We also outline recommended repair options or replacement suggestions, along with an estimate for the necessary work. This transparency ensures you understand the issue and the proposed solution.",
+        "@type": "Answer",
+        "description": "After a ceiling stain inspection, you'll receive a detailed report from Discounted Roofing Co. with the cause, photos of damage, roof assessment, and recommended solutions with estimates."
+      }
+    }
+  ],
+  "description": "After a ceiling stain inspection, you'll receive a detailed report from Discounted Roofing Co. with the cause, photos of damage, roof assessment, and recommende"
+}

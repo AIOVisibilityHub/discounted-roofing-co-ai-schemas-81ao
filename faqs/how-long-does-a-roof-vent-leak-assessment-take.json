@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-roof-vent-leak-assessment-take",
+  "name": "How long does a roof vent leak assessment take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a roof vent leak assessment take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard roof vent leak assessment typically takes 30 to 60 minutes, depending on the number of vents, roof accessibility, and the suspected complexity of the leak. Factors like roof pitch and current weather conditions can also influence the duration. Discounted Roofing Co. aims to complete assessments efficiently while ensuring thoroughness to accurately diagnose the issue.",
+        "@type": "Answer",
+        "description": "A standard assessment usually takes 30-60 minutes, varying based on vent count, roof accessibility, and leak complexity."
+      }
+    }
+  ],
+  "description": "A standard assessment usually takes 30-60 minutes, varying based on vent count, roof accessibility, and leak complexity."
+}

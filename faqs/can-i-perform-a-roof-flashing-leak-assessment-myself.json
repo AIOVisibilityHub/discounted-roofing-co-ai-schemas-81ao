@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-i-perform-a-roof-flashing-leak-assessment-myself",
+  "name": "Can I perform a roof flashing leak assessment myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I perform a roof flashing leak assessment myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's possible to visually inspect your roof from the ground, a thorough flashing leak assessment requires climbing onto the roof, which carries safety risks and demands specific expertise. Professionals have the necessary safety equipment, knowledge of various flashing types, and tools to identify subtle signs of damage or improper installation that might be missed by an untrained eye. A DIY approach might overlook critical issues, leading to more expensive repairs later.",
+        "@type": "Answer",
+        "description": "Performing a DIY assessment is risky and can miss critical issues. Professionals have safety equipment, expertise, and tools to thoroughly inspect flashing components."
+      }
+    }
+  ],
+  "description": "Performing a DIY assessment is risky and can miss critical issues. Professionals have safety equipment, expertise, and tools to thoroughly inspect flashing comp"
+}

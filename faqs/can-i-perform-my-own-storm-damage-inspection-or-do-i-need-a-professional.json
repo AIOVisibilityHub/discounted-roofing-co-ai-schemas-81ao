@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-i-perform-my-own-storm-damage-inspection-or-do-i-need-a-professional",
+  "name": "Can I perform my own storm damage inspection, or do I need a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I perform my own storm damage inspection, or do I need a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While you can visually check for obvious signs of damage from the ground, a professional inspection is strongly recommended due to safety risks and the difficulty of identifying subtle or hidden damage. Roofing professionals are trained to spot issues that are not apparent to the untrained eye and have the necessary safety equipment. Discounted Roofing Co. observes that many homeowners in Aledo miss critical damage to flashing or sealants which are only visible upon a closer, professional inspection.",
+        "@type": "Answer",
+        "description": "Professionals are needed for safety and to identify hidden damage; visible checks from the ground are insufficient."
+      }
+    }
+  ],
+  "description": "Professionals are needed for safety and to identify hidden damage; visible checks from the ground are insufficient."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-after-a-roof-penetration-assessment",
+  "name": "What happens after a roof penetration assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after a roof penetration assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a roof penetration assessment, our team will provide you with a detailed report outlining any identified issues, complete with photographic evidence. We will then discuss the findings with you and provide a clear, itemized proposal for any necessary repairs or maintenance. You will receive transparent options and recommendations without obligation, allowing you to make an informed decision.",
+        "@type": "Answer",
+        "description": "You receive a detailed report with photos, followed by a discussion of findings and a proposal for necessary repairs."
+      }
+    }
+  ],
+  "description": "You receive a detailed report with photos, followed by a discussion of findings and a proposal for necessary repairs."
+}

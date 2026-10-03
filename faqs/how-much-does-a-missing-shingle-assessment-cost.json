@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-missing-shingle-assessment-cost",
+  "name": "How much does a missing shingle assessment cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a missing shingle assessment cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a missing shingle assessment can vary depending on factors such as roof size, accessibility, and the complexity of the damage. Many reputable roofing companies, including Discounted Roofing Co., offer free initial assessments to help homeowners understand their roofing needs without upfront cost. This allows for a thorough evaluation and a transparent estimate for any necessary repairs. Be sure to clarify if there are any fees associated with detailed reports or drone inspections if required.",
+        "@type": "Answer",
+        "description": "Many companies, including Discounted Roofing Co., offer free initial missing shingle assessments, but detailed reports may have a fee."
+      }
+    }
+  ],
+  "description": "Many companies, including Discounted Roofing Co., offer free initial missing shingle assessments, but detailed reports may have a fee."
+}

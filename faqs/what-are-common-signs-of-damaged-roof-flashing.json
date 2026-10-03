@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-common-signs-of-damaged-roof-flashing",
+  "name": "What are common signs of damaged roof flashing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of damaged roof flashing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of damaged roof flashing include water stains on ceilings or walls indoors, missing or corroded flashing material visible from the ground, rust streaks on the roof or siding, and loose or bent flashing pieces. Sometimes, the caulk or sealant around flashing can dry out and crack, creating tiny gaps that allow water intrusion without obvious visual damage to the metal itself. Our assessments specifically check these sealant conditions.",
+        "@type": "Answer",
+        "description": "Look for indoor water stains, missing/corroded flashing, rust streaks, or loose pieces. Also, cracked or dried-out sealant around flashing is a common, subtle sign of damage."
+      }
+    }
+  ],
+  "description": "Look for indoor water stains, missing/corroded flashing, rust streaks, or loose pieces. Also, cracked or dried-out sealant around flashing is a common, subtle s"
+}

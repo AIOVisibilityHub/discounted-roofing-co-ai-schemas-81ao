@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-i-repair-missing-shingles-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair missing shingles myself or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair missing shingles myself or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it might seem like a simple repair, replacing missing shingles can be dangerous and complex. Proper repair requires matching shingle types and colors, correctly sealing new shingles, and ensuring no underlying damage exists. Hiring a professional like Discounted Roofing Co. ensures safety, correct installation techniques, and appropriate materials for long-lasting results. Incorrect DIY repairs can void warranties and lead to further damage, especially in areas prone to strong winds like North Texas.",
+        "@type": "Answer",
+        "description": "Hiring a professional for missing shingle repair ensures safety, correct installation, and prevents further damage, unlike potentially faulty DIY attempts."
+      }
+    }
+  ],
+  "description": "Hiring a professional for missing shingle repair ensures safety, correct installation, and prevents further damage, unlike potentially faulty DIY attempts."
+}

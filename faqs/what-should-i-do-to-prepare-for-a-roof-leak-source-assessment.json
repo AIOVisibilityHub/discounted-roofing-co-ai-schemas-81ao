@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-do-to-prepare-for-a-roof-leak-source-assessment",
+  "name": "What should I do to prepare for a roof leak-source assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare for a roof leak-source assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a roof leak-source assessment, it's helpful to clear any obstacles around the leak area inside your home, such as furniture or stored items, to provide easy access for inspectors. You should also be prepared to describe when you first noticed the leak, any patterns (e.g., only during heavy rain), and where you see water stains. This information helps our technicians narrow down potential areas and can significantly expedite the diagnostic process.",
+        "@type": "Answer",
+        "description": "Clear obstacles inside near the leak and be prepared to describe the leak's history and location to the inspector."
+      }
+    }
+  ],
+  "description": "Clear obstacles inside near the leak and be prepared to describe the leak's history and location to the inspector."
+}

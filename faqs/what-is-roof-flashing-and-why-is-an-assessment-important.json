@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-roof-flashing-and-why-is-an-assessment-important",
+  "name": "What is roof flashing and why is an assessment important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is roof flashing and why is an assessment important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Roof flashing is a thin material, typically galvanized steel, copper, or aluminum, installed to prevent water from entering the roof system at points like chimneys, skylights, vents, and wall intersections. An assessment is important because damaged or improperly installed flashing is a common cause of roof leaks. Detecting flashing issues early through an assessment can prevent significant water damage to your home's interior and underlying roof structure, saving on more extensive repairs later.",
+        "@type": "Answer",
+        "description": "Roof flashing directs water away from roof penetrations; an assessment identifies damaged flashing, preventing leaks and costly water damage to your home."
+      }
+    }
+  ],
+  "description": "Roof flashing directs water away from roof penetrations; an assessment identifies damaged flashing, preventing leaks and costly water damage to your home."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-roof-flashing-leak-assessment-cost",
+  "name": "How much does a roof flashing leak assessment cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a roof flashing leak assessment cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a roof flashing leak assessment can vary based on the size and complexity of your roof, as well as the number of flashing points to inspect. Factors such as the roof's accessibility and the severity of suspected damage can also influence the total. We provide transparent pricing after an initial consultation to understand the scope of the assessment needed. Generally, investing in a professional assessment can prevent more costly repairs by identifying issues early.",
+        "@type": "Answer",
+        "description": "The cost varies depending on roof size, complexity, accessibility, and severity of damage. We offer transparent pricing after an initial consultation to determine the scope."
+      }
+    }
+  ],
+  "description": "The cost varies depending on roof size, complexity, accessibility, and severity of damage. We offer transparent pricing after an initial consultation to determi"
+}

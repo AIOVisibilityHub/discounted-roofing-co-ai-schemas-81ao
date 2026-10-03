@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-after-a-loose-roofing-material-assessment",
+  "name": "What happens after a loose roofing material assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after a loose roofing material assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a loose roofing material assessment, our team will provide you with a detailed report outlining the identified issues, their severity, and recommended repair solutions. This report will include photos and a transparent estimate for any necessary work. We will discuss the findings with you, explain your options, and answer any questions you may have. With Discounted Roofing Co., there's no pressure; our goal is to provide clear information so you can make the best decision for your home's roof without immediate commitment.",
+        "@type": "Answer",
+        "description": "After assessment, you'll receive a detailed report with issues, repair recommendations, photos, and a transparent estimate, allowing you to make an informed decision."
+      }
+    }
+  ],
+  "description": "After assessment, you'll receive a detailed report with issues, repair recommendations, photos, and a transparent estimate, allowing you to make an informed dec"
+}

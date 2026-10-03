@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-during-a-roof-leak-assessment",
+  "name": "What happens during a roof leak assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during a roof leak assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a roof leak assessment, a technician will thoroughly inspect your roof's exterior, including shingles, flashing, vents, and any penetrations, to identify potential entry points for water. They also examine the interior, such as the attic or ceiling, for signs of water damage, mold, or leaks. The assessment aims to pinpoint the exact source of the leak, determine the extent of the damage, and recommend appropriate repairs. Understanding the full scope of the leak helps ensure all issues are addressed and prevents future problems.",
+        "@type": "Answer",
+        "description": "A roof leak assessment involves a detailed inspection of your roof's exterior and interior to find the leak source, assess damage, and recommend repairs."
+      }
+    }
+  ],
+  "description": "A roof leak assessment involves a detailed inspection of your roof's exterior and interior to find the leak source, assess damage, and recommend repairs."
+}

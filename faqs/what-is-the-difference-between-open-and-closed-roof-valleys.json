@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-difference-between-open-and-closed-roof-valleys",
+  "name": "What is the difference between open and closed roof valleys?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between open and closed roof valleys?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary difference lies in their construction and appearance. An open valley uses metal flashing, typically aluminum or copper, visible between the two intersecting roof planes, allowing water to flow directly over the metal. A closed valley, conversely, has shingles laid across the valley, concealing the flashing underneath, which can be either a cut-weave or a closed-cut style. Each type has different water-shedding characteristics and maintenance needs, impacting how wear and tear manifest and how they are assessed.",
+        "@type": "Answer",
+        "description": "Open valleys have visible metal flashing, while closed valleys have shingles laid over the flashing. Each has distinct construction and maintenance needs."
+      }
+    }
+  ],
+  "description": "Open valleys have visible metal flashing, while closed valleys have shingles laid over the flashing. Each has distinct construction and maintenance needs."
+}

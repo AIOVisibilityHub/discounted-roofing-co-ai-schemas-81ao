@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-typical-ceiling-leak-assessment-take",
+  "name": "How long does a typical ceiling leak assessment take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical ceiling leak assessment take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a ceiling leak assessment can vary depending on the complexity of the leak and the accessibility of the affected areas. Most standard assessments are completed within 1 to 2 hours. However, more intricate leaks, especially those with multiple potential sources or hidden damage, may require additional time for a comprehensive investigation. We aim to provide an accurate estimate of the assessment time during scheduling based on your initial description of the issue.",
+        "@type": "Answer",
+        "description": "A typical ceiling leak assessment usually takes 1 to 2 hours, though more complex leaks may require additional time for a thorough investigation."
+      }
+    }
+  ],
+  "description": "A typical ceiling leak assessment usually takes 1 to 2 hours, though more complex leaks may require additional time for a thorough investigation."
+}

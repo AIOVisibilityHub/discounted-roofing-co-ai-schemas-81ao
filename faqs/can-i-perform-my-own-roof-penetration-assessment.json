@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-i-perform-my-own-roof-penetration-assessment",
+  "name": "Can I perform my own roof penetration assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I perform my own roof penetration assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While a homeowner can conduct a basic visual check from the ground, a professional assessment is recommended. Our team has the specialized training, safety equipment, and experience to safely access all areas of your roof and identify subtle issues that might be missed by an untrained eye. Attempting a DIY assessment without proper safety measures can be hazardous and may not fully identify potential problems.",
+        "@type": "Answer",
+        "description": "While basic checks are possible, a professional assessment is recommended for safety and thorough identification of issues."
+      }
+    }
+  ],
+  "description": "While basic checks are possible, a professional assessment is recommended for safety and thorough identification of issues."
+}

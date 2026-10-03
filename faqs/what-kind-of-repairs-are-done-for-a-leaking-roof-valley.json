@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-kind-of-repairs-are-done-for-a-leaking-roof-valley",
+  "name": "What kind of repairs are done for a leaking roof valley?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of repairs are done for a leaking roof valley?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairs for a leaking roof valley depend on the cause and severity. Common repairs include replacing damaged or missing shingles, reapplying sealant, repairing or replacing worn flashing, or clearing debris causing water dams. In cases of significant damage, a section of the valley flashing and surrounding underlayment may need to be replaced entirely. Discounted Roofing Co. uses quality materials and techniques to ensure a durable repair that withstands DFW weather conditions.",
+        "@type": "Answer",
+        "description": "Repairs involve replacing damaged shingles, reapplying sealant, repairing flashing, or clearing debris. Extensive damage may require full valley section replacement."
+      }
+    }
+  ],
+  "description": "Repairs involve replacing damaged shingles, reapplying sealant, repairing flashing, or clearing debris. Extensive damage may require full valley section replace"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-a-reliable-company-for-a-water-intrusion-assessment",
+  "name": "How do I choose a reliable company for a water intrusion assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reliable company for a water intrusion assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a company for a water intrusion assessment, look for one with specialized experience in roofing and water damage detection, not just general home inspection. Verify their certifications, insurance, and read customer reviews to gauge their reliability and expertise. It's also beneficial to choose a company like ours that serves a broad area like DFW, as this often indicates extensive experience with various property types and local conditions.",
+        "@type": "Answer",
+        "description": "Choose a company with specialized roofing and water damage experience, verified certifications, insurance, and positive customer reviews to ensure reliability."
+      }
+    }
+  ],
+  "description": "Choose a company with specialized roofing and water damage experience, verified certifications, insurance, and positive customer reviews to ensure reliability."
+}

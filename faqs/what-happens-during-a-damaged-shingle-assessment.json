@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-during-a-damaged-shingle-assessment",
+  "name": "What happens during a damaged shingle assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during a damaged shingle assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a damaged shingle assessment, a professional inspector from Discounted Roofing Co. will examine your roof for signs of damage such as missing, cracked, blistered, or curled shingles. They will also look for granule loss, exposed felt, or other issues that compromise your roof's integrity. The assessment includes checking flashing, vents, and other roof components. This thorough inspection helps determine the extent of the damage and if repairs or a full replacement are needed.",
+        "@type": "Answer",
+        "description": "A damaged shingle assessment involves a professional inspection of your roof for various types of shingle damage and overall roof integrity issues."
+      }
+    }
+  ],
+  "description": "A damaged shingle assessment involves a professional inspection of your roof for various types of shingle damage and overall roof integrity issues."
+}

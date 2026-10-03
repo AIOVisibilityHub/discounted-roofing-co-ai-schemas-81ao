@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-after-the-ceiling-leak-source-is-identified",
+  "name": "What happens after the ceiling leak source is identified?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after the ceiling leak source is identified?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Once the ceiling leak source is identified, our team will provide you with a detailed report outlining the findings, including photographic evidence of the damage. We will then present a clear explanation of the necessary repairs and a transparent, itemized quote for the recommended work. Our goal is to ensure you understand the problem and the proposed solution. We can then schedule the appropriate repairs to fix the leak and prevent future water intrusion, often addressing both the source and any related damage.",
+        "@type": "Answer",
+        "description": "After identification, you'll receive a detailed report with findings, a clear explanation of necessary repairs, and an itemized quote for the work."
+      }
+    }
+  ],
+  "description": "After identification, you'll receive a detailed report with findings, a clear explanation of necessary repairs, and an itemized quote for the work."
+}

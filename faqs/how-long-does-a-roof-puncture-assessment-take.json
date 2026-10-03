@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-roof-puncture-assessment-take",
+  "name": "How long does a roof puncture assessment take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a roof puncture assessment take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a roof puncture assessment typically ranges from 30 minutes to a few hours, depending on the size and complexity of your roof and the extent of the damage. A small, easily accessible roof with minimal visible issues will take less time than a large, multi-level roof with suspected widespread damage. We aim to conduct thorough assessments efficiently to provide you with timely information.",
+        "@type": "Answer",
+        "description": "An assessment usually takes 30 minutes to a few hours, varying by roof size, complexity, and damage extent."
+      }
+    }
+  ],
+  "description": "An assessment usually takes 30 minutes to a few hours, varying by roof size, complexity, and damage extent."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-roof-penetration-leak-assessment",
+  "name": "What is a roof penetration leak assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a roof penetration leak assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roof penetration leak assessment identifies and evaluates sources of water intrusion specifically around elements that pierce the roof's surface, such as vents, skylights, chimneys, or HVAC units. The assessment involves a detailed inspection to pinpoint the exact entry points of water. This process helps determine the cause of the leak, the extent of any damage, and the necessary repairs, providing a clear understanding of the issue before extensive damage occurs. Discounted Roofing Co. uses this to create a precise repair plan, often preventing widespread issues.",
+        "@type": "Answer",
+        "description": "A roof penetration leak assessment identifies and evaluates water entry points around elements like vents, skylights, or chimneys to determine leak causes and necessary repairs."
+      }
+    }
+  ],
+  "description": "A roof penetration leak assessment identifies and evaluates water entry points around elements like vents, skylights, or chimneys to determine leak causes and n"
+}

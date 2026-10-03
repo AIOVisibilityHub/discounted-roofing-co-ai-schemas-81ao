@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-a-leak-assessment-identify-potential-future-leak-spots",
+  "name": "Can a leak assessment identify potential future leak spots?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a leak assessment identify potential future leak spots?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While the primary goal of a roof leak-source assessment is to identify the current leak, experienced technicians often perform a comprehensive inspection that can also highlight areas prone to future leaks. This includes checking worn flashing, compromised seals, or damaged shingles that haven't failed yet but show signs of imminent weakness. Addressing these vulnerabilities preventatively can save you from future repair costs and unexpected water damage.",
+        "@type": "Answer",
+        "description": "Yes, a comprehensive leak assessment can identify current leaks and also highlight areas prone to future leaks."
+      }
+    }
+  ],
+  "description": "Yes, a comprehensive leak assessment can identify current leaks and also highlight areas prone to future leaks."
+}

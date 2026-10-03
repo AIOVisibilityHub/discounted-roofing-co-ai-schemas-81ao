@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-a-lifted-shingle-assessment",
+  "name": "When should I get a lifted shingle assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a lifted shingle assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should get a lifted shingle assessment if you notice visible shingles that are curling, buckling, or pulling away from the roof surface, especially after severe weather events like high winds or hail. It's also advisable after a major storm even if damage isn't immediately obvious from the ground. Catching issues early can prevent water intrusion and more extensive, costly repairs. Discounted Roofing Co. recommends annual roof inspections, particularly in the DFW area, to proactively identify and address potential problems.",
+        "@type": "Answer",
+        "description": "Get an assessment if you see curling or buckling shingles, especially after severe weather; early detection prevents more extensive damage."
+      }
+    }
+  ],
+  "description": "Get an assessment if you see curling or buckling shingles, especially after severe weather; early detection prevents more extensive damage."
+}

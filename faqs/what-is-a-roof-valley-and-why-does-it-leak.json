@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-roof-valley-and-why-does-it-leak",
+  "name": "What is a roof valley, and why does it leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a roof valley, and why does it leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roof valley is where two roof slopes meet, forming a V-shape that channels water. Leaks often occur in valleys due to improper flashing installation, damaged shingles, accumulation of debris, or wear and tear over time. Water pooling or freezing in a poorly designed or maintained valley can cause materials to deteriorate, leading to water penetration into your home. Regular inspection can help identify potential issues before they become major leaks.",
+        "@type": "Answer",
+        "description": "A roof valley is where two roof slopes meet, channeling water. Leaks result from flashing issues, damaged materials, or debris accumulation."
+      }
+    }
+  ],
+  "description": "A roof valley is where two roof slopes meet, channeling water. Leaks result from flashing issues, damaged materials, or debris accumulation."
+}

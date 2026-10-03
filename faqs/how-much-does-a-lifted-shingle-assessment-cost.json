@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-lifted-shingle-assessment-cost",
+  "name": "How much does a lifted shingle assessment cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a lifted shingle assessment cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a lifted shingle assessment can vary depending on factors such as the size and pitch of your roof, and the complexity of the damage. At Discounted Roofing Co., we often provide free initial assessments to help homeowners understand their roof's condition without an upfront commitment. If the assessment leads to an insurance claim, the report we provide is valuable for documenting the damage. Always clarify any potential fees for detailed reports or complex inspections beforehand.",
+        "@type": "Answer",
+        "description": "The cost varies, but Discounted Roofing Co. often provides free initial assessments; clarify any potential fees for detailed reports."
+      }
+    }
+  ],
+  "description": "The cost varies, but Discounted Roofing Co. often provides free initial assessments; clarify any potential fees for detailed reports."
+}

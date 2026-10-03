@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-kind-of-storm-damage-requires-immediate-inspection",
+  "name": "What kind of storm damage requires immediate inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of storm damage requires immediate inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediate inspection is needed for visible damage like missing shingles, significant dents, or punctures in your roof, and any signs of water leaks inside your home. Even subtle signs such as granules accumulating in gutters or displaced flashing warrant a professional assessment. Discounted Roofing Co. advises homeowners to look for these early indicators, especially if they are in areas like Abbott or Addison, which frequently experience hail.",
+        "@type": "Answer",
+        "description": "Visible damage like missing shingles, dents, or leaks, and subtle signs like granule loss, require immediate inspection."
+      }
+    }
+  ],
+  "description": "Visible damage like missing shingles, dents, or leaks, and subtle signs like granule loss, require immediate inspection."
+}

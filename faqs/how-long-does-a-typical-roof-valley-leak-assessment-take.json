@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-typical-roof-valley-leak-assessment-take",
+  "name": "How long does a typical roof valley leak assessment take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical roof valley leak assessment take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a roof valley leak assessment can vary but typically ranges from 30 minutes to an hour, depending on the accessibility of the roof and the complexity of the suspected leak. Factors such as roof height, pitch, and the presence of obstructions can extend the assessment time. It's best to schedule an assessment during daylight hours and ensure clear access around your property for the inspection team.",
+        "@type": "Answer",
+        "description": "A typical assessment takes 30-60 minutes, varying based on roof accessibility and leak complexity."
+      }
+    }
+  ],
+  "description": "A typical assessment takes 30-60 minutes, varying based on roof accessibility and leak complexity."
+}

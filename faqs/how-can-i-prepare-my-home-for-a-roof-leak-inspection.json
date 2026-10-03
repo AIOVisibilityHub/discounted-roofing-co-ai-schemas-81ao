@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-can-i-prepare-my-home-for-a-roof-leak-inspection",
+  "name": "How can I prepare my home for a roof leak inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare my home for a roof leak inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a roof leak inspection, ensure clear access to your attic by moving any stored items away from the entry point. Indoors, clear any valuables or furniture from areas directly beneath visible leaks to prevent potential damage during the inspection process. If possible, trim back any tree branches overhanging the suspected leak area for better roof access.",
+        "@type": "Answer",
+        "description": "Ensure clear attic access, move valuables from beneath leak areas, and trim overhanging tree branches for better roof access."
+      }
+    }
+  ],
+  "description": "Ensure clear attic access, move valuables from beneath leak areas, and trim overhanging tree branches for better roof access."
+}

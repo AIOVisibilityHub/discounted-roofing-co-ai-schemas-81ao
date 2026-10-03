@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-does-discounted-roofing-co-coordinate-with-my-insurance-adjuster-for-roof-re",
+  "name": "How does Discounted Roofing Co. coordinate with my insurance adjuster for roof repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does Discounted Roofing Co. coordinate with my insurance adjuster for roof repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Discounted Roofing Co. can meet with your insurance adjuster on-site to review the damage and discuss the scope of work needed. Our team can highlight all damage points to ensure a comprehensive assessment and facilitate clear communication regarding repair or replacement options. This coordination helps ensure that your claim accurately reflects all necessary repairs and speeds up the approval process.",
+        "@type": "Answer",
+        "description": "We can meet with your insurance adjuster to review damage and ensure comprehensive assessment and clear communication."
+      }
+    }
+  ],
+  "description": "We can meet with your insurance adjuster to review damage and ensure comprehensive assessment and clear communication."
+}

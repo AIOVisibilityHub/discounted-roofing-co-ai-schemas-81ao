@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-quickly-should-i-address-lifted-shingles",
+  "name": "How quickly should I address lifted shingles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly should I address lifted shingles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should address lifted shingles as quickly as possible. When shingles lift, they expose the underlayment and decking to direct sunlight and moisture, increasing the risk of leaks, wood rot, and mold growth in your attic. Prompt repair can prevent these issues from escalating into more significant and costly problems, especially with the varied weather conditions in areas like Dallas. Delaying repairs can void shingle warranties or complicate future insurance claims.",
+        "@type": "Answer",
+        "description": "Address lifted shingles quickly to prevent leaks, rot, and mold growth, and to avoid complicating insurance claims."
+      }
+    }
+  ],
+  "description": "Address lifted shingles quickly to prevent leaks, rot, and mold growth, and to avoid complicating insurance claims."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-my-insurance-cover-the-cost-of-a-storm-damage-inspection",
+  "name": "Will my insurance cover the cost of a storm damage inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover the cost of a storm damage inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most insurance policies do not directly cover the cost of a standalone inspection, but if damage is found and a claim is approved, the inspection findings contribute to the overall repair costs covered by the claim. It's advisable to review your specific homeowner's policy or contact your insurer to understand your coverage regarding storm damage. Discounted Roofing Co. provides free, no-obligation storm damage inspections to help homeowners understand the extent of their damage without upfront costs.",
+        "@type": "Answer",
+        "description": "Insurance typically doesn't cover standalone inspections, but if damage is found, it contributes to covered repair costs. Discounted Roofing Co. offers free inspections."
+      }
+    }
+  ],
+  "description": "Insurance typically doesn't cover standalone inspections, but if damage is found, it contributes to covered repair costs. Discounted Roofing Co. offers free ins"
+}

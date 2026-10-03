@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-roof-ridge-assessment-and-why-is-it-important",
+  "name": "What is a roof ridge assessment and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a roof ridge assessment and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roof ridge assessment involves inspecting the highest point of your roof where two slopes meet. This area, known as the ridge, is critical for your roof's integrity and weather protection. Over time, ridge caps can crack, loosen, or sustain storm damage, leading to leaks. Discounted Roofing Co. specializes in identifying these vulnerabilities early to prevent more extensive damage and costly repairs, especially with the varied weather conditions in areas like DFW.",
+        "@type": "Answer",
+        "description": "A roof ridge assessment inspects the highest point of your roof for damage, which is crucial for preventing leaks and maintaining structural integrity. Early detection of issues can prevent larger, more expensive repairs."
+      }
+    }
+  ],
+  "description": "A roof ridge assessment inspects the highest point of your roof for damage, which is crucial for preventing leaks and maintaining structural integrity. Early de"
+}

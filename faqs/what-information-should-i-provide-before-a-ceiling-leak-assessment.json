@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-information-should-i-provide-before-a-ceiling-leak-assessment",
+  "name": "What information should I provide before a ceiling leak assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I provide before a ceiling leak assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To help us efficiently assess your ceiling leak, please provide details such as when you first noticed the leak, if it's intermittent or constant, whether it's worse during rain, and the exact location on your ceiling. Informing us about any previous roof repairs, modifications, or recent weather events can also be valuable. Additionally, pointing out where the water stains are most prominent or if you hear dripping sounds helps guide our investigation. This preparation helps our team focus their efforts immediately upon arrival.",
+        "@type": "Answer",
+        "description": "Before an assessment, provide details on when the leak started, its frequency, if it relates to rain, its exact location, and any past roof work."
+      }
+    }
+  ],
+  "description": "Before an assessment, provide details on when the leak started, its frequency, if it relates to rain, its exact location, and any past roof work."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-it-take-to-repair-a-roof-leak",
+  "name": "How long does it take to repair a roof leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair a roof leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to repair a roof leak depends on its severity and the extent of damage. A simple patch might take a few hours, while extensive damage requiring material replacement or structural work could take several days. We aim to complete repairs efficiently without compromising quality. Our team will provide an estimated timeline after assessing the leak, allowing you to plan accordingly for the repair process.",
+        "@type": "Answer",
+        "description": "Repair time varies from hours for minor leaks to days for extensive damage. We provide an estimated timeline after assessing the leak's severity."
+      }
+    }
+  ],
+  "description": "Repair time varies from hours for minor leaks to days for extensive damage. We provide an estimated timeline after assessing the leak's severity."
+}

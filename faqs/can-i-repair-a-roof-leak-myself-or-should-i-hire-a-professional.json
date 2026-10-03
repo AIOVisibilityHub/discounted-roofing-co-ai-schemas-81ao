@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-i-repair-a-roof-leak-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair a roof leak myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair a roof leak myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor leaks might seem simple, diagnosing and properly repairing roof leaks requires expertise to ensure a lasting solution. Attempting DIY repairs without proper knowledge can often lead to further damage or overlook underlying issues. Professional roofing contractors, like Discounted Roofing Co., have the tools and experience to identify the root cause and perform effective, warrantied repairs.",
+        "@type": "Answer",
+        "description": "Professional repair is recommended for roof leaks, as DIY attempts can cause more damage; experts have the tools and experience for lasting solutions."
+      }
+    }
+  ],
+  "description": "Professional repair is recommended for roof leaks, as DIY attempts can cause more damage; experts have the tools and experience for lasting solutions."
+}

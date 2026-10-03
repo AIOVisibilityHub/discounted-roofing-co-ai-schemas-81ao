@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-does-a-roof-penetration-assessment-involve",
+  "name": "What does a roof penetration assessment involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a roof penetration assessment involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roof penetration assessment involves a detailed visual inspection of all roof components that penetrate the roofing material. Our technicians examine flashing, sealants, and the condition of the penetration itself for cracks, deterioration, or improper installation. We also check for signs of past water intrusion inside the attic if accessible. The process typically includes documenting the condition with photos for your review.",
+        "@type": "Answer",
+        "description": "The assessment includes a detailed visual inspection of all roof penetrations, flashing, and sealants, checking for damage and proper installation."
+      }
+    }
+  ],
+  "description": "The assessment includes a detailed visual inspection of all roof penetrations, flashing, and sealants, checking for damage and proper installation."
+}

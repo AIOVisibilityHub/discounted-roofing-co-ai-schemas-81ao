@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-roof-leak-inspection-cost",
+  "name": "How much does a roof leak inspection cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a roof leak inspection cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a roof leak inspection can vary depending on the complexity of the leak and the size and accessibility of your roof. While some inspections may incur a service fee, this fee is often credited towards any necessary repairs performed by Discounted Roofing Co. if you proceed with us. We aim to provide transparent pricing and discuss any potential costs upfront.",
+        "@type": "Answer",
+        "description": "Inspection costs vary based on complexity; service fees are often credited toward subsequent repairs if you choose our company for the work."
+      }
+    }
+  ],
+  "description": "Inspection costs vary based on complexity; service fees are often credited toward subsequent repairs if you choose our company for the work."
+}

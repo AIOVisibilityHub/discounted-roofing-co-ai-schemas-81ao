@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-lifted-shingle-assessment",
+  "name": "What is a lifted shingle assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a lifted shingle assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A lifted shingle assessment is a professional inspection to identify and evaluate shingles that are no longer lying flat on your roof. This condition often indicates wear, storm damage, or improper installation. During the assessment, our team from Discounted Roofing Co. will thoroughly check for signs of lifting, curling, missing granules, and any underlying damage to the roof decking or underlayment. We document findings with photos and provide a detailed report to help you understand the roof's condition and necessary repairs.",
+        "@type": "Answer",
+        "description": "A lifted shingle assessment is an inspection by roofing professionals to evaluate shingles that are no longer lying flat, often due to wear or damage."
+      }
+    }
+  ],
+  "description": "A lifted shingle assessment is an inspection by roofing professionals to evaluate shingles that are no longer lying flat, often due to wear or damage."
+}

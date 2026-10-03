@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-difference-between-an-active-leak-and-a-historical-leak",
+  "name": "What is the difference between an active leak and a historical leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between an active leak and a historical leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An active leak signifies ongoing water intrusion, meaning water is currently entering your home or has very recently. A historical leak indicates past water damage that has since dried, and the source may or may not still be an issue. An active roof leak inspection specifically targets ongoing water entry to stop it immediately. Identifying the source of an active leak prevents further damage, whereas a historical leak might require investigation to confirm if the underlying issue has been resolved or if repairs are still needed.",
+        "@type": "Answer",
+        "description": "An active leak is ongoing water intrusion; a historical leak is past damage. Active inspections target current leaks to stop them."
+      }
+    }
+  ],
+  "description": "An active leak is ongoing water intrusion; a historical leak is past damage. Active inspections target current leaks to stop them."
+}

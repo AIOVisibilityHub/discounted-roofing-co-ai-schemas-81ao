@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-cracked-shingles-be-repaired-or-do-they-always-need-to-be-replaced",
+  "name": "Can cracked shingles be repaired, or do they always need to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can cracked shingles be repaired, or do they always need to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether cracked shingles can be repaired or need full replacement depends on the extent and severity of the damage, as well as the age and overall condition of the roof. Minor isolated cracks might be repairable by replacing individual shingles. However, widespread cracking, significant granule loss, or cracking due to an aging roof system often necessitates a full roof replacement to ensure long-term protection. Discounted Roofing Co. will assess your entire roof system to recommend the most cost-effective and durable solution for your specific situation.",
+        "@type": "Answer",
+        "description": "Minor cracked shingles can sometimes be repaired, but widespread or age-related damage often requires a full roof replacement."
+      }
+    }
+  ],
+  "description": "Minor cracked shingles can sometimes be repaired, but widespread or age-related damage often requires a full roof replacement."
+}

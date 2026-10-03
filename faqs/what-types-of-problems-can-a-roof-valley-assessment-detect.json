@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-types-of-problems-can-a-roof-valley-assessment-detect",
+  "name": "What types of problems can a roof valley assessment detect?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of problems can a roof valley assessment detect?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roof valley assessment can detect a range of issues crucial for preventing leaks and structural damage. These include deteriorated or missing flashing, cracked or loose shingles, compromised underlayment, debris accumulation like leaves or moss that impede water flow, and signs of corrosion or rust on metal components. It can also identify improper installation techniques that lead to water diversion rather than drainage. Early identification helps address issues before they escalate.",
+        "@type": "Answer",
+        "description": "It detects missing flashing, cracked shingles, compromised underlayment, debris buildup, corrosion, and improper installation that can cause leaks."
+      }
+    }
+  ],
+  "description": "It detects missing flashing, cracked shingles, compromised underlayment, debris buildup, corrosion, and improper installation that can cause leaks."
+}

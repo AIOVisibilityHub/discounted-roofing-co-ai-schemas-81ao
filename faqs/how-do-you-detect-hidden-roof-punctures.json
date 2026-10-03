@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-you-detect-hidden-roof-punctures",
+  "name": "How do you detect hidden roof punctures?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you detect hidden roof punctures?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Detecting hidden roof punctures often requires a thorough inspection by experienced professionals using specialized techniques. This can include examining the attic for subtle water stains or mold, checking around roof penetrations (vents, chimneys) for compromised seals, and sometimes using thermal imaging to identify moisture trapped beneath the roofing material. Even if a puncture isn't visible from the ground, signs of water infiltration inside the property can indicate a hidden problem.",
+        "@type": "Answer",
+        "description": "Hidden punctures are detected through attic inspections, checking roof penetrations, and sometimes using thermal imaging to find trapped moisture."
+      }
+    }
+  ],
+  "description": "Hidden punctures are detected through attic inspections, checking roof penetrations, and sometimes using thermal imaging to find trapped moisture."
+}

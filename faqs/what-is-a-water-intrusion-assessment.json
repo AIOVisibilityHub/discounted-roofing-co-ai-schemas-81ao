@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-water-intrusion-assessment",
+  "name": "What is a water intrusion assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a water intrusion assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A water intrusion assessment identifies the source and extent of water entry into a building, often related to roofing or exterior envelope issues. This process involves a thorough inspection of the roof, walls, windows, and foundation to pinpoint entry points and evaluate potential damage. Our assessments include identifying hidden moisture, which is crucial for preventing long-term structural issues and mold growth that might not be immediately visible.",
+        "@type": "Answer",
+        "description": "A water intrusion assessment determines how and where water is entering a building, evaluating potential damage and hidden moisture."
+      }
+    }
+  ],
+  "description": "A water intrusion assessment determines how and where water is entering a building, evaluating potential damage and hidden moisture."
+}

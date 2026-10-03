@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-a-water-intrusion-assessment-for-my-roof",
+  "name": "When should I get a water intrusion assessment for my roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a water intrusion assessment for my roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should get a water intrusion assessment if you notice signs of water damage inside your property, such as stains on ceilings or walls, peeling paint, or a musty odor, even if you can't see an obvious leak. It's also recommended after severe weather events or if you suspect previous repairs didn't fully resolve a leak. Early detection is key to preventing minor issues from escalating into expensive structural repairs.",
+        "@type": "Answer",
+        "description": "Get an assessment when you see signs of water damage, after severe weather, or if past repairs were ineffective, to prevent further damage."
+      }
+    }
+  ],
+  "description": "Get an assessment when you see signs of water damage, after severe weather, or if past repairs were ineffective, to prevent further damage."
+}

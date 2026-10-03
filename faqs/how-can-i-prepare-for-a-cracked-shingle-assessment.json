@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-can-i-prepare-for-a-cracked-shingle-assessment",
+  "name": "How can I prepare for a cracked shingle assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare for a cracked shingle assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a cracked shingle assessment, ensure clear access to your roof, remove any obstacles around the perimeter of your home, and secure pets. Having any previous roofing repair documentation or warranty information readily available can also be helpful for the inspector. At Discounted Roofing Co., we appreciate clear access to downspouts and gutters as well, as they can sometimes indicate underlying roof issues that might be overlooked if obstructed. This helps our team conduct a more efficient and comprehensive evaluation.",
+        "@type": "Answer",
+        "description": "Prepare by ensuring clear roof access, removing obstacles, securing pets, and having any past roofing documents ready."
+      }
+    }
+  ],
+  "description": "Prepare by ensuring clear roof access, removing obstacles, securing pets, and having any past roofing documents ready."
+}

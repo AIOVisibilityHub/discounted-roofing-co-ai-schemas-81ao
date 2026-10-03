@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-missing-shingle-assessment",
+  "name": "What is a missing shingle assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a missing shingle assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A missing shingle assessment involves a detailed inspection of your roof to identify any shingles that are damaged, displaced, or absent. This process helps determine the extent of the damage, potential underlying issues like water leaks, and the best course of action for repair or replacement. Our assessments are crucial for preventing minor issues from escalating into major structural problems, especially after severe weather events common in the DFW area.",
+        "@type": "Answer",
+        "description": "A missing shingle assessment evaluates your roof for damaged, displaced, or absent shingles to determine necessary repairs and prevent further damage."
+      }
+    }
+  ],
+  "description": "A missing shingle assessment evaluates your roof for damaged, displaced, or absent shingles to determine necessary repairs and prevent further damage."
+}

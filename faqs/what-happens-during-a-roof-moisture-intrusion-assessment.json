@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-during-a-roof-moisture-intrusion-assessment",
+  "name": "What happens during a roof moisture intrusion assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during a roof moisture intrusion assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During an assessment, our technicians perform a visual inspection of your roof's exterior for obvious signs of damage or wear. They then utilize specialized tools like thermal imaging cameras to detect temperature differences indicating hidden moisture, and moisture meters for direct measurements. The process concludes with a comprehensive report detailing findings, including images and recommendations for repair or further action, enabling informed decision-making.",
+        "@type": "Answer",
+        "description": "Technicians visually inspect, use thermal imaging and moisture meters, then provide a detailed report with findings and recommendations."
+      }
+    }
+  ],
+  "description": "Technicians visually inspect, use thermal imaging and moisture meters, then provide a detailed report with findings and recommendations."
+}

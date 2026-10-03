@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-advantages-of-thermal-imaging-in-moisture-intrusion-assessments",
+  "name": "What are the advantages of thermal imaging in moisture intrusion assessments?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the advantages of thermal imaging in moisture intrusion assessments?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Thermal imaging is a non-invasive technique that detects temperature differences on the roof surface, which can indicate the presence of trapped moisture. Water has a higher thermal mass than dry roofing materials, so it heats up and cools down at a different rate, making it visible through infrared. This method helps identify hidden moisture without damaging the roof, allowing for precise targeting of problem areas and more accurate repair recommendations.",
+        "@type": "Answer",
+        "description": "Thermal imaging non-invasively detects hidden moisture by showing temperature differences caused by water's unique thermal properties, pinpointing problem areas."
+      }
+    }
+  ],
+  "description": "Thermal imaging non-invasively detects hidden moisture by showing temperature differences caused by water's unique thermal properties, pinpointing problem areas"
+}

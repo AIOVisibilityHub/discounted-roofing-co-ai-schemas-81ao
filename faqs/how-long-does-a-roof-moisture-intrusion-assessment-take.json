@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-roof-moisture-intrusion-assessment-take",
+  "name": "How long does a roof moisture intrusion assessment take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a roof moisture intrusion assessment take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a roof moisture intrusion assessment typically ranges from 1 to 3 hours, depending on the size and complexity of your roof. Larger or multi-level roofs, or those requiring extensive use of thermal imaging and moisture meters for thorough investigation, will take longer. We aim to complete assessments efficiently while ensuring a comprehensive analysis of your roofing system.",
+        "@type": "Answer",
+        "description": "An assessment typically takes 1 to 3 hours, varying by roof size and complexity, ensuring thorough analysis."
+      }
+    }
+  ],
+  "description": "An assessment typically takes 1 to 3 hours, varying by roof size and complexity, ensuring thorough analysis."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-causes-common-roof-leaks",
+  "name": "What causes common roof leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes common roof leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common roof leaks often stem from damaged or missing shingles, deteriorated flashing around chimneys and vents, clogged gutters causing water to back up, and compromised seals around skylights or other roof penetrations. Age-related wear and tear, storm damage, or improper installation can also contribute to these issues.",
+        "@type": "Answer",
+        "description": "Common roof leaks are caused by damaged shingles, deteriorated flashing, clogged gutters, compromised seals, and general wear and tear."
+      }
+    }
+  ],
+  "description": "Common roof leaks are caused by damaged shingles, deteriorated flashing, clogged gutters, compromised seals, and general wear and tear."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-information-should-i-have-ready-for-a-storm-damage-inspector",
+  "name": "What information should I have ready for a storm damage inspector?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I have ready for a storm damage inspector?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before an inspection, gather any photos or videos you took immediately after the storm, your insurance policy details, and the date of the storm. This information helps the inspector understand the timeline and specifics of the event. Having a clear path to the roof access points and being available to discuss any observed issues with the inspector can also make the process more efficient. Discounted Roofing Co. finds that customers who have their insurance declaration page ready can expedite the reporting process if damage is identified.",
+        "@type": "Answer",
+        "description": "Have storm date, photos, and insurance policy details ready for the inspector to streamline the process."
+      }
+    }
+  ],
+  "description": "Have storm date, photos, and insurance policy details ready for the inspector to streamline the process."
+}

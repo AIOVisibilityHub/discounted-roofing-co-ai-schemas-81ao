@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/why-are-roof-vents-prone-to-leaking",
+  "name": "Why are roof vents prone to leaking?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why are roof vents prone to leaking?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Roof vents are prone to leaking because they create penetrations in the roof surface, making them vulnerable points for water intrusion if not properly installed or maintained. Over time, sealant can degrade, flashing can become dislodged, or the vent material itself can crack due to weather exposure. Regular maintenance checks, especially after severe weather, can help identify potential issues before they become major leaks.",
+        "@type": "Answer",
+        "description": "Vents are vulnerable points due to roof penetrations. Sealant degradation, dislodged flashing, or cracked materials cause leaks."
+      }
+    }
+  ],
+  "description": "Vents are vulnerable points due to roof penetrations. Sealant degradation, dislodged flashing, or cracked materials cause leaks."
+}

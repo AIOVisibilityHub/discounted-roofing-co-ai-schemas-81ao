@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-after-a-roof-flashing-leak-assessment",
+  "name": "What happens after a roof flashing leak assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after a roof flashing leak assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a roof flashing leak assessment, our technicians will provide a comprehensive report detailing the condition of your flashing, identifying any current leaks or potential weak points. This report will include photographs and a clear explanation of the findings. We will then present you with a detailed estimate for any necessary repairs or replacements, outlining the scope of work and material options. You'll have the information needed to make an informed decision about proceeding with repairs.",
+        "@type": "Answer",
+        "description": "You'll receive a detailed report with findings, photos, and an estimate for any necessary flashing repairs or replacements, allowing you to make an informed decision."
+      }
+    }
+  ],
+  "description": "You'll receive a detailed report with findings, photos, and an estimate for any necessary flashing repairs or replacements, allowing you to make an informed dec"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-an-active-roof-leak-inspection",
+  "name": "What is an active roof leak inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an active roof leak inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An active roof leak inspection is a detailed assessment to pinpoint the exact source and extent of a roof leak while it is currently happening. This differs from a general roof inspection, which might identify potential issues but not necessarily the entry point of active water intrusion. During an active leak inspection, our technicians will trace water entry points, assess damage to underlying structures, and document findings to recommend precise repairs. This helps prevent further interior damage and provides a clear picture of the necessary scope of work.",
+        "@type": "Answer",
+        "description": "An active roof leak inspection identifies the exact source and extent of a roof leak while it's occurring to prevent further damage."
+      }
+    }
+  ],
+  "description": "An active roof leak inspection identifies the exact source and extent of a roof leak while it's occurring to prevent further damage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-common-causes-of-roof-moisture-intrusion-in-the-dfw-area",
+  "name": "What are the common causes of roof moisture intrusion in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common causes of roof moisture intrusion in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the DFW area, common causes of roof moisture intrusion include damage from severe weather like hail and high winds, which can dislodge shingles or create openings. Poor installation practices, inadequate flashing around penetrations like chimneys and vents, and aged roofing materials also contribute. The intermittent heavy rains and heat cycles in this region can exacerbate these issues, making regular assessments vital for homeowners.",
+        "@type": "Answer",
+        "description": "Severe DFW weather, poor installation, inadequate flashing, and aged materials are common causes of roof moisture intrusion."
+      }
+    }
+  ],
+  "description": "Severe DFW weather, poor installation, inadequate flashing, and aged materials are common causes of roof moisture intrusion."
+}

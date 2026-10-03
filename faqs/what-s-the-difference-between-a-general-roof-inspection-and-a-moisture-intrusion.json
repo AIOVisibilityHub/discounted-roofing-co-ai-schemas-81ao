@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-s-the-difference-between-a-general-roof-inspection-and-a-moisture-intrusion",
+  "name": "What's the difference between a general roof inspection and a moisture intrusion assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a general roof inspection and a moisture intrusion assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A general roof inspection typically focuses on the visible condition of the roof's exterior, checking for obvious damage, wear, and structural integrity. A moisture intrusion assessment, however, is a more specialized investigation that specifically targets the detection of hidden water within the roofing system, often employing advanced tools like thermal imaging and moisture meters. While a general inspection might identify potential leak sources, a moisture assessment confirms and quantifies the presence of moisture, which is crucial for determining the scope of necessary repairs.",
+        "@type": "Answer",
+        "description": "A general inspection checks visible roof conditions, while a moisture intrusion assessment specifically detects hidden water using advanced tools to confirm and quantify moisture."
+      }
+    }
+  ],
+  "description": "A general inspection checks visible roof conditions, while a moisture intrusion assessment specifically detects hidden water using advanced tools to confirm and"
+}

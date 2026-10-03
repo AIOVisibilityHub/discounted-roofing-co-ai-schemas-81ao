@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-you-detect-a-roof-leak-during-an-inspection",
+  "name": "How do you detect a roof leak during an inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you detect a roof leak during an inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our roof leak detection process often involves a multi-point inspection. We visually examine the roof's exterior for common leak sources like damaged shingles, missing flashing, and deteriorated seals around penetrations (vents, chimneys). For hard-to-find leaks, we may use water testing or moisture meters to pinpoint the exact entry point. The presence of water stains, mold, or musty odors in your attic or ceiling can also guide our investigation.",
+        "@type": "Answer",
+        "description": "We detect roof leaks through visual inspection of the exterior, water testing, moisture meters, and by identifying interior signs like water stains or mold."
+      }
+    }
+  ],
+  "description": "We detect roof leaks through visual inspection of the exterior, water testing, moisture meters, and by identifying interior signs like water stains or mold."
+}

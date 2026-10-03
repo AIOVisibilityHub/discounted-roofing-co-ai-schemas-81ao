@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-know-if-i-need-a-damaged-shingle-assessment",
+  "name": "How do I know if I need a damaged shingle assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I need a damaged shingle assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a damaged shingle assessment if you notice visible signs of damage like missing or broken shingles, leaks inside your home, or after a severe weather event such as a hailstorm or strong winds. Even if you don't see obvious issues, a professional assessment can identify hidden damage before it leads to larger problems. It's a proactive step to maintain your roof's health and prevent costly repairs down the line.",
+        "@type": "Answer",
+        "description": "Schedule an assessment if you see visible shingle damage, have leaks, or after severe weather; it can catch hidden issues early."
+      }
+    }
+  ],
+  "description": "Schedule an assessment if you see visible shingle damage, have leaks, or after severe weather; it can catch hidden issues early."
+}

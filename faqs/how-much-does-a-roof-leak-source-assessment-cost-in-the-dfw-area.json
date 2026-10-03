@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-roof-leak-source-assessment-cost-in-the-dfw-area",
+  "name": "How much does a roof leak-source assessment cost in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a roof leak-source assessment cost in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a roof leak-source assessment in the DFW area can vary depending on factors such as the size and pitch of your roof, the complexity of the leak, and whether specialized equipment is required. Some roofing companies might offer a standalone assessment fee, while others might waive the assessment cost if you proceed with their recommended repairs. It's always best to get a clear quote upfront to understand the full cost implications for your specific situation.",
+        "@type": "Answer",
+        "description": "Cost varies in DFW based on roof size, leak complexity, and equipment needs; some companies may waive the fee with repairs."
+      }
+    }
+  ],
+  "description": "Cost varies in DFW based on roof size, leak complexity, and equipment needs; some companies may waive the fee with repairs."
+}

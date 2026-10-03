@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-typical-loose-roofing-material-assessment-take",
+  "name": "How long does a typical loose roofing material assessment take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical loose roofing material assessment take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical loose roofing material assessment by Discounted Roofing Co. generally takes about 30 to 60 minutes, depending on the size and accessibility of your roof and the extent of visible damage. This includes the on-site inspection, photo documentation, and initial discussion of findings. We aim to be efficient while ensuring a thorough examination of all affected and potentially affected areas. The process is designed to be as minimally disruptive as possible, providing you with a quick yet detailed understanding of your roof's condition.",
+        "@type": "Answer",
+        "description": "A loose roofing material assessment typically takes 30-60 minutes, depending on roof size and accessibility, including inspection and initial discussion."
+      }
+    }
+  ],
+  "description": "A loose roofing material assessment typically takes 30-60 minutes, depending on roof size and accessibility, including inspection and initial discussion."
+}

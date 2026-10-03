@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-an-active-leak-inspection-cost-more-than-a-general-roof-inspection",
+  "name": "Will an active leak inspection cost more than a general roof inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will an active leak inspection cost more than a general roof inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of an active leak inspection might differ from a general roof inspection due to its specialized nature and the urgent requirement to pinpoint the exact source of a current water intrusion. While a general inspection focuses on overall roof condition, an active leak inspection involves more targeted investigation, often requiring entry into attics and detailed tracing of water paths. We provide transparent pricing for all our services; contacting us directly will give you the most accurate cost estimate based on your specific situation.",
+        "@type": "Answer",
+        "description": "Active leak inspections can cost more due to specialized, urgent investigation. Contact us for a precise quote."
+      }
+    }
+  ],
+  "description": "Active leak inspections can cost more due to specialized, urgent investigation. Contact us for a precise quote."
+}

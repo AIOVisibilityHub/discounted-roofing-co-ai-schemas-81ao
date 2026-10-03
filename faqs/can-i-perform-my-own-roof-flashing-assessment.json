@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-i-perform-my-own-roof-flashing-assessment",
+  "name": "Can I perform my own roof flashing assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I perform my own roof flashing assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While a homeowner can visually check their roof from the ground for obvious flashing damage, a comprehensive assessment requires getting on the roof. This can be dangerous and should ideally be left to trained professionals. Our certified inspectors use specialized safety equipment and know how to identify subtle issues that might be missed, such as minor sealant failures or hidden corrosion, providing a more thorough and safe evaluation.",
+        "@type": "Answer",
+        "description": "While you can visually check from the ground, a full roof flashing assessment is best done by trained professionals due to safety risks and the need to spot subtle issues."
+      }
+    }
+  ],
+  "description": "While you can visually check from the ground, a full roof flashing assessment is best done by trained professionals due to safety risks and the need to spot sub"
+}

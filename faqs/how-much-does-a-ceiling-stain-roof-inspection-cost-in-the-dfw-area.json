@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-ceiling-stain-roof-inspection-cost-in-the-dfw-area",
+  "name": "How much does a ceiling stain roof inspection cost in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a ceiling stain roof inspection cost in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a ceiling stain roof inspection can vary depending on the complexity of your roof and the extent of the visible damage. At Discounted Roofing Co., we offer competitive pricing for comprehensive inspections across our service areas, including DFW, Abbott, and Allen. Some inspections may be free, especially if it leads to a repair or replacement project. We recommend contacting us directly for a specific quote based on your property's needs and to discuss if your situation qualifies for a no-cost assessment.",
+        "@type": "Answer",
+        "description": "The cost of a ceiling stain roof inspection varies based on roof complexity and damage. Discounted Roofing Co. offers competitive pricing, and some inspections may be free if they lead to a repair."
+      }
+    }
+  ],
+  "description": "The cost of a ceiling stain roof inspection varies based on roof complexity and damage. Discounted Roofing Co. offers competitive pricing, and some inspections"
+}

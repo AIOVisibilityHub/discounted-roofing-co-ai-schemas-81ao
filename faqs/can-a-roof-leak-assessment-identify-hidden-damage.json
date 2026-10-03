@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-a-roof-leak-assessment-identify-hidden-damage",
+  "name": "Can a roof leak assessment identify hidden damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a roof leak assessment identify hidden damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a comprehensive roof leak assessment aims to identify both visible and hidden damage. While obvious signs like water stains are noted, inspectors also look for subtle indicators such as mold, mildew, wood rot in the attic, or compromised insulation. Advanced techniques, including thermal imaging or moisture meters, may be used to detect moisture that isn't yet visible. Identifying hidden damage is critical to ensure all necessary repairs are included in the scope of work, preventing future issues.",
+        "@type": "Answer",
+        "description": "Yes, a professional roof leak assessment identifies both visible and hidden damage, like mold or rot, sometimes using thermal imaging or moisture meters."
+      }
+    }
+  ],
+  "description": "Yes, a professional roof leak assessment identifies both visible and hidden damage, like mold or rot, sometimes using thermal imaging or moisture meters."
+}

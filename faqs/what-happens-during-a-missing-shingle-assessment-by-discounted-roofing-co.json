@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-during-a-missing-shingle-assessment-by-discounted-roofing-co",
+  "name": "What happens during a missing shingle assessment by Discounted Roofing Co.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during a missing shingle assessment by Discounted Roofing Co.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During an assessment, a Discounted Roofing Co. technician will perform a thorough visual inspection of your entire roof, looking for missing, damaged, or curled shingles. We also check for granules in gutters, inspect flashing, and examine the roof decking for any signs of water intrusion or structural compromise. Our process involves documenting findings with photos and explaining all observations clearly. We focus on identifying both obvious and subtle issues to provide a comprehensive repair plan.",
+        "@type": "Answer",
+        "description": "Our assessment includes a full visual roof inspection, checking for shingle damage, flashing issues, and signs of water intrusion, documented with photos."
+      }
+    }
+  ],
+  "description": "Our assessment includes a full visual roof inspection, checking for shingle damage, flashing issues, and signs of water intrusion, documented with photos."
+}

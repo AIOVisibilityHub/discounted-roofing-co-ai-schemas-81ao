@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-a-roof-puncture-assessment",
+  "name": "When should I get a roof puncture assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a roof puncture assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a roof puncture assessment if you notice visible holes, leaks inside your property, or after significant weather events like hailstorms or high winds that could dislodge debris. Timely assessment is crucial because even small punctures can lead to extensive water damage and mold if left unaddressed. Regular inspections can also help catch minor issues before they become major problems.",
+        "@type": "Answer",
+        "description": "Get a roof puncture assessment if you see holes, leaks, or after severe weather to prevent further damage."
+      }
+    }
+  ],
+  "description": "Get a roof puncture assessment if you see holes, leaks, or after severe weather to prevent further damage."
+}

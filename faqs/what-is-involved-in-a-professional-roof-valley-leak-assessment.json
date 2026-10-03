@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-involved-in-a-professional-roof-valley-leak-assessment",
+  "name": "What is involved in a professional roof valley leak assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a professional roof valley leak assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A professional roof valley leak assessment involves a thorough inspection of the valley area, both externally and internally. Our technicians typically examine the condition of shingles, flashing, underlayment, and sealant. Internally, they check the attic for water stains, mold, or structural damage. The process may include a water test to simulate rain and pinpoint the exact entry point of the leak, along with photographic documentation of findings. This comprehensive approach ensures an accurate diagnosis and effective repair plan.",
+        "@type": "Answer",
+        "description": "A professional assessment includes external and internal inspections of the valley, checking shingles, flashing, and underlayment, potentially with a water test to locate the leak."
+      }
+    }
+  ],
+  "description": "A professional assessment includes external and internal inspections of the valley, checking shingles, flashing, and underlayment, potentially with a water test"
+}

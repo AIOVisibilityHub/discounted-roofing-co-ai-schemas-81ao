@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-quickly-can-discounted-roofing-co-perform-a-damaged-shingle-assessment",
+  "name": "How quickly can Discounted Roofing Co. perform a damaged shingle assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly can Discounted Roofing Co. perform a damaged shingle assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Discounted Roofing Co. strives for prompt service, especially after severe weather. We can typically schedule a damaged shingle assessment within a few business days of your inquiry, sometimes sooner depending on urgency and our current workload. We understand the importance of timely assessments to prevent further damage and expedite potential insurance claims, particularly in high-demand areas like Allen or Plano.",
+        "@type": "Answer",
+        "description": "We typically schedule assessments within a few business days, prioritizing prompt service, especially after severe weather."
+      }
+    }
+  ],
+  "description": "We typically schedule assessments within a few business days, prioritizing prompt service, especially after severe weather."
+}

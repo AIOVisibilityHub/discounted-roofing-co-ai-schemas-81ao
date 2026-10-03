@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/why-is-it-important-to-accurately-identify-the-leak-source-not-just-patch-the-ce",
+  "name": "Why is it important to accurately identify the leak source, not just patch the ceiling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is it important to accurately identify the leak source, not just patch the ceiling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Accurately identifying the leak source is crucial because simply patching the ceiling or addressing the visible damage without fixing the root cause will only provide a temporary solution. The water intrusion will likely continue, leading to more extensive and costly damage over time, including mold growth, structural deterioration, and compromised insulation. A precise assessment ensures that the underlying issue, whether it's a compromised shingle, faulty flashing, or a seal around a vent, is fully resolved, protecting your home's integrity and preventing recurring problems.",
+        "@type": "Answer",
+        "description": "Accurate leak source identification is vital because patching without fixing the root cause leads to recurring leaks, further damage, and increased costs."
+      }
+    }
+  ],
+  "description": "Accurate leak source identification is vital because patching without fixing the root cause leads to recurring leaks, further damage, and increased costs."
+}

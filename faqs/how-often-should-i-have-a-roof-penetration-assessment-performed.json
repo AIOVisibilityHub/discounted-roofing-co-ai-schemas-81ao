@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-often-should-i-have-a-roof-penetration-assessment-performed",
+  "name": "How often should I have a roof penetration assessment performed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I have a roof penetration assessment performed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is generally recommended to have a roof penetration assessment performed annually, especially after severe weather events common in areas like Aledo or Abbott. Regular inspections can identify minor issues before they escalate into major problems, extending the lifespan of your roof and avoiding costly emergency repairs. For commercial properties with numerous penetrations, more frequent checks might be advisable.",
+        "@type": "Answer",
+        "description": "Annual roof penetration assessments are recommended, especially after severe weather, to identify and address issues early."
+      }
+    }
+  ],
+  "description": "Annual roof penetration assessments are recommended, especially after severe weather, to identify and address issues early."
+}

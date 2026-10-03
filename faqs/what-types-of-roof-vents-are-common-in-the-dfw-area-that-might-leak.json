@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-types-of-roof-vents-are-common-in-the-dfw-area-that-might-leak",
+  "name": "What types of roof vents are common in the DFW area that might leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of roof vents are common in the DFW area that might leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the DFW area, common roof vents that can develop leaks include standard static vents, ridge vents, power attic vents, and plumbing stack vents. Each type has specific components like flashing, seals, or caps that can degrade over time due to intense sun exposure and varying weather conditions. Understanding the type of vent helps in diagnosing the leak source. Discounted Roofing Co. is familiar with all vent types commonly installed in North Texas homes.",
+        "@type": "Answer",
+        "description": "Common DFW roof vents that leak are static, ridge, power attic, and plumbing vents, often due to degraded flashing or seals from weather."
+      }
+    }
+  ],
+  "description": "Common DFW roof vents that leak are static, ridge, power attic, and plumbing vents, often due to degraded flashing or seals from weather."
+}

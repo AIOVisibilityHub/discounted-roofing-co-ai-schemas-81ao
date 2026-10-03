@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-does-a-loose-roofing-material-assessment-involve",
+  "name": "What does a loose roofing material assessment involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a loose roofing material assessment involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A loose roofing material assessment involves a thorough inspection of your roof by our certified technicians to identify any dislodged, cracked, or missing components. This includes examining shingles, tiles, flashing, and seals for signs of wear or damage that could lead to leaks or further structural issues. We assess the severity of the looseness, pinpoint potential causes, and determine the necessary repairs to restore your roof's integrity. Our process often includes checking the surrounding areas for secondary damage caused by loose materials.",
+        "@type": "Answer",
+        "description": "A loose roofing material assessment involves inspecting your roof for dislodged, cracked, or missing components to identify damage and necessary repairs."
+      }
+    }
+  ],
+  "description": "A loose roofing material assessment involves inspecting your roof for dislodged, cracked, or missing components to identify damage and necessary repairs."
+}

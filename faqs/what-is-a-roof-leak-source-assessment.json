@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-roof-leak-source-assessment",
+  "name": "What is a roof leak-source assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a roof leak-source assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roof leak-source assessment identifies the precise origin of a leak in your roofing system. This process often involves a thorough inspection of the entire roof, including flashing, vents, skylights, and overall roof integrity, to pinpoint where water is entering. Understanding the exact source is crucial for effective repairs, preventing further damage, and avoiding unnecessary expenses. Without a proper assessment, repairs might address symptoms rather than the root cause.",
+        "@type": "Answer",
+        "description": "A roof leak-source assessment identifies the precise origin of a leak in your roofing system to enable effective repairs."
+      }
+    }
+  ],
+  "description": "A roof leak-source assessment identifies the precise origin of a leak in your roofing system to enable effective repairs."
+}

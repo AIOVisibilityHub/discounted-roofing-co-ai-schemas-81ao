@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-a-moisture-intrusion-assessment-prevent-future-roof-leaks",
+  "name": "Can a moisture intrusion assessment prevent future roof leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a moisture intrusion assessment prevent future roof leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a moisture intrusion assessment can significantly help prevent future roof leaks by identifying existing or potential water entry points before they become major problems. By pinpointing areas of hidden moisture or compromised roofing materials, proactive repairs can be made. This early detection and remediation are crucial for extending your roof's lifespan and avoiding costly damage to your property's interior and structure.",
+        "@type": "Answer",
+        "description": "Yes, it identifies potential water entry points early, allowing proactive repairs to prevent future leaks and extend roof lifespan."
+      }
+    }
+  ],
+  "description": "Yes, it identifies potential water entry points early, allowing proactive repairs to prevent future leaks and extend roof lifespan."
+}

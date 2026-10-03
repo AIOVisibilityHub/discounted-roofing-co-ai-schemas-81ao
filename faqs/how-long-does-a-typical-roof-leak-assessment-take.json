@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-typical-roof-leak-assessment-take",
+  "name": "How long does a typical roof leak assessment take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical roof leak assessment take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a roof leak assessment can vary widely, typically ranging from 30 minutes to several hours, depending on the complexity of the leak, the size of your roof, and accessibility. Factors such as multiple leak points, hidden water damage, or difficult-to-access areas can extend the inspection time. Our goal is to be thorough, ensuring we accurately identify all issues. It's wise to allocate ample time for the assessment to ensure a complete diagnosis.",
+        "@type": "Answer",
+        "description": "A typical roof leak assessment takes 30 minutes to several hours, varying based on leak complexity, roof size, and accessibility."
+      }
+    }
+  ],
+  "description": "A typical roof leak assessment takes 30 minutes to several hours, varying based on leak complexity, roof size, and accessibility."
+}

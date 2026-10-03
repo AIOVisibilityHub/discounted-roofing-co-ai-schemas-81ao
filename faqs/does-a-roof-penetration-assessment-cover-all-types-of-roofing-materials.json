@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/does-a-roof-penetration-assessment-cover-all-types-of-roofing-materials",
+  "name": "Does a roof penetration assessment cover all types of roofing materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does a roof penetration assessment cover all types of roofing materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a roof penetration assessment can be performed on most common roofing materials, including asphalt shingles, metal, tile, and flat roofs. While the specific methods for repairing or sealing penetrations may differ by material, the inspection process for identifying potential issues remains consistent. Our technicians are experienced with various roofing systems found across the DFW service area.",
+        "@type": "Answer",
+        "description": "Yes, assessments cover most roofing materials like shingles, metal, and tile, adapting inspection methods as needed."
+      }
+    }
+  ],
+  "description": "Yes, assessments cover most roofing materials like shingles, metal, and tile, adapting inspection methods as needed."
+}

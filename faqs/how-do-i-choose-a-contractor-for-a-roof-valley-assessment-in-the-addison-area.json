@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-a-contractor-for-a-roof-valley-assessment-in-the-addison-area",
+  "name": "How do I choose a contractor for a roof valley assessment in the Addison area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a contractor for a roof valley assessment in the Addison area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a contractor for a roof valley assessment in the Addison area, look for companies with established experience and a good local reputation. Verify that the contractor is licensed and insured for roofing work. It's also beneficial to choose a company that provides a detailed report of their findings, including photos, and offers clear, itemized quotes for any recommended repairs. Considering these factors ensures a thorough and reliable assessment of your roof's valleys.",
+        "@type": "Answer",
+        "description": "Choose an experienced, licensed, and insured contractor with a good local reputation in Addison who provides detailed reports and clear quotes."
+      }
+    }
+  ],
+  "description": "Choose an experienced, licensed, and insured contractor with a good local reputation in Addison who provides detailed reports and clear quotes."
+}

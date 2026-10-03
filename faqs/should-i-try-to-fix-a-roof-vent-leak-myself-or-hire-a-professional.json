@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/should-i-try-to-fix-a-roof-vent-leak-myself-or-hire-a-professional",
+  "name": "Should I try to fix a roof vent leak myself or hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I try to fix a roof vent leak myself or hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor temporary fixes might seem appealing, it's generally safer and more effective to hire a professional for roof vent leak repairs. DIY attempts can lead to improper sealing, further damage, or personal injury due to working at heights. Professionals have the necessary tools, safety equipment, and experience to correctly identify and repair the leak, often preventing recurrence. Discounted Roofing Co. ensures repairs are done to industry standards, offering peace of mind.",
+        "@type": "Answer",
+        "description": "Hire a professional for roof vent leaks. DIY can lead to improper repairs, further damage, or injury. Professionals ensure correct and safe repairs."
+      }
+    }
+  ],
+  "description": "Hire a professional for roof vent leaks. DIY can lead to improper repairs, further damage, or injury. Professionals ensure correct and safe repairs."
+}

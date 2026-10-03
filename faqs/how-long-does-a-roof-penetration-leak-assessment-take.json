@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-roof-penetration-leak-assessment-take",
+  "name": "How long does a roof penetration leak assessment take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a roof penetration leak assessment take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a roof penetration leak assessment varies based on the roof's size, complexity, and the number of penetrations. Typically, a standard residential assessment can take anywhere from 1 to 3 hours. Larger commercial properties or those with multiple suspected leak areas may require more time for a thorough inspection. Our team prioritizes a meticulous examination of each penetration point, including flashing, sealants, and surrounding materials, to ensure all potential issues are identified. Factors like weather conditions can also influence the assessment timeline.",
+        "@type": "Answer",
+        "description": "The assessment usually takes 1 to 3 hours for residential roofs, depending on size and complexity. Larger roofs may take longer."
+      }
+    }
+  ],
+  "description": "The assessment usually takes 1 to 3 hours for residential roofs, depending on size and complexity. Larger roofs may take longer."
+}

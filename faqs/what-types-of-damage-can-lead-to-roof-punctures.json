@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-types-of-damage-can-lead-to-roof-punctures",
+  "name": "What types of damage can lead to roof punctures?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of damage can lead to roof punctures?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Various factors can lead to roof punctures, including severe weather like hailstorms, strong winds causing debris to fall, or fallen tree branches. Animal activity, such as rodents or birds pecking at the roof, can also cause damage. Additionally, foot traffic during maintenance or installation of other systems (e.g., HVAC units, solar panels) can inadvertently create punctures if not handled carefully.",
+        "@type": "Answer",
+        "description": "Hail, strong winds, fallen debris, animal activity, and improper foot traffic during maintenance can all lead to roof punctures."
+      }
+    }
+  ],
+  "description": "Hail, strong winds, fallen debris, animal activity, and improper foot traffic during maintenance can all lead to roof punctures."
+}

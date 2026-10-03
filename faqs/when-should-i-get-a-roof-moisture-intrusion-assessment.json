@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-a-roof-moisture-intrusion-assessment",
+  "name": "When should I get a roof moisture intrusion assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a roof moisture intrusion assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a roof moisture intrusion assessment if you notice signs of a leak indoors, see discoloration on your ceiling or walls, or if your roof has recently experienced severe weather like heavy rain or hail. It's also advisable for older roofs or before significant roof repairs to ensure hidden damage isn't overlooked. This assessment can preempt more extensive and costly repairs by addressing issues early.",
+        "@type": "Answer",
+        "description": "Get an assessment if you notice leak signs, ceiling discoloration, or after severe weather; also for older roofs or before major repairs."
+      }
+    }
+  ],
+  "description": "Get an assessment if you notice leak signs, ceiling discoloration, or after severe weather; also for older roofs or before major repairs."
+}

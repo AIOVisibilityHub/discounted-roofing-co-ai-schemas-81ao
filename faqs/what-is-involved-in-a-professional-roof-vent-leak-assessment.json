@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-involved-in-a-professional-roof-vent-leak-assessment",
+  "name": "What is involved in a professional roof vent leak assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a professional roof vent leak assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A professional roof vent leak assessment typically involves a thorough inspection of the vent from the exterior, checking for damaged seals, cracked vent bases, or missing flashing. The interior of your attic may also be inspected for water trails or saturation around the vent area. This comprehensive approach ensures all potential leak sources are identified. Our team at Discounted Roofing Co. documents findings to provide a clear picture of the necessary repairs.",
+        "@type": "Answer",
+        "description": "A professional assessment includes exterior vent inspection for damage and interior attic inspection for water trails. This identifies all leak sources."
+      }
+    }
+  ],
+  "description": "A professional assessment includes exterior vent inspection for damage and interior attic inspection for water trails. This identifies all leak sources."
+}

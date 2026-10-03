@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-poor-roof-ventilation-affect-my-energy-bills",
+  "name": "Can poor roof ventilation affect my energy bills?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can poor roof ventilation affect my energy bills?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, poor roof ventilation can significantly increase your energy bills. When an attic lacks proper airflow, heat gets trapped in the summer, causing your air conditioning system to work harder to cool your home. In winter, inadequate ventilation can trap moisture, leading to insulation degradation, which reduces your home's ability to retain heat. A practical tradeoff is that investing in a vent assessment and potential ventilation improvements can lead to noticeable savings on your monthly energy costs, offsetting the initial expense over time.",
+        "@type": "Answer",
+        "description": "Yes, poor ventilation increases energy bills by making HVAC systems work harder. Improving ventilation can lead to long-term energy savings."
+      }
+    }
+  ],
+  "description": "Yes, poor ventilation increases energy bills by making HVAC systems work harder. Improving ventilation can lead to long-term energy savings."
+}

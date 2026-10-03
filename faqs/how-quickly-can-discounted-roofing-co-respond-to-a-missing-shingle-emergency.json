@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-quickly-can-discounted-roofing-co-respond-to-a-missing-shingle-emergency",
+  "name": "How quickly can Discounted Roofing Co. respond to a missing shingle emergency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly can Discounted Roofing Co. respond to a missing shingle emergency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For urgent situations involving missing shingles that expose your home to potential water damage, Discounted Roofing Co. prioritizes rapid response. We aim to dispatch a team for assessment and temporary tarping, if necessary, within 24-48 hours of your call, especially after major storm events. Our goal is to mitigate further damage quickly. Our local presence across the DFW area, including communities like Keller and Southlake, helps us respond efficiently to emergency needs.",
+        "@type": "Answer",
+        "description": "Discounted Roofing Co. aims for 24-48 hour emergency response for missing shingle issues, often including temporary tarping to prevent further damage."
+      }
+    }
+  ],
+  "description": "Discounted Roofing Co. aims for 24-48 hour emergency response for missing shingle issues, often including temporary tarping to prevent further damage."
+}

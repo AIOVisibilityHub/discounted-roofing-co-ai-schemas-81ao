@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/should-i-repair-or-replace-my-roof-valley-if-it-s-leaking",
+  "name": "Should I repair or replace my roof valley if it's leaking?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace my roof valley if it's leaking?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair or replace a leaking roof valley depends on the extent of the damage, the age of your roof, and the overall condition of the surrounding roofing materials. Minor leaks due to a single cracked shingle or small flashing gap can often be repaired. However, if there's extensive rot, multiple areas of damage, or if your roof is nearing the end of its lifespan, a full valley replacement or even a re-roofing might be more cost-effective in the long run. An assessment by Discounted Roofing Co. will provide a recommendation based on these factors.",
+        "@type": "Answer",
+        "description": "Repair minor leaks; consider replacement for extensive damage, older roofs, or widespread deterioration. An assessment helps determine the best course."
+      }
+    }
+  ],
+  "description": "Repair minor leaks; consider replacement for extensive damage, older roofs, or widespread deterioration. An assessment helps determine the best course."
+}

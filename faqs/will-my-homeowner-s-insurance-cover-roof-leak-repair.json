@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-my-homeowner-s-insurance-cover-roof-leak-repair",
+  "name": "Will my homeowner's insurance cover roof leak repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover roof leak repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance often covers roof leak repair if the damage is sudden and accidental, such as from a storm or falling debris. However, leaks due to neglect or gradual wear and tear are typically not covered. It's important to review your specific policy and contact your insurance provider promptly. Discounted Roofing Co. can assist with documentation and provide estimates needed for your insurance claim.",
+        "@type": "Answer",
+        "description": "Insurance often covers sudden roof leak damage from storms, but not neglect. Review your policy and contact your provider; we can help with necessary documentation."
+      }
+    }
+  ],
+  "description": "Insurance often covers sudden roof leak damage from storms, but not neglect. Review your policy and contact your provider; we can help with necessary documentat"
+}

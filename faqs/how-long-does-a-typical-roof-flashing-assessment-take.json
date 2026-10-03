@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-typical-roof-flashing-assessment-take",
+  "name": "How long does a typical roof flashing assessment take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical roof flashing assessment take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical roof flashing assessment usually takes between 30 minutes to an hour, depending on the size and complexity of your roof and the number of penetrations like chimneys and skylights. Our goal is to conduct a thorough and efficient inspection. Factors like roof accessibility and the extent of visible issues can slightly adjust this timeframe to ensure every critical flashing point is properly evaluated.",
+        "@type": "Answer",
+        "description": "A roof flashing assessment typically takes 30 minutes to an hour, varying based on roof size, complexity, and the number of roof penetrations requiring inspection."
+      }
+    }
+  ],
+  "description": "A roof flashing assessment typically takes 30 minutes to an hour, varying based on roof size, complexity, and the number of roof penetrations requiring inspecti"
+}

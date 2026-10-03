@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-ceiling-leak-source-assessment",
+  "name": "What is a ceiling leak source assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a ceiling leak source assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A ceiling leak source assessment identifies the exact origin of water intrusion causing a ceiling leak. This process involves a thorough inspection of your roof, attic space, and interior affected areas to pinpoint the entry point and potential damage. Our team uses specialized knowledge to distinguish between various leak types, such as roof-related issues, plumbing problems, or HVAC condensation, which can all present as ceiling leaks. Understanding the source is crucial before any repairs can begin to ensure the problem is fully resolved.",
+        "@type": "Answer",
+        "description": "A ceiling leak source assessment identifies the exact origin of water intrusion causing a ceiling leak, often involving inspection of the roof, attic, and interior."
+      }
+    }
+  ],
+  "description": "A ceiling leak source assessment identifies the exact origin of water intrusion causing a ceiling leak, often involving inspection of the roof, attic, and inter"
+}

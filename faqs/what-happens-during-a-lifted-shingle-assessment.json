@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-during-a-lifted-shingle-assessment",
+  "name": "What happens during a lifted shingle assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during a lifted shingle assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a lifted shingle assessment, a Discounted Roofing Co. inspector will conduct a comprehensive visual examination of your roof. This includes walking the roof to physically inspect individual shingles, checking for signs of lifting, cracking, missing granules, or loose sealant. We also examine flashing, vents, and other roof penetrations for related issues. The process involves identifying the cause of the lifting, such as wind damage or age, and assessing the extent of the damage to determine the most effective repair strategy.",
+        "@type": "Answer",
+        "description": "An inspector from Discounted Roofing Co. visually examines the roof for lifted shingles, assessing damage to determine repair strategies."
+      }
+    }
+  ],
+  "description": "An inspector from Discounted Roofing Co. visually examines the roof for lifted shingles, assessing damage to determine repair strategies."
+}

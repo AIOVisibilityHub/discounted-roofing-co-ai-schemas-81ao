@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-can-i-prepare-for-a-roof-flashing-leak-assessment",
+  "name": "How can I prepare for a roof flashing leak assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare for a roof flashing leak assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a roof flashing leak assessment, ensure clear access to your property and the roof, if possible. Remove any obstacles around the exterior of your home that might hinder ladder placement. If you know of specific areas where leaks are suspected or have noticed any signs of water damage inside, please point these out to our technicians upon their arrival. This information can help streamline the inspection process and focus their efforts on potential problem zones.",
+        "@type": "Answer",
+        "description": "Ensure clear property access and inform technicians of any suspected leak areas or interior water damage to help streamline the assessment."
+      }
+    }
+  ],
+  "description": "Ensure clear property access and inform technicians of any suspected leak areas or interior water damage to help streamline the assessment."
+}

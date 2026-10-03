@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-tools-or-methods-are-used-during-a-water-intrusion-assessment",
+  "name": "What tools or methods are used during a water intrusion assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What tools or methods are used during a water intrusion assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a water intrusion assessment, our professionals use various tools and methods to accurately locate water entry points. These may include visual inspections, moisture meters to detect hidden dampness, infrared cameras to identify temperature differences caused by moisture, and sometimes dye testing or water testing to simulate rain conditions. The specific tools used depend on the suspected source and type of intrusion, ensuring a comprehensive diagnosis.",
+        "@type": "Answer",
+        "description": "Assessments involve visual inspections, moisture meters, infrared cameras, and sometimes water or dye testing to pinpoint water entry points."
+      }
+    }
+  ],
+  "description": "Assessments involve visual inspections, moisture meters, infrared cameras, and sometimes water or dye testing to pinpoint water entry points."
+}

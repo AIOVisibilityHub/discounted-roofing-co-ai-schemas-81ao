@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-a-company-for-a-roof-flashing-assessment",
+  "name": "How do I choose a company for a roof flashing assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a company for a roof flashing assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a company for a roof flashing assessment, look for licensed and insured roofing contractors with local experience in the DFW area. Check for positive customer reviews and ensure they offer detailed inspection reports. It's also beneficial to choose a company that provides a clear explanation of their assessment process and any recommended repairs, allowing you to understand the findings and make informed decisions about your roof's health.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured, local DFW contractor with good reviews who provides detailed inspection reports and clear explanations of findings."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured, local DFW contractor with good reviews who provides detailed inspection reports and clear explanations of findings."
+}

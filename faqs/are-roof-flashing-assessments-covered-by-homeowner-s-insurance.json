@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/are-roof-flashing-assessments-covered-by-homeowner-s-insurance",
+  "name": "Are roof flashing assessments covered by homeowner's insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are roof flashing assessments covered by homeowner's insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Typically, routine roof flashing assessments are not covered by homeowner's insurance, as they are considered part of regular home maintenance. However, if an assessment is conducted after a specific insurable event, such as storm damage that caused flashing to fail, the subsequent repairs might be covered. It's always best to check your individual policy details and speak with your insurance provider to understand your coverage in such situations.",
+        "@type": "Answer",
+        "description": "Routine roof flashing assessments aren't usually covered by insurance. However, repairs after damage from an insurable event, like a storm, might be covered. Check your policy."
+      }
+    }
+  ],
+  "description": "Routine roof flashing assessments aren't usually covered by insurance. However, repairs after damage from an insurable event, like a storm, might be covered. Ch"
+}

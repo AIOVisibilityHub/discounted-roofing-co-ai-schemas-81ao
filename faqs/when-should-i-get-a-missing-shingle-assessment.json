@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-a-missing-shingle-assessment",
+  "name": "When should I get a missing shingle assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a missing shingle assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should get a missing shingle assessment promptly after noticing any loose or missing shingles, especially following strong winds, hailstorms, or heavy rain. Even if you don't see obvious damage, an inspection is recommended if your roof is older than 10-15 years or after any significant weather event. Early detection helps prevent water intrusion and costly interior damage. Delaying an assessment can lead to more extensive and expensive repairs later on.",
+        "@type": "Answer",
+        "description": "Schedule an assessment immediately after noticing missing shingles or severe weather, or if your roof is older than 10-15 years."
+      }
+    }
+  ],
+  "description": "Schedule an assessment immediately after noticing missing shingles or severe weather, or if your roof is older than 10-15 years."
+}

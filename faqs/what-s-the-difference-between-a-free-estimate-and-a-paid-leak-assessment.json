@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-s-the-difference-between-a-free-estimate-and-a-paid-leak-assessment",
+  "name": "What's the difference between a free estimate and a paid leak assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a free estimate and a paid leak assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A free estimate typically involves a quick visual inspection to provide a general idea of repair costs for known issues. A paid leak assessment, however, is a more thorough, detailed investigation to precisely locate the leak's source, assess all associated damage, and provide a comprehensive report. The paid assessment offers a deeper dive into the problem, making it more suitable for complex or elusive leaks where the exact cause is unclear. The choice depends on whether you need a quick quote or a detailed diagnosis.",
+        "@type": "Answer",
+        "description": "A free estimate is a general cost overview for known issues, while a paid assessment is a detailed investigation to precisely locate and diagnose leaks."
+      }
+    }
+  ],
+  "description": "A free estimate is a general cost overview for known issues, while a paid assessment is a detailed investigation to precisely locate and diagnose leaks."
+}

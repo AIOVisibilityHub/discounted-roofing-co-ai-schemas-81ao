@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-a-roof-valley-assessment",
+  "name": "When should I get a roof valley assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a roof valley assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a roof valley assessment if you notice water stains on your ceiling, missing or damaged shingles in valley areas, excessive moss or debris buildup, or after a significant storm with heavy rain or hail. It's also a good idea to include it as part of a routine roof inspection, typically every 1-3 years, especially if your home is older or has complex rooflines. Early detection of valley issues can prevent more extensive and costly water damage.",
+        "@type": "Answer",
+        "description": "Get a roof valley assessment if you see signs of leaks, damage, or buildup, or as part of a routine inspection every 1-3 years."
+      }
+    }
+  ],
+  "description": "Get a roof valley assessment if you see signs of leaks, damage, or buildup, or as part of a routine inspection every 1-3 years."
+}

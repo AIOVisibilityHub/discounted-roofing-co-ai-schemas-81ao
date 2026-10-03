@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-during-a-roof-inspection-once-a-ceiling-stain-is-reported",
+  "name": "What happens during a roof inspection once a ceiling stain is reported?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during a roof inspection once a ceiling stain is reported?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Once a ceiling stain is reported, Discounted Roofing Co. schedules an inspection where a certified professional will visit your property. The process begins with a visual assessment of the interior stain to gauge its size and location. Our inspector then goes onto the roof to check for obvious damage like missing shingles, cracked flashing, or worn sealants. Next, the attic directly above the stain is examined for water trails, mold, or damp insulation, which helps confirm the leak's origin and extent. Finally, we provide a detailed report of findings and recommended solutions.",
+        "@type": "Answer",
+        "description": "After a ceiling stain report, our inspector visually assesses the stain, then inspects the exterior roof and attic space to find the leak's origin, followed by a detailed report."
+      }
+    }
+  ],
+  "description": "After a ceiling stain report, our inspector visually assesses the stain, then inspects the exterior roof and attic space to find the leak's origin, followed by"
+}

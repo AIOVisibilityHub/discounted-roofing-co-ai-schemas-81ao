@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/why-is-proper-flashing-important-for-preventing-penetration-leaks",
+  "name": "Why is proper flashing important for preventing penetration leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is proper flashing important for preventing penetration leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper flashing is critical for preventing leaks around roof penetrations because it acts as a water-tight seal, diverting water away from vulnerable points. Flashing, typically made of metal, is installed around elements like chimneys, skylights, vents, and wall intersections. If flashing is installed incorrectly, is damaged, or deteriorates over time, it creates gaps where water can easily penetrate the roofing system. Discounted Roofing Co. emphasizes proper flashing installation and repair to ensure a durable barrier against water intrusion, which is a common issue we address in the DFW area.",
+        "@type": "Answer",
+        "description": "Proper flashing creates a watertight seal around roof penetrations, diverting water and preventing leaks. Damaged or poorly installed flashing leads to water intrusion."
+      }
+    }
+  ],
+  "description": "Proper flashing creates a watertight seal around roof penetrations, diverting water and preventing leaks. Damaged or poorly installed flashing leads to water in"
+}

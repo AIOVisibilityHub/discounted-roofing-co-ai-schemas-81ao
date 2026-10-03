@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-a-reliable-company-for-a-loose-roofing-material-assessment",
+  "name": "How do I choose a reliable company for a loose roofing material assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reliable company for a loose roofing material assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a reliable company for a loose roofing material assessment, look for a contractor with a strong local reputation, proper licensing, and insurance. Check for positive customer reviews and ensure they offer comprehensive, transparent assessments. Discounted Roofing Co. is a local DFW roofing company, serving many communities like Arlington, Dallas, and Fort Worth, and we pride ourselves on our certified technicians and commitment to customer satisfaction. We provide clear communication and detailed reports, ensuring you receive a trustworthy evaluation.",
+        "@type": "Answer",
+        "description": "Choose a reliable company by checking local reputation, licensing, insurance, and customer reviews, like Discounted Roofing Co. in the DFW area."
+      }
+    }
+  ],
+  "description": "Choose a reliable company by checking local reputation, licensing, insurance, and customer reviews, like Discounted Roofing Co. in the DFW area."
+}

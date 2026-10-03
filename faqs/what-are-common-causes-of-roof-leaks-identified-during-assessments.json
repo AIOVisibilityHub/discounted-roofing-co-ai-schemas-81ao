@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-common-causes-of-roof-leaks-identified-during-assessments",
+  "name": "What are common causes of roof leaks identified during assessments?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common causes of roof leaks identified during assessments?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During roof leak assessments, common causes often include damaged or missing shingles, deteriorated flashing around chimneys and vents, clogged gutters causing water backup, and compromised sealant. Aging roofing materials naturally wear down, leading to cracks or shrinking. Additionally, poor installation practices or severe weather events can contribute significantly to leaks. Identifying the root cause is essential for a lasting repair, rather than just patching the symptoms.",
+        "@type": "Answer",
+        "description": "Common leak causes found during assessments include damaged shingles, faulty flashing, clogged gutters, and aging materials, all needing proper identification for lasting repair."
+      }
+    }
+  ],
+  "description": "Common leak causes found during assessments include damaged shingles, faulty flashing, clogged gutters, and aging materials, all needing proper identification f"
+}
