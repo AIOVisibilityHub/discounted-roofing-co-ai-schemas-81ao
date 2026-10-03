@@ -1,0 +1,43 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-10-03T01:40:08.144Z",
+  "name": "Cross-Destination Index",
+  "aliases": [
+    "Authority Network",
+    "Repository Mirror Index",
+    "Related AI Data Sources"
+  ],
+  "purpose": "Transparent source discovery, entity consistency, mirror verification, and AI crawler navigation across every published copy of this AI Data Package.",
+  "notALinkWheel": true,
+  "entity": {
+    "name": "Discounted Roofing Co.",
+    "canonicalUrl": "https://discountedroofs.aiovisibility.net",
+    "primaryWebsiteUrl": "http://discountedroofs.com",
+    "aiDataHub": "https://discountedroofs.aiovisibility.net/ai-data.html"
+  },
+  "related": [
+    {
+      "role": "canonical",
+      "label": "Discounted Roofing Co. — canonical website",
+      "url": "https://discountedroofs.aiovisibility.net"
+    },
+    {
+      "role": "ai-data-hub",
+      "label": "Discounted Roofing Co. — AI Data Hub",
+      "url": "https://discountedroofs.aiovisibility.net/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "github",
+      "label": "GitHub repository",
+      "url": "https://github.com/AIOVisibilityHub/discounted-roofing-co-ai-schemas-81ao"
+    }
+  ],
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/discounted-roofing-co-ai-schemas-81ao",
+      "pagesUrl": "",
+      "repo": "AIOVisibilityHub/discounted-roofing-co-ai-schemas-81ao"
+    }
+  }
+}
