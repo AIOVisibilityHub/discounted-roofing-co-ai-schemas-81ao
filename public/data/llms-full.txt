@@ -18,7 +18,7 @@ Package contents:
 - [canonical] Discounted Roofing Co. — canonical website — https://discountedroofs.aiovisibility.net
 - [ai-data-hub] Discounted Roofing Co. — AI Data Hub — https://discountedroofs.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/discounted-roofing-co-ai-schemas-81ao
-- [mirror-pages] GitHub — AI Data Hub mirror — https://aiovisibilityhub.github.io/discounted-roofing-co-ai-schemas-81ao/ai-data.html
+- [mirror-pages] GitHub — AI Data Hub mirror — http://discountedroofs.aiovisibility.net/ai-data.html
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
