@@ -1,0 +1,670 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Discounted Roofing Co.",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When a Professional Roof Damage Assessment is Critical",
+  "publisher": {
+    "url": "http://discountedroofs.com",
+    "name": "Discounted Roofing Co.",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "DFW",
+      "@type": "City"
+    },
+    {
+      "name": "Abbott",
+      "@type": "City"
+    },
+    {
+      "name": "Addison",
+      "@type": "City"
+    },
+    {
+      "name": "Aledo",
+      "@type": "City"
+    },
+    {
+      "name": "Allen",
+      "@type": "City"
+    },
+    {
+      "name": "Alliance",
+      "@type": "City"
+    },
+    {
+      "name": "Alvarado",
+      "@type": "City"
+    },
+    {
+      "name": "Anna",
+      "@type": "City"
+    },
+    {
+      "name": "Aquilla",
+      "@type": "City"
+    },
+    {
+      "name": "Argyle",
+      "@type": "City"
+    },
+    {
+      "name": "Arlington",
+      "@type": "City"
+    },
+    {
+      "name": "Arlington Heights",
+      "@type": "City"
+    },
+    {
+      "name": "Azle",
+      "@type": "City"
+    },
+    {
+      "name": "Balch Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Bartonville",
+      "@type": "City"
+    },
+    {
+      "name": "Bedford",
+      "@type": "City"
+    },
+    {
+      "name": "Bellmead",
+      "@type": "City"
+    },
+    {
+      "name": "Benbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Benbrook Lake Area",
+      "@type": "City"
+    },
+    {
+      "name": "Bishop Arts District",
+      "@type": "City"
+    },
+    {
+      "name": "Blum",
+      "@type": "City"
+    },
+    {
+      "name": "Bowie",
+      "@type": "City"
+    },
+    {
+      "name": "Bridgeport",
+      "@type": "City"
+    },
+    {
+      "name": "Brock",
+      "@type": "City"
+    },
+    {
+      "name": "Burleson",
+      "@type": "City"
+    },
+    {
+      "name": "Carrollton",
+      "@type": "City"
+    },
+    {
+      "name": "Cedar Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Celina",
+      "@type": "City"
+    },
+    {
+      "name": "Cleburne",
+      "@type": "City"
+    },
+    {
+      "name": "Clearfork",
+      "@type": "City"
+    },
+    {
+      "name": "Colleyville",
+      "@type": "City"
+    },
+    {
+      "name": "Copper Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "Coppell",
+      "@type": "City"
+    },
+    {
+      "name": "Corinth",
+      "@type": "City"
+    },
+    {
+      "name": "Corsicana",
+      "@type": "City"
+    },
+    {
+      "name": "Crowley",
+      "@type": "City"
+    },
+    {
+      "name": "Dallas",
+      "@type": "City"
+    },
+    {
+      "name": "Decatur",
+      "@type": "City"
+    },
+    {
+      "name": "Denison",
+      "@type": "City"
+    },
+    {
+      "name": "DeSoto",
+      "@type": "City"
+    },
+    {
+      "name": "Denton",
+      "@type": "City"
+    },
+    {
+      "name": "Double Oak",
+      "@type": "City"
+    },
+    {
+      "name": "Downtown Dallas",
+      "@type": "City"
+    },
+    {
+      "name": "Downtown Fort Worth",
+      "@type": "City"
+    },
+    {
+      "name": "Duncanville",
+      "@type": "City"
+    },
+    {
+      "name": "East Dallas",
+      "@type": "City"
+    },
+    {
+      "name": "Ennis",
+      "@type": "City"
+    },
+    {
+      "name": "Euless",
+      "@type": "City"
+    },
+    {
+      "name": "Everman",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Farmers Branch",
+      "@type": "City"
+    },
+    {
+      "name": "Farmersville",
+      "@type": "City"
+    },
+    {
+      "name": "Fate",
+      "@type": "City"
+    },
+    {
+      "name": "Ferris",
+      "@type": "City"
+    },
+    {
+      "name": "Flower Mound",
+      "@type": "City"
+    },
+    {
+      "name": "Forest Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Forney",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Worth",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Worth Stockyards",
+      "@type": "City"
+    },
+    {
+      "name": "Frisco",
+      "@type": "City"
+    },
+    {
+      "name": "Frost",
+      "@type": "City"
+    },
+    {
+      "name": "Gainesville",
+      "@type": "City"
+    },
+    {
+      "name": "Garland",
+      "@type": "City"
+    },
+    {
+      "name": "Glen Rose",
+      "@type": "City"
+    },
+    {
+      "name": "Godley",
+      "@type": "City"
+    },
+    {
+      "name": "Granbury",
+      "@type": "City"
+    },
+    {
+      "name": "Grand Prairie",
+      "@type": "City"
+    },
+    {
+      "name": "Grapevine",
+      "@type": "City"
+    },
+    {
+      "name": "Haltom City",
+      "@type": "City"
+    },
+    {
+      "name": "Haslet",
+      "@type": "City"
+    },
+    {
+      "name": "Heath",
+      "@type": "City"
+    },
+    {
+      "name": "Hewitt",
+      "@type": "City"
+    },
+    {
+      "name": "Hico",
+      "@type": "City"
+    },
+    {
+      "name": "Highland Park",
+      "@type": "City"
+    },
+    {
+      "name": "Highland Village",
+      "@type": "City"
+    },
+    {
+      "name": "Hillsboro",
+      "@type": "City"
+    },
+    {
+      "name": "Hubbard",
+      "@type": "City"
+    },
+    {
+      "name": "Hudson Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Hurst",
+      "@type": "City"
+    },
+    {
+      "name": "Hutchins",
+      "@type": "City"
+    },
+    {
+      "name": "Irving",
+      "@type": "City"
+    },
+    {
+      "name": "Itasca",
+      "@type": "City"
+    },
+    {
+      "name": "Joe Pool Lake Area",
+      "@type": "City"
+    },
+    {
+      "name": "Joshua",
+      "@type": "City"
+    },
+    {
+      "name": "Keene",
+      "@type": "City"
+    },
+    {
+      "name": "Keller",
+      "@type": "City"
+    },
+    {
+      "name": "Keller Town Center",
+      "@type": "City"
+    },
+    {
+      "name": "Kennedale",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Arlington Area",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Worth",
+      "@type": "City"
+    },
+    {
+      "name": "Lakewood",
+      "@type": "City"
+    },
+    {
+      "name": "Laguna Park",
+      "@type": "City"
+    },
+    {
+      "name": "Lancaster",
+      "@type": "City"
+    },
+    {
+      "name": "Lantana",
+      "@type": "City"
+    },
+    {
+      "name": "Las Colinas",
+      "@type": "City"
+    },
+    {
+      "name": "Lewisville",
+      "@type": "City"
+    },
+    {
+      "name": "Little Elm",
+      "@type": "City"
+    },
+    {
+      "name": "Malone",
+      "@type": "City"
+    },
+    {
+      "name": "Mansfield",
+      "@type": "City"
+    },
+    {
+      "name": "Marlin",
+      "@type": "City"
+    },
+    {
+      "name": "McKinney",
+      "@type": "City"
+    },
+    {
+      "name": "Melissa",
+      "@type": "City"
+    },
+    {
+      "name": "Meridian",
+      "@type": "City"
+    },
+    {
+      "name": "Mesquite",
+      "@type": "City"
+    },
+    {
+      "name": "Midlothian",
+      "@type": "City"
+    },
+    {
+      "name": "Mineral Wells",
+      "@type": "City"
+    },
+    {
+      "name": "Morgan",
+      "@type": "City"
+    },
+    {
+      "name": "Murphy",
+      "@type": "City"
+    },
+    {
+      "name": "Near Southside Fort Worth",
+      "@type": "City"
+    },
+    {
+      "name": "North Dallas",
+      "@type": "City"
+    },
+    {
+      "name": "North Richland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Oak Cliff",
+      "@type": "City"
+    },
+    {
+      "name": "Park Cities",
+      "@type": "City"
+    },
+    {
+      "name": "Plano",
+      "@type": "City"
+    },
+    {
+      "name": "Preston Hollow",
+      "@type": "City"
+    },
+    {
+      "name": "Princeton",
+      "@type": "City"
+    },
+    {
+      "name": "Prosper",
+      "@type": "City"
+    },
+    {
+      "name": "Red Oak",
+      "@type": "City"
+    },
+    {
+      "name": "Rendon",
+      "@type": "City"
+    },
+    {
+      "name": "Rice",
+      "@type": "City"
+    },
+    {
+      "name": "Richardson",
+      "@type": "City"
+    },
+    {
+      "name": "Ridglea",
+      "@type": "City"
+    },
+    {
+      "name": "Rio Vista",
+      "@type": "City"
+    },
+    {
+      "name": "River District",
+      "@type": "City"
+    },
+    {
+      "name": "River Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Rockwall",
+      "@type": "City"
+    },
+    {
+      "name": "Roanoke",
+      "@type": "City"
+    },
+    {
+      "name": "Rowlett",
+      "@type": "City"
+    },
+    {
+      "name": "Royse City",
+      "@type": "City"
+    },
+    {
+      "name": "Sachse",
+      "@type": "City"
+    },
+    {
+      "name": "Saginaw",
+      "@type": "City"
+    },
+    {
+      "name": "Seagoville",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman",
+      "@type": "City"
+    },
+    {
+      "name": "Southlake",
+      "@type": "City"
+    },
+    {
+      "name": "Springtown",
+      "@type": "City"
+    },
+    {
+      "name": "Sunnyvale",
+      "@type": "City"
+    },
+    {
+      "name": "Tanglewood",
+      "@type": "City"
+    },
+    {
+      "name": "TCU Area",
+      "@type": "City"
+    },
+    {
+      "name": "Terrell",
+      "@type": "City"
+    },
+    {
+      "name": "The Colony",
+      "@type": "City"
+    },
+    {
+      "name": "Trophy Club",
+      "@type": "City"
+    },
+    {
+      "name": "University Park",
+      "@type": "City"
+    },
+    {
+      "name": "Uptown Dallas",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Mills",
+      "@type": "City"
+    },
+    {
+      "name": "Van Alstyne",
+      "@type": "City"
+    },
+    {
+      "name": "Venus",
+      "@type": "City"
+    },
+    {
+      "name": "Watauga",
+      "@type": "City"
+    },
+    {
+      "name": "Waxahachie",
+      "@type": "City"
+    },
+    {
+      "name": "Weatherford",
+      "@type": "City"
+    },
+    {
+      "name": "West",
+      "@type": "City"
+    },
+    {
+      "name": "West 7th",
+      "@type": "City"
+    },
+    {
+      "name": "West Dallas",
+      "@type": "City"
+    },
+    {
+      "name": "Westover Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Westworth Village",
+      "@type": "City"
+    },
+    {
+      "name": "White Settlement",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney",
+      "@type": "City"
+    },
+    {
+      "name": "Willow Park",
+      "@type": "City"
+    },
+    {
+      "name": "Wilmer",
+      "@type": "City"
+    },
+    {
+      "name": "Woodway",
+      "@type": "City"
+    },
+    {
+      "name": "Wylie",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Sometimes, a damaged roof needs more than just a quick glance. There are specific situations where a detailed, professional roof damage assessment isn't just helpful, it's absolutely critical. Trying to handle these situations yourself or with a less experienced eye can lead to overlooked damage, denied insurance claims, or even unsafe conditions.\n\n### When Professional Guidance Helps\n\nKnowing when to call in the experts for a roof damage assessment can save you significant time, money, and stress:\n\n*   **After a Severe Storm:** If your area has experienced high winds, large hail, or heavy rain, even if you don't see obvious signs from the ground, hidden damage can be present. A professional can identify subtle impacts that lead to leaks later.\n*   **Suspected Concealed Damage:** Sometimes, damage isn't visible from the exterior. If you notice new leaks, unexplained drafts, or changes in your energy bills after a storm, it could indicate concealed roof damage that requires an expert to find and diagnose.\n*   **Unsafe or Difficult Access:** If your roof is steep, multi-layered, or has areas that are hard to reach safely, a professional has the training and equipment to perform a thorough inspection without risk.\n*   **For an Insurance Claim:** If you plan to file an insurance claim, a detailed, independent assessment with dated, high-resolution photographs and a clear analysis of the likely cause is invaluable. It provides solid documentation for your adjuster.\n*   **Disputed Cause of Damage:** If there's disagreement about what caused the damage (e.g., storm vs. wear and tear), an expert assessment can offer a professional opinion based on evidence, helping to clarify the situation.\n\nDiscounted Roofing Co. offers expert damage assessments, helping you understand the type and extent of damage so you can make informed decisions. Don't guess – get a pro.",
+  "datePublished": "2026-10-03"
+}

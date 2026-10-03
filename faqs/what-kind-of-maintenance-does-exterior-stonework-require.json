@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-kind-of-maintenance-does-exterior-stonework-require",
+  "name": "What kind of maintenance does exterior stonework require?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance does exterior stonework require?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Exterior stonework generally requires minimal maintenance, primarily involving periodic cleaning to remove dirt, mold, or mildew. For natural stone, sealing may be recommended every few years to protect against moisture and staining. A practical tradeoff is that while manufactured stone might be slightly more prone to fading over many years if exposed to harsh sunlight, both types benefit from basic upkeep. Regular inspections can help identify and address any small issues before they become larger problems, ensuring longevity.",
+        "@type": "Answer",
+        "description": "Maintenance is minimal, usually involving cleaning and occasional sealing for natural stone. Regular inspections help maintain longevity."
+      }
+    }
+  ],
+  "description": "Maintenance is minimal, usually involving cleaning and occasional sealing for natural stone. Regular inspections help maintain longevity."
+}

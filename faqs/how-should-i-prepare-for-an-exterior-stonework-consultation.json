@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-should-i-prepare-for-an-exterior-stonework-consultation",
+  "name": "How should I prepare for an exterior stonework consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare for an exterior stonework consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for an exterior stonework consultation, it's helpful to have an idea of the areas you wish to enhance and any specific stone types or styles you prefer. Taking photos of your property and examples of stonework you admire can provide valuable context. As a preparation step, noting down any concerns about existing exterior surfaces or specific design goals, such as matching a particular aesthetic in a neighborhood like Highland Park, will help us provide the most accurate assessment and tailored recommendations.",
+        "@type": "Answer",
+        "description": "Prepare by identifying areas to enhance, stone preferences, and bringing photos of your property and desired styles to the consultation."
+      }
+    }
+  ],
+  "description": "Prepare by identifying areas to enhance, stone preferences, and bringing photos of your property and desired styles to the consultation."
+}

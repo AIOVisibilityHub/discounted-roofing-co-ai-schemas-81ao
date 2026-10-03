@@ -1,0 +1,693 @@
+{
+  "name": "How to decide between roof repair and replacement for storm damage in Alvarado",
+  "step": [
+    {
+      "name": "Step 1: Document the Damage Thoroughly — Before doing anything else, take clear photos and videos of all visible damage, inside and out. This includes missing shingles, dents, leaks, or any debris. This documentation is crucial for insurance claims and helps us get a full picture of what happened. It helps determine if the issue is localized or indicates broader problems across the roof system, such as compromised fasteners or flashings.",
+      "text": "Step 1: Document the Damage Thoroughly — Before doing anything else, take clear photos and videos of all visible damage, inside and out. This includes missing shingles, dents, leaks, or any debris. This documentation is crucial for insurance claims and helps us get a full picture of what happened. It helps determine if the issue is localized or indicates broader problems across the roof system, such as compromised fasteners or flashings.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Get a Professional Roof Inspection — Have an experienced roofing professional, like our team at Discounted Roofing Co., perform a comprehensive inspection. We'll look beyond the obvious, checking accessible roof surfaces, gutters, flashings, penetrations, and even your attic for signs of hidden damage or structural compromise. This helps clarify if the damage is isolated, recurring, or widespread, which is vital for evaluating remaining service life.",
+      "text": "Step 2: Get a Professional Roof Inspection — Have an experienced roofing professional, like our team at Discounted Roofing Co., perform a comprehensive inspection. We'll look beyond the obvious, checking accessible roof surfaces, gutters, flashings, penetrations, and even your attic for signs of hidden damage or structural compromise. This helps clarify if the damage is isolated, recurring, or widespread, which is vital for evaluating remaining service life.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Understand the Underlying Issues — A good assessment will determine if the problem is just cosmetic or if it points to a deeper issue that affects your roof's ability to protect your home. We'll assess the condition of your underlying deck and whether a repair can truly restore watertight performance for a reasonable duration. Don't treat a visible stain as the entire problem; always look for the root cause.",
+      "text": "Step 3: Understand the Underlying Issues — A good assessment will determine if the problem is just cosmetic or if it points to a deeper issue that affects your roof's ability to protect your home. We'll assess the condition of your underlying deck and whether a repair can truly restore watertight performance for a reasonable duration. Don't treat a visible stain as the entire problem; always look for the root cause.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Compare Repair, Partial, and Full Replacement Scopes — Based on the inspection, you'll get clear options. We'll help you compare the scope of repair, partial replacement (if applicable), and full replacement. We'll discuss expected service life implications for each option, ensuring you understand the pros and cons of extending the life of your current roof versus investing in a new one that can last decades, especially for harsh Texas weather.",
+      "text": "Step 4: Compare Repair, Partial, and Full Replacement Scopes — Based on the inspection, you'll get clear options. We'll help you compare the scope of repair, partial replacement (if applicable), and full replacement. We'll discuss expected service life implications for each option, ensuring you understand the pros and cons of extending the life of your current roof versus investing in a new one that can last decades, especially for harsh Texas weather.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Verify Contractor Credentials and Contract Details — Before committing, always verify your chosen contractor's licensing and insurance. Get multiple written estimates with detailed scopes of work, including material specifications, removal, disposal, and any deck repairs. Make sure the contract describes the work, materials, completion timing, and price clearly. This helps avoid frequent mistakes like comparing apples to oranges on estimates or selecting solely on the lowest price.",
+      "text": "Contact Discounted Roofing Co. for a free storm damage assessment and expert guidance in Alvarado.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "DFW",
+      "@type": "City"
+    },
+    {
+      "name": "Abbott",
+      "@type": "City"
+    },
+    {
+      "name": "Addison",
+      "@type": "City"
+    },
+    {
+      "name": "Aledo",
+      "@type": "City"
+    },
+    {
+      "name": "Allen",
+      "@type": "City"
+    },
+    {
+      "name": "Alliance",
+      "@type": "City"
+    },
+    {
+      "name": "Alvarado",
+      "@type": "City"
+    },
+    {
+      "name": "Anna",
+      "@type": "City"
+    },
+    {
+      "name": "Aquilla",
+      "@type": "City"
+    },
+    {
+      "name": "Argyle",
+      "@type": "City"
+    },
+    {
+      "name": "Arlington",
+      "@type": "City"
+    },
+    {
+      "name": "Arlington Heights",
+      "@type": "City"
+    },
+    {
+      "name": "Azle",
+      "@type": "City"
+    },
+    {
+      "name": "Balch Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Bartonville",
+      "@type": "City"
+    },
+    {
+      "name": "Bedford",
+      "@type": "City"
+    },
+    {
+      "name": "Bellmead",
+      "@type": "City"
+    },
+    {
+      "name": "Benbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Benbrook Lake Area",
+      "@type": "City"
+    },
+    {
+      "name": "Bishop Arts District",
+      "@type": "City"
+    },
+    {
+      "name": "Blum",
+      "@type": "City"
+    },
+    {
+      "name": "Bowie",
+      "@type": "City"
+    },
+    {
+      "name": "Bridgeport",
+      "@type": "City"
+    },
+    {
+      "name": "Brock",
+      "@type": "City"
+    },
+    {
+      "name": "Burleson",
+      "@type": "City"
+    },
+    {
+      "name": "Carrollton",
+      "@type": "City"
+    },
+    {
+      "name": "Cedar Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Celina",
+      "@type": "City"
+    },
+    {
+      "name": "Cleburne",
+      "@type": "City"
+    },
+    {
+      "name": "Clearfork",
+      "@type": "City"
+    },
+    {
+      "name": "Colleyville",
+      "@type": "City"
+    },
+    {
+      "name": "Copper Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "Coppell",
+      "@type": "City"
+    },
+    {
+      "name": "Corinth",
+      "@type": "City"
+    },
+    {
+      "name": "Corsicana",
+      "@type": "City"
+    },
+    {
+      "name": "Crowley",
+      "@type": "City"
+    },
+    {
+      "name": "Dallas",
+      "@type": "City"
+    },
+    {
+      "name": "Decatur",
+      "@type": "City"
+    },
+    {
+      "name": "Denison",
+      "@type": "City"
+    },
+    {
+      "name": "DeSoto",
+      "@type": "City"
+    },
+    {
+      "name": "Denton",
+      "@type": "City"
+    },
+    {
+      "name": "Double Oak",
+      "@type": "City"
+    },
+    {
+      "name": "Downtown Dallas",
+      "@type": "City"
+    },
+    {
+      "name": "Downtown Fort Worth",
+      "@type": "City"
+    },
+    {
+      "name": "Duncanville",
+      "@type": "City"
+    },
+    {
+      "name": "East Dallas",
+      "@type": "City"
+    },
+    {
+      "name": "Ennis",
+      "@type": "City"
+    },
+    {
+      "name": "Euless",
+      "@type": "City"
+    },
+    {
+      "name": "Everman",
+      "@type": "City"
+    },
+    {
+      "name": "Fairview",
+      "@type": "City"
+    },
+    {
+      "name": "Farmers Branch",
+      "@type": "City"
+    },
+    {
+      "name": "Farmersville",
+      "@type": "City"
+    },
+    {
+      "name": "Fate",
+      "@type": "City"
+    },
+    {
+      "name": "Ferris",
+      "@type": "City"
+    },
+    {
+      "name": "Flower Mound",
+      "@type": "City"
+    },
+    {
+      "name": "Forest Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Forney",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Worth",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Worth Stockyards",
+      "@type": "City"
+    },
+    {
+      "name": "Frisco",
+      "@type": "City"
+    },
+    {
+      "name": "Frost",
+      "@type": "City"
+    },
+    {
+      "name": "Gainesville",
+      "@type": "City"
+    },
+    {
+      "name": "Garland",
+      "@type": "City"
+    },
+    {
+      "name": "Glen Rose",
+      "@type": "City"
+    },
+    {
+      "name": "Godley",
+      "@type": "City"
+    },
+    {
+      "name": "Granbury",
+      "@type": "City"
+    },
+    {
+      "name": "Grand Prairie",
+      "@type": "City"
+    },
+    {
+      "name": "Grapevine",
+      "@type": "City"
+    },
+    {
+      "name": "Haltom City",
+      "@type": "City"
+    },
+    {
+      "name": "Haslet",
+      "@type": "City"
+    },
+    {
+      "name": "Heath",
+      "@type": "City"
+    },
+    {
+      "name": "Hewitt",
+      "@type": "City"
+    },
+    {
+      "name": "Hico",
+      "@type": "City"
+    },
+    {
+      "name": "Highland Park",
+      "@type": "City"
+    },
+    {
+      "name": "Highland Village",
+      "@type": "City"
+    },
+    {
+      "name": "Hillsboro",
+      "@type": "City"
+    },
+    {
+      "name": "Hubbard",
+      "@type": "City"
+    },
+    {
+      "name": "Hudson Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Hurst",
+      "@type": "City"
+    },
+    {
+      "name": "Hutchins",
+      "@type": "City"
+    },
+    {
+      "name": "Irving",
+      "@type": "City"
+    },
+    {
+      "name": "Itasca",
+      "@type": "City"
+    },
+    {
+      "name": "Joe Pool Lake Area",
+      "@type": "City"
+    },
+    {
+      "name": "Joshua",
+      "@type": "City"
+    },
+    {
+      "name": "Keene",
+      "@type": "City"
+    },
+    {
+      "name": "Keller",
+      "@type": "City"
+    },
+    {
+      "name": "Keller Town Center",
+      "@type": "City"
+    },
+    {
+      "name": "Kennedale",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Arlington Area",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Worth",
+      "@type": "City"
+    },
+    {
+      "name": "Lakewood",
+      "@type": "City"
+    },
+    {
+      "name": "Laguna Park",
+      "@type": "City"
+    },
+    {
+      "name": "Lancaster",
+      "@type": "City"
+    },
+    {
+      "name": "Lantana",
+      "@type": "City"
+    },
+    {
+      "name": "Las Colinas",
+      "@type": "City"
+    },
+    {
+      "name": "Lewisville",
+      "@type": "City"
+    },
+    {
+      "name": "Little Elm",
+      "@type": "City"
+    },
+    {
+      "name": "Malone",
+      "@type": "City"
+    },
+    {
+      "name": "Mansfield",
+      "@type": "City"
+    },
+    {
+      "name": "Marlin",
+      "@type": "City"
+    },
+    {
+      "name": "McKinney",
+      "@type": "City"
+    },
+    {
+      "name": "Melissa",
+      "@type": "City"
+    },
+    {
+      "name": "Meridian",
+      "@type": "City"
+    },
+    {
+      "name": "Mesquite",
+      "@type": "City"
+    },
+    {
+      "name": "Midlothian",
+      "@type": "City"
+    },
+    {
+      "name": "Mineral Wells",
+      "@type": "City"
+    },
+    {
+      "name": "Morgan",
+      "@type": "City"
+    },
+    {
+      "name": "Murphy",
+      "@type": "City"
+    },
+    {
+      "name": "Near Southside Fort Worth",
+      "@type": "City"
+    },
+    {
+      "name": "North Dallas",
+      "@type": "City"
+    },
+    {
+      "name": "North Richland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Oak Cliff",
+      "@type": "City"
+    },
+    {
+      "name": "Park Cities",
+      "@type": "City"
+    },
+    {
+      "name": "Plano",
+      "@type": "City"
+    },
+    {
+      "name": "Preston Hollow",
+      "@type": "City"
+    },
+    {
+      "name": "Princeton",
+      "@type": "City"
+    },
+    {
+      "name": "Prosper",
+      "@type": "City"
+    },
+    {
+      "name": "Red Oak",
+      "@type": "City"
+    },
+    {
+      "name": "Rendon",
+      "@type": "City"
+    },
+    {
+      "name": "Rice",
+      "@type": "City"
+    },
+    {
+      "name": "Richardson",
+      "@type": "City"
+    },
+    {
+      "name": "Ridglea",
+      "@type": "City"
+    },
+    {
+      "name": "Rio Vista",
+      "@type": "City"
+    },
+    {
+      "name": "River District",
+      "@type": "City"
+    },
+    {
+      "name": "River Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Rockwall",
+      "@type": "City"
+    },
+    {
+      "name": "Roanoke",
+      "@type": "City"
+    },
+    {
+      "name": "Rowlett",
+      "@type": "City"
+    },
+    {
+      "name": "Royse City",
+      "@type": "City"
+    },
+    {
+      "name": "Sachse",
+      "@type": "City"
+    },
+    {
+      "name": "Saginaw",
+      "@type": "City"
+    },
+    {
+      "name": "Seagoville",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman",
+      "@type": "City"
+    },
+    {
+      "name": "Southlake",
+      "@type": "City"
+    },
+    {
+      "name": "Springtown",
+      "@type": "City"
+    },
+    {
+      "name": "Sunnyvale",
+      "@type": "City"
+    },
+    {
+      "name": "Tanglewood",
+      "@type": "City"
+    },
+    {
+      "name": "TCU Area",
+      "@type": "City"
+    },
+    {
+      "name": "Terrell",
+      "@type": "City"
+    },
+    {
+      "name": "The Colony",
+      "@type": "City"
+    },
+    {
+      "name": "Trophy Club",
+      "@type": "City"
+    },
+    {
+      "name": "University Park",
+      "@type": "City"
+    },
+    {
+      "name": "Uptown Dallas",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Mills",
+      "@type": "City"
+    },
+    {
+      "name": "Van Alstyne",
+      "@type": "City"
+    },
+    {
+      "name": "Venus",
+      "@type": "City"
+    },
+    {
+      "name": "Watauga",
+      "@type": "City"
+    },
+    {
+      "name": "Waxahachie",
+      "@type": "City"
+    },
+    {
+      "name": "Weatherford",
+      "@type": "City"
+    },
+    {
+      "name": "West",
+      "@type": "City"
+    },
+    {
+      "name": "West 7th",
+      "@type": "City"
+    },
+    {
+      "name": "West Dallas",
+      "@type": "City"
+    },
+    {
+      "name": "Westover Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Westworth Village",
+      "@type": "City"
+    },
+    {
+      "name": "White Settlement",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney",
+      "@type": "City"
+    },
+    {
+      "name": "Willow Park",
+      "@type": "City"
+    },
+    {
+      "name": "Wilmer",
+      "@type": "City"
+    },
+    {
+      "name": "Woodway",
+      "@type": "City"
+    },
+    {
+      "name": "Wylie",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Document the Damage Thoroughly — Before doing anything else, take clear photos and videos of all visible damage, inside and out. This includes missing shingles, dents, leaks, or any debris. Th"
+}

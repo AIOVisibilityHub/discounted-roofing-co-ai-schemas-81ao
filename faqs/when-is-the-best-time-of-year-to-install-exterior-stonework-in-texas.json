@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-is-the-best-time-of-year-to-install-exterior-stonework-in-texas",
+  "name": "When is the best time of year to install exterior stonework in Texas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time of year to install exterior stonework in Texas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best time to install exterior stonework in Texas is typically during the spring or fall when temperatures are more moderate. Extreme heat in summer can affect mortar curing and worker comfort, while winter freezes can also pose challenges. As a process clarity detail, scheduling during these milder seasons allows for optimal material setting, reduces potential delays due to weather, and ensures a smoother installation process for properties across the DFW service area.",
+        "@type": "Answer",
+        "description": "Spring or fall are best for exterior stonework in Texas due to moderate temperatures, ensuring optimal material setting."
+      }
+    }
+  ],
+  "description": "Spring or fall are best for exterior stonework in Texas due to moderate temperatures, ensuring optimal material setting."
+}

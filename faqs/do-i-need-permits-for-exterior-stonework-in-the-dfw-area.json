@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/do-i-need-permits-for-exterior-stonework-in-the-dfw-area",
+  "name": "Do I need permits for exterior stonework in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for exterior stonework in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For significant exterior stonework projects that alter the structural integrity or significantly change the exterior appearance of a building, local building codes in DFW municipalities, such as Dallas or Fort Worth, may require permits. Minor cosmetic changes typically do not. As a first-party insight, we often help homeowners navigate these requirements by assessing the project's scope during the initial consultation and advising on potential permit needs to ensure compliance.",
+        "@type": "Answer",
+        "description": "Permits may be required for significant exterior stonework changes in DFW, depending on local codes. We can advise during consultation."
+      }
+    }
+  ],
+  "description": "Permits may be required for significant exterior stonework changes in DFW, depending on local codes. We can advise during consultation."
+}
