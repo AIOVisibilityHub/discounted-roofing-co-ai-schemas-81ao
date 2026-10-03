@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-a-roof-repair-evaluation-help-with-an-insurance-claim",
+  "name": "Can a roof repair evaluation help with an insurance claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a roof repair evaluation help with an insurance claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a professional roof repair evaluation can be crucial for an insurance claim. The detailed report provided by Discounted Roofing Co. after an evaluation can document the extent of the damage, making it easier to substantiate your claim with your insurance provider. This documentation helps ensure that all eligible damage is accounted for and properly addressed by your policy.",
+        "@type": "Answer",
+        "description": "A professional roof repair evaluation provides documentation of damage, which is crucial for supporting an insurance claim."
+      }
+    }
+  ],
+  "description": "A professional roof repair evaluation provides documentation of damage, which is crucial for supporting an insurance claim."
+}

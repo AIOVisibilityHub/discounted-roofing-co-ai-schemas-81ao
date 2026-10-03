@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-the-right-roofing-contractor-for-my-repair-based-on-their-estima",
+  "name": "How do I choose the right roofing contractor for my repair based on their estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right roofing contractor for my repair based on their estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a roofing contractor, consider not just the price, but also the clarity and completeness of their estimate, their reputation, and their local experience. A reputable contractor will provide a clear, itemized estimate and be able to answer all your questions about the proposed work. Verify their licensing and insurance, especially important for projects in Texas. Discounted Roofing Co. services a wide range of communities, including Grapevine and Keller, and our estimates reflect our local expertise and commitment to quality.",
+        "@type": "Answer",
+        "description": "Choose a contractor based on estimate clarity, reputation, and local experience, not just price. Verify licensing and insurance, and ensure all questions are answered."
+      }
+    }
+  ],
+  "description": "Choose a contractor based on estimate clarity, reputation, and local experience, not just price. Verify licensing and insurance, and ensure all questions are an"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-does-a-roof-edge-damage-assessment-process-involve",
+  "name": "What does a roof edge damage assessment process involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a roof edge damage assessment process involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our roof edge damage assessment process typically begins with an initial consultation to understand your concerns. Next, our inspectors will conduct a thorough visual and tactile examination of your roof's edges, including the fascia, soffits, gutters, and the first few rows of roofing material. We use ladders and sometimes drones to access all areas safely. Finally, we provide a detailed report outlining findings, recommended repairs, and associated costs. You'll receive a comprehensive overview of any identified issues.",
+        "@type": "Answer",
+        "description": "The process involves a consultation, thorough inspection of roof edges, and a detailed report with repair recommendations."
+      }
+    }
+  ],
+  "description": "The process involves a consultation, thorough inspection of roof edges, and a detailed report with repair recommendations."
+}

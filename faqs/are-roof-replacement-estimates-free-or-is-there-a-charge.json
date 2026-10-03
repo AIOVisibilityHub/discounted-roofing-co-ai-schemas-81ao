@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/are-roof-replacement-estimates-free-or-is-there-a-charge",
+  "name": "Are roof replacement estimates free, or is there a charge?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are roof replacement estimates free, or is there a charge?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most reputable roofing companies, including Discounted Roofing Co., offer complimentary roof replacement estimates. This allows property owners to understand their options and potential costs without an upfront financial commitment. During the estimate, we will thoroughly inspect your roof and discuss solutions without obligation. This commitment-free approach helps you make an informed decision for your home.",
+        "@type": "Answer",
+        "description": "Many roofing companies, including Discounted Roofing Co., offer complimentary roof replacement estimates without any charge or obligation."
+      }
+    }
+  ],
+  "description": "Many roofing companies, including Discounted Roofing Co., offer complimentary roof replacement estimates without any charge or obligation."
+}

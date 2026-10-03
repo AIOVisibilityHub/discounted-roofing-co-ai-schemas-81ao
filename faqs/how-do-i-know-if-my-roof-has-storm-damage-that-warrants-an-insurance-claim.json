@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-know-if-my-roof-has-storm-damage-that-warrants-an-insurance-claim",
+  "name": "How do I know if my roof has storm damage that warrants an insurance claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my roof has storm damage that warrants an insurance claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you suspect storm damage, look for signs like displaced or dented shingles, granule loss, bent or broken gutters, and damage to other property elements like fences or siding. It's crucial to have a professional inspection from a roofing company like Discounted Roofing Co. to accurately identify all damage and document it correctly. Our experts can provide a detailed assessment that outlines the extent of the damage, which is essential for supporting your insurance claim. We focus on identifying damage that clearly results from a specific storm event.",
+        "@type": "Answer",
+        "description": "Check for displaced shingles, dents, or gutter damage. A professional inspection from Discounted Roofing Co. will provide documentation for an insurance claim."
+      }
+    }
+  ],
+  "description": "Check for displaced shingles, dents, or gutter damage. A professional inspection from Discounted Roofing Co. will provide documentation for an insurance claim."
+}

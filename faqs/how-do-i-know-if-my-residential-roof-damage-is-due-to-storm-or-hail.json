@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-know-if-my-residential-roof-damage-is-due-to-storm-or-hail",
+  "name": "How do I know if my residential roof damage is due to storm or hail?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my residential roof damage is due to storm or hail?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Identifying storm or hail damage often requires a professional inspection, as some signs are not immediately obvious from the ground. Common indicators include missing shingles, dented gutters or vents, and circular bruises or cracks on shingles. If you suspect storm damage, especially after a weather event in areas like Arlington or Fort Worth, contacting us for a detailed inspection is the first step.",
+        "@type": "Answer",
+        "description": "Storm or hail damage can appear as missing shingles, dented gutters, or shingle bruises; a professional inspection is needed to confirm."
+      }
+    }
+  ],
+  "description": "Storm or hail damage can appear as missing shingles, dented gutters, or shingle bruises; a professional inspection is needed to confirm."
+}

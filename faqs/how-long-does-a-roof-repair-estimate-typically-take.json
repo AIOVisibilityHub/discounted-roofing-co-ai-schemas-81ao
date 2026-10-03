@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-roof-repair-estimate-typically-take",
+  "name": "How long does a roof repair estimate typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a roof repair estimate typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard roof repair estimate usually takes between 30 minutes to an hour, depending on the complexity and size of your roof and the extent of the visible damage. For larger properties or more severe damage, the inspection might take longer to ensure all issues are thoroughly documented. We recommend that homeowners, particularly those in areas like Arlington or McKinney, are available during this time to discuss any specific concerns or observations they may have.",
+        "@type": "Answer",
+        "description": "Most roof repair estimates take 30 minutes to an hour, but may vary based on roof size and damage complexity. Homeowners should be available to discuss concerns."
+      }
+    }
+  ],
+  "description": "Most roof repair estimates take 30 minutes to an hour, but may vary based on roof size and damage complexity. Homeowners should be available to discuss concerns"
+}

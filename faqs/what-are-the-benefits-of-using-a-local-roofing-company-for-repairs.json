@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-benefits-of-using-a-local-roofing-company-for-repairs",
+  "name": "What are the benefits of using a local roofing company for repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of using a local roofing company for repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Using a local roofing company like Discounted Roofing Co. for repairs offers several benefits, including familiarity with local building codes, weather challenges specific to the DFW area, and quicker response times for emergencies. Local companies also tend to have established reputations within the community and are often more accessible for follow-up services or warranty claims. This ensures a reliable and convenient service experience.",
+        "@type": "Answer",
+        "description": "Local companies know DFW codes and weather, offer quick responses, and have community reputations for reliability and convenience."
+      }
+    }
+  ],
+  "description": "Local companies know DFW codes and weather, offer quick responses, and have community reputations for reliability and convenience."
+}

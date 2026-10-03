@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-roof-edge-damage-assessment-cost",
+  "name": "How much does a roof edge damage assessment cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a roof edge damage assessment cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a roof edge damage assessment can vary based on the roof's size, complexity, and the extent of visible damage. Some roofing companies may offer free initial inspections, while others charge a fee that might be credited towards subsequent repair work. It's important to clarify any associated costs upfront. We provide transparent pricing and will outline any fees before conducting the assessment, ensuring you understand the investment.",
+        "@type": "Answer",
+        "description": "Costs vary by roof size and complexity; some companies offer free initial inspections. Clarify fees upfront."
+      }
+    }
+  ],
+  "description": "Costs vary by roof size and complexity; some companies offer free initial inspections. Clarify fees upfront."
+}

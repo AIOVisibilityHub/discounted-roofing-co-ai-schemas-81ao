@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-process-for-getting-an-estimate-for-residential-reroofing",
+  "name": "What is the process for getting an estimate for residential reroofing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for getting an estimate for residential reroofing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for getting a residential reroofing estimate with Discounted Roofing Co. begins with scheduling a free, no-obligation consultation. During this visit, our team will conduct a thorough inspection of your current roof, assess its condition, measure the area, and discuss your material preferences and budget. We will then provide a detailed proposal outlining the scope of work, material options, estimated timeline, and a transparent cost breakdown. This comprehensive approach ensures you have all the information needed to make an informed decision without any pressure.",
+        "@type": "Answer",
+        "description": "To get an estimate, schedule a free consultation. We'll inspect your roof, discuss options, and provide a detailed proposal with scope, timeline, and costs."
+      }
+    }
+  ],
+  "description": "To get an estimate, schedule a free consultation. We'll inspect your roof, discuss options, and provide a detailed proposal with scope, timeline, and costs."
+}

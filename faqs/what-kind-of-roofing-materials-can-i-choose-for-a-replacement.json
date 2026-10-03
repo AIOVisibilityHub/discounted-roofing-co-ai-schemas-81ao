@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-kind-of-roofing-materials-can-i-choose-for-a-replacement",
+  "name": "What kind of roofing materials can I choose for a replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of roofing materials can I choose for a replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a complete roof replacement, you can choose from various materials, each offering different aesthetics, durability, and price points. Common options include asphalt shingles (most popular), metal roofing (known for longevity), and sometimes tile or synthetic materials. The choice depends on your budget, local climate, aesthetic preferences, and the expected lifespan. A key decision factor is balancing upfront cost with long-term performance and maintenance requirements.",
+        "@type": "Answer",
+        "description": "Material options for replacement include asphalt shingles, metal, and tile, differing in cost, durability, and appearance."
+      }
+    }
+  ],
+  "description": "Material options for replacement include asphalt shingles, metal, and tile, differing in cost, durability, and appearance."
+}

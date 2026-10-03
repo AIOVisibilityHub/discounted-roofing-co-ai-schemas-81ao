@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-influence-the-recommended-roof-repair-plan",
+  "name": "What factors influence the recommended roof repair plan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the recommended roof repair plan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The recommended roof repair plan is influenced by the type and extent of damage, the age and material of your existing roof, and your budget. Factors like the local weather patterns in areas such as DFW can also dictate material choices for durability. A specialist will consider these elements to propose the most effective and long-lasting solution.",
+        "@type": "Answer",
+        "description": "Damage type, roof age/material, and budget influence the repair plan. Local weather in areas like DFW also impacts material recommendations."
+      }
+    }
+  ],
+  "description": "Damage type, roof age/material, and budget influence the repair plan. Local weather in areas like DFW also impacts material recommendations."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-information-should-i-have-ready-before-my-reroofing-consultation",
+  "name": "What information should I have ready before my reroofing consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I have ready before my reroofing consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your reroofing consultation, it's helpful to gather any records of past roof repairs or installations, if available. Also, note any specific concerns you have, such as areas where you've noticed leaks or damage. Providing easy access to your property and the roof areas, and ensuring pets are secured, will help our inspectors conduct a thorough and efficient assessment. This preparation helps us address your specific needs effectively.",
+        "@type": "Answer",
+        "description": "Before your consultation, have past repair records, note specific concerns, and ensure clear access to your roof for the inspector."
+      }
+    }
+  ],
+  "description": "Before your consultation, have past repair records, note specific concerns, and ensure clear access to your roof for the inspector."
+}

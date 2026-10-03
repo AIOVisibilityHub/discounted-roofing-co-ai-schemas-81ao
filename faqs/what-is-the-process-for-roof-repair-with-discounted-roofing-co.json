@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-process-for-roof-repair-with-discounted-roofing-co",
+  "name": "What is the process for roof repair with Discounted Roofing Co.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for roof repair with Discounted Roofing Co.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our roof repair process begins with a thorough inspection to assess the damage and identify all necessary repairs. We then provide a detailed estimate outlining the scope of work and associated costs. Once approved, our team schedules the repair at your convenience. During the repair, we focus on efficiency and quality, using appropriate materials. After completion, we conduct a final inspection to ensure satisfaction and clean up the work area. Understanding this process helps set expectations for your roof repair in areas like Allen or Plano.",
+        "@type": "Answer",
+        "description": "The roof repair process involves inspection, detailed estimate, scheduling, efficient repair, and a final quality check and cleanup."
+      }
+    }
+  ],
+  "description": "The roof repair process involves inspection, detailed estimate, scheduling, efficient repair, and a final quality check and cleanup."
+}

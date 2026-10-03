@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-typical-roof-replacement-estimate-take-to-complete",
+  "name": "How long does a typical roof replacement estimate take to complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical roof replacement estimate take to complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required for a roof replacement estimate can vary depending on the complexity and accessibility of your roof. A standard inspection for a residential property often takes about 30 to 60 minutes. During this time, our team will measure the roof, assess its current condition, and identify any damage. We strive to provide a detailed estimate promptly after the on-site visit, often within 24-48 hours, allowing you to review it without significant delay.",
+        "@type": "Answer",
+        "description": "A typical on-site roof replacement estimate takes 30-60 minutes, with the detailed estimate usually provided within 24-48 hours after the visit."
+      }
+    }
+  ],
+  "description": "A typical on-site roof replacement estimate takes 30-60 minutes, with the detailed estimate usually provided within 24-48 hours after the visit."
+}

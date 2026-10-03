@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-know-if-i-need-a-roof-repair-consultation-versus-a-full-replacement",
+  "name": "How do I know if I need a roof repair consultation versus a full replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I need a roof repair consultation versus a full replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between a repair and a full replacement depends on several factors, including the age of your roof, the extent of the damage, and the overall condition of the roofing materials. A consultation helps assess if localized repairs are sufficient to extend your roof's life or if widespread issues necessitate a replacement. Our inspectors consider the structural integrity and remaining lifespan of your roof. For example, if a roof in the DFW area has scattered damage but is otherwise sound and less than 15 years old, repairs might be recommended. Older roofs with widespread damage often lean towards replacement.",
+        "@type": "Answer",
+        "description": "A consultation helps determine if localized repairs are sufficient or if widespread damage and roof age necessitate a full replacement."
+      }
+    }
+  ],
+  "description": "A consultation helps determine if localized repairs are sufficient or if widespread damage and roof age necessitate a full replacement."
+}

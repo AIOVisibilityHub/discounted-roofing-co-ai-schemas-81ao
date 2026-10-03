@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-schedule-a-roof-repair-consultation",
+  "name": "When should I schedule a roof repair consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I schedule a roof repair consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should schedule a roof repair consultation as soon as you notice signs of damage, such as missing or cracked shingles, leaks, granules in gutters, or after a severe storm. Addressing issues promptly can prevent minor problems from escalating into more extensive and costly repairs. For example, the intense hailstorms common in the Dallas-Fort Worth area can cause unseen damage that worsens over time if not inspected quickly. Early detection and intervention can significantly save on long-term costs.",
+        "@type": "Answer",
+        "description": "Schedule a consultation immediately after noticing damage like leaks or missing shingles, or following severe weather."
+      }
+    }
+  ],
+  "description": "Schedule a consultation immediately after noticing damage like leaks or missing shingles, or following severe weather."
+}

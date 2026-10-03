@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-roof-edge-damage-assessment",
+  "name": "What is a roof edge damage assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a roof edge damage assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roof edge damage assessment is a professional inspection focused on identifying and evaluating damage along the perimeter of your roof. This includes examining fascia, soffits, gutters, drip edges, and the outermost sections of shingles or other roofing materials. The assessment aims to determine the cause, extent, and severity of the damage to recommend appropriate repairs or preventative measures. During our assessment, we will document specific areas of concern and discuss potential impacts on your home's structural integrity.",
+        "@type": "Answer",
+        "description": "A roof edge damage assessment is a professional inspection to identify and evaluate damage to the perimeter components of your roof."
+      }
+    }
+  ],
+  "description": "A roof edge damage assessment is a professional inspection to identify and evaluate damage to the perimeter components of your roof."
+}

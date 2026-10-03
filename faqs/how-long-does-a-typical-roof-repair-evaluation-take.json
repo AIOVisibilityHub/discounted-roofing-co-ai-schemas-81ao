@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-typical-roof-repair-evaluation-take",
+  "name": "How long does a typical roof repair evaluation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical roof repair evaluation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical roof repair evaluation usually takes between 30 minutes to an hour, depending on the size and accessibility of your roof and the complexity of any visible damage. During this time, the technician will complete their inspection and may discuss initial findings with you. For larger or more complex roofs, the process might take slightly longer to ensure a thorough assessment.",
+        "@type": "Answer",
+        "description": "A typical roof repair evaluation takes 30 minutes to an hour, depending on roof size and complexity."
+      }
+    }
+  ],
+  "description": "A typical roof repair evaluation takes 30 minutes to an hour, depending on roof size and complexity."
+}

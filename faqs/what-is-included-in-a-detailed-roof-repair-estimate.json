@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-included-in-a-detailed-roof-repair-estimate",
+  "name": "What is included in a detailed roof repair estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a detailed roof repair estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A detailed roof repair estimate from Discounted Roofing Co. includes a breakdown of material costs, labor expenses, and any additional services like debris removal or protective coverings. It will specify the type and quantity of materials needed, the scope of work to be performed, and the estimated timeline. We aim to provide transparency in our estimates for customers throughout our service areas, from Frisco to Denton, ensuring you understand every component of the repair.",
+        "@type": "Answer",
+        "description": "A detailed estimate includes material costs, labor, additional services, material quantities, work scope, and timeline, ensuring transparency."
+      }
+    }
+  ],
+  "description": "A detailed estimate includes material costs, labor, additional services, material quantities, work scope, and timeline, ensuring transparency."
+}

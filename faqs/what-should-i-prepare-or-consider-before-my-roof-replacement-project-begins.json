@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-prepare-or-consider-before-my-roof-replacement-project-begins",
+  "name": "What should I prepare or consider before my roof replacement project begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare or consider before my roof replacement project begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your roof replacement project begins, you should prepare by clearing the area around your house of personal items, patio furniture, and vehicles to provide clear access for the crew and protect your belongings. Inform neighbors about potential noise and debris. Consider safeguarding delicate items inside your attic or near exterior walls, as vibrations during tear-off can cause movement. Discuss with your contractor about securing pets and planning for parking, ensuring a smoother and safer work environment.",
+        "@type": "Answer",
+        "description": "Before starting, clear personal items and vehicles from around your house, inform neighbors, secure indoor items, and discuss pet safety and parking with your contractor."
+      }
+    }
+  ],
+  "description": "Before starting, clear personal items and vehicles from around your house, inform neighbors, secure indoor items, and discuss pet safety and parking with your c"
+}

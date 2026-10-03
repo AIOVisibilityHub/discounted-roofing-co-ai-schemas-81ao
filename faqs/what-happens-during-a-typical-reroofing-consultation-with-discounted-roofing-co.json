@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-during-a-typical-reroofing-consultation-with-discounted-roofing-co",
+  "name": "What happens during a typical reroofing consultation with Discounted Roofing Co.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during a typical reroofing consultation with Discounted Roofing Co.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a consultation, a qualified inspector from Discounted Roofing Co. will conduct a thorough visual examination of your roof, including shingles, flashing, gutters, and decking from the ground and often from the roof itself. We will assess for leaks, storm damage, and general wear. Afterward, we discuss our findings with you, explain potential solutions like repair versus full replacement, and provide a detailed estimate. This process ensures you have all the information needed to make an informed decision.",
+        "@type": "Answer",
+        "description": "Our consultation involves a thorough roof inspection for damage and wear, followed by a discussion of findings, solutions, and a detailed estimate."
+      }
+    }
+  ],
+  "description": "Our consultation involves a thorough roof inspection for damage and wear, followed by a discussion of findings, solutions, and a detailed estimate."
+}

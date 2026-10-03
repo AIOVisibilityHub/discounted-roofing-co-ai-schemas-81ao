@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-a-roof-ridge-damage-assessment",
+  "name": "When should I get a roof ridge damage assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a roof ridge damage assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should get a roof ridge damage assessment after severe weather events like hailstorms or high winds, or if you notice any visible signs of damage such as missing shingles or leaks. Even without apparent issues, an annual inspection is recommended to catch potential problems early and extend your roof's lifespan. Delaying an assessment can lead to exacerbated damage, potentially turning a minor repair into a major roof replacement, particularly in areas like DFW where weather can be unpredictable.",
+        "@type": "Answer",
+        "description": "Schedule an assessment after severe weather, if you see damage, or annually. Early detection prevents minor issues from becoming major repairs."
+      }
+    }
+  ],
+  "description": "Schedule an assessment after severe weather, if you see damage, or annually. Early detection prevents minor issues from becoming major repairs."
+}

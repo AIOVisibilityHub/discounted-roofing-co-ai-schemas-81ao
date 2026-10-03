@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-preparation-do-i-need-to-do-before-residential-roof-repairs-begin",
+  "name": "What preparation do I need to do before residential roof repairs begin?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation do I need to do before residential roof repairs begin?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before residential roof repairs begin, it's helpful to clear the perimeter of your home of any outdoor furniture, potted plants, or vehicles to provide clear access for our crew and protect your belongings. We also recommend securing loose items inside your attic or near ceilings, as vibrations during repairs can sometimes dislodge them. Informing your neighbors about the upcoming work can also be a good courtesy.",
+        "@type": "Answer",
+        "description": "Before repairs, clear the area around your home, secure loose items in your attic, and inform neighbors about the upcoming work."
+      }
+    }
+  ],
+  "description": "Before repairs, clear the area around your home, secure loose items in your attic, and inform neighbors about the upcoming work."
+}

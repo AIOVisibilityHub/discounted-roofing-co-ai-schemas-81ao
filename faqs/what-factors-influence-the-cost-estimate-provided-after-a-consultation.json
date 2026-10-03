@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-influence-the-cost-estimate-provided-after-a-consultation",
+  "name": "What factors influence the cost estimate provided after a consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost estimate provided after a consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost estimate provided after a residential roof repair consultation is influenced by several factors, including the type and extent of the damage, the materials required, the pitch and accessibility of your roof, and local labor rates. For instance, repairs involving specialty materials or difficult-to-access areas may incur higher costs. Our estimates are detailed and transparent, ensuring you understand where your investment goes. We factor in all necessary components, from minor shingle replacement to more complex structural repairs.",
+        "@type": "Answer",
+        "description": "Cost estimates are influenced by damage extent, material type, roof accessibility, and labor rates."
+      }
+    }
+  ],
+  "description": "Cost estimates are influenced by damage extent, material type, roof accessibility, and labor rates."
+}

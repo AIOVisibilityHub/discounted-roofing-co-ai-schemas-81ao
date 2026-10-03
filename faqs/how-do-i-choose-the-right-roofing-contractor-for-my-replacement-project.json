@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-the-right-roofing-contractor-for-my-replacement-project",
+  "name": "How do I choose the right roofing contractor for my replacement project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right roofing contractor for my replacement project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right roofing contractor involves looking for experience, proper licensing, insurance, and positive customer reviews. Obtain multiple estimates and compare them thoroughly. Ensure the contractor provides a clear contract detailing the scope of work, materials, timeline, and warranty. A contractor familiar with local building codes, especially in our service areas like Allen or McKinney, is also important.",
+        "@type": "Answer",
+        "description": "Look for experience, licensing, insurance, and good reviews. Compare multiple estimates, and ensure a clear contract with details on work, materials, and warranty. Check for local code familiarity."
+      }
+    }
+  ],
+  "description": "Look for experience, licensing, insurance, and good reviews. Compare multiple estimates, and ensure a clear contract with details on work, materials, and warran"
+}

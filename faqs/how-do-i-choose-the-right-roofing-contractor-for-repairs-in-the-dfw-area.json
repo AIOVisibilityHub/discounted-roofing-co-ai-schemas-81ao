@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-the-right-roofing-contractor-for-repairs-in-the-dfw-area",
+  "name": "How do I choose the right roofing contractor for repairs in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right roofing contractor for repairs in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a roofing contractor in the DFW area, look for companies with local experience, proper licensing, and insurance. Check online reviews and ask for references. Ensure they offer detailed estimates and warranties on their work. A contractor familiar with local weather patterns and building codes will provide more reliable service specific to our region.",
+        "@type": "Answer",
+        "description": "In DFW, choose licensed, insured, local contractors with good reviews and warranties. Local experience is key."
+      }
+    }
+  ],
+  "description": "In DFW, choose licensed, insured, local contractors with good reviews and warranties. Local experience is key."
+}

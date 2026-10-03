@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-kind-of-debris-can-i-expect-after-a-roof-replacement",
+  "name": "What kind of debris can I expect after a roof replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of debris can I expect after a roof replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a roof replacement, you can expect to find old shingles, nails, underlayment materials, and potentially small pieces of wood or flashing. The type of debris largely depends on the original roofing material and the scope of work. Preparing your yard by covering delicate plants or furniture can help protect them from falling debris.",
+        "@type": "Answer",
+        "description": "You can expect old shingles, nails, underlayment, and small wood pieces. The debris type depends on original materials and work scope."
+      }
+    }
+  ],
+  "description": "You can expect old shingles, nails, underlayment, and small wood pieces. The debris type depends on original materials and work scope."
+}

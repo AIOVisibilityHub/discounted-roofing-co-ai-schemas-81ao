@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-after-the-roof-repair-evaluation-is-complete",
+  "name": "What happens after the roof repair evaluation is complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after the roof repair evaluation is complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After the roof repair evaluation, the technician will typically present you with a detailed report outlining the discovered issues, recommended repairs, and an estimate for the work. You'll have the opportunity to ask questions and understand the proposed solutions. The next step is for you to decide whether to proceed with the recommended repairs, allowing you to schedule the work with Discounted Roofing Co. at your convenience.",
+        "@type": "Answer",
+        "description": "After the evaluation, you'll receive a detailed report and estimate for recommended repairs, then decide whether to proceed."
+      }
+    }
+  ],
+  "description": "After the evaluation, you'll receive a detailed report and estimate for recommended repairs, then decide whether to proceed."
+}

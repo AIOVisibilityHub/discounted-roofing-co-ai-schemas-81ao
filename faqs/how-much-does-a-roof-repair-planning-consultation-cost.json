@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-roof-repair-planning-consultation-cost",
+  "name": "How much does a roof repair planning consultation cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a roof repair planning consultation cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Discounted Roofing Co. typically offers initial roof repair planning consultations at no charge. This allows our specialists to accurately assess the damage and provide a precise estimate without an upfront cost to you. The final cost of repairs will depend on the scope of work identified during the consultation, including materials and labor.",
+        "@type": "Answer",
+        "description": "Initial roof repair planning consultations are typically offered at no charge, allowing for a precise estimate before any work begins."
+      }
+    }
+  ],
+  "description": "Initial roof repair planning consultations are typically offered at no charge, allowing for a precise estimate before any work begins."
+}

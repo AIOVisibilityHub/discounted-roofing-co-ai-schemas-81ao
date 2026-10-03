@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-roof-repair-evaluation-cost",
+  "name": "How much does a roof repair evaluation cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a roof repair evaluation cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a roof repair evaluation can vary based on the roof's size, complexity, and the extent of any initial visible damage. Many reputable roofing companies, including Discounted Roofing Co., offer free evaluations to assess your repair needs. It's always best to confirm if there's a charge when scheduling your inspection. This allows you to understand the full scope of work before committing to any repairs.",
+        "@type": "Answer",
+        "description": "The cost of a roof repair evaluation varies, but many companies, like Discounted Roofing Co., offer them for free."
+      }
+    }
+  ],
+  "description": "The cost of a roof repair evaluation varies, but many companies, like Discounted Roofing Co., offer them for free."
+}

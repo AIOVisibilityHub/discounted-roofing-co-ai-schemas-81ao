@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-signs-that-i-need-a-complete-roof-replacement-instead-of-a-repair",
+  "name": "What are the signs that I need a complete roof replacement instead of a repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that I need a complete roof replacement instead of a repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several signs indicate a complete roof replacement is necessary over minor repairs. These include widespread shingle damage like curling, buckling, or missing shingles, granular loss from asphalt shingles, significant leaks affecting multiple areas, or a roof that has reached or exceeded its expected lifespan, typically 20-25 years for asphalt shingles. A practical tradeoff is that while repairs might be cheaper initially, they often don't address underlying widespread aging or damage, leading to more frequent and costly issues over time.",
+        "@type": "Answer",
+        "description": "Signs for replacement include widespread shingle damage, significant leaks, or an aged roof past its lifespan."
+      }
+    }
+  ],
+  "description": "Signs for replacement include widespread shingle damage, significant leaks, or an aged roof past its lifespan."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-typical-roof-replacement-consultation-take",
+  "name": "How long does a typical roof replacement consultation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical roof replacement consultation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical roof replacement consultation with Discounted Roofing Co. generally takes about 45 to 90 minutes. The duration can vary depending on the size and complexity of your roof, the extent of any visible damage, and the number of questions you have. We allocate sufficient time to ensure a thorough inspection and to clearly explain all available options and address your concerns, allowing for a comprehensive assessment.",
+        "@type": "Answer",
+        "description": "A roof replacement consultation typically takes 45 to 90 minutes, varying with roof size, complexity, and customer questions, ensuring a thorough assessment."
+      }
+    }
+  ],
+  "description": "A roof replacement consultation typically takes 45 to 90 minutes, varying with roof size, complexity, and customer questions, ensuring a thorough assessment."
+}

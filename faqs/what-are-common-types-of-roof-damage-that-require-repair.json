@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-common-types-of-roof-damage-that-require-repair",
+  "name": "What are common types of roof damage that require repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common types of roof damage that require repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common types of roof damage include wind damage, which can lift or tear off shingles; hail damage, creating dents or bruising on shingles; and water damage from leaks, often leading to rot or mold. Other issues can stem from aging materials, improper installation, or debris impact. The specific type of damage will dictate the most effective repair approach and materials needed to restore your roof's integrity.",
+        "@type": "Answer",
+        "description": "Wind, hail, and water are common culprits. Each type dictates a specific repair strategy."
+      }
+    }
+  ],
+  "description": "Wind, hail, and water are common culprits. Each type dictates a specific repair strategy."
+}

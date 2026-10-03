@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-common-signs-of-hail-damage-on-a-roof",
+  "name": "What are the common signs of hail damage on a roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of hail damage on a roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of hail damage include dents or pockmarks on soft metal components like gutters, vents, and flashing. On shingles, look for granule loss, bruising, or cracks, which may not be immediately visible from the ground. It's often best to have a professional inspection, as hail damage can be subtle but still compromise your roof's integrity over time, leading to leaks or further deterioration.",
+        "@type": "Answer",
+        "description": "Common signs of hail damage are dents on metal and granule loss, bruising, or cracks on shingles."
+      }
+    }
+  ],
+  "description": "Common signs of hail damage are dents on metal and granule loss, bruising, or cracks on shingles."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-materials-are-best-for-hail-resistant-roofing-in-the-dfw-area",
+  "name": "What materials are best for hail-resistant roofing in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are best for hail-resistant roofing in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For hail resistance in the DFW area, consider impact-resistant shingles, often rated Class 4 for their ability to withstand severe hail. These shingles are designed to minimize damage from hailstones, providing enhanced protection compared to standard asphalt shingles. Other options include metal roofing or specific synthetic materials, which also offer good hail resistance.",
+        "@type": "Answer",
+        "description": "Impact-resistant Class 4 shingles, metal, or synthetic materials are best for hail resistance in DFW."
+      }
+    }
+  ],
+  "description": "Impact-resistant Class 4 shingles, metal, or synthetic materials are best for hail resistance in DFW."
+}

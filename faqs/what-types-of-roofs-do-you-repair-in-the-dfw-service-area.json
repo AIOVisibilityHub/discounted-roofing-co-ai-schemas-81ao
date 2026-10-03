@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-types-of-roofs-do-you-repair-in-the-dfw-service-area",
+  "name": "What types of roofs do you repair in the DFW service area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of roofs do you repair in the DFW service area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Discounted Roofing Co. repairs a wide range of roofing types commonly found in the DFW service area. This includes asphalt shingle roofs, metal roofs, tile roofs, and flat roofs. Our experienced technicians are trained to handle various materials and repair techniques specific to each type, ensuring durable and effective solutions. Before starting any work, we confirm the specific roofing material and provide tailored repair recommendations.",
+        "@type": "Answer",
+        "description": "We repair various roof types common in DFW, including asphalt shingle, metal, tile, and flat roofs. Our technicians are trained for specific materials."
+      }
+    }
+  ],
+  "description": "We repair various roof types common in DFW, including asphalt shingle, metal, tile, and flat roofs. Our technicians are trained for specific materials."
+}

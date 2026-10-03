@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-typical-timeframe-for-wind-damage-roof-repairs",
+  "name": "What is the typical timeframe for wind damage roof repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeframe for wind damage roof repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeframe for wind damage roof repairs can vary significantly based on the extent of the damage, material availability, and weather conditions. Minor repairs, like replacing a few shingles, might take a few hours, while extensive damage requiring a full roof replacement could take several days. During peak storm season in the DFW region, scheduling may also impact timing. We prioritize efficient service to minimize disruption.",
+        "@type": "Answer",
+        "description": "Repair time varies by damage extent and weather; minor fixes take hours, while full replacements can take days. Scheduling may also impact timing."
+      }
+    }
+  ],
+  "description": "Repair time varies by damage extent and weather; minor fixes take hours, while full replacements can take days. Scheduling may also impact timing."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-roof-edge-assessment-take",
+  "name": "How long does a roof edge assessment take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a roof edge assessment take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a roof edge assessment can vary depending on the size and complexity of your roof, but generally, it takes approximately 30 minutes to an hour for most residential properties. Factors like roof accessibility and the extent of any visible damage can influence the timeframe. Our goal is to conduct a thorough evaluation efficiently, providing you with timely information without disrupting your day excessively.",
+        "@type": "Answer",
+        "description": "A roof edge assessment typically takes 30 minutes to an hour for most residential roofs, varying with size, complexity, and accessibility."
+      }
+    }
+  ],
+  "description": "A roof edge assessment typically takes 30 minutes to an hour for most residential roofs, varying with size, complexity, and accessibility."
+}

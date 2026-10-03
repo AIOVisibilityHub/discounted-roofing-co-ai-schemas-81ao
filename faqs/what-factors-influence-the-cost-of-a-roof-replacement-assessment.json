@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-influence-the-cost-of-a-roof-replacement-assessment",
+  "name": "What factors influence the cost of a roof replacement assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a roof replacement assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most reputable roofing companies, including Discounted Roofing Co., offer free roof replacement assessments to homeowners in our service areas like Dallas and Fort Worth. The primary 'cost' is your time, as you'll need to be present or ensure access for the inspection. Ensure you clarify if any diagnostic services beyond a visual inspection would incur a charge before proceeding.",
+        "@type": "Answer",
+        "description": "Many roof replacement assessments are free. The main factor is your time for the inspection."
+      }
+    }
+  ],
+  "description": "Many roof replacement assessments are free. The main factor is your time for the inspection."
+}

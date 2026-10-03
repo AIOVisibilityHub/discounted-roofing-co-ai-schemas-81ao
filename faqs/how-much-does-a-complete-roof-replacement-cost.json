@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-complete-roof-replacement-cost",
+  "name": "How much does a complete roof replacement cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a complete roof replacement cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a complete roof replacement varies significantly based on factors such as roof size, pitch, material choice (e.g., asphalt shingles, metal, tile), and the extent of any necessary decking repairs. We provide detailed, transparent quotes after a thorough inspection. To help prepare, gather information on your desired material and any budget considerations you have, as this will influence the options presented during your consultation.",
+        "@type": "Answer",
+        "description": "Cost varies based on roof size, pitch, material, and repairs; a detailed quote is provided after inspection."
+      }
+    }
+  ],
+  "description": "Cost varies based on roof size, pitch, material, and repairs; a detailed quote is provided after inspection."
+}

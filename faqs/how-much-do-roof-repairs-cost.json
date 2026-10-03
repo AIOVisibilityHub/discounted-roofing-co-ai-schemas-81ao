@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-do-roof-repairs-cost",
+  "name": "How much do roof repairs cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much do roof repairs cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of roof repairs varies widely based on the type and extent of damage, the roofing materials needed, and the labor involved. Small repairs, such as replacing a few shingles, are less expensive than repairs addressing structural issues or significant water damage. Factors like accessibility to the roof and the complexity of the roof's design also influence the final price. We offer transparent estimates after a thorough inspection, ensuring you understand the costs for your property in Aledo or Frisco.",
+        "@type": "Answer",
+        "description": "Roof repair costs vary by damage type, materials, and labor. Small repairs are cheaper than structural fixes. We provide transparent estimates after inspection."
+      }
+    }
+  ],
+  "description": "Roof repair costs vary by damage type, materials, and labor. Small repairs are cheaper than structural fixes. We provide transparent estimates after inspection."
+}

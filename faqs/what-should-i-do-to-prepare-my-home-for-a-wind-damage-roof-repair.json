@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-do-to-prepare-my-home-for-a-wind-damage-roof-repair",
+  "name": "What should I do to prepare my home for a wind damage roof repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare my home for a wind damage roof repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare your home for wind damage roof repair, ensure clear access to your roof by removing any obstacles around the perimeter of your house. It's also advisable to move vehicles, cover outdoor furniture, and secure loose items in your yard. Internally, cover or move sensitive items in your attic or near potential leak points. Communicating any specific concerns or access issues to the roofing team beforehand can also be helpful.",
+        "@type": "Answer",
+        "description": "Prepare for roof repair by ensuring clear access around your house, moving vehicles, securing outdoor items, and covering sensitive indoor items."
+      }
+    }
+  ],
+  "description": "Prepare for roof repair by ensuring clear access around your house, moving vehicles, securing outdoor items, and covering sensitive indoor items."
+}

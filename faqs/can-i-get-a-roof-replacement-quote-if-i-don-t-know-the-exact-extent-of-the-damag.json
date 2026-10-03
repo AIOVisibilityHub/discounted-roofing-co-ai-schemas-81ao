@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-i-get-a-roof-replacement-quote-if-i-don-t-know-the-exact-extent-of-the-damag",
+  "name": "Can I get a roof replacement quote if I don't know the exact extent of the damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get a roof replacement quote if I don't know the exact extent of the damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can absolutely get a roof replacement quote even if you're unsure of the exact extent of the damage. Our service begins with a comprehensive, no-obligation inspection to assess your roof's condition thoroughly. We will identify all damage, determine if a full replacement is necessary, and factor those findings into your detailed quote. This is a standard part of our process across all our service areas, from McKinney to Waxahachie, ensuring all issues are identified and addressed.",
+        "@type": "Answer",
+        "description": "Yes, we provide a no-obligation inspection to assess damage and then provide a detailed roof replacement quote."
+      }
+    }
+  ],
+  "description": "Yes, we provide a no-obligation inspection to assess damage and then provide a detailed roof replacement quote."
+}

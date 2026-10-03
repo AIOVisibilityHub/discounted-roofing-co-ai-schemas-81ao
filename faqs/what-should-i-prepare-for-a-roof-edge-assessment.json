@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-prepare-for-a-roof-edge-assessment",
+  "name": "What should I prepare for a roof edge assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare for a roof edge assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a roof edge assessment, ensure clear access to your property's perimeter. Remove any obstacles like parked vehicles, ladders, or yard equipment that might impede access to the roofline. If you have any specific concerns or have noticed particular issues, it is helpful to note these down to discuss with our technician upon their arrival. This preparation helps our team conduct the assessment efficiently and address your most pressing concerns directly.",
+        "@type": "Answer",
+        "description": "Prepare for an assessment by ensuring clear perimeter access and noting any specific concerns to discuss with the technician."
+      }
+    }
+  ],
+  "description": "Prepare for an assessment by ensuring clear perimeter access and noting any specific concerns to discuss with the technician."
+}

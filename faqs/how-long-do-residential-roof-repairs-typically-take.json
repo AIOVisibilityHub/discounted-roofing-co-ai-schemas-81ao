@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-do-residential-roof-repairs-typically-take",
+  "name": "How long do residential roof repairs typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do residential roof repairs typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of residential roof repairs varies depending on the extent of the damage, the type of roofing materials, and weather conditions. Minor repairs, such as replacing a few shingles, might take a few hours. More significant issues, like repairing a large section of storm-damaged roof, could take several days. We provide a detailed timeline after our initial assessment.",
+        "@type": "Answer",
+        "description": "Repair times vary; minor fixes take hours, while extensive damage could take several days. Duration depends on damage, materials, and weather."
+      }
+    }
+  ],
+  "description": "Repair times vary; minor fixes take hours, while extensive damage could take several days. Duration depends on damage, materials, and weather."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-quickly-should-i-address-roof-damage",
+  "name": "How quickly should I address roof damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly should I address roof damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should address roof damage as quickly as possible, ideally within days of noticing it, especially if there's an active leak. Delaying repairs can lead to more extensive and costly issues, such as structural damage, mold growth, or damage to interior property. Timely action can prevent minor problems from becoming major overhauls, protecting your home and investment.",
+        "@type": "Answer",
+        "description": "Address roof damage promptly, especially leaks, to prevent costlier structural damage or mold."
+      }
+    }
+  ],
+  "description": "Address roof damage promptly, especially leaks, to prevent costlier structural damage or mold."
+}

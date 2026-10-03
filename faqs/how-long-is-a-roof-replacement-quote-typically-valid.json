@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-is-a-roof-replacement-quote-typically-valid",
+  "name": "How long is a roof replacement quote typically valid?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long is a roof replacement quote typically valid?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roof replacement quote from Discounted Roofing Co. is typically valid for 30 days from the date of issuance. This allows time for you to review the proposal, consider material options, and address any questions. Material prices can fluctuate, especially in the current market, so obtaining a quote ensures pricing for a specific period. If you need more time, please discuss this with our team, particularly for projects in areas like Allen or Addison where scheduling can sometimes be impacted by local permitting processes.",
+        "@type": "Answer",
+        "description": "Roof replacement quotes are usually valid for 30 days due to potential material price changes."
+      }
+    }
+  ],
+  "description": "Roof replacement quotes are usually valid for 30 days due to potential material price changes."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-schedule-a-reroofing-consultation-for-my-home",
+  "name": "When should I schedule a reroofing consultation for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I schedule a reroofing consultation for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should schedule a reroofing consultation if you notice signs of damage like missing shingles, leaks, excessive granule loss, or if your roof is nearing its expected lifespan, typically 20-25 years for asphalt shingles. Even without obvious issues, it's wise to have an inspection after severe weather events. Proactive consultations can help catch minor problems before they escalate into costly repairs or necessitate an emergency reroof.",
+        "@type": "Answer",
+        "description": "Schedule a consultation if you see damage, leaks, or your roof is old; it's also wise after severe weather or for general assessment."
+      }
+    }
+  ],
+  "description": "Schedule a consultation if you see damage, leaks, or your roof is old; it's also wise after severe weather or for general assessment."
+}

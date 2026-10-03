@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-compare-roof-replacement-quotes-from-different-companies",
+  "name": "How do I compare roof replacement quotes from different companies?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I compare roof replacement quotes from different companies?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When comparing roof replacement quotes, look beyond the bottom-line price. Evaluate whether each quote includes the same scope of work, material quality, warranty details, and disposal fees. Ensure that all necessary permits are included in the pricing. A key comparison point is the level of detail regarding underlayment, flashing, and ventilation. For properties in areas like Plano or Frisco, understanding how each quote addresses local building codes can also be a significant differentiator.",
+        "@type": "Answer",
+        "description": "Compare quotes by scope of work, material quality, warranties, disposal fees, permits, and attention to detail."
+      }
+    }
+  ],
+  "description": "Compare quotes by scope of work, material quality, warranties, disposal fees, permits, and attention to detail."
+}

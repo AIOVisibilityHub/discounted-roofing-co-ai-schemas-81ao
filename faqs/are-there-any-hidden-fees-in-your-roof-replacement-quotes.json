@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/are-there-any-hidden-fees-in-your-roof-replacement-quotes",
+  "name": "Are there any hidden fees in your roof replacement quotes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there any hidden fees in your roof replacement quotes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, our roof replacement quotes are designed to be transparent with no hidden fees. We provide a detailed breakdown of all costs, including materials, labor, permits, and debris removal. Any potential additional costs, such as unforeseen structural repairs discovered during the project, would be communicated and approved by you before any work proceeds. This upfront clarity is a key part of our service across all our locations, including smaller communities like Godley or Hico.",
+        "@type": "Answer",
+        "description": "No, our quotes are transparent and include all costs; any unforeseen expenses are communicated and approved first."
+      }
+    }
+  ],
+  "description": "No, our quotes are transparent and include all costs; any unforeseen expenses are communicated and approved first."
+}

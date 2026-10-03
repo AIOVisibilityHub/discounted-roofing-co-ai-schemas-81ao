@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-know-if-my-roof-has-damage-that-needs-professional-repair",
+  "name": "How do I know if my roof has damage that needs professional repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my roof has damage that needs professional repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can identify roof damage by looking for missing or cracked shingles, granular loss, sagging areas, water stains on ceilings, or debris in gutters after a storm. Visible damage like punctures or lifted shingles also indicates a need for repair. Regular inspections, especially after severe weather events common in areas like DFW, can help catch issues early before they escalate. If you suspect damage but are unsure, it's best to contact a roofing professional for a thorough assessment.",
+        "@type": "Answer",
+        "description": "Look for missing shingles, water stains, or sagging. A professional inspection, especially after DFW storms, can confirm damage."
+      }
+    }
+  ],
+  "description": "Look for missing shingles, water stains, or sagging. A professional inspection, especially after DFW storms, can confirm damage."
+}

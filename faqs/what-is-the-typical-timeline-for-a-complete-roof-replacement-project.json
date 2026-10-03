@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-typical-timeline-for-a-complete-roof-replacement-project",
+  "name": "What is the typical timeline for a complete roof replacement project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a complete roof replacement project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a complete roof replacement can vary depending on the roof's size, complexity, weather conditions, and material choice. Most residential roof replacements are completed within one to three days once work begins. Larger or more complex roofs, such as those with multiple valleys or steep pitches, may take longer. Before starting, Discounted Roofing Co. provides a project schedule to set clear expectations for the duration of the work.",
+        "@type": "Answer",
+        "description": "A complete roof replacement typically takes one to three days, varying by roof size, complexity, and weather. We provide a project schedule for clarity."
+      }
+    }
+  ],
+  "description": "A complete roof replacement typically takes one to three days, varying by roof size, complexity, and weather. We provide a project schedule for clarity."
+}

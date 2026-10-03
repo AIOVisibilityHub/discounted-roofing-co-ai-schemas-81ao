@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-call-a-professional-for-wind-damage-roof-repair",
+  "name": "When should I call a professional for wind damage roof repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for wind damage roof repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should contact a professional roofing company as soon as you suspect wind damage, especially after a storm. Early assessment can prevent further issues like water leaks and structural damage. In areas like Abbott or Addison, prompt action after high winds helps safeguard your home. Preparing for the inspection by documenting the date of the storm and any visible damage can streamline the process and assist with potential insurance claims.",
+        "@type": "Answer",
+        "description": "Call a professional for roof repair immediately after suspecting wind damage, especially after a storm, to prevent further issues."
+      }
+    }
+  ],
+  "description": "Call a professional for roof repair immediately after suspecting wind damage, especially after a storm, to prevent further issues."
+}

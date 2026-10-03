@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-during-a-residential-roof-repair-inspection",
+  "name": "What happens during a residential roof repair inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during a residential roof repair inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a residential roof repair inspection, our technicians will thoroughly examine your roof's exterior for damage to shingles, flashing, gutters, and other components. They will also inspect the attic for signs of leaks or structural issues. This comprehensive assessment allows us to pinpoint the problem areas and recommend the most effective repair solutions for your home.",
+        "@type": "Answer",
+        "description": "A repair inspection involves examining your roof's exterior and attic for damage to identify problems and recommend solutions."
+      }
+    }
+  ],
+  "description": "A repair inspection involves examining your roof's exterior and attic for damage to identify problems and recommend solutions."
+}

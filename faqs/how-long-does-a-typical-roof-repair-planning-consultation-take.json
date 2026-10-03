@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-typical-roof-repair-planning-consultation-take",
+  "name": "How long does a typical roof repair planning consultation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical roof repair planning consultation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical roof repair planning consultation usually takes between 30 minutes to an hour, depending on the size and complexity of your roof and the extent of the damage. This timeframe allows for a thorough inspection and a detailed discussion of repair options and estimates. Preparation on your part, such as clearing access to your property, can help the process run smoothly.",
+        "@type": "Answer",
+        "description": "A consultation typically lasts 30 minutes to an hour, depending on roof size and damage, allowing for a thorough inspection and discussion."
+      }
+    }
+  ],
+  "description": "A consultation typically lasts 30 minutes to an hour, depending on roof size and damage, allowing for a thorough inspection and discussion."
+}

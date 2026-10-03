@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-prepare-my-property-for-a-residential-reroofing-project",
+  "name": "How do I prepare my property for a residential reroofing project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I prepare my property for a residential reroofing project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare your property for a residential reroofing project, we recommend clearing the area around your home, including moving vehicles, outdoor furniture, and delicate plants or decorations. This helps protect your belongings and provides clear access for our crew and equipment. Also, ensure pets are secured indoors. These preparations help streamline the work, prevent accidental damage, and ensure a safer working environment for our team, contributing to a more efficient and timely project completion.",
+        "@type": "Answer",
+        "description": "Prepare your property by clearing the area around your home, moving vehicles and outdoor items, and securing pets. This helps ensure safety and efficiency."
+      }
+    }
+  ],
+  "description": "Prepare your property by clearing the area around your home, moving vehicles and outdoor items, and securing pets. This helps ensure safety and efficiency."
+}

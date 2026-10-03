@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-influence-the-cost-of-a-residential-reroofing-project",
+  "name": "What factors influence the cost of a residential reroofing project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a residential reroofing project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a residential reroofing project is influenced by several key factors. These include the size and pitch of your roof, the type of roofing material selected (e.g., asphalt shingles, metal, tile), the extent of any necessary decking repairs, and the complexity of the roof's design (e.g., number of valleys, dormers). For example, choosing a premium asphalt shingle or a durable metal roof will typically increase material costs, but may offer a longer lifespan and better warranty. We provide detailed estimates that break down material, labor, and disposal costs, ensuring transparency.",
+        "@type": "Answer",
+        "description": "Reroofing costs depend on roof size, pitch, material type, decking repair needs, and roof design complexity."
+      }
+    }
+  ],
+  "description": "Reroofing costs depend on roof size, pitch, material type, decking repair needs, and roof design complexity."
+}

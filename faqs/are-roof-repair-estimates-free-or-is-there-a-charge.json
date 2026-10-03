@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/are-roof-repair-estimates-free-or-is-there-a-charge",
+  "name": "Are roof repair estimates free, or is there a charge?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are roof repair estimates free, or is there a charge?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many roofing companies, including Discounted Roofing Co., offer free initial roof repair estimates. This allows us to assess the damage and provide you with a detailed proposal without an upfront cost. However, some complex diagnostic estimates for issues that are not immediately apparent may incur a fee, which is typically disclosed upfront. We aim to provide transparent service to homeowners across our service areas, from Corsicana to Ennis.",
+        "@type": "Answer",
+        "description": "Most initial roof repair estimates are free, including ours. Complex diagnostic estimates might have a fee, which is always disclosed upfront."
+      }
+    }
+  ],
+  "description": "Most initial roof repair estimates are free, including ours. Complex diagnostic estimates might have a fee, which is always disclosed upfront."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-influence-the-cost-of-wind-damage-roof-repair",
+  "name": "What factors influence the cost of wind damage roof repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of wind damage roof repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of wind damage roof repair is influenced by several factors, including the extent and severity of the damage, the type of roofing materials needed, and the complexity of the roof's design. Larger areas of damage requiring more materials and labor will incur higher costs. Furthermore, the need for specialized equipment or addressing underlying structural issues can impact the total expense. We provide detailed estimates, breaking down costs for transparency.",
+        "@type": "Answer",
+        "description": "Repair costs depend on damage extent, roofing material type, and roof complexity. Larger damage and specialized needs increase the total expense."
+      }
+    }
+  ],
+  "description": "Repair costs depend on damage extent, roofing material type, and roof complexity. Larger damage and specialized needs increase the total expense."
+}

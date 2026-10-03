@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-know-if-my-roof-needs-to-be-replaced-or-repaired",
+  "name": "How do I know if my roof needs to be replaced or repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my roof needs to be replaced or repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining whether to replace or repair your roof depends on the extent of damage, the roof's age, and the type of roofing material. Extensive damage, such as widespread missing shingles, significant leaks, or structural issues, often necessitates replacement. Older roofs, typically beyond 20-25 years, are also strong candidates for replacement due to material degradation. Discounted Roofing Co. provides a detailed assessment to help you make an informed decision based on the current condition and projected lifespan.",
+        "@type": "Answer",
+        "description": "Assess damage extent, roof age, and material type; widespread damage or an old roof usually points to replacement. Discounted Roofing Co. offers assessments to guide your decision."
+      }
+    }
+  ],
+  "description": "Assess damage extent, roof age, and material type; widespread damage or an old roof usually points to replacement. Discounted Roofing Co. offers assessments to"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-influence-the-cost-provided-in-a-roof-replacement-consultation",
+  "name": "What factors influence the cost provided in a roof replacement consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost provided in a roof replacement consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost outlined in your roof replacement consultation is influenced by several key factors. These include the size and pitch of your roof, the chosen roofing material (e.g., asphalt shingles, metal), the extent of any necessary deck repairs, and the complexity of the roof's design (e.g., multiple valleys, skylights). Additionally, the type of ventilation required and the disposal of old materials contribute to the overall estimate, providing a comprehensive cost breakdown for your specific project.",
+        "@type": "Answer",
+        "description": "Cost factors include roof size, pitch, material choice, deck repair needs, roof complexity, ventilation requirements, and disposal of old materials."
+      }
+    }
+  ],
+  "description": "Cost factors include roof size, pitch, material choice, deck repair needs, roof complexity, ventilation requirements, and disposal of old materials."
+}

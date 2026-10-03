@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-my-options-if-a-repair-is-not-feasible-after-the-consultation",
+  "name": "What are my options if a repair is not feasible after the consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are my options if a repair is not feasible after the consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If a repair is not feasible, the consultation will shift towards discussing full roof replacement options. Our specialists will outline material choices, project timelines, and financing options for a new roof installation. This ensures you have a clear understanding of the next steps and available solutions to protect your home.",
+        "@type": "Answer",
+        "description": "If repair isn't feasible, the consultation will cover full roof replacement options, including materials, timelines, and financing."
+      }
+    }
+  ],
+  "description": "If repair isn't feasible, the consultation will cover full roof replacement options, including materials, timelines, and financing."
+}

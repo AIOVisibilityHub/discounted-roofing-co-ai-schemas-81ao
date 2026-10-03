@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/why-do-i-need-a-roof-edge-assessment",
+  "name": "Why do I need a roof edge assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why do I need a roof edge assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You need a roof edge assessment to proactively identify and address issues before they escalate into costly repairs. Damaged or deteriorating roof edges can lead to water penetration, rot, and compromise your roof's structural integrity. Neglecting these areas can result in significant interior damage, which is often more expensive to fix than preventative maintenance. Our assessments help pinpoint exact areas needing attention, allowing for targeted repairs.",
+        "@type": "Answer",
+        "description": "A roof edge assessment identifies and addresses perimeter damage early, preventing costly water intrusion and structural issues that can arise from neglected areas."
+      }
+    }
+  ],
+  "description": "A roof edge assessment identifies and addresses perimeter damage early, preventing costly water intrusion and structural issues that can arise from neglected ar"
+}

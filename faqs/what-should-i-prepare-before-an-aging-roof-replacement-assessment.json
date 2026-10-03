@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-prepare-before-an-aging-roof-replacement-assessment",
+  "name": "What should I prepare before an aging roof replacement assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before an aging roof replacement assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before an aging roof replacement assessment, ensure clear access around your home, especially to the roof's perimeter, and, if possible, to your attic. Remove any vehicles or obstructions that might hinder ladder placement. Having any previous roofing inspection reports or repair records available can also be helpful for the assessor. This preparation helps our team conduct a swift and thorough inspection of your entire roofing system.",
+        "@type": "Answer",
+        "description": "Ensure clear access around your home and to the attic, and have any previous roofing records available."
+      }
+    }
+  ],
+  "description": "Ensure clear access around your home and to the attic, and have any previous roofing records available."
+}

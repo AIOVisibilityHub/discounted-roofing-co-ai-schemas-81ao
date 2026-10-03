@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-do-if-i-have-a-leaking-roof",
+  "name": "What should I do if I have a leaking roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if I have a leaking roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you discover a leaking roof, your first step should be to contain the water to prevent further interior damage. Place buckets or towels under the leak and move furniture away from the affected area. Then, contact a professional roofing company like Discounted Roofing Co. immediately for an inspection. Prompt action is crucial to minimize damage and prevent mold growth, especially with the humidity common in the DFW metroplex.",
+        "@type": "Answer",
+        "description": "If your roof leaks, contain the water and immediately contact a professional roofing company for an inspection to prevent further damage."
+      }
+    }
+  ],
+  "description": "If your roof leaks, contain the water and immediately contact a professional roofing company for an inspection to prevent further damage."
+}

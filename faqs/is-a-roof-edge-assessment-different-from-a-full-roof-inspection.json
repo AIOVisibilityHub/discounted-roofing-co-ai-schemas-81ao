@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/is-a-roof-edge-assessment-different-from-a-full-roof-inspection",
+  "name": "Is a roof edge assessment different from a full roof inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a roof edge assessment different from a full roof inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a roof edge assessment focuses specifically on the perimeter components, such as fascias, soffits, gutters, and drip edges, which are critical for proper water management. A full roof inspection is more comprehensive, covering the entire roof surface, structural integrity, decking, and attic ventilation in addition to the edges. While both are important, an edge assessment is a targeted check, often used for specific concerns or as a preventative measure for vulnerable areas.",
+        "@type": "Answer",
+        "description": "An edge assessment focuses on perimeter components like fascias and gutters, while a full inspection covers the entire roof surface, structure, and ventilation."
+      }
+    }
+  ],
+  "description": "An edge assessment focuses on perimeter components like fascias and gutters, while a full inspection covers the entire roof surface, structure, and ventilation."
+}

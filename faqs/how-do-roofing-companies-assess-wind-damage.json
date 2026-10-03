@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-roofing-companies-assess-wind-damage",
+  "name": "How do roofing companies assess wind damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do roofing companies assess wind damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Roofing companies assess wind damage by conducting a thorough inspection of the entire roof surface, including shingles, flashing, gutters, and any vents. They look for signs like missing shingles, tears, creased areas, or granular loss. This process often involves checking the attic for leaks or moisture, which can indicate unseen damage. The assessment helps determine if repairs or a full replacement are needed and provides documentation for insurance claims.",
+        "@type": "Answer",
+        "description": "Roofing companies assess wind damage through a detailed inspection of shingles, flashing, and vents, also checking the attic for leaks."
+      }
+    }
+  ],
+  "description": "Roofing companies assess wind damage through a detailed inspection of shingles, flashing, and vents, also checking the attic for leaks."
+}

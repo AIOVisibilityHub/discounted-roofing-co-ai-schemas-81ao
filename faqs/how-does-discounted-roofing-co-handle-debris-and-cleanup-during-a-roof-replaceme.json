@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-does-discounted-roofing-co-handle-debris-and-cleanup-during-a-roof-replaceme",
+  "name": "How does Discounted Roofing Co. handle debris and cleanup during a roof replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does Discounted Roofing Co. handle debris and cleanup during a roof replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a roof replacement, Discounted Roofing Co. uses tarps to protect your landscaping and property, and we utilize dump trailers or containers on-site for efficient debris collection. Our team conducts thorough clean-up throughout and at the completion of the project, including using magnets to pick up stray nails. This commitment to cleanliness minimizes disruption and ensures your property is left tidy. We aim to leave your yard as clean as, or cleaner than, we found it.",
+        "@type": "Answer",
+        "description": "We use tarps and on-site dump containers for debris, and perform thorough cleanup, including magnetic sweeps for nails. Our goal is to leave your property tidy."
+      }
+    }
+  ],
+  "description": "We use tarps and on-site dump containers for debris, and perform thorough cleanup, including magnetic sweeps for nails. Our goal is to leave your property tidy."
+}

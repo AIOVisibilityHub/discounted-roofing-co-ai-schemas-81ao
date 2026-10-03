@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-the-right-roofing-material-for-my-roof-replacement",
+  "name": "How do I choose the right roofing material for my roof replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right roofing material for my roof replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right roofing material involves considering several factors, including your budget, desired aesthetic, and the local climate in areas like DFW. Asphalt shingles are cost-effective and versatile, while metal roofing offers durability and energy efficiency. Other options like tile or slate provide a distinct look but come at a higher cost. We can discuss the pros and cons of each material during your estimate to help you select the best fit for your home and long-term needs.",
+        "@type": "Answer",
+        "description": "Choose a roofing material based on budget, desired aesthetic, and climate; asphalt, metal, or tile each offer different benefits."
+      }
+    }
+  ],
+  "description": "Choose a roofing material based on budget, desired aesthetic, and climate; asphalt, metal, or tile each offer different benefits."
+}

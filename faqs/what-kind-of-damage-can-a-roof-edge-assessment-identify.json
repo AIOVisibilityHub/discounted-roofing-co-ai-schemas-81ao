@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-kind-of-damage-can-a-roof-edge-assessment-identify",
+  "name": "What kind of damage can a roof edge assessment identify?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of damage can a roof edge assessment identify?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roof edge assessment can identify various types of damage, including deteriorated fascia boards, rotting soffits, damaged drip edges, clogged or misaligned gutters, and compromised flashing. It can also uncover issues like pest entry points, mold growth from moisture accumulation, or structural weaknesses at the roofline. Identifying these specific problems early allows for precise and effective repair work, preventing more widespread and costly problems later on.",
+        "@type": "Answer",
+        "description": "An assessment identifies damaged fascia, soffits, drip edges, clogged gutters, compromised flashing, pest entry, and structural weaknesses at the roofline."
+      }
+    }
+  ],
+  "description": "An assessment identifies damaged fascia, soffits, drip edges, clogged gutters, compromised flashing, pest entry, and structural weaknesses at the roofline."
+}

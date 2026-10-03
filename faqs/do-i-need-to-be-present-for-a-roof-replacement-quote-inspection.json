@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/do-i-need-to-be-present-for-a-roof-replacement-quote-inspection",
+  "name": "Do I need to be present for a roof replacement quote inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be present for a roof replacement quote inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's not always mandatory for you to be present during the initial exterior inspection for a roof replacement quote, we highly recommend it. Being present allows you to directly discuss your concerns, ask questions, and show our estimator any specific areas of interest or damage you've observed. This direct interaction helps ensure the quote addresses all your needs and expectations, particularly for properties in larger cities like Dallas or Fort Worth where site access can be varied.",
+        "@type": "Answer",
+        "description": "Being present for a roof quote inspection is recommended to discuss concerns and show specific damage."
+      }
+    }
+  ],
+  "description": "Being present for a roof quote inspection is recommended to discuss concerns and show specific damage."
+}

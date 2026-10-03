@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-my-homeowner-s-insurance-cover-hail-damage-roof-repair",
+  "name": "Will my homeowner's insurance cover hail damage roof repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover hail damage roof repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowner's insurance policies cover sudden and accidental damage, including hail damage, up to your policy's limits and after your deductible. It's crucial to review your specific policy documents or contact your insurance provider to understand your coverage details, including any specific clauses for storm damage or depreciation.",
+        "@type": "Answer",
+        "description": "Most homeowner's insurance covers hail damage, but check your specific policy for limits and deductibles."
+      }
+    }
+  ],
+  "description": "Most homeowner's insurance covers hail damage, but check your specific policy for limits and deductibles."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-preparation-should-i-do-before-my-roof-replacement-begins",
+  "name": "What preparation should I do before my roof replacement begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation should I do before my roof replacement begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your roof replacement, it's helpful to clear your driveway for equipment access, move any valuable items away from the exterior walls of your home, and trim back bushes or tree branches near the roofline. You should also secure or remove any wall decorations and ensure pets are kept indoors during the project. Protecting outdoor furniture or fragile items is also recommended.",
+        "@type": "Answer",
+        "description": "Before replacement, clear the driveway, move valuables from exterior walls, trim bushes, secure wall decorations, and keep pets indoors. Protect outdoor furniture."
+      }
+    }
+  ],
+  "description": "Before replacement, clear the driveway, move valuables from exterior walls, trim bushes, secure wall decorations, and keep pets indoors. Protect outdoor furnitu"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-typical-lifespan-of-a-new-roof-and-how-does-that-affect-my-estimate",
+  "name": "What is the typical lifespan of a new roof, and how does that affect my estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical lifespan of a new roof, and how does that affect my estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical lifespan of a new roof varies significantly based on the material chosen. Standard asphalt shingle roofs generally last 20-30 years, while higher-grade architectural shingles or metal roofs can last 40-70 years or more. This lifespan directly affects your estimate, as materials with longer warranties and greater durability typically have a higher upfront cost but may offer better long-term value. We factor material lifespan into our recommendations.",
+        "@type": "Answer",
+        "description": "New roof lifespan varies by material (e.g., asphalt 20-30 years, metal 40-70+ years); this durability affects the upfront estimate cost."
+      }
+    }
+  ],
+  "description": "New roof lifespan varies by material (e.g., asphalt 20-30 years, metal 40-70+ years); this durability affects the upfront estimate cost."
+}

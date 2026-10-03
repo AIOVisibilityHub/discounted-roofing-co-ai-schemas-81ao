@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-after-a-roof-edge-damage-assessment",
+  "name": "What happens after a roof edge damage assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after a roof edge damage assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a roof edge damage assessment, our team will provide you with a detailed report outlining all identified issues, photographic evidence, and specific recommendations for repair or replacement. We will also present a clear, itemized estimate for the proposed work. You'll have the opportunity to ask questions and discuss the best course of action for your home. Our goal is to ensure you fully understand the necessary steps before any work begins.",
+        "@type": "Answer",
+        "description": "You'll receive a detailed report with photos, repair recommendations, and an itemized estimate to discuss with our team."
+      }
+    }
+  ],
+  "description": "You'll receive a detailed report with photos, repair recommendations, and an itemized estimate to discuss with our team."
+}

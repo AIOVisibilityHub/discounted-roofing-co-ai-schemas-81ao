@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-far-in-advance-should-i-schedule-my-roof-replacement-with-discounted-roofing",
+  "name": "How far in advance should I schedule my roof replacement with Discounted Roofing Co.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How far in advance should I schedule my roof replacement with Discounted Roofing Co.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is advisable to schedule your roof replacement at least 2-4 weeks in advance, especially during peak seasons like spring and fall. This timeframe allows for a thorough inspection, selection of materials, acquisition of necessary permits, and proper allocation of our crews. During periods of high demand, such as after a major storm, scheduling further in advance can help secure your preferred project start date and ensure timely service.",
+        "@type": "Answer",
+        "description": "Schedule your roof replacement 2-4 weeks in advance, or more during peak seasons, to allow for inspection, material ordering, permitting, and crew availability."
+      }
+    }
+  ],
+  "description": "Schedule your roof replacement 2-4 weeks in advance, or more during peak seasons, to allow for inspection, material ordering, permitting, and crew availability."
+}

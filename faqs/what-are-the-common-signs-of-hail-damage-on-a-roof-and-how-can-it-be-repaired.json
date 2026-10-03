@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-common-signs-of-hail-damage-on-a-roof-and-how-can-it-be-repaired",
+  "name": "What are the common signs of hail damage on a roof, and how can it be repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of hail damage on a roof, and how can it be repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of hail damage include dimples or dents on metal components like gutters and vents, as well as circular bruises or cracks on asphalt shingles, often accompanied by granule loss. Hail damage can compromise the integrity of shingles, reducing their lifespan and leading to leaks. Repair typically involves replacing damaged shingles or, in severe cases, a full roof replacement. Discounted Roofing Co. provides expert assessments to identify all hail-related damage, even subtle impacts, ensuring appropriate and lasting repairs are made to protect your home.",
+        "@type": "Answer",
+        "description": "Hail damage appears as dents on metal and bruises/cracks with granule loss on shingles. Repair involves replacing damaged shingles or a full roof. Discounted Roofing Co. assesses all damage."
+      }
+    }
+  ],
+  "description": "Hail damage appears as dents on metal and bruises/cracks with granule loss on shingles. Repair involves replacing damaged shingles or a full roof. Discounted Ro"
+}

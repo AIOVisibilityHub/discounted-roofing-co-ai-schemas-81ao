@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-prepare-before-a-roofing-contractor-inspects-my-hail-damaged-roof",
+  "name": "What should I prepare before a roofing contractor inspects my hail-damaged roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a roofing contractor inspects my hail-damaged roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before an inspection, clear any vehicles or outdoor furniture from around your house to give the crew unobstructed access. Ensure pets are secured, and be ready to discuss any observations you've made, such as leaks or visible damage. Having your insurance policy details handy can also streamline the initial assessment and claim discussion.",
+        "@type": "Answer",
+        "description": "Clear outdoor areas, secure pets, note any damage, and have insurance details ready before the inspection."
+      }
+    }
+  ],
+  "description": "Clear outdoor areas, secure pets, note any damage, and have insurance details ready before the inspection."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-a-reliable-company-for-an-aging-roof-assessment-in-the-dfw-area",
+  "name": "How do I choose a reliable company for an aging roof assessment in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reliable company for an aging roof assessment in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To choose a reliable company for an aging roof assessment in the DFW area, look for companies with strong local reputations, proper licensing, and insurance. Check for positive customer reviews and ensure they provide detailed, written estimates and reports. Discounted Roofing Co. has served numerous communities in the DFW area, such as Arlington, Fort Worth, and Dallas, and prioritizes clear communication and transparent assessments to build trust with homeowners.",
+        "@type": "Answer",
+        "description": "Choose a DFW company with a strong local reputation, proper licensing, insurance, and positive customer reviews for an assessment."
+      }
+    }
+  ],
+  "description": "Choose a DFW company with a strong local reputation, proper licensing, insurance, and positive customer reviews for an assessment."
+}

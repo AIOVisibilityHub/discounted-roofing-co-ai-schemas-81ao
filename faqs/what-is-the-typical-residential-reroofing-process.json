@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-typical-residential-reroofing-process",
+  "name": "What is the typical residential reroofing process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical residential reroofing process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical residential reroofing process involves several steps: initial inspection and estimate, removal of old roofing materials, inspection and repair of underlying decking, installation of new underlayment, flashing, and then the new roofing material (e.g., shingles, metal). Finally, a thorough cleanup and final inspection are conducted. The process often starts with a detailed assessment of your current roof's condition to identify any potential hidden issues, which helps in planning and budgeting for material and labor requirements. This ensures a comprehensive approach to your new roof's longevity and performance.",
+        "@type": "Answer",
+        "description": "Reroofing involves inspection, old roof removal, deck repair, underlayment and flashing installation, new roof material installation, cleanup, and final inspection."
+      }
+    }
+  ],
+  "description": "Reroofing involves inspection, old roof removal, deck repair, underlayment and flashing installation, new roof material installation, cleanup, and final inspect"
+}

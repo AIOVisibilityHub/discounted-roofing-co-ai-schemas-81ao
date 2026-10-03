@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-a-reputable-roofing-contractor-for-hail-damage-repair",
+  "name": "How do I choose a reputable roofing contractor for hail damage repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reputable roofing contractor for hail damage repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor, prioritize those with local experience, particularly in the DFW area, as they will be familiar with local building codes and common weather patterns. Check for proper licensing, insurance, and positive customer reviews. A reputable contractor will also provide a detailed estimate and explain the repair process clearly, offering transparency.",
+        "@type": "Answer",
+        "description": "Choose a reputable contractor by checking local experience, licensing, insurance, reviews, and detailed estimates."
+      }
+    }
+  ],
+  "description": "Choose a reputable contractor by checking local experience, licensing, insurance, reviews, and detailed estimates."
+}

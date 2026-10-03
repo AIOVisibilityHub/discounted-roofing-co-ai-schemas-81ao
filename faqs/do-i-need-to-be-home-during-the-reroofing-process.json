@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/do-i-need-to-be-home-during-the-reroofing-process",
+  "name": "Do I need to be home during the reroofing process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be home during the reroofing process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it is not strictly necessary for you to be home throughout the entire reroofing process, we do recommend that you are available, especially at the start and end of the project. Your presence during the initial walkthrough allows for direct communication regarding any last-minute questions or specific concerns you might have. Similarly, being present for the final inspection ensures your satisfaction with the completed work and allows us to address any immediate feedback, making the handover seamless.",
+        "@type": "Answer",
+        "description": "You don't need to be home constantly, but being available at the start and end of the project is recommended for clear communication and final inspection."
+      }
+    }
+  ],
+  "description": "You don't need to be home constantly, but being available at the start and end of the project is recommended for clear communication and final inspection."
+}

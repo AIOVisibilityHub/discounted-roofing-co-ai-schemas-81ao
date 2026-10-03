@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-i-get-a-consultation-if-i-m-not-sure-if-my-roof-needs-repair",
+  "name": "Can I get a consultation if I'm not sure if my roof needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get a consultation if I'm not sure if my roof needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, absolutely. Discounted Roofing Co. encourages homeowners to schedule a consultation even if they are unsure about the need for repairs. This proactive approach allows our inspectors to identify potential issues early, such as weathered shingles or minor flashing problems, before they develop into major concerns. It's an opportunity to gain peace of mind and understand your roof's current health, which can be particularly useful for older roofs or those that haven't been inspected in several years.",
+        "@type": "Answer",
+        "description": "Yes, you can schedule a consultation even if unsure about repairs to proactively identify potential issues and understand your roof's health."
+      }
+    }
+  ],
+  "description": "Yes, you can schedule a consultation even if unsure about repairs to proactively identify potential issues and understand your roof's health."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-typical-process-for-a-roof-edge-assessment",
+  "name": "What is the typical process for a roof edge assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a roof edge assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for a roof edge assessment typically involves a scheduled on-site visit by one of our trained technicians. They will visually inspect the entire perimeter of your roof, looking for signs of damage such as cracked caulk, loose flashing, deteriorating wood, or clogged gutters. We also examine the connection points between the roof and other building components. Following the assessment, we provide a detailed report outlining any findings and recommended solutions, ensuring clear communication of potential next steps.",
+        "@type": "Answer",
+        "description": "The process involves a technician's on-site inspection of the roof perimeter for damage, followed by a detailed report of findings and recommended solutions."
+      }
+    }
+  ],
+  "description": "The process involves a technician's on-site inspection of the roof perimeter for damage, followed by a detailed report of findings and recommended solutions."
+}

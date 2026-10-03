@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-s-the-difference-between-a-repair-consultation-and-a-full-roof-replacement",
+  "name": "What's the difference between a repair consultation and a full roof replacement estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a repair consultation and a full roof replacement estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A repair consultation focuses specifically on addressing localized damage to extend the life of your existing roof. A full roof replacement estimate, conversely, assesses the entire roof system to determine the feasibility and cost of installing a completely new roof. The consultation helps determine if repair is a viable, cost-effective option versus replacement, considering factors like overall roof condition and age.",
+        "@type": "Answer",
+        "description": "A repair consultation addresses localized damage, while a replacement estimate evaluates installing a completely new roof. It helps weigh repair vs. replacement viability."
+      }
+    }
+  ],
+  "description": "A repair consultation addresses localized damage, while a replacement estimate evaluates installing a completely new roof. It helps weigh repair vs. replacement"
+}

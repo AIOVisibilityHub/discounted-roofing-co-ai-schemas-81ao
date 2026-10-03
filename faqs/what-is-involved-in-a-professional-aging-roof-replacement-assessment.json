@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-involved-in-a-professional-aging-roof-replacement-assessment",
+  "name": "What is involved in a professional aging roof replacement assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a professional aging roof replacement assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A professional aging roof replacement assessment involves a thorough inspection of your entire roofing system. This includes examining shingles for cracking, curling, or granule loss, checking flashing around chimneys and vents, inspecting gutters for signs of overflow or damage, and assessing the roof's decking and attic ventilation. Our team at Discounted Roofing Co. looks for common issues like water leaks, sagging, and moss growth, which are indicators of an aging roof needing attention. We provide a detailed report outlining the roof's condition and recommended solutions.",
+        "@type": "Answer",
+        "description": "A professional assessment includes a detailed inspection of shingles, flashing, gutters, decking, and ventilation to identify signs of aging and potential issues."
+      }
+    }
+  ],
+  "description": "A professional assessment includes a detailed inspection of shingles, flashing, gutters, decking, and ventilation to identify signs of aging and potential issue"
+}

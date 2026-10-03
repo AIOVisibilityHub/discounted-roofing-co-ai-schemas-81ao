@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-the-right-company-for-a-roof-repair-evaluation",
+  "name": "How do I choose the right company for a roof repair evaluation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right company for a roof repair evaluation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a company for a roof repair evaluation, look for experienced and reputable local contractors. Consider factors like their local service area, customer reviews, and their transparency in explaining the evaluation process and findings. It's important to select a company that provides clear, no-obligation assessments. Discounted Roofing Co. serves a wide area including DFW, Abbott, Addison, and Allen, offering local expertise.",
+        "@type": "Answer",
+        "description": "Choose a company based on experience, local reputation, transparency, and service area. Discounted Roofing Co. serves DFW and surrounding areas."
+      }
+    }
+  ],
+  "description": "Choose a company based on experience, local reputation, transparency, and service area. Discounted Roofing Co. serves DFW and surrounding areas."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-do-to-prepare-my-property-for-the-consultation",
+  "name": "What should I do to prepare my property for the consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare my property for the consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare your property for a residential roof repair consultation, please ensure clear access around your home, especially to all sides of the house and the driveway. Moving vehicles, patio furniture, and garden decorations can facilitate our inspector's work and prevent any accidental damage. If you have pets, it's advisable to secure them indoors during the consultation. This preparation helps ensure the inspector can safely and efficiently assess your roof without any obstacles.",
+        "@type": "Answer",
+        "description": "Ensure clear access around your home and secure pets indoors to prepare your property for the consultation."
+      }
+    }
+  ],
+  "description": "Ensure clear access around your home and secure pets indoors to prepare your property for the consultation."
+}

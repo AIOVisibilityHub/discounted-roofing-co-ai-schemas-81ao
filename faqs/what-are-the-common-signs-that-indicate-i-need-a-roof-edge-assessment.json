@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-common-signs-that-indicate-i-need-a-roof-edge-assessment",
+  "name": "What are the common signs that indicate I need a roof edge assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs that indicate I need a roof edge assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs indicating a need for a roof edge assessment include visible sagging or rot in fascia or soffit boards, water stains on exterior walls below the roofline, recurring gutter clogs, or missing/damaged drip edge flashing. You might also notice pests entering the attic through compromised eaves. These indicators suggest potential water damage or structural issues at the edges that require professional evaluation to prevent further deterioration.",
+        "@type": "Answer",
+        "description": "Look for sagging fascia, water stains, recurring gutter clogs, damaged drip edge, or pests entering the attic as signs you need an assessment."
+      }
+    }
+  ],
+  "description": "Look for sagging fascia, water stains, recurring gutter clogs, damaged drip edge, or pests entering the attic as signs you need an assessment."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-during-a-roof-replacement-consultation",
+  "name": "What happens during a roof replacement consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during a roof replacement consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a roof replacement consultation with Discounted Roofing Co., a trained specialist will inspect your existing roof for damage, wear, and structural integrity. They will assess the roofing materials, ventilation, and flashing, then discuss your needs, budget, and material preferences. We will provide a detailed proposal outlining the scope of work, materials to be used, estimated timeline, and a transparent cost breakdown. This allows you to understand all aspects of the project and ask any questions before making a decision.",
+        "@type": "Answer",
+        "description": "A roof replacement consultation involves a detailed roof inspection, discussion of your needs and options, and a comprehensive proposal outlining the scope of work, materials, timeline, and cost."
+      }
+    }
+  ],
+  "description": "A roof replacement consultation involves a detailed roof inspection, discussion of your needs and options, and a comprehensive proposal outlining the scope of w"
+}

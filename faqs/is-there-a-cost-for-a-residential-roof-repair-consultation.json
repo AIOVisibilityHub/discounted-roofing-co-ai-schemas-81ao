@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/is-there-a-cost-for-a-residential-roof-repair-consultation",
+  "name": "Is there a cost for a residential roof repair consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is there a cost for a residential roof repair consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Discounted Roofing Co. offers free, no-obligation residential roof repair consultations. We believe in providing transparent assessments without an upfront fee, allowing homeowners to understand their roofing needs before committing to any services. While the consultation is free, understanding the scope of potential repairs and associated costs will be discussed during the visit, so prepare any budget-related questions you may have.",
+        "@type": "Answer",
+        "description": "Discounted Roofing Co. provides free, no-obligation residential roof repair consultations."
+      }
+    }
+  ],
+  "description": "Discounted Roofing Co. provides free, no-obligation residential roof repair consultations."
+}

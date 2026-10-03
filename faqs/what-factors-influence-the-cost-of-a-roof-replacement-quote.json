@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-influence-the-cost-of-a-roof-replacement-quote",
+  "name": "What factors influence the cost of a roof replacement quote?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a roof replacement quote?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a roof replacement quote is primarily influenced by the size and pitch of your roof, the type of roofing materials selected (e.g., asphalt shingles, metal, tile), the complexity of the roof's design, and the extent of any necessary repairs to the underlying structure. Additional factors include the removal and disposal of old roofing materials. For customers in the DFW area, material transportation costs can vary slightly depending on the specific product chosen and its origin.",
+        "@type": "Answer",
+        "description": "Roof replacement quote costs are affected by roof size, material type, design complexity, and structural repair needs."
+      }
+    }
+  ],
+  "description": "Roof replacement quote costs are affected by roof size, material type, design complexity, and structural repair needs."
+}

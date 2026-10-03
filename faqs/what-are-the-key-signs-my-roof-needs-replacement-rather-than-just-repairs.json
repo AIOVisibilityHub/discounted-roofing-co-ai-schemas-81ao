@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-key-signs-my-roof-needs-replacement-rather-than-just-repairs",
+  "name": "What are the key signs my roof needs replacement rather than just repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the key signs my roof needs replacement rather than just repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key signs your roof needs replacement include widespread shingle damage like curling, buckling, or large areas of missing granules, consistent leaks in multiple places, or a roof that's visibly sagging. While minor issues can often be repaired, extensive damage or a roof nearing the end of its typical lifespan (often 20+ years for asphalt shingles) usually warrants a full replacement. Our assessment will help determine if widespread deterioration makes repairs uneconomical or ineffective.",
+        "@type": "Answer",
+        "description": "Widespread shingle damage, consistent leaks, and sagging are key signs your roof likely needs replacement over repairs."
+      }
+    }
+  ],
+  "description": "Widespread shingle damage, consistent leaks, and sagging are key signs your roof likely needs replacement over repairs."
+}

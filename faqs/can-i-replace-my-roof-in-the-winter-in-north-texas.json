@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-i-replace-my-roof-in-the-winter-in-north-texas",
+  "name": "Can I replace my roof in the winter in North Texas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace my roof in the winter in North Texas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, reroofing can be done in the winter in North Texas, provided the temperatures are not excessively low and there is no significant precipitation like ice or heavy snow. Modern roofing materials, especially asphalt shingles, are designed to be installed in a range of temperatures. However, extreme cold can make shingles brittle, impacting proper sealing. Our team monitors weather conditions closely to schedule work during optimal periods, ensuring proper installation and avoiding issues that could compromise the new roof's integrity. Flexibility in scheduling during winter can sometimes lead to quicker project starts.",
+        "@type": "Answer",
+        "description": "Yes, reroofing can be done in winter in North Texas if temperatures are not too low and there's no severe precipitation. We monitor weather to ensure proper installation."
+      }
+    }
+  ],
+  "description": "Yes, reroofing can be done in winter in North Texas if temperatures are not too low and there's no severe precipitation. We monitor weather to ensure proper ins"
+}

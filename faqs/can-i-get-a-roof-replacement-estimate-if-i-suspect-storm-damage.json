@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-i-get-a-roof-replacement-estimate-if-i-suspect-storm-damage",
+  "name": "Can I get a roof replacement estimate if I suspect storm damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get a roof replacement estimate if I suspect storm damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you absolutely can and should get a roof replacement estimate if you suspect storm damage. We specialize in assessing storm-related damage and can provide a detailed evaluation. This estimate can then be used to facilitate discussions with your insurance provider, as it clearly outlines the necessary repairs or replacement. Our team is experienced in documenting damage for insurance claims to help streamline your process.",
+        "@type": "Answer",
+        "description": "Yes, you can get an estimate for suspected storm damage; it helps assess repairs and facilitate discussions with your insurance provider."
+      }
+    }
+  ],
+  "description": "Yes, you can get an estimate for suspected storm damage; it helps assess repairs and facilitate discussions with your insurance provider."
+}

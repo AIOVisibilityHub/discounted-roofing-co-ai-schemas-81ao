@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-storm-damage-claims-impact-a-roof-replacement-scope",
+  "name": "How do storm damage claims impact a roof replacement scope?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do storm damage claims impact a roof replacement scope?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Storm damage claims significantly impact a roof replacement scope by often dictating the extent of work covered by insurance. After severe weather, an insurance adjuster will assess the damage, and their findings will influence what repairs or replacements your policy approves. The scope of work will then align with the adjuster's report and your insurance company's guidelines. It's beneficial to have your roofing contractor present during the adjuster's inspection to ensure all damage is identified and documented accurately.",
+        "@type": "Answer",
+        "description": "Storm damage claims dictate the replacement scope based on insurance adjuster findings and policy coverage, often requiring coordination between the homeowner, insurer, and contractor."
+      }
+    }
+  ],
+  "description": "Storm damage claims dictate the replacement scope based on insurance adjuster findings and policy coverage, often requiring coordination between the homeowner,"
+}

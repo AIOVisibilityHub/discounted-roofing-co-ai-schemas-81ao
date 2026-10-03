@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-the-right-roofing-contractor-for-a-complete-replacement",
+  "name": "How do I choose the right roofing contractor for a complete replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right roofing contractor for a complete replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right contractor for a complete roof replacement involves looking for local experience, proper licensing, insurance, and positive customer reviews. Ensure they provide a detailed estimate and warranty information. For customers in areas like DFW, Abbott, Addison, or Aledo, selecting a contractor familiar with local building codes and weather challenges is crucial. This local expertise ensures compliance and suitability for the regional environment.",
+        "@type": "Answer",
+        "description": "Choose a contractor with local experience, proper licensing, insurance, and good reviews for your complete roof replacement."
+      }
+    }
+  ],
+  "description": "Choose a contractor with local experience, proper licensing, insurance, and good reviews for your complete roof replacement."
+}

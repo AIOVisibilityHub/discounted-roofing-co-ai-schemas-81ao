@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-does-a-roof-inspection-inform-the-replacement-scope",
+  "name": "How does a roof inspection inform the replacement scope?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a roof inspection inform the replacement scope?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A thorough roof inspection is crucial as it identifies specific issues that will shape the replacement scope. It assesses the condition of existing shingles, flashing, gutters, and the underlying roof deck for damage, rot, or leaks. This detailed assessment helps determine if full deck replacement is needed, or if only specific repairs are required before installing new materials. The inspection provides the foundational data for an accurate and comprehensive scope plan, preventing unexpected costs or delays later in the project.",
+        "@type": "Answer",
+        "description": "A roof inspection identifies existing damage and structural issues, directly informing what needs to be included in the replacement scope plan."
+      }
+    }
+  ],
+  "description": "A roof inspection identifies existing damage and structural issues, directly informing what needs to be included in the replacement scope plan."
+}

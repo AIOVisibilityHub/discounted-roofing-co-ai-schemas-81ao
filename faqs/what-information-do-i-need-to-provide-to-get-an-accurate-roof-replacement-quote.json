@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-information-do-i-need-to-provide-to-get-an-accurate-roof-replacement-quote",
+  "name": "What information do I need to provide to get an accurate roof replacement quote?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need to provide to get an accurate roof replacement quote?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To receive an accurate roof replacement quote, you should be prepared to provide basic contact information, your property address, and details about any known issues with your current roof, such as leaks or storm damage. Providing clear access to your property for an inspection is crucial. Our team will perform a thorough assessment, which includes measuring your roof and inspecting its current condition, including in specific communities like Aledo or Celina, where certain building codes might influence material recommendations.",
+        "@type": "Answer",
+        "description": "Provide contact details, property address, and known roof issues for an accurate quote, and allow access for inspection."
+      }
+    }
+  ],
+  "description": "Provide contact details, property address, and known roof issues for an accurate quote, and allow access for inspection."
+}

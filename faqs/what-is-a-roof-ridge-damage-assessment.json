@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-roof-ridge-damage-assessment",
+  "name": "What is a roof ridge damage assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a roof ridge damage assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roof ridge damage assessment evaluates the highest horizontal line where two roof planes meet, known as the roof ridge, for any signs of wear, damage, or dislodgement. This assessment specifically looks for issues such as cracked or missing ridge caps, sealant deterioration, or structural instability that can lead to leaks and further damage. Discounted Roofing Co. performs thorough inspections to identify compromised areas, which is a critical first step in determining whether repairs or replacement are needed to maintain your roof's integrity.",
+        "@type": "Answer",
+        "description": "A roof ridge damage assessment evaluates the highest horizontal line of your roof for wear, damage, or dislodgement, including cracked caps or sealant issues."
+      }
+    }
+  ],
+  "description": "A roof ridge damage assessment evaluates the highest horizontal line of your roof for wear, damage, or dislodgement, including cracked caps or sealant issues."
+}

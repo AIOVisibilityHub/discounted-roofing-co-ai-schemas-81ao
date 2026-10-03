@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-after-the-aging-roof-replacement-assessment-is-completed",
+  "name": "What happens after the aging roof replacement assessment is completed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after the aging roof replacement assessment is completed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After the aging roof replacement assessment, our inspector will provide you with a detailed report outlining the condition of your roof, identifying any issues found, and presenting recommended solutions. If a replacement is needed, we will provide a comprehensive, transparent estimate for the work, including material options and project timelines. Our goal is to ensure you have all the information necessary to make an informed decision about the future of your roof, without any pressure.",
+        "@type": "Answer",
+        "description": "You'll receive a detailed report with findings, recommended solutions, and a transparent estimate for any necessary replacement."
+      }
+    }
+  ],
+  "description": "You'll receive a detailed report with findings, recommended solutions, and a transparent estimate for any necessary replacement."
+}

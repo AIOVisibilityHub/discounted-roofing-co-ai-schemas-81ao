@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-a-professional-roof-repair-evaluation",
+  "name": "When should I get a professional roof repair evaluation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a professional roof repair evaluation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should get a professional roof repair evaluation if you notice signs of damage like missing shingles, leaks, sagging areas, or granular loss from asphalt shingles. Even without obvious signs, an evaluation is beneficial after severe weather events such as hail storms or strong winds. Regular evaluations can identify minor issues before they become major, costly repairs. Discounted Roofing Co. provides evaluations across its DFW service area.",
+        "@type": "Answer",
+        "description": "Get a professional roof repair evaluation if you see damage or after severe weather events to catch issues early."
+      }
+    }
+  ],
+  "description": "Get a professional roof repair evaluation if you see damage or after severe weather events to catch issues early."
+}

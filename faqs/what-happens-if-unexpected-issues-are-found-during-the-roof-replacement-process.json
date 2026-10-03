@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-if-unexpected-issues-are-found-during-the-roof-replacement-process",
+  "name": "What happens if unexpected issues are found during the roof replacement process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if unexpected issues are found during the roof replacement process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If unexpected issues, such as rotten decking, damaged rafters, or undetected leaks, are discovered during the tear-off phase, our team will immediately stop work and inform you. We will clearly explain the nature of the issue, provide photographs, and offer solutions and an updated estimate for any additional work required. Our priority is to address these issues correctly to ensure the structural integrity and longevity of your new roof, minimizing further delays.",
+        "@type": "Answer",
+        "description": "If unexpected issues like rotten decking are found, we stop work, inform you, explain the problem, provide an updated estimate, and resolve it before continuing to ensure roof integrity."
+      }
+    }
+  ],
+  "description": "If unexpected issues like rotten decking are found, we stop work, inform you, explain the problem, provide an updated estimate, and resolve it before continuing"
+}

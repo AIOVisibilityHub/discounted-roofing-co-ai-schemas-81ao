@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-influence-the-cost-of-a-roof-repair-estimate",
+  "name": "What factors influence the cost of a roof repair estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a roof repair estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a roof repair estimate is primarily influenced by the extent of the damage, the type of roofing material, and the accessibility of the roof. Minor repairs like a few missing shingles will be less expensive than extensive damage requiring structural work. Steep pitches or complex roof designs can also increase labor costs due to safety requirements and specialized equipment. Our estimates for customers in areas like Dallas or Fort Worth will consider these variables to provide an accurate assessment.",
+        "@type": "Answer",
+        "description": "Factors influencing repair estimate costs include damage extent, roofing material type, and roof accessibility, especially for complex designs or steep pitches."
+      }
+    }
+  ],
+  "description": "Factors influencing repair estimate costs include damage extent, roofing material type, and roof accessibility, especially for complex designs or steep pitches."
+}

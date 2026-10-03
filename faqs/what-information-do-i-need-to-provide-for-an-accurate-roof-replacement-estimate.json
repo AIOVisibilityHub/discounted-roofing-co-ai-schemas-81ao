@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-information-do-i-need-to-provide-for-an-accurate-roof-replacement-estimate",
+  "name": "What information do I need to provide for an accurate roof replacement estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need to provide for an accurate roof replacement estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To receive an accurate roof replacement estimate, you should be prepared to provide basic contact information and details about your property. This includes the approximate age of your current roof, any known issues like leaks or storm damage, and your preferred roofing material if you have one in mind. Additionally, knowing your home's square footage or having access to recent property surveys can help streamline the assessment process. Gathering this information beforehand allows us to conduct a more thorough and efficient evaluation of your roofing needs.",
+        "@type": "Answer",
+        "description": "Provide property details like roof age, known issues, preferred material, and approximate square footage for an accurate estimate."
+      }
+    }
+  ],
+  "description": "Provide property details like roof age, known issues, preferred material, and approximate square footage for an accurate estimate."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-preparations-should-i-make-before-a-storm-damage-roof-repair-begins",
+  "name": "What preparations should I make before a storm damage roof repair begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations should I make before a storm damage roof repair begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before storm damage roof repair begins, it's helpful to clear the area around your home where debris might fall, such as moving patio furniture or delicate plants. Ensure easy access for the roofing crew and their equipment. Inform your neighbors about the upcoming work if noise or temporary obstructions are likely. If you have pets, make arrangements to keep them safe and away from the construction zone. Discussing any specific access needs or concerns with Discounted Roofing Co. beforehand can help ensure a smoother and more efficient repair process.",
+        "@type": "Answer",
+        "description": "Clear outdoor areas, ensure crew access, inform neighbors of potential noise, and secure pets. Discuss any specific needs with Discounted Roofing Co. beforehand."
+      }
+    }
+  ],
+  "description": "Clear outdoor areas, ensure crew access, inform neighbors of potential noise, and secure pets. Discuss any specific needs with Discounted Roofing Co. beforehand"
+}

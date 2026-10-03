@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-preparations-should-i-make-before-my-roof-replacement-begins",
+  "name": "What preparations should I make before my roof replacement begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations should I make before my roof replacement begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your complete roof replacement, it's helpful to clear your driveway, move vehicles, secure loose items around your home like patio furniture, and protect plants and landscaping. Inform neighbors about the upcoming work to minimize inconvenience. If you have any attic items, consider covering them to protect against dust. This preparation helps ensure a smooth and safe process for our team and your property.",
+        "@type": "Answer",
+        "description": "Prepare by clearing driveways, securing outdoor items, protecting plants, and informing neighbors before your roof replacement."
+      }
+    }
+  ],
+  "description": "Prepare by clearing driveways, securing outdoor items, protecting plants, and informing neighbors before your roof replacement."
+}

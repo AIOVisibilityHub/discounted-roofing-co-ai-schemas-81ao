@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-typical-process-for-roof-damage-repair",
+  "name": "What is the typical process for roof damage repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for roof damage repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process begins with a professional inspection to assess the damage and provide a detailed estimate. Once approved, the damaged sections of the roof are prepared, which may involve removing old materials. New roofing materials are then installed to match the existing roof as closely as possible. Finally, a thorough cleanup of the work area is performed. Our process ensures clear communication from assessment to completion.",
+        "@type": "Answer",
+        "description": "The process involves inspection, detailed estimate, repair of damaged sections, new material installation, and final cleanup."
+      }
+    }
+  ],
+  "description": "The process involves inspection, detailed estimate, repair of damaged sections, new material installation, and final cleanup."
+}

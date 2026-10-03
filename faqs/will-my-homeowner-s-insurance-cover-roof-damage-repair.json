@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-my-homeowner-s-insurance-cover-roof-damage-repair",
+  "name": "Will my homeowner's insurance cover roof damage repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover roof damage repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many homeowner's insurance policies cover roof damage caused by sudden and unexpected events like storms, wind, or hail, but not typically damage from neglect or wear and tear. It's essential to review your policy details and understand your deductible. We can assist with documentation and provide estimates that help facilitate the insurance claim process.",
+        "@type": "Answer",
+        "description": "Most policies cover sudden damage from storms, not neglect. Review your policy; we can help with claims documentation."
+      }
+    }
+  ],
+  "description": "Most policies cover sudden damage from storms, not neglect. Review your policy; we can help with claims documentation."
+}

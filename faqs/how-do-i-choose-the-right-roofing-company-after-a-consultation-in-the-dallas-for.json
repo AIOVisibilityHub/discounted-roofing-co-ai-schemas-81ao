@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-the-right-roofing-company-after-a-consultation-in-the-dallas-for",
+  "name": "How do I choose the right roofing company after a consultation in the Dallas-Fort Worth area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right roofing company after a consultation in the Dallas-Fort Worth area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a roofing company in the DFW area, compare detailed estimates, review customer feedback, and ensure the company is licensed and insured. Consider the clarity of their communication during the consultation and their proposed timeline for work. Discounted Roofing Co. serves many DFW communities, including Addison and Allen, and provides transparent consultations to help you decide.",
+        "@type": "Answer",
+        "description": "Compare estimates, check reviews, and ensure the company is licensed/insured. Evaluate communication and timelines from DFW-serving companies like Discounted Roofing Co."
+      }
+    }
+  ],
+  "description": "Compare estimates, check reviews, and ensure the company is licensed/insured. Evaluate communication and timelines from DFW-serving companies like Discounted Ro"
+}

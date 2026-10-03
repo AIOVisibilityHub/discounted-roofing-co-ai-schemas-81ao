@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-involved-in-a-complete-roof-replacement",
+  "name": "What is involved in a complete roof replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a complete roof replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A complete roof replacement involves removing all existing roofing materials down to the roof deck, inspecting the deck for damage, making any necessary repairs, installing new underlayment, flashing, and then installing new roofing materials. This process ensures a clean slate and addresses any underlying issues that might compromise a new roof's integrity. Discounted Roofing Co. conducts a thorough inspection as the first step to accurately assess the current roof's condition.",
+        "@type": "Answer",
+        "description": "A complete roof replacement involves removing old materials, inspecting the deck, making repairs, and installing new underlayment, flashing, and roofing. It ensures a new roof is built on a sound foundation."
+      }
+    }
+  ],
+  "description": "A complete roof replacement involves removing old materials, inspecting the deck, making repairs, and installing new underlayment, flashing, and roofing. It ens"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-my-options-if-a-reroofing-consultation-determines-i-need-a-new-roof-ver",
+  "name": "What are my options if a reroofing consultation determines I need a new roof versus just repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are my options if a reroofing consultation determines I need a new roof versus just repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If a consultation determines you need a new roof, your options typically involve choosing the type of roofing material (e.g., asphalt shingles, metal, tile) and specific product lines, each with different aesthetic and performance characteristics. The decision factor often comes down to your budget, desired lifespan, and aesthetic preferences. Our consultants will walk you through the pros and cons of each option, helping you choose the best fit for your home and local climate conditions, which can vary across our service areas.",
+        "@type": "Answer",
+        "description": "If a new roof is needed, you'll choose material types and products based on budget, lifespan, and aesthetics, with guidance from our consultants."
+      }
+    }
+  ],
+  "description": "If a new roof is needed, you'll choose material types and products based on budget, lifespan, and aesthetics, with guidance from our consultants."
+}

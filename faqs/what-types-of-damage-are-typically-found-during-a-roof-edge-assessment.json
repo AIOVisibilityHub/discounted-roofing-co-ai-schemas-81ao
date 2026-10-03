@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-types-of-damage-are-typically-found-during-a-roof-edge-assessment",
+  "name": "What types of damage are typically found during a roof edge assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of damage are typically found during a roof edge assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a roof edge assessment, common types of damage include cracked, missing, or uplifted drip edge flashing, deteriorated fascia boards due to water intrusion, clogged or damaged gutters causing overflow, and wind-lifted or missing shingles along the eave and rake edges. We also look for signs of rot in the underlying decking or structural components. Identifying these issues early can prevent more significant water damage to your home's interior and exterior.",
+        "@type": "Answer",
+        "description": "Common damage includes cracked drip edge, deteriorated fascia, clogged gutters, and wind-lifted shingles."
+      }
+    }
+  ],
+  "description": "Common damage includes cracked drip edge, deteriorated fascia, clogged gutters, and wind-lifted shingles."
+}

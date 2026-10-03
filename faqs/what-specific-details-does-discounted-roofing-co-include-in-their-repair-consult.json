@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-specific-details-does-discounted-roofing-co-include-in-their-repair-consult",
+  "name": "What specific details does Discounted Roofing Co. include in their repair consultation reports?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What specific details does Discounted Roofing Co. include in their repair consultation reports?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our residential roof repair consultation reports from Discounted Roofing Co. include detailed findings from the inspection, photographic evidence of damage, recommended repair solutions, and a transparent cost estimate. We specifically outline the scope of work, materials to be used, and the projected timeline for repairs. This comprehensive approach ensures you have a clear understanding of your roof's condition and the proposed solution, enabling you to make an informed decision without hidden surprises.",
+        "@type": "Answer",
+        "description": "Reports include detailed findings, photos of damage, recommended repairs, scope of work, materials, and a transparent cost estimate."
+      }
+    }
+  ],
+  "description": "Reports include detailed findings, photos of damage, recommended repairs, scope of work, materials, and a transparent cost estimate."
+}

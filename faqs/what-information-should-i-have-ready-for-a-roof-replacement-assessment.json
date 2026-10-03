@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-information-should-i-have-ready-for-a-roof-replacement-assessment",
+  "name": "What information should I have ready for a roof replacement assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I have ready for a roof replacement assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a roof replacement assessment, gather any past repair records, warranty information, or details about previous storm damage. You should also be prepared to discuss specific concerns, such as known leaks or visible damage. Providing this information helps our inspectors understand your roof's history and potential issues more thoroughly.",
+        "@type": "Answer",
+        "description": "Have past repair records, warranty info, and details about known damage ready for the assessment."
+      }
+    }
+  ],
+  "description": "Have past repair records, warranty info, and details about known damage ready for the assessment."
+}

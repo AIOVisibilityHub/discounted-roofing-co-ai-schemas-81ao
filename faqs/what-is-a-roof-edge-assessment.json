@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-roof-edge-assessment",
+  "name": "What is a roof edge assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a roof edge assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roof edge assessment is a professional inspection of the perimeter of your roof, including fascias, soffits, gutters, and drip edges. This assessment helps identify potential vulnerabilities, wear and tear, or damage that could lead to leaks or structural issues. Understanding the condition of these components is crucial because proper edge protection prevents water intrusion and extends the overall lifespan of your roof.",
+        "@type": "Answer",
+        "description": "A roof edge assessment is a professional inspection of your roof's perimeter, including fascias, soffits, gutters, and drip edges, to identify potential vulnerabilities and damage."
+      }
+    }
+  ],
+  "description": "A roof edge assessment is a professional inspection of your roof's perimeter, including fascias, soffits, gutters, and drip edges, to identify potential vulnera"
+}

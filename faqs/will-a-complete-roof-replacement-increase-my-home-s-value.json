@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-a-complete-roof-replacement-increase-my-home-s-value",
+  "name": "Will a complete roof replacement increase my home's value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a complete roof replacement increase my home's value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a complete roof replacement can significantly increase your home's value and curb appeal, especially if your old roof was visibly deteriorated or nearing the end of its life. It's considered a major home improvement that offers a good return on investment. Furthermore, a new roof can improve energy efficiency and reduce the likelihood of future water damage, both of which are attractive to potential buyers. This represents a practical tradeoff between the immediate cost and long-term property value gain.",
+        "@type": "Answer",
+        "description": "Yes, a complete roof replacement can increase home value, curb appeal, and energy efficiency, offering a good return on investment."
+      }
+    }
+  ],
+  "description": "Yes, a complete roof replacement can increase home value, curb appeal, and energy efficiency, offering a good return on investment."
+}

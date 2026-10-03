@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-typical-cost-range-for-residential-roof-repairs-in-the-dfw-area",
+  "name": "What is the typical cost range for residential roof repairs in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for residential roof repairs in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of residential roof repairs in the DFW area can vary significantly based on the type of damage, the materials required, and the labor involved. Small repairs might range from a few hundred dollars, while more complex issues can cost several thousands. We provide a free, no-obligation estimate after assessing your specific repair needs to give you an accurate cost.",
+        "@type": "Answer",
+        "description": "Costs for residential roof repairs in DFW vary widely based on damage and materials, from hundreds for small fixes to thousands for complex issues."
+      }
+    }
+  ],
+  "description": "Costs for residential roof repairs in DFW vary widely based on damage and materials, from hundreds for small fixes to thousands for complex issues."
+}

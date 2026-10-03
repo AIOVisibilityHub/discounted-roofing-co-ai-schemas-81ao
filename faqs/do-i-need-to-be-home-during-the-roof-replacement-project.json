@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/do-i-need-to-be-home-during-the-roof-replacement-project",
+  "name": "Do I need to be home during the roof replacement project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be home during the roof replacement project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's not strictly necessary for you to be home for the entire duration of the roof replacement, we recommend being available on the first day to discuss any last-minute details and on the final day for a walk-through. Our crews can work efficiently even if you are away. However, it is important to ensure clear access around your property for material delivery and debris removal, and to keep pets indoors for safety.",
+        "@type": "Answer",
+        "description": "You don't need to be home for the entire project, but being available on the first and last day is recommended for discussions and a final walk-through. Ensure clear property access and pet safety."
+      }
+    }
+  ],
+  "description": "You don't need to be home for the entire project, but being available on the first and last day is recommended for discussions and a final walk-through. Ensure"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-prepare-for-my-roof-replacement-consultation",
+  "name": "What should I prepare for my roof replacement consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare for my roof replacement consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your roof replacement consultation, it's helpful to clear access around your home and note any specific areas of concern, such as leaks or visible damage. Consider what material preferences you might have or if you need an emergency repair. Having any previous roofing repair documentation available can also provide valuable context. This preparation helps our specialists focus on your specific needs and develop the most accurate and efficient solution.",
+        "@type": "Answer",
+        "description": "Prepare for your consultation by clearing access around your home, noting specific concerns or damage, and gathering any prior repair documentation."
+      }
+    }
+  ],
+  "description": "Prepare for your consultation by clearing access around your home, noting specific concerns or damage, and gathering any prior repair documentation."
+}

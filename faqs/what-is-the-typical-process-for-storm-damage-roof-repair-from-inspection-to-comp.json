@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-typical-process-for-storm-damage-roof-repair-from-inspection-to-comp",
+  "name": "What is the typical process for storm damage roof repair, from inspection to completion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for storm damage roof repair, from inspection to completion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with a thorough inspection to assess the extent of the storm damage. Following the inspection, Discounted Roofing Co. will provide a detailed report and estimate. If an insurance claim is involved, we can assist with the documentation and communication with your insurance adjuster. Once approvals are in place, we schedule the repair, which involves safely removing damaged materials and installing new roofing components. The final step is a comprehensive cleanup and a final inspection to ensure the repair meets quality standards and resolves all issues. Throughout the process, clear communication ensures you are informed at each stage.",
+        "@type": "Answer",
+        "description": "The process involves inspection, detailed estimate, insurance claim assistance (if needed), repair, and final cleanup/inspection. We keep you informed throughout."
+      }
+    }
+  ],
+  "description": "The process involves inspection, detailed estimate, insurance claim assistance (if needed), repair, and final cleanup/inspection. We keep you informed throughou"
+}

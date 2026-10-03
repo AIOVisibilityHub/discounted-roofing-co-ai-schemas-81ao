@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-new-roof-replacement-cost",
+  "name": "How much does a new roof replacement cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a new roof replacement cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a new roof replacement varies significantly based on factors such as the size of your roof, the chosen material, its complexity (e.g., steepness, number of valleys), and the need for any structural repairs. While we cannot provide an exact figure without an inspection, asphalt shingle roofs are generally the most budget-friendly option. We provide detailed estimates after a thorough assessment of your specific property.",
+        "@type": "Answer",
+        "description": "New roof costs depend on size, material, complexity, and necessary repairs. Asphalt shingles are typically more budget-friendly. We provide detailed estimates after an inspection."
+      }
+    }
+  ],
+  "description": "New roof costs depend on size, material, complexity, and necessary repairs. Asphalt shingles are typically more budget-friendly. We provide detailed estimates a"
+}

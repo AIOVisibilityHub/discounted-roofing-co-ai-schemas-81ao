@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-it-take-to-complete-a-typical-roof-replacement-after-the-scope-is",
+  "name": "How long does it take to complete a typical roof replacement after the scope is finalized?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to complete a typical roof replacement after the scope is finalized?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a roof replacement project after the scope is finalized can vary based on the roof's size, complexity, and weather conditions. For an average-sized home, it typically takes 1-3 days for the physical installation, assuming good weather. However, the overall timeline from initial consultation to final completion can extend due to material availability, permitting processes, and scheduling. Discussing these factors with your contractor during scope planning provides a more accurate project timeline.",
+        "@type": "Answer",
+        "description": "After scope finalization, a typical roof replacement takes 1-3 days, but overall project time varies based on roof size, complexity, weather, and material availability."
+      }
+    }
+  ],
+  "description": "After scope finalization, a typical roof replacement takes 1-3 days, but overall project time varies based on roof size, complexity, weather, and material avail"
+}

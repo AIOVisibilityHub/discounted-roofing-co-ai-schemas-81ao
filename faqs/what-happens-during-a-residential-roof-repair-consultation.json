@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-during-a-residential-roof-repair-consultation",
+  "name": "What happens during a residential roof repair consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during a residential roof repair consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a residential roof repair consultation with Discounted Roofing Co., a trained inspector will assess your roof's condition, identify any damage, and discuss potential repair solutions. We examine the entire roof system, including shingles, flashing, gutters, and ventilation, to provide a comprehensive evaluation. You should prepare to discuss your concerns and any visible issues you've noticed, such as leaks or missing shingles, to help our team focus the inspection. We then provide a detailed report and a transparent estimate for the necessary repairs.",
+        "@type": "Answer",
+        "description": "A residential roof repair consultation involves a thorough inspection of your roof's condition by a trained expert, followed by a detailed report and repair estimate."
+      }
+    }
+  ],
+  "description": "A residential roof repair consultation involves a thorough inspection of your roof's condition by a trained expert, followed by a detailed report and repair est"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-typical-roof-repair-consultation-take",
+  "name": "How long does a typical roof repair consultation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical roof repair consultation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a residential roof repair consultation typically ranges from 30 minutes to an hour, depending on the size and complexity of your roof and the extent of visible damage. Our goal is to conduct a thorough inspection without rushing. To ensure an efficient process, please clear any obstructions around your home that might impede access to the roof or property perimeter. This allows our inspectors to work safely and effectively.",
+        "@type": "Answer",
+        "description": "A roof repair consultation usually takes 30 minutes to an hour, depending on roof size and damage complexity."
+      }
+    }
+  ],
+  "description": "A roof repair consultation usually takes 30 minutes to an hour, depending on roof size and damage complexity."
+}

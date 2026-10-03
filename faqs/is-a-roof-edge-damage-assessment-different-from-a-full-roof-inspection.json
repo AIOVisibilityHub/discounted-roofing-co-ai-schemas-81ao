@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/is-a-roof-edge-damage-assessment-different-from-a-full-roof-inspection",
+  "name": "Is a roof edge damage assessment different from a full roof inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a roof edge damage assessment different from a full roof inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a roof edge damage assessment is a focused inspection specifically targeting the perimeter components of your roof, such as fascia, soffits, gutters, and drip edges. While a full roof inspection covers the entire roof surface, structural elements, ventilation, and flashing comprehensively, an edge assessment zeroes in on the areas most susceptible to wind and water damage. This specialized focus allows for a deeper dive into common problem zones often overlooked in a general inspection, offering a practical tradeoff between speed and depth for specific concerns.",
+        "@type": "Answer",
+        "description": "Yes, an edge assessment specifically targets the roof's perimeter components, unlike a full inspection that covers the entire roof."
+      }
+    }
+  ],
+  "description": "Yes, an edge assessment specifically targets the roof's perimeter components, unlike a full inspection that covers the entire roof."
+}

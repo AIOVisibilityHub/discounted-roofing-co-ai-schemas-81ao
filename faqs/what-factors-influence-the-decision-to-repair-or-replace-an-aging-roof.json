@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-influence-the-decision-to-repair-or-replace-an-aging-roof",
+  "name": "What factors influence the decision to repair or replace an aging roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the decision to repair or replace an aging roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors influence the repair-versus-replace decision for an aging roof, including the roof's age, the extent and type of damage, the cost of repairs versus replacement, and your long-term plans for the property. For example, scattered shingle damage might be repairable, but widespread granule loss across the roof generally indicates replacement is more cost-effective. Discounted Roofing Co. provides a detailed analysis, including cost comparisons, to help you weigh these options for your specific situation.",
+        "@type": "Answer",
+        "description": "Factors influencing repair or replacement include roof age, damage extent, repair vs. replacement cost, and your property plans."
+      }
+    }
+  ],
+  "description": "Factors influencing repair or replacement include roof age, damage extent, repair vs. replacement cost, and your property plans."
+}

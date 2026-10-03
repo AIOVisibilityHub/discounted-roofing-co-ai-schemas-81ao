@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-if-my-roof-damage-is-minor-during-the-evaluation",
+  "name": "What if my roof damage is minor during the evaluation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if my roof damage is minor during the evaluation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Even minor roof damage identified during an evaluation should be addressed promptly. Small issues, such as a few cracked shingles or a loose flashing, can escalate quickly into larger, more expensive problems like leaks and structural damage if left unrepaired. Discounted Roofing Co. can provide targeted repairs for minor issues, preventing them from becoming major concerns and extending your roof's lifespan.",
+        "@type": "Answer",
+        "description": "Address minor roof damage found during an evaluation promptly to prevent it from escalating into more significant and costly problems."
+      }
+    }
+  ],
+  "description": "Address minor roof damage found during an evaluation promptly to prevent it from escalating into more significant and costly problems."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-i-get-an-emergency-roof-repair-estimate-outside-of-normal-business-hours",
+  "name": "Can I get an emergency roof repair estimate outside of normal business hours?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get an emergency roof repair estimate outside of normal business hours?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For urgent situations, Discounted Roofing Co. understands that damage can occur at any time, especially during severe weather events common in areas like Fort Worth or Dallas. While our standard estimates are typically conducted during business hours, we offer options for emergency assessments for critical issues that require immediate attention to prevent further damage. We recommend contacting us directly to discuss your specific emergency needs and available response times.",
+        "@type": "Answer",
+        "description": "Emergency roof repair estimates for critical issues are available outside normal business hours. Contact us directly to discuss immediate needs and response times."
+      }
+    }
+  ],
+  "description": "Emergency roof repair estimates for critical issues are available outside normal business hours. Contact us directly to discuss immediate needs and response tim"
+}

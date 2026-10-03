@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-common-roofing-materials-considered-in-a-replacement-scope-in-the-d",
+  "name": "What are the common roofing materials considered in a replacement scope in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common roofing materials considered in a replacement scope in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the DFW area, common roofing materials considered in a replacement scope include asphalt shingles, which are popular for their affordability and variety. Metal roofing is also a growing option, known for its longevity and energy efficiency. Other considerations might include tile or synthetic options, depending on desired aesthetics and budget. The choice of material often depends on local climate factors, aesthetic preferences, and the homeowner's budget. Your contractor can help you weigh the pros and cons of each type for your specific property and local conditions.",
+        "@type": "Answer",
+        "description": "Common DFW roofing materials in a replacement scope include asphalt shingles, metal roofing, and sometimes tile or synthetic options, chosen based on climate, aesthetics, and budget."
+      }
+    }
+  ],
+  "description": "Common DFW roofing materials in a replacement scope include asphalt shingles, metal roofing, and sometimes tile or synthetic options, chosen based on climate, a"
+}

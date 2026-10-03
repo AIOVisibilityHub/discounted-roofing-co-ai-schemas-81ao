@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-the-right-contractor-for-residential-roof-repairs",
+  "name": "How do I choose the right contractor for residential roof repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for residential roof repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a residential roof repair contractor, look for companies with local experience, proper licensing, and positive customer reviews. Ensure they provide a detailed estimate and explain the repair process clearly. For residents in our service areas like Allen or Plano, verifying their local presence ensures familiarity with area-specific building codes and weather challenges.",
+        "@type": "Answer",
+        "description": "Choose a residential roof repair contractor based on local experience, licensing, customer reviews, and detailed estimates."
+      }
+    }
+  ],
+  "description": "Choose a residential roof repair contractor based on local experience, licensing, customer reviews, and detailed estimates."
+}

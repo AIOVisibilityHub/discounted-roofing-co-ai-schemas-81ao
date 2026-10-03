@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-it-usually-take-to-repair-a-roof-after-storm-damage",
+  "name": "How long does it usually take to repair a roof after storm damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it usually take to repair a roof after storm damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of storm damage roof repair depends on the severity and type of damage, as well as the size of your roof. Minor repairs, such as replacing a few shingles, might take a few hours. More extensive damage, like a full roof replacement due to severe hail or wind, could take several days. Factors like weather conditions can also influence the timeline. Discounted Roofing Co. aims to complete repairs efficiently while maintaining high-quality workmanship, and we will provide an estimated timeline after the initial assessment.",
+        "@type": "Answer",
+        "description": "Repair time varies from hours for minor damage to several days for major replacements, depending on severity, roof size, and weather. We provide an estimate after assessment."
+      }
+    }
+  ],
+  "description": "Repair time varies from hours for minor damage to several days for major replacements, depending on severity, roof size, and weather. We provide an estimate aft"
+}

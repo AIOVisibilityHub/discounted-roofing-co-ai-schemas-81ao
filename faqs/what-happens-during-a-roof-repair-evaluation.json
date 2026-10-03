@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-during-a-roof-repair-evaluation",
+  "name": "What happens during a roof repair evaluation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during a roof repair evaluation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a roof repair evaluation, a technician from Discounted Roofing Co. will thoroughly inspect your roof's exterior for damage, including shingles, flashing, gutters, and vents. They will also check the interior of your attic for signs of leaks, water stains, or structural issues. The evaluation aims to identify all present damage, assess its severity, and determine the necessary repairs. A detailed report with findings and recommendations will be provided.",
+        "@type": "Answer",
+        "description": "A roof repair evaluation involves a thorough inspection of your roof's exterior and attic to identify damage and assess repair needs."
+      }
+    }
+  ],
+  "description": "A roof repair evaluation involves a thorough inspection of your roof's exterior and attic to identify damage and assess repair needs."
+}

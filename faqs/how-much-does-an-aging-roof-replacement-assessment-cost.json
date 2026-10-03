@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-an-aging-roof-replacement-assessment-cost",
+  "name": "How much does an aging roof replacement assessment cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does an aging roof replacement assessment cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of an aging roof replacement assessment can vary, but many reputable roofing companies, including Discounted Roofing Co., offer these initial inspections at no charge. The assessment aims to provide you with a clear understanding of your roof's condition and whether a replacement is necessary. We focus on transparency, providing a detailed report without any obligation for further services, allowing you to make an informed decision.",
+        "@type": "Answer",
+        "description": "Many companies, including Discounted Roofing Co., offer complimentary aging roof replacement assessments to determine your roof's condition."
+      }
+    }
+  ],
+  "description": "Many companies, including Discounted Roofing Co., offer complimentary aging roof replacement assessments to determine your roof's condition."
+}

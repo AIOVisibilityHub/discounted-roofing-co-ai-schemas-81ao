@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-my-homeowner-s-insurance-cover-residential-roof-repairs",
+  "name": "Will my homeowner's insurance cover residential roof repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover residential roof repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many homeowner's insurance policies cover residential roof repairs caused by sudden, accidental events like storms, hail, or falling trees. Coverage typically excludes damage from neglect or normal wear and tear. We recommend contacting your insurance provider directly to understand your specific policy details and coverage limitations before filing a claim.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance often covers roof repairs from sudden accidental damage like storms, but usually not neglect or wear and tear."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance often covers roof repairs from sudden accidental damage like storms, but usually not neglect or wear and tear."
+}

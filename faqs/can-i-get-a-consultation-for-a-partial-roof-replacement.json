@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-i-get-a-consultation-for-a-partial-roof-replacement",
+  "name": "Can I get a consultation for a partial roof replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get a consultation for a partial roof replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Discounted Roofing Co. provides consultations for both full and partial roof replacements. During the consultation, our specialist will assess the extent of the damage to determine if a partial replacement is a viable and cost-effective solution. This decision often depends on the age of the existing roof, the severity of localized damage, and matching capabilities of materials to ensure consistent protection and appearance for your home.",
+        "@type": "Answer",
+        "description": "Yes, we consult on partial roof replacements. Our specialist assesses damage extent, roof age, and material matching to determine if it's a viable option."
+      }
+    }
+  ],
+  "description": "Yes, we consult on partial roof replacements. Our specialist assesses damage extent, roof age, and material matching to determine if it's a viable option."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-i-get-a-roof-replacement-assessment-if-i-don-t-see-visible-damage",
+  "name": "Can I get a roof replacement assessment if I don't see visible damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get a roof replacement assessment if I don't see visible damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can and should get a roof replacement assessment even without visible damage, especially if your roof is over 15-20 years old or after a significant storm. Underlying issues like weakened decking or hidden leaks can exist without obvious exterior signs. Regular assessments help identify problems early, preventing more extensive and costly damage down the line.",
+        "@type": "Answer",
+        "description": "Yes, get an assessment for roofs over 15-20 years old or after storms, even without visible damage."
+      }
+    }
+  ],
+  "description": "Yes, get an assessment for roofs over 15-20 years old or after storms, even without visible damage."
+}

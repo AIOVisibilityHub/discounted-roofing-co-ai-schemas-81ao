@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-roof-ridge-damage-assessment-take",
+  "name": "How long does a roof ridge damage assessment take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a roof ridge damage assessment take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard roof ridge damage assessment typically takes between 30 minutes to an hour, depending on the size and accessibility of your roof, as well as the extent of visible damage. This includes the time needed for a thorough visual inspection and immediate on-site discussion of initial findings. For more complex cases or larger commercial properties in our service areas like Arlington or Grand Prairie, the assessment might take slightly longer to ensure all aspects are properly evaluated.",
+        "@type": "Answer",
+        "description": "Most assessments take 30-60 minutes, depending on roof size and accessibility. Larger or more complex roofs may take longer."
+      }
+    }
+  ],
+  "description": "Most assessments take 30-60 minutes, depending on roof size and accessibility. Larger or more complex roofs may take longer."
+}

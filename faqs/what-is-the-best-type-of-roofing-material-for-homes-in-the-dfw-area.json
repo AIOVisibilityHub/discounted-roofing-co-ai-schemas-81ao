@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-best-type-of-roofing-material-for-homes-in-the-dfw-area",
+  "name": "What is the best type of roofing material for homes in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the best type of roofing material for homes in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For homes in the DFW area, asphalt shingles are a popular and cost-effective choice due to their versatility and ability to withstand local weather conditions, including high winds and hail. Other durable options include metal roofing, which offers superior longevity and energy efficiency, and often comes with extended warranties. The best material for your home will depend on your budget, desired aesthetic, and specific performance requirements for durability against common DFW weather patterns. We can discuss the pros and cons of each material during a consultation to help you make an informed decision.",
+        "@type": "Answer",
+        "description": "Asphalt shingles are popular and cost-effective in DFW. Metal roofing offers superior longevity and energy efficiency against local weather. The best choice depends on budget and specific needs."
+      }
+    }
+  ],
+  "description": "Asphalt shingles are popular and cost-effective in DFW. Metal roofing offers superior longevity and energy efficiency against local weather. The best choice dep"
+}

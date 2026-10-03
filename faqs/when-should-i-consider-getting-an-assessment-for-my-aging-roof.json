@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-consider-getting-an-assessment-for-my-aging-roof",
+  "name": "When should I consider getting an assessment for my aging roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider getting an assessment for my aging roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider getting an assessment for your aging roof if it is over 15-20 years old, or if you notice visible signs of wear such as missing or cracked shingles, significant granule loss, or recurring leaks. Environmental factors, like strong storms common in the DFW area, can accelerate roof aging even before the typical lifespan. It's also wise to get an assessment after any major weather event to catch potential damage early.",
+        "@type": "Answer",
+        "description": "Consider an assessment if your roof is 15-20+ years old, shows visible wear, or after major DFW weather events."
+      }
+    }
+  ],
+  "description": "Consider an assessment if your roof is 15-20+ years old, shows visible wear, or after major DFW weather events."
+}

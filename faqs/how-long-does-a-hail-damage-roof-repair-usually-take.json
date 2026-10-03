@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-hail-damage-roof-repair-usually-take",
+  "name": "How long does a hail damage roof repair usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a hail damage roof repair usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of hail damage repair depends on the extent of the damage, the size of your roof, and material availability. Minor repairs might take a day, while a full roof replacement can take several days to a week. Weather conditions can also affect the timeline, as roofing work requires dry conditions. Your contractor should provide an estimated timeframe.",
+        "@type": "Answer",
+        "description": "Repair time varies by damage extent, roof size, and weather; minor repairs take a day, full replacements several days."
+      }
+    }
+  ],
+  "description": "Repair time varies by damage extent, roof size, and weather; minor repairs take a day, full replacements several days."
+}

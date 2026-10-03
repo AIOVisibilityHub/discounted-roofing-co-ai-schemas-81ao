@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-know-if-my-roof-needs-to-be-replaced",
+  "name": "How do I know if my roof needs to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my roof needs to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs your roof needs replacement include missing or cracked shingles, visible sagging, water stains on ceilings, or granule loss from asphalt shingles. You might also notice a sudden increase in your energy bills. A professional inspection can accurately assess your roof's condition and determine if a full replacement is necessary or if repairs are sufficient.",
+        "@type": "Answer",
+        "description": "Look for missing or cracked shingles, sagging, water stains, or granule loss. A professional inspection is recommended to confirm if replacement is needed."
+      }
+    }
+  ],
+  "description": "Look for missing or cracked shingles, sagging, water stains, or granule loss. A professional inspection is recommended to confirm if replacement is needed."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-roofing-companies-handle-cleanup-during-and-after-a-roof-replacement",
+  "name": "How do roofing companies handle cleanup during and after a roof replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do roofing companies handle cleanup during and after a roof replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most roofing companies manage cleanup throughout the project, not just at the end. They typically use tarps to protect landscaping and catch falling debris, and magnetic sweepers to collect nails from grass and driveways. After the new roof is installed, a final sweep and debris removal are conducted. A key preparation step is to clear access routes around your home to allow for efficient debris removal.",
+        "@type": "Answer",
+        "description": "Roofing companies use tarps and magnetic sweepers throughout the process. A final sweep occurs after installation. Clear access routes for efficient removal."
+      }
+    }
+  ],
+  "description": "Roofing companies use tarps and magnetic sweepers throughout the process. A final sweep occurs after installation. Clear access routes for efficient removal."
+}

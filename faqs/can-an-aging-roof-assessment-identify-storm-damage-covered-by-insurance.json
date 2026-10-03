@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-an-aging-roof-assessment-identify-storm-damage-covered-by-insurance",
+  "name": "Can an aging roof assessment identify storm damage covered by insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can an aging roof assessment identify storm damage covered by insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, an aging roof assessment can often identify storm damage that might be covered by your insurance policy, even if it's not immediately obvious. Our inspectors are trained to spot subtle signs of hail, wind, or debris damage that can significantly impact an aging roof's integrity. For example, in DFW, hail damage might appear as circular dents on shingles. We can help document this damage for your insurance claim process.",
+        "@type": "Answer",
+        "description": "An aging roof assessment can identify storm damage, like hail or wind, to help with potential insurance claims."
+      }
+    }
+  ],
+  "description": "An aging roof assessment can identify storm damage, like hail or wind, to help with potential insurance claims."
+}

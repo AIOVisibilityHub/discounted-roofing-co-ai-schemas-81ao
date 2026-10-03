@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-preparations-should-i-make-before-roof-repair-work-begins",
+  "name": "What preparations should I make before roof repair work begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations should I make before roof repair work begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before roof repair work begins, ensure clear access to your property for the roofing crew and their equipment. Protect sensitive landscaping and outdoor furniture. If possible, secure pets indoors. Inform your neighbors about the upcoming work. Inside your home, consider moving valuables or fragile items away from ceilings directly below the repair area to prevent accidental damage from vibrations or falling debris.",
+        "@type": "Answer",
+        "description": "Clear access for the crew, protect landscaping, secure pets, inform neighbors, and move indoor valuables below repair areas."
+      }
+    }
+  ],
+  "description": "Clear access for the crew, protect landscaping, secure pets, inform neighbors, and move indoor valuables below repair areas."
+}

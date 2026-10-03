@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-does-discounted-roofing-co-handle-hail-damage-assessments-in-areas-like-alle",
+  "name": "How does Discounted Roofing Co. handle hail damage assessments in areas like Allen or Plano?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does Discounted Roofing Co. handle hail damage assessments in areas like Allen or Plano?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Discounted Roofing Co. offers free, thorough hail damage assessments across our service areas, including Allen and Plano. Our certified inspectors are trained to identify subtle and overt signs of hail damage, providing a comprehensive report. We also assist homeowners in navigating the insurance claims process by documenting the damage accurately and communicating with adjusters on your behalf.",
+        "@type": "Answer",
+        "description": "Discounted Roofing Co. offers free, thorough hail damage assessments in areas like Allen and Plano, assisting with insurance claims."
+      }
+    }
+  ],
+  "description": "Discounted Roofing Co. offers free, thorough hail damage assessments in areas like Allen and Plano, assisting with insurance claims."
+}

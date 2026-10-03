@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-preparation-is-needed-before-a-roof-replacement-begins",
+  "name": "What preparation is needed before a roof replacement begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before a roof replacement begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a roof replacement, homeowners should clear their driveway for material delivery and debris removal, remove wall hangings or fragile items from interior walls, and cover outdoor furniture or plants to protect them from falling debris. It's also advisable to trim any overhanging branches. These steps help ensure the safety of your property and facilitate a smoother, more efficient work process. Discounted Roofing Co. will provide a checklist of preparatory actions before starting the project.",
+        "@type": "Answer",
+        "description": "Prepare by clearing driveways, securing interior and exterior items, and trimming branches to protect property. We provide a preparation checklist before work begins."
+      }
+    }
+  ],
+  "description": "Prepare by clearing driveways, securing interior and exterior items, and trimming branches to protect property. We provide a preparation checklist before work b"
+}

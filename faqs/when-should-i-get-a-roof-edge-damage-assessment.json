@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-a-roof-edge-damage-assessment",
+  "name": "When should I get a roof edge damage assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a roof edge damage assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should get a roof edge damage assessment if you notice visible signs of damage like loose or missing shingles at the edges, sagging gutters, detached fascia boards, or water stains on exterior walls near the roofline. It's also recommended after severe weather events, such as high winds or hail, which are common in areas like DFW. Regular assessments can help detect issues early, preventing more extensive and costly repairs down the line.",
+        "@type": "Answer",
+        "description": "Get an assessment if you see visible damage or after severe weather, common in our DFW service area."
+      }
+    }
+  ],
+  "description": "Get an assessment if you see visible damage or after severe weather, common in our DFW service area."
+}

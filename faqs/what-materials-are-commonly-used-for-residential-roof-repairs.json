@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-materials-are-commonly-used-for-residential-roof-repairs",
+  "name": "What materials are commonly used for residential roof repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are commonly used for residential roof repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The materials used for residential roof repairs typically match the existing roofing material, which often includes asphalt shingles, but can also involve tiles, metal panels, or flat roof membranes. We source high-quality materials to ensure durability and a seamless match with your current roof. The specific materials needed will be detailed in your repair estimate.",
+        "@type": "Answer",
+        "description": "Common repair materials match your existing roof, usually asphalt shingles, but can also be tiles, metal, or flat roof membranes."
+      }
+    }
+  ],
+  "description": "Common repair materials match your existing roof, usually asphalt shingles, but can also be tiles, metal, or flat roof membranes."
+}

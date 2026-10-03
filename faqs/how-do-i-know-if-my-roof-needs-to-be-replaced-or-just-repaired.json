@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-know-if-my-roof-needs-to-be-replaced-or-just-repaired",
+  "name": "How do I know if my roof needs to be replaced or just repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my roof needs to be replaced or just repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining whether your roof needs replacement or repair depends on the extent of damage, the roof's age, and the type of materials. Minor leaks or isolated damage might be resolved with repairs, especially if the roof is relatively new. However, widespread shingle damage, significant granule loss, or a roof nearing the end of its typical lifespan (often 15-20 years for asphalt shingles) usually points to the need for a full reroof. A professional inspection can assess the condition of your entire roof system, including the decking and flashing, to provide a clear recommendation based on the overall structural integrity and potential for future issues.",
+        "@type": "Answer",
+        "description": "Assess the extent of damage, the roof's age, and material type. Widespread damage or an old roof typically indicates a need for replacement over repair."
+      }
+    }
+  ],
+  "description": "Assess the extent of damage, the roof's age, and material type. Widespread damage or an old roof typically indicates a need for replacement over repair."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-process-for-a-roof-ridge-damage-assessment-with-discounted-roofing-c",
+  "name": "What is the process for a roof ridge damage assessment with Discounted Roofing Co.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for a roof ridge damage assessment with Discounted Roofing Co.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our assessment process begins with a detailed visual inspection of the roof ridge, examining shingles, flashing, and seals for any signs of damage or wear. We then check for interior water damage or leaks that might originate from the ridge. Following the inspection, we provide a comprehensive report outlining our findings, recommended repairs, and transparent pricing. Understanding this process can help you prepare questions and ensure you receive all necessary information for an informed decision.",
+        "@type": "Answer",
+        "description": "We conduct a visual inspection, check for interior leaks, and provide a detailed report with repair recommendations and pricing."
+      }
+    }
+  ],
+  "description": "We conduct a visual inspection, check for interior leaks, and provide a detailed report with repair recommendations and pricing."
+}

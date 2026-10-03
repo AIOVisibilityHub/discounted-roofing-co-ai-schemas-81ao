@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-i-perform-my-own-roof-edge-damage-assessment",
+  "name": "Can I perform my own roof edge damage assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I perform my own roof edge damage assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While you can visually inspect your roof's edges from the ground for obvious issues, a professional assessment is recommended for a thorough and safe evaluation. Professionals have the necessary equipment, training, and experience to identify subtle damage, assess structural integrity, and safely access elevated areas. Attempting a DIY assessment without proper safety gear can be hazardous. Consulting experts helps ensure no critical issues are overlooked, which is crucial for long-term roof health.",
+        "@type": "Answer",
+        "description": "You can check from the ground, but a professional assessment is safer and more thorough due to specialized equipment and training."
+      }
+    }
+  ],
+  "description": "You can check from the ground, but a professional assessment is safer and more thorough due to specialized equipment and training."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-do-if-i-notice-a-small-leak-or-damage-on-my-roof-in-between-profes",
+  "name": "What should I do if I notice a small leak or damage on my roof in between professional inspections?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if I notice a small leak or damage on my roof in between professional inspections?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you notice a small leak or damage, it's crucial to address it promptly to prevent further, more extensive issues. You can temporarily mitigate the problem by placing a bucket under the leak and moving any valuables. Avoid climbing on your roof if you're not experienced or if conditions are unsafe. Contacting a professional for a repair estimate immediately, particularly for residents in places like Allen or Celina, can help assess the situation and prevent minor problems from escalating into costly repairs.",
+        "@type": "Answer",
+        "description": "Address small leaks or damage promptly; temporarily contain leaks and avoid unsafe roof access. Contact a professional for an immediate repair estimate."
+      }
+    }
+  ],
+  "description": "Address small leaks or damage promptly; temporarily contain leaks and avoid unsafe roof access. Contact a professional for an immediate repair estimate."
+}

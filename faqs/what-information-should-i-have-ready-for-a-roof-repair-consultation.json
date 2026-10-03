@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-information-should-i-have-ready-for-a-roof-repair-consultation",
+  "name": "What information should I have ready for a roof repair consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I have ready for a roof repair consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For your residential roof repair consultation, it's helpful to have information about your roof's history, such as its age, any previous repairs, or known issues. You should also be prepared to show the inspector any specific areas of concern, like interior leaks or exterior damage you've observed. Providing this context allows our inspectors to better understand the situation and tailor their assessment to your specific needs, ensuring a more accurate and comprehensive evaluation.",
+        "@type": "Answer",
+        "description": "Have your roof's age, repair history, and any observed issues ready for the consultation to help the inspector."
+      }
+    }
+  ],
+  "description": "Have your roof's age, repair history, and any observed issues ready for the consultation to help the inspector."
+}

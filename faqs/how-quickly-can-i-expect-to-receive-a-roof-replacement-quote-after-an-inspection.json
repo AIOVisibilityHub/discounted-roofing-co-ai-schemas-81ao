@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-quickly-can-i-expect-to-receive-a-roof-replacement-quote-after-an-inspection",
+  "name": "How quickly can I expect to receive a roof replacement quote after an inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly can I expect to receive a roof replacement quote after an inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a thorough inspection, you can typically expect to receive a detailed roof replacement quote within 24-48 hours. This timeframe allows our team to accurately assess all findings, calculate material and labor costs, and prepare a comprehensive proposal tailored to your specific needs. In some instances, for very large or complex projects in areas like Grapevine or Southlake, it might take slightly longer, but we always aim for prompt delivery.",
+        "@type": "Answer",
+        "description": "Expect a detailed roof replacement quote within 24-48 hours after the inspection, sometimes longer for complex projects."
+      }
+    }
+  ],
+  "description": "Expect a detailed roof replacement quote within 24-48 hours after the inspection, sometimes longer for complex projects."
+}

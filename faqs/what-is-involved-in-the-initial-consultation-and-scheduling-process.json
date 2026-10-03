@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-involved-in-the-initial-consultation-and-scheduling-process",
+  "name": "What is involved in the initial consultation and scheduling process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the initial consultation and scheduling process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The initial consultation involves a detailed inspection of your roof to assess its condition, identify any damage, and measure for an accurate estimate. Our team will discuss material options, explain the replacement process, and answer your questions. Following the inspection, we will provide a comprehensive proposal. Once you approve the proposal, we'll coordinate a convenient start date, secure permits if required, and order materials, officially initiating your project's schedule.",
+        "@type": "Answer",
+        "description": "The initial consultation includes a roof inspection, material discussion, and a detailed proposal. Upon approval, we schedule the project, handle permits, and order materials."
+      }
+    }
+  ],
+  "description": "The initial consultation includes a roof inspection, material discussion, and a detailed proposal. Upon approval, we schedule the project, handle permits, and o"
+}

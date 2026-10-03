@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-temporary-measures-can-i-take-if-my-roof-has-wind-damage-before-repairs-beg",
+  "name": "What temporary measures can I take if my roof has wind damage before repairs begin?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What temporary measures can I take if my roof has wind damage before repairs begin?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your roof has wind damage, temporary measures like tarping can help prevent further water intrusion while you await professional repairs. Use heavy-duty tarps securely fastened to prevent them from blowing off. However, attempting to tarp a roof can be hazardous, so prioritize safety. If you're uncomfortable or unable to safely access your roof, contact us immediately, and we can advise on the safest next steps or dispatch a team for emergency tarping, especially in severe cases.",
+        "@type": "Answer",
+        "description": "Temporary measures like securely tarping your roof can prevent further water damage. Exercise extreme caution or contact a professional for safe execution."
+      }
+    }
+  ],
+  "description": "Temporary measures like securely tarping your roof can prevent further water damage. Exercise extreme caution or contact a professional for safe execution."
+}

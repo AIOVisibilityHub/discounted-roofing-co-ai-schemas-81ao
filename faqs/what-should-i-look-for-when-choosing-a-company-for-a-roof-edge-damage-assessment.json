@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-look-for-when-choosing-a-company-for-a-roof-edge-damage-assessment",
+  "name": "What should I look for when choosing a company for a roof edge damage assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when choosing a company for a roof edge damage assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a company for a roof edge damage assessment, look for licensed and insured professionals with a strong local reputation, such as those serving the DFW metroplex and surrounding areas like Addison or Allen. Verify their experience with your specific roofing material and ask for references. A reputable company should provide a transparent process, detailed reports, and clear estimates without pressure. Our team at Discounted Roofing Co. prioritizes clear communication and honest assessments.",
+        "@type": "Answer",
+        "description": "Choose licensed, insured local companies with good reputations, relevant experience, and transparent assessment processes."
+      }
+    }
+  ],
+  "description": "Choose licensed, insured local companies with good reputations, relevant experience, and transparent assessment processes."
+}

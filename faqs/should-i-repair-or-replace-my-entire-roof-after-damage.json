@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/should-i-repair-or-replace-my-entire-roof-after-damage",
+  "name": "Should I repair or replace my entire roof after damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace my entire roof after damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between repair and full replacement depends on the age of your roof, the extent of the damage, and the overall condition of the remaining roofing materials. If the damage is isolated and the roof is relatively new, a repair is often sufficient. However, if the roof is old, has widespread damage, or multiple leaks, a full replacement may be more cost-effective in the long run. An inspection can provide clear guidance.",
+        "@type": "Answer",
+        "description": "Choose repair for isolated damage on newer roofs; replacement for old roofs or widespread damage. An inspection helps decide."
+      }
+    }
+  ],
+  "description": "Choose repair for isolated damage on newer roofs; replacement for old roofs or widespread damage. An inspection helps decide."
+}

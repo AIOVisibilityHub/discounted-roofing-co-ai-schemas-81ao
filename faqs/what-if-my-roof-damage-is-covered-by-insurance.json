@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-if-my-roof-damage-is-covered-by-insurance",
+  "name": "What if my roof damage is covered by insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if my roof damage is covered by insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your roof damage might be covered by insurance, our consultation can help identify and document the damage. We can assist you by providing a detailed inspection report and an estimate that you can submit to your insurance provider. While we don't file claims for you, our expertise can support your claim process, especially for storm-related damages common in areas like Allen or Plano. This helps ensure you receive a fair assessment for your roof repair or replacement.",
+        "@type": "Answer",
+        "description": "If your roof damage is insurance-related, our consultation provides documentation and estimates to support your claim, especially for common storm damages in areas like Allen or Plano."
+      }
+    }
+  ],
+  "description": "If your roof damage is insurance-related, our consultation provides documentation and estimates to support your claim, especially for common storm damages in ar"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-typical-timeline-for-a-roof-replacement-project",
+  "name": "What is the typical timeline for a roof replacement project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a roof replacement project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical timeline for a roof replacement can vary depending on the roof's size, complexity, and weather conditions. For an average residential home, the removal of the old roof and installation of a new one usually takes 1-3 days. This does not include the time for material ordering and delivery, or any necessary permits. We aim to complete projects efficiently while maintaining quality.",
+        "@type": "Answer",
+        "description": "An average residential roof replacement typically takes 1-3 days for installation, not including material delivery or permits. This timeline can vary by roof size and complexity."
+      }
+    }
+  ],
+  "description": "An average residential roof replacement typically takes 1-3 days for installation, not including material delivery or permits. This timeline can vary by roof si"
+}

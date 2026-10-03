@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-included-in-a-typical-roof-replacement-scope-plan",
+  "name": "What is included in a typical roof replacement scope plan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a typical roof replacement scope plan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical roof replacement scope plan details all work involved, from material selection to project completion. It outlines the type of roofing materials (e.g., asphalt shingles, metal), underlayment, ventilation, flashing, and gutter system components. The plan also covers tear-off procedures for existing roofs, debris removal, and any necessary repairs to the roof deck. Understanding these details helps clarify the full extent of work and materials required for your home, ensuring alignment between your expectations and the contractor's proposal.",
+        "@type": "Answer",
+        "description": "A roof replacement scope plan details all work, including materials, tear-off, repairs, ventilation, and flashing, from start to finish."
+      }
+    }
+  ],
+  "description": "A roof replacement scope plan details all work, including materials, tear-off, repairs, ventilation, and flashing, from start to finish."
+}

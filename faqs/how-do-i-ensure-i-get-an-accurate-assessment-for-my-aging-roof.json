@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-ensure-i-get-an-accurate-assessment-for-my-aging-roof",
+  "name": "How do I ensure I get an accurate assessment for my aging roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I ensure I get an accurate assessment for my aging roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To ensure an accurate assessment for your aging roof, choose a reputable local company with experience in your area's specific weather challenges, like Discounted Roofing Co. in the DFW region. Ask for a comprehensive inspection that includes the attic and detailed photographic evidence of any damage. A thorough assessment provides the best basis for deciding your next steps, whether it's repair or full replacement.",
+        "@type": "Answer",
+        "description": "Choose a reputable local company for a comprehensive inspection with photographic evidence to ensure an accurate assessment."
+      }
+    }
+  ],
+  "description": "Choose a reputable local company for a comprehensive inspection with photographic evidence to ensure an accurate assessment."
+}

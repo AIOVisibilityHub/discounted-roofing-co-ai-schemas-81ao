@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-look-for-when-comparing-different-roof-replacement-estimates",
+  "name": "What should I look for when comparing different roof replacement estimates?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when comparing different roof replacement estimates?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When comparing roof replacement estimates, look beyond just the bottom-line price. Verify that each estimate includes similar scope of work, materials, and warranty information. Pay attention to line items such as tear-off and disposal, underlayment, ventilation, and any hidden fees. A comprehensive estimate will clearly itemize all costs, allowing you to understand what you are paying for and make an informed comparison.",
+        "@type": "Answer",
+        "description": "When comparing estimates, check for similar scope of work, materials, warranties, and detailed itemization of all costs and services."
+      }
+    }
+  ],
+  "description": "When comparing estimates, check for similar scope of work, materials, warranties, and detailed itemization of all costs and services."
+}

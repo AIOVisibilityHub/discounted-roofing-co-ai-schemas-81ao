@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-the-right-roofing-material-during-a-consultation",
+  "name": "How do I choose the right roofing material during a consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right roofing material during a consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During your consultation, our specialists will discuss various roofing materials suited for the DFW climate, such as asphalt shingles, metal roofing, or TPO. The right choice depends on factors like your budget, desired aesthetics, durability requirements, and energy efficiency goals. For example, asphalt shingles are cost-effective, while metal roofs offer long-term durability and energy savings. We'll help you weigh the pros and cons of each option.",
+        "@type": "Answer",
+        "description": "Choosing the right roofing material depends on budget, aesthetics, durability, and energy efficiency, with our specialists guiding you through options like asphalt or metal roofing in the DFW climate."
+      }
+    }
+  ],
+  "description": "Choosing the right roofing material depends on budget, aesthetics, durability, and energy efficiency, with our specialists guiding you through options like asph"
+}

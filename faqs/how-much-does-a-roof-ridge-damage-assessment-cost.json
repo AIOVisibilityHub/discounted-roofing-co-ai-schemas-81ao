@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-roof-ridge-damage-assessment-cost",
+  "name": "How much does a roof ridge damage assessment cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a roof ridge damage assessment cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a roof ridge damage assessment can vary based on the complexity and size of your roof, but Discounted Roofing Co. often provides complimentary initial inspections for damage assessment. Any costs for more extensive diagnostic work will be clearly communicated upfront. For properties in our service areas like Dallas or Fort Worth, factors such as roof accessibility or specific damage indicators can influence the time and resources required for a thorough evaluation, which impacts the final cost if it's not a free inspection.",
+        "@type": "Answer",
+        "description": "Assessment costs vary; Discounted Roofing Co. often offers complimentary initial inspections. Any additional costs are communicated upfront."
+      }
+    }
+  ],
+  "description": "Assessment costs vary; Discounted Roofing Co. often offers complimentary initial inspections. Any additional costs are communicated upfront."
+}

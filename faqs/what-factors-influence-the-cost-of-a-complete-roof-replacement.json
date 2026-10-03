@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-influence-the-cost-of-a-complete-roof-replacement",
+  "name": "What factors influence the cost of a complete roof replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a complete roof replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors influence the cost of a complete roof replacement, including the roof's size, pitch, material type (e.g., asphalt shingles, metal, tile), existing damage that requires deck repair, and accessibility. The cost also includes labor, permits, and waste disposal. Choosing higher-quality materials can increase upfront costs but may offer better longevity and warranty benefits. Discounted Roofing Co. provides a comprehensive quote detailing all components to avoid surprises.",
+        "@type": "Answer",
+        "description": "Cost factors include roof size, pitch, material, damage, labor, and permits. Higher-quality materials may increase upfront costs but offer long-term benefits. We provide comprehensive quotes."
+      }
+    }
+  ],
+  "description": "Cost factors include roof size, pitch, material, damage, labor, and permits. Higher-quality materials may increase upfront costs but offer long-term benefits. W"
+}

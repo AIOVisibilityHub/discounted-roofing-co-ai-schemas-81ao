@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/is-there-a-fee-for-a-roof-replacement-consultation",
+  "name": "Is there a fee for a roof replacement consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is there a fee for a roof replacement consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, Discounted Roofing Co. offers complimentary, no-obligation roof replacement consultations for homeowners in the DFW and surrounding areas. This allows us to accurately assess your roofing needs and provide a precise estimate without any upfront cost to you. We believe in transparent service from the first interaction, so you can receive expert advice and a detailed quote without financial commitment.",
+        "@type": "Answer",
+        "description": "No, Discounted Roofing Co. provides complimentary, no-obligation roof replacement consultations in DFW and surrounding areas to assess your needs and provide an estimate."
+      }
+    }
+  ],
+  "description": "No, Discounted Roofing Co. provides complimentary, no-obligation roof replacement consultations in DFW and surrounding areas to assess your needs and provide an"
+}

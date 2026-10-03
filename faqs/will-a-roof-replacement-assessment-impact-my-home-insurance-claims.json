@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-a-roof-replacement-assessment-impact-my-home-insurance-claims",
+  "name": "Will a roof replacement assessment impact my home insurance claims?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a roof replacement assessment impact my home insurance claims?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roof replacement assessment itself does not directly impact your home insurance claims, but it provides crucial documentation if you plan to file one. The detailed report from the assessment can serve as evidence of damage, helping to substantiate your claim with your insurance provider. It also helps you understand the scope of necessary repairs or replacement before engaging with your insurer.",
+        "@type": "Answer",
+        "description": "An assessment documents damage, aiding home insurance claims. It helps substantiate your claim with your insurer."
+      }
+    }
+  ],
+  "description": "An assessment documents damage, aiding home insurance claims. It helps substantiate your claim with your insurer."
+}

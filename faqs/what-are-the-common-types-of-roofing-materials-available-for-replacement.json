@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-common-types-of-roofing-materials-available-for-replacement",
+  "name": "What are the common types of roofing materials available for replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common types of roofing materials available for replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common roofing materials for residential replacement include asphalt shingles, metal roofing, and tile. Asphalt shingles are popular for their cost-effectiveness and versatility, while metal roofs offer durability and longevity. Tile roofs provide a distinct aesthetic and excellent lifespan. The best choice often depends on your budget, desired aesthetic, local climate, and the architectural style of your home.",
+        "@type": "Answer",
+        "description": "Common materials include asphalt shingles, metal, and tile. Each offers different benefits in terms of cost, durability, and aesthetics. Your choice depends on budget, climate, and home style."
+      }
+    }
+  ],
+  "description": "Common materials include asphalt shingles, metal, and tile. Each offers different benefits in terms of cost, durability, and aesthetics. Your choice depends on"
+}

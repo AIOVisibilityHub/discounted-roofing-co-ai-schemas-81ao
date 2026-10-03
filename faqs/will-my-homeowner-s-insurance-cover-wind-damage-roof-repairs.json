@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-my-homeowner-s-insurance-cover-wind-damage-roof-repairs",
+  "name": "Will my homeowner's insurance cover wind damage roof repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover wind damage roof repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowner's insurance policies cover sudden and accidental damage, which typically includes wind damage. However, coverage can vary based on your specific policy, deductible, and the age of your roof. It's important to review your policy details or contact your insurance provider to understand your specific benefits and obligations. We can assist by providing detailed documentation of the damage for your claim.",
+        "@type": "Answer",
+        "description": "Most homeowner's insurance policies cover wind damage, but coverage depends on your specific policy, deductible, and roof age. Review your policy."
+      }
+    }
+  ],
+  "description": "Most homeowner's insurance policies cover wind damage, but coverage depends on your specific policy, deductible, and roof age. Review your policy."
+}

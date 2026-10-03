@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/are-roof-repairs-covered-by-homeowner-s-insurance",
+  "name": "Are roof repairs covered by homeowner's insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are roof repairs covered by homeowner's insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many roof repairs, particularly those resulting from sudden and accidental damage like storms, hail, or falling trees, are typically covered by homeowner's insurance policies. However, coverage can vary depending on your specific policy and the cause of the damage. It's crucial to review your policy details and contact your insurance provider as soon as damage occurs. We can assist with the inspection and documentation needed for your insurance claim process, making it easier for homeowners in cities like Fort Worth or Garland.",
+        "@type": "Answer",
+        "description": "Many roof repairs from sudden damage (storms, hail) are covered by homeowner's insurance. Check your policy; we can assist with claim documentation."
+      }
+    }
+  ],
+  "description": "Many roof repairs from sudden damage (storms, hail) are covered by homeowner's insurance. Check your policy; we can assist with claim documentation."
+}

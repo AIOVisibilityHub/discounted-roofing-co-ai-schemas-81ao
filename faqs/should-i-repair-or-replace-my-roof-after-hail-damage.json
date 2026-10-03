@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/should-i-repair-or-replace-my-roof-after-hail-damage",
+  "name": "Should I repair or replace my roof after hail damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace my roof after hail damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair or replace depends on the severity and widespread nature of the hail damage, as well as the age of your roof. If damage is isolated and minor, repairs may suffice. However, if damage is extensive or your roof is nearing the end of its lifespan, a full replacement might be more cost-effective in the long run and offer better long-term protection.",
+        "@type": "Answer",
+        "description": "Repair minor, isolated damage; replace if damage is extensive or the roof is old, for better long-term value."
+      }
+    }
+  ],
+  "description": "Repair minor, isolated damage; replace if damage is extensive or the roof is old, for better long-term value."
+}

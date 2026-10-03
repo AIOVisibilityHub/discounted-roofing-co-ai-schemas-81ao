@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-typical-timeframe-from-receiving-an-estimate-to-starting-roof-repair",
+  "name": "What is the typical timeframe from receiving an estimate to starting roof repair work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeframe from receiving an estimate to starting roof repair work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeframe from receiving an estimate to starting roof repair work can vary depending on several factors, including the severity of the damage, material availability, and our current scheduling. For urgent repairs, we strive to prioritize quickly, while less critical work might be scheduled further out. We maintain clear communication regarding projected start dates for all our customers in the DFW area, ensuring you are informed every step of the way.",
+        "@type": "Answer",
+        "description": "Timeline from estimate to repair varies based on damage severity, material availability, and scheduling. We prioritize urgent repairs and communicate start dates clearly."
+      }
+    }
+  ],
+  "description": "Timeline from estimate to repair varies based on damage severity, material availability, and scheduling. We prioritize urgent repairs and communicate start date"
+}

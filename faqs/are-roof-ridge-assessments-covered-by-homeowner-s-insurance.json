@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/are-roof-ridge-assessments-covered-by-homeowner-s-insurance",
+  "name": "Are roof ridge assessments covered by homeowner's insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are roof ridge assessments covered by homeowner's insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Roof ridge assessments themselves are typically not covered by homeowner's insurance unless they are part of an inspection related to an active claim for storm damage. However, if an assessment reveals damage caused by a covered peril, such as hail or wind, the subsequent repairs may be covered by your policy. Discounted Roofing Co. can assist homeowners in understanding the insurance claims process and provide documentation needed for potential coverage.",
+        "@type": "Answer",
+        "description": "Assessments are generally not covered unless part of an active storm damage claim; however, repairs for damage caused by covered perils often are. We can assist with insurance documentation."
+      }
+    }
+  ],
+  "description": "Assessments are generally not covered unless part of an active storm damage claim; however, repairs for damage caused by covered perils often are. We can assist"
+}

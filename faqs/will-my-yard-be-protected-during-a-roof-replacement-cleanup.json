@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-my-yard-be-protected-during-a-roof-replacement-cleanup",
+  "name": "Will my yard be protected during a roof replacement cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my yard be protected during a roof replacement cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Reputable roofing companies take measures to protect your property during roof replacement, including covering landscaping, gardens, and driveways with tarps. This helps contain debris and minimize damage. Before the project, assess your property for vulnerable items or areas that require extra protection, and discuss these concerns with your roofing contractor.",
+        "@type": "Answer",
+        "description": "Yes, reputable companies use tarps to protect landscaping, gardens, and driveways. Discuss vulnerable areas with your contractor beforehand."
+      }
+    }
+  ],
+  "description": "Yes, reputable companies use tarps to protect landscaping, gardens, and driveways. Discuss vulnerable areas with your contractor beforehand."
+}

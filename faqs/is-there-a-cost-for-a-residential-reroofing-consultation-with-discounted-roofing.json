@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/is-there-a-cost-for-a-residential-reroofing-consultation-with-discounted-roofing",
+  "name": "Is there a cost for a residential reroofing consultation with Discounted Roofing Co.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is there a cost for a residential reroofing consultation with Discounted Roofing Co.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Discounted Roofing Co. provides complimentary residential reroofing consultations. Our goal is to offer homeowners in the DFW area and surrounding communities a no-obligation assessment of their roofing needs. This allows you to receive expert advice and a clear estimate without any upfront cost, helping you make a financially sound decision about your home's roof.",
+        "@type": "Answer",
+        "description": "Discounted Roofing Co. offers complimentary residential reroofing consultations in the DFW area, providing a no-obligation assessment."
+      }
+    }
+  ],
+  "description": "Discounted Roofing Co. offers complimentary residential reroofing consultations in the DFW area, providing a no-obligation assessment."
+}

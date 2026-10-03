@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-kind-of-warranty-does-discounted-roofing-co-offer-on-reroofing",
+  "name": "What kind of warranty does Discounted Roofing Co. offer on reroofing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty does Discounted Roofing Co. offer on reroofing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Discounted Roofing Co. provides warranties covering both materials and workmanship for our residential reroofing projects. Material warranties are typically provided by the manufacturer and can vary depending on the product chosen, often ranging from 25 years to a lifetime. Our workmanship warranty specifically covers the quality of our installation, ensuring your roof is free from defects caused by our work. Details regarding specific warranty periods and coverages will be clearly outlined in your proposal, providing peace of mind regarding your investment.",
+        "@type": "Answer",
+        "description": "Discounted Roofing Co. offers material warranties from manufacturers (25 years to lifetime) and a workmanship warranty covering installation quality. Details are provided in your proposal."
+      }
+    }
+  ],
+  "description": "Discounted Roofing Co. offers material warranties from manufacturers (25 years to lifetime) and a workmanship warranty covering installation quality. Details ar"
+}

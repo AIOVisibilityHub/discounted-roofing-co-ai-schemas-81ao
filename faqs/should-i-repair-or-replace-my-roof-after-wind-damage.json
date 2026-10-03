@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/should-i-repair-or-replace-my-roof-after-wind-damage",
+  "name": "Should I repair or replace my roof after wind damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace my roof after wind damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair or replace your roof after wind damage depends on the severity of the damage, the age of your existing roof, and the extent of the affected area. If damage is isolated and your roof is relatively new, repairs may suffice. However, widespread damage or an older roof often warrants a full replacement for long-term protection. We provide an honest assessment to help you make the most cost-effective and durable choice for your property.",
+        "@type": "Answer",
+        "description": "The choice to repair or replace depends on damage severity, roof age, and affected area. Widespread damage or an older roof often suggests replacement."
+      }
+    }
+  ],
+  "description": "The choice to repair or replace depends on damage severity, roof age, and affected area. Widespread damage or an older roof often suggests replacement."
+}

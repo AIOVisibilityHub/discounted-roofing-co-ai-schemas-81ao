@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-preparations-should-i-make-around-my-home-before-the-crew-arrives-for-a-roo",
+  "name": "What preparations should I make around my home before the crew arrives for a roof replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations should I make around my home before the crew arrives for a roof replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before our crew arrives, we recommend clearing any vehicles, outdoor furniture, or decorative items from around the perimeter of your home. Protecting sensitive landscaping with tarps is also advisable. Informing your neighbors about the upcoming work can be helpful, as there will be noise and activity. Ensuring outdoor electrical outlets are accessible for power tools and securing pets indoors will contribute to a smoother and safer project for everyone.",
+        "@type": "Answer",
+        "description": "Before roof replacement, clear the perimeter of your home, protect landscaping, inform neighbors, ensure outdoor outlet access, and secure pets indoors for safety."
+      }
+    }
+  ],
+  "description": "Before roof replacement, clear the perimeter of your home, protect landscaping, inform neighbors, ensure outdoor outlet access, and secure pets indoors for safe"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-typical-process-for-hail-damage-roof-repair",
+  "name": "What is the typical process for hail damage roof repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for hail damage roof repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process typically starts with a thorough inspection to assess the damage. Next, the contractor will work with you on an estimate and assist with any necessary insurance claims documentation. Once approved, the damaged sections are repaired or replaced, which might involve removing old shingles and installing new underlayment and shingles. The final step is a cleanup and final inspection.",
+        "@type": "Answer",
+        "description": "The typical process involves inspection, estimate, insurance claim assistance, repair/replacement, and final cleanup."
+      }
+    }
+  ],
+  "description": "The typical process involves inspection, estimate, insurance claim assistance, repair/replacement, and final cleanup."
+}

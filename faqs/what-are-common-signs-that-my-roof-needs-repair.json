@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-common-signs-that-my-roof-needs-repair",
+  "name": "What are common signs that my roof needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my roof needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that indicate your roof needs repair include missing or cracked shingles, granular loss from asphalt shingles, dark spots or stains, and water leaks inside your home. It's also important to check for sagging areas on the roof, which can suggest structural damage. Regular inspections, especially after severe weather in the DFW area, can help identify minor issues before they become major problems.",
+        "@type": "Answer",
+        "description": "Common signs of roof repair needs include missing shingles, leaks, granular loss, and sagging. Regular inspections after DFW weather events are crucial."
+      }
+    }
+  ],
+  "description": "Common signs of roof repair needs include missing shingles, leaks, granular loss, and sagging. Regular inspections after DFW weather events are crucial."
+}

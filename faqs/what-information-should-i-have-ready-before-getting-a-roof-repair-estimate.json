@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-information-should-i-have-ready-before-getting-a-roof-repair-estimate",
+  "name": "What information should I have ready before getting a roof repair estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I have ready before getting a roof repair estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before an estimator arrives, it's helpful to have information about the age of your roof, the last time it was inspected or repaired, and any specific areas where you've noticed leaks or damage. Providing details like when the damage occurred, if known, can assist in identifying the root cause. This preparation helps our team, serving communities such as Plano and Garland, to conduct a more efficient and targeted inspection, ensuring no potential issues are overlooked.",
+        "@type": "Answer",
+        "description": "Prepare your roof's age, last repair date, and noted damage locations before an estimate. This helps the estimator conduct a targeted inspection."
+      }
+    }
+  ],
+  "description": "Prepare your roof's age, last repair date, and noted damage locations before an estimate. This helps the estimator conduct a targeted inspection."
+}

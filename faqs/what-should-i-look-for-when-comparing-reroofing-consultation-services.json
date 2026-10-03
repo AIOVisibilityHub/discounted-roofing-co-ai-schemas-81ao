@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-look-for-when-comparing-reroofing-consultation-services",
+  "name": "What should I look for when comparing reroofing consultation services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when comparing reroofing consultation services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When comparing reroofing consultation services, look for companies that provide detailed, written estimates and clearly explain their findings without high-pressure sales tactics. It's important to assess their experience with similar projects and verify their local presence and reputation, especially for specific conditions common in areas like DFW. A good consultation should offer clear options and answer all your questions thoroughly, allowing you to compare approaches and costs effectively.",
+        "@type": "Answer",
+        "description": "Compare consultation services by looking for detailed estimates, clear explanations, and verified local experience to understand your options."
+      }
+    }
+  ],
+  "description": "Compare consultation services by looking for detailed estimates, clear explanations, and verified local experience to understand your options."
+}

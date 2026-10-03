@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-look-for-when-comparing-roofing-contractors-for-a-replacement",
+  "name": "What should I look for when comparing roofing contractors for a replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when comparing roofing contractors for a replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When comparing roofing contractors, look for proper licensing and insurance, a strong local reputation, transparent pricing, detailed proposals, and clear communication regarding timelines and warranties. Ask for references and check online reviews to gauge customer satisfaction. Choosing a contractor with a proven track record, like Discounted Roofing Co. in the DFW area, ensures reliability and quality workmanship. We encourage prospective clients to review our credentials and past projects.",
+        "@type": "Answer",
+        "description": "Compare contractors based on licensing, insurance, reputation, transparent pricing, detailed proposals, and communication. Check references and reviews for reliability and quality workmanship."
+      }
+    }
+  ],
+  "description": "Compare contractors based on licensing, insurance, reputation, transparent pricing, detailed proposals, and communication. Check references and reviews for reli"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-common-signs-that-my-roof-needs-a-replacement-assessment",
+  "name": "What are common signs that my roof needs a replacement assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my roof needs a replacement assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs indicating a roof replacement assessment is needed include curled, cracked, or missing shingles, dark streaks, moss growth, or granules in gutters. Leaks inside your home, especially in the attic or around light fixtures, also point to potential roof issues. An assessment can determine the extent of damage and whether a full replacement or repair is most appropriate.",
+        "@type": "Answer",
+        "description": "Look for curled or missing shingles, leaks, or granules in gutters. An assessment determines the damage extent."
+      }
+    }
+  ],
+  "description": "Look for curled or missing shingles, leaks, or granules in gutters. An assessment determines the damage extent."
+}

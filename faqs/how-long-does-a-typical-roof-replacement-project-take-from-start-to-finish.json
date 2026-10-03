@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-typical-roof-replacement-project-take-from-start-to-finish",
+  "name": "How long does a typical roof replacement project take from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical roof replacement project take from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical residential roof replacement project usually takes 1-3 days to complete once work begins. However, the overall timeline, including initial inspection, material selection, scheduling, and permitting, can extend to 2-4 weeks. Factors like roof size, complexity, weather conditions, and material availability can influence the project duration. Discounted Roofing Co. prioritizes clear communication about these timelines, ensuring customers in areas like Allen and Addison are informed every step of the way.",
+        "@type": "Answer",
+        "description": "A typical residential roof replacement takes 1-3 days once work starts, but the full process can take 2-4 weeks due to factors like inspection, permitting, and material selection."
+      }
+    }
+  ],
+  "description": "A typical residential roof replacement takes 1-3 days once work starts, but the full process can take 2-4 weeks due to factors like inspection, permitting, and"
+}

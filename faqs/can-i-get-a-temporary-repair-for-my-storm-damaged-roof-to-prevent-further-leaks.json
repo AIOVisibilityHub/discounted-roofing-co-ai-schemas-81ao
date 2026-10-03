@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-i-get-a-temporary-repair-for-my-storm-damaged-roof-to-prevent-further-leaks",
+  "name": "Can I get a temporary repair for my storm-damaged roof to prevent further leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get a temporary repair for my storm-damaged roof to prevent further leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, temporary repairs, often called tarping, are crucial for mitigating further damage immediately after a storm. If your roof has suffered significant damage leading to active leaks, Discounted Roofing Co. can provide emergency tarping services to protect your home's interior from additional water intrusion while permanent repairs are being planned. This immediate action can prevent secondary damage like ceiling collapse or mold growth, which can significantly increase overall repair costs. We prioritize emergency calls to secure your property swiftly.",
+        "@type": "Answer",
+        "description": "Yes, emergency tarping can prevent further leaks and interior damage. Discounted Roofing Co. offers this service to protect your home while permanent repairs are planned."
+      }
+    }
+  ],
+  "description": "Yes, emergency tarping can prevent further leaks and interior damage. Discounted Roofing Co. offers this service to protect your home while permanent repairs ar"
+}

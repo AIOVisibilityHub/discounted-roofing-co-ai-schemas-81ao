@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-complete-roof-replacement-typically-take",
+  "name": "How long does a complete roof replacement typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a complete roof replacement typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a complete roof replacement varies based on factors like roof size, complexity, weather conditions, and the chosen roofing materials. Generally, most residential roof replacements can be completed within 1 to 3 days. Larger or more complex roofs, such as those with multiple gables or unique designs, may take longer. Before starting, we provide a clear timeline so you know what to expect. Process clarity around the schedule helps manage expectations.",
+        "@type": "Answer",
+        "description": "A complete roof replacement typically takes 1 to 3 days, depending on roof size, complexity, and weather."
+      }
+    }
+  ],
+  "description": "A complete roof replacement typically takes 1 to 3 days, depending on roof size, complexity, and weather."
+}

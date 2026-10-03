@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/do-i-need-to-be-home-during-a-complete-roof-replacement",
+  "name": "Do I need to be home during a complete roof replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be home during a complete roof replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You do not necessarily need to be home for the entire duration of a complete roof replacement. However, it's beneficial to be present for the initial consultation to discuss details and material choices, and at the end for a final walkthrough. During the work, our teams manage the project, but we recommend securing pets and moving vehicles away from the work area for safety. Process clarity involves understanding that while your physical presence isn't always required, clear communication channels are always maintained.",
+        "@type": "Answer",
+        "description": "You don't need to be home throughout, but being present for the initial consultation and final walkthrough is recommended."
+      }
+    }
+  ],
+  "description": "You don't need to be home throughout, but being present for the initial consultation and final walkthrough is recommended."
+}

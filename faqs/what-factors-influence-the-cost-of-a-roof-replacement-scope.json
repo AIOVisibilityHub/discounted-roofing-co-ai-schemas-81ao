@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-influence-the-cost-of-a-roof-replacement-scope",
+  "name": "What factors influence the cost of a roof replacement scope?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a roof replacement scope?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors influence the cost of a roof replacement scope, including the roof's size and pitch, chosen materials, and the extent of any necessary deck repairs. Material choice, such as premium asphalt shingles versus standard options, significantly impacts the budget. The complexity of the roof's design, including dormers or skylights, also affects labor costs. Additionally, the need for upgraded ventilation systems or extensive repairs to the existing roof structure can add to the overall expense, making the initial assessment critical.",
+        "@type": "Answer",
+        "description": "Cost factors include roof size, pitch, material choice, and the extent of deck repairs or structural complexities like dormers and skylights."
+      }
+    }
+  ],
+  "description": "Cost factors include roof size, pitch, material choice, and the extent of deck repairs or structural complexities like dormers and skylights."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-typical-aging-roof-replacement-assessment-take",
+  "name": "How long does a typical aging roof replacement assessment take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical aging roof replacement assessment take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical aging roof replacement assessment usually takes between 30 minutes to an hour, depending on the size and complexity of your roof. Our inspectors conduct a thorough visual check, both from the ground and directly on the roof, as well as inspecting your attic space if accessible. This timeframe allows us to gather all necessary information to provide an accurate and comprehensive report on your roof's condition and any recommended actions.",
+        "@type": "Answer",
+        "description": "An aging roof replacement assessment typically takes 30 minutes to an hour, depending on roof size and complexity."
+      }
+    }
+  ],
+  "description": "An aging roof replacement assessment typically takes 30 minutes to an hour, depending on roof size and complexity."
+}

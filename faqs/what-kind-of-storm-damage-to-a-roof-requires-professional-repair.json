@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-kind-of-storm-damage-to-a-roof-requires-professional-repair",
+  "name": "What kind of storm damage to a roof requires professional repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of storm damage to a roof requires professional repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional roof repair is necessary for various types of storm damage, including missing or cracked shingles, punctures from debris, leaks, or visible structural issues. Even minor damage can lead to significant problems like water intrusion and mold if not addressed promptly. Discounted Roofing Co. specializes in assessing all types of storm damage, from hail and wind to fallen trees, ensuring a thorough evaluation of your roof's integrity. Identifying subtle damage early can prevent more extensive and costly repairs down the line.",
+        "@type": "Answer",
+        "description": "Professional repair is needed for missing shingles, cracks, punctures, leaks, or structural issues caused by storms. Early assessment prevents more extensive damage."
+      }
+    }
+  ],
+  "description": "Professional repair is needed for missing shingles, cracks, punctures, leaks, or structural issues caused by storms. Early assessment prevents more extensive da"
+}

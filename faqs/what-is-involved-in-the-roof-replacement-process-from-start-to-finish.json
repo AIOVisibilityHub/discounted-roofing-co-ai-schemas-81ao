@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-involved-in-the-roof-replacement-process-from-start-to-finish",
+  "name": "What is involved in the roof replacement process, from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the roof replacement process, from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The roof replacement process typically begins with an inspection and estimate, followed by material selection and scheduling. On installation day, we protect your property, remove the old roof, inspect the deck, make any necessary repairs, install new underlayment, flashing, and then the new roofing material. Finally, we conduct a thorough cleanup and final inspection. Clear communication is maintained throughout the project.",
+        "@type": "Answer",
+        "description": "The process involves inspection, estimate, material selection, old roof removal, deck repair, new material installation, cleanup, and final inspection."
+      }
+    }
+  ],
+  "description": "The process involves inspection, estimate, material selection, old roof removal, deck repair, new material installation, cleanup, and final inspection."
+}

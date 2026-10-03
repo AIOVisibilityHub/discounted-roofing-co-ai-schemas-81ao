@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-during-a-roof-replacement-assessment-process",
+  "name": "What happens during a roof replacement assessment process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during a roof replacement assessment process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a roof replacement assessment, a professional inspector will conduct a comprehensive evaluation of your roof's exterior, including shingles, flashing, and gutters, and often the attic space for signs of leaks or structural issues. Following the inspection, they will provide a detailed report outlining their findings, recommended solutions, and an estimate for any necessary work. This process helps clarify the scope and next steps for your roofing project.",
+        "@type": "Answer",
+        "description": "An inspector evaluates your roof's exterior and attic, then provides a detailed report and estimate."
+      }
+    }
+  ],
+  "description": "An inspector evaluates your roof's exterior and attic, then provides a detailed report and estimate."
+}

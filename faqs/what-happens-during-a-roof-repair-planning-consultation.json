@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-during-a-roof-repair-planning-consultation",
+  "name": "What happens during a roof repair planning consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during a roof repair planning consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a roof repair planning consultation, a roofing specialist will inspect your roof to assess the damage, identify potential issues, and discuss your concerns. They will then explain the necessary repairs, material options, and provide a detailed estimate. This process ensures all aspects of the repair are understood before work begins, helping you make informed decisions about your property.",
+        "@type": "Answer",
+        "description": "A roof repair planning consultation involves a specialist inspecting your roof, assessing damage, explaining repair options, and providing a detailed estimate."
+      }
+    }
+  ],
+  "description": "A roof repair planning consultation involves a specialist inspecting your roof, assessing damage, explaining repair options, and providing a detailed estimate."
+}

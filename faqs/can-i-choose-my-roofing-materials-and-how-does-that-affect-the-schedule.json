@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-i-choose-my-roofing-materials-and-how-does-that-affect-the-schedule",
+  "name": "Can I choose my roofing materials, and how does that affect the schedule?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I choose my roofing materials, and how does that affect the schedule?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can choose your roofing materials, and your selection can impact the project schedule. Standard asphalt shingles are typically readily available and can be ordered and delivered quickly. However, specialized materials like certain metal roofing, slate, or tile may have longer lead times for manufacturing and delivery, potentially extending the overall project timeline. Discussing your material preferences early allows us to provide accurate scheduling expectations based on availability.",
+        "@type": "Answer",
+        "description": "Yes, you can choose your materials. Standard options usually don't affect the schedule, but specialized materials may have longer lead times, extending the project timeline."
+      }
+    }
+  ],
+  "description": "Yes, you can choose your materials. Standard options usually don't affect the schedule, but specialized materials may have longer lead times, extending the proj"
+}

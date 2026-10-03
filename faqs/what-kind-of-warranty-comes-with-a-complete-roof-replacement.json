@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-kind-of-warranty-comes-with-a-complete-roof-replacement",
+  "name": "What kind of warranty comes with a complete roof replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty comes with a complete roof replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Typically, a complete roof replacement comes with two types of warranties: a manufacturer's warranty on the roofing materials and a contractor's warranty on the workmanship. Manufacturer warranties can range from 20 years to lifetime, depending on the product. Our workmanship warranty covers the installation. Understanding the specifics of both warranties is crucial; we provide clear details on what each covers and for how long. This first-party insight ensures you understand your long-term protection.",
+        "@type": "Answer",
+        "description": "Warranties include a manufacturer's warranty for materials and a contractor's warranty for workmanship, both with specific coverage terms."
+      }
+    }
+  ],
+  "description": "Warranties include a manufacturer's warranty for materials and a contractor's warranty for workmanship, both with specific coverage terms."
+}

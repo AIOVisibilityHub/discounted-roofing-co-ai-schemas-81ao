@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/do-i-need-to-be-home-for-the-roof-replacement-estimate",
+  "name": "Do I need to be home for the roof replacement estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be home for the roof replacement estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's not always strictly necessary for you to be present during the initial external inspection, it is highly recommended. Being home allows you to directly discuss any concerns, ask questions, and show us specific areas of damage or interest. It also provides an opportunity to review material samples and discuss different options face-to-face, ensuring the estimate is tailored precisely to your preferences and property needs.",
+        "@type": "Answer",
+        "description": "While not always required for the inspection, it's highly recommended to be home during the estimate to discuss concerns and options directly."
+      }
+    }
+  ],
+  "description": "While not always required for the inspection, it's highly recommended to be home during the estimate to discuss concerns and options directly."
+}

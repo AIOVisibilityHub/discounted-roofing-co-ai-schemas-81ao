@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-included-in-a-typical-roof-replacement-quote",
+  "name": "What is included in a typical roof replacement quote?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a typical roof replacement quote?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical roof replacement quote from Discounted Roofing Co. includes the cost of materials (shingles, underlayment, flashing, vents), labor for removal of old roofing and installation of new, disposal of debris, and project management. It also outlines the specific type of materials to be used and the warranty information for both materials and workmanship. For example, in towns like Granbury or Cleburne, we detail options for different shingle types suitable for the local climate.",
+        "@type": "Answer",
+        "description": "A typical quote includes materials, labor, debris disposal, project management, and warranty details."
+      }
+    }
+  ],
+  "description": "A typical quote includes materials, labor, debris disposal, project management, and warranty details."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/does-discounted-roofing-co-offer-quotes-for-different-roofing-materials",
+  "name": "Does Discounted Roofing Co. offer quotes for different roofing materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does Discounted Roofing Co. offer quotes for different roofing materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Discounted Roofing Co. offers quotes for a variety of roofing materials, including asphalt shingles, metal roofing, and tile options. We work with you to understand your preferences, budget, and the architectural style of your home to recommend the most suitable material. Our quotes will itemize the costs associated with each material choice, allowing you to make an informed decision. This choice is particularly important in regions like DFW where extreme weather dictates material durability.",
+        "@type": "Answer",
+        "description": "Yes, we provide quotes for various roofing materials like asphalt, metal, and tile, itemizing costs for each option."
+      }
+    }
+  ],
+  "description": "Yes, we provide quotes for various roofing materials like asphalt, metal, and tile, itemizing costs for each option."
+}

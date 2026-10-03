@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-between-repairing-my-aging-roof-and-replacing-it",
+  "name": "How do I choose between repairing my aging roof and replacing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose between repairing my aging roof and replacing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision between repairing and replacing your aging roof often depends on the extent of damage, the roof's age, and your budget. Minor, isolated issues might warrant a repair, especially if the roof is still relatively young. However, widespread damage, recurring leaks, or a roof past its typical lifespan often make replacement the more cost-effective and long-term solution. A professional assessment will provide a clear recommendation based on these factors.",
+        "@type": "Answer",
+        "description": "Choose between repair and replacement based on damage extent, roof age, and budget. An assessment provides a recommendation."
+      }
+    }
+  ],
+  "description": "Choose between repair and replacement based on damage extent, roof age, and budget. An assessment provides a recommendation."
+}

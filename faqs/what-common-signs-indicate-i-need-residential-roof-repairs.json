@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-common-signs-indicate-i-need-residential-roof-repairs",
+  "name": "What common signs indicate I need residential roof repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common signs indicate I need residential roof repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs you need residential roof repairs include missing, cracked, or curled shingles, granules in your gutters, water stains on your ceiling, or sagging roof deck. It is crucial to address these issues promptly, as delaying repairs can lead to more extensive and costly damage to your home's structure. Regular roof inspections, especially after severe weather, can help identify problems early.",
+        "@type": "Answer",
+        "description": "Missing or damaged shingles, granules in gutters, and interior water stains are common indicators that your residential roof may need repairs."
+      }
+    }
+  ],
+  "description": "Missing or damaged shingles, granules in gutters, and interior water stains are common indicators that your residential roof may need repairs."
+}

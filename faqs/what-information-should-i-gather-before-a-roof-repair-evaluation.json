@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-information-should-i-gather-before-a-roof-repair-evaluation",
+  "name": "What information should I gather before a roof repair evaluation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I gather before a roof repair evaluation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a roof repair evaluation, it's helpful to gather any relevant documentation, such as previous repair records, original installation details, or home inspection reports. Note any specific areas where you've observed leaks or damage. Providing this information to the technician from Discounted Roofing Co. can help them target their inspection and provide a more accurate assessment of your roof's condition.",
+        "@type": "Answer",
+        "description": "Before an evaluation, gather past repair records, installation details, or home inspection reports, and note any specific damage you've observed."
+      }
+    }
+  ],
+  "description": "Before an evaluation, gather past repair records, installation details, or home inspection reports, and note any specific damage you've observed."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/do-you-offer-emergency-roof-repair-services",
+  "name": "Do you offer emergency roof repair services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer emergency roof repair services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we understand that some roof damages, especially those caused by severe weather like hail or high winds common in Texas, require immediate attention. Discounted Roofing Co. offers emergency roof repair services to address critical issues that could lead to further damage to your home. Contact us as soon as possible if you experience sudden damage, and we will dispatch a team to assess and secure your roof, often with temporary solutions until permanent repairs can be made.",
+        "@type": "Answer",
+        "description": "Yes, we offer emergency roof repair services for critical damage, especially after severe weather. Contact us immediately for assessment and temporary solutions."
+      }
+    }
+  ],
+  "description": "Yes, we offer emergency roof repair services for critical damage, especially after severe weather. Contact us immediately for assessment and temporary solutions"
+}

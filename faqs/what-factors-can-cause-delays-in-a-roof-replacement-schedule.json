@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-can-cause-delays-in-a-roof-replacement-schedule",
+  "name": "What factors can cause delays in a roof replacement schedule?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors can cause delays in a roof replacement schedule?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors can cause delays in a roof replacement schedule. Inclement weather, such as heavy rain, strong winds, or extreme heat, is a primary cause. Delays can also arise from unexpected structural damage discovered during the tear-off, late delivery of materials, or municipal permitting office backlogs. Our project managers at Discounted Roofing Co. proactively monitor weather forecasts and maintain close contact with suppliers and permit offices to minimize potential disruptions.",
+        "@type": "Answer",
+        "description": "Weather, unexpected structural damage, material delivery issues, and permitting delays are common causes for roof replacement schedule delays."
+      }
+    }
+  ],
+  "description": "Weather, unexpected structural damage, material delivery issues, and permitting delays are common causes for roof replacement schedule delays."
+}

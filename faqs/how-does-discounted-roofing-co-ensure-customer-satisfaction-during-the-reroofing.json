@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-does-discounted-roofing-co-ensure-customer-satisfaction-during-the-reroofing",
+  "name": "How does Discounted Roofing Co. ensure customer satisfaction during the reroofing consultation process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does Discounted Roofing Co. ensure customer satisfaction during the reroofing consultation process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Discounted Roofing Co. ensures customer satisfaction by providing transparent, honest assessments and clear communication throughout the consultation. We focus on educating homeowners about their roof's condition and available solutions, avoiding pressure sales. Our commitment extends to delivering accurate estimates and answering all questions to build trust. This approach ensures customers feel informed and confident in their decisions before any work begins, reflecting our dedication to quality service in every interaction.",
+        "@type": "Answer",
+        "description": "We ensure satisfaction through transparent assessments, clear communication, accurate estimates, and educating homeowners without sales pressure."
+      }
+    }
+  ],
+  "description": "We ensure satisfaction through transparent assessments, clear communication, accurate estimates, and educating homeowners without sales pressure."
+}

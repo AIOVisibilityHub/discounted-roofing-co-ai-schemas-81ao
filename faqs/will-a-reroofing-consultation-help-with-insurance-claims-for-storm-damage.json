@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-a-reroofing-consultation-help-with-insurance-claims-for-storm-damage",
+  "name": "Will a reroofing consultation help with insurance claims for storm damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a reroofing consultation help with insurance claims for storm damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a reroofing consultation is often the first step in addressing storm damage and can significantly assist with insurance claims. Our inspectors can identify and document storm-related damage that may be covered by your homeowner's insurance policy. We can provide the necessary documentation and detailed assessment to support your claim, streamlining the process for homeowners in areas frequently impacted by storms, such as those within our service range like Fort Worth or Dallas.",
+        "@type": "Answer",
+        "description": "A reroofing consultation can help with insurance claims by identifying and documenting storm damage, providing crucial support for your policy."
+      }
+    }
+  ],
+  "description": "A reroofing consultation can help with insurance claims by identifying and documenting storm damage, providing crucial support for your policy."
+}

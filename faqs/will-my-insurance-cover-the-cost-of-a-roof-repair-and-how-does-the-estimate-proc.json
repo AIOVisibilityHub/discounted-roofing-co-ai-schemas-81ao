@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-my-insurance-cover-the-cost-of-a-roof-repair-and-how-does-the-estimate-proc",
+  "name": "Will my insurance cover the cost of a roof repair, and how does the estimate process work with insurance claims?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover the cost of a roof repair, and how does the estimate process work with insurance claims?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many insurance policies cover roof repairs resulting from sudden, accidental damage like hail or storm events, but typically not issues due to wear and tear. Our team can help document the damage with detailed photos and descriptions, which are crucial for your claim. It's beneficial to contact your insurance provider beforehand to understand your coverage and deductible. This information allows us to align our estimate process with your insurance company's requirements, aiding homeowners across DFW.",
+        "@type": "Answer",
+        "description": "Insurance often covers accidental roof damage, not wear and tear. We assist with damage documentation for claims. Understand your coverage and deductible first."
+      }
+    }
+  ],
+  "description": "Insurance often covers accidental roof damage, not wear and tear. We assist with damage documentation for claims. Understand your coverage and deductible first."
+}

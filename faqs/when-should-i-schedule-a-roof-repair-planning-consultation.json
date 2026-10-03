@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-schedule-a-roof-repair-planning-consultation",
+  "name": "When should I schedule a roof repair planning consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I schedule a roof repair planning consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should schedule a roof repair planning consultation as soon as you notice signs of damage, such as missing shingles, leaks, sagging, or excessive granule loss. Early assessment can prevent minor issues from escalating into more extensive and costly repairs. Delaying a consultation can lead to further damage to your roof structure and interior.",
+        "@type": "Answer",
+        "description": "Schedule a consultation immediately upon noticing damage like missing shingles or leaks, as early assessment prevents minor issues from escalating."
+      }
+    }
+  ],
+  "description": "Schedule a consultation immediately upon noticing damage like missing shingles or leaks, as early assessment prevents minor issues from escalating."
+}

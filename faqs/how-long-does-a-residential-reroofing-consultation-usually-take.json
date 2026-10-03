@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-residential-reroofing-consultation-usually-take",
+  "name": "How long does a residential reroofing consultation usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a residential reroofing consultation usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical residential reroofing consultation usually takes between 30 minutes to an hour, depending on the size and complexity of your roof and the extent of any damage. This timeframe allows our inspectors to conduct a thorough assessment and discuss their findings and recommendations with you in detail. We aim to be efficient while ensuring all your questions are answered and you understand the proposed solutions.",
+        "@type": "Answer",
+        "description": "Consultations typically last 30 minutes to an hour, depending on roof size and damage, allowing for thorough inspection and discussion."
+      }
+    }
+  ],
+  "description": "Consultations typically last 30 minutes to an hour, depending on roof size and damage, allowing for thorough inspection and discussion."
+}

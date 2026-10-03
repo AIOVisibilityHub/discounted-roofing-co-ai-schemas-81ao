@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/is-it-better-to-repair-or-replace-my-residential-roof",
+  "name": "Is it better to repair or replace my residential roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it better to repair or replace my residential roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between repair and replacement depends on the age of your roof, the extent of the damage, and the overall condition of your roofing system. If the damage is isolated and your roof is relatively new, repairs are usually sufficient. However, if your roof is nearing its lifespan or has widespread damage, a full replacement may be more cost-effective in the long run. We can help you weigh these factors during our assessment.",
+        "@type": "Answer",
+        "description": "The choice between repair and replacement hinges on roof age, damage extent, and overall condition; repairs for isolated issues, replacement for widespread or aged roofs."
+      }
+    }
+  ],
+  "description": "The choice between repair and replacement hinges on roof age, damage extent, and overall condition; repairs for isolated issues, replacement for widespread or a"
+}

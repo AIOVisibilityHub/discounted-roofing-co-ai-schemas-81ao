@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-do-roof-repairs-typically-take",
+  "name": "How long do roof repairs typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do roof repairs typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of roof repairs varies significantly based on the extent of the damage, the type of roofing material, and weather conditions. Minor repairs, such as replacing a few shingles, might take a few hours. More extensive repairs involving structural elements or larger sections of the roof could take several days. A detailed assessment from Discounted Roofing Co. will provide a more accurate timeline, considering the specific issues and the DFW weather forecast.",
+        "@type": "Answer",
+        "description": "Roof repair times vary; minor fixes take hours, while extensive damage can take days. A detailed assessment provides an accurate timeline based on damage and weather."
+      }
+    }
+  ],
+  "description": "Roof repair times vary; minor fixes take hours, while extensive damage can take days. A detailed assessment provides an accurate timeline based on damage and we"
+}

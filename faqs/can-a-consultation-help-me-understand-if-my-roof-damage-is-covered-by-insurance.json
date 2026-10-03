@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-a-consultation-help-me-understand-if-my-roof-damage-is-covered-by-insurance",
+  "name": "Can a consultation help me understand if my roof damage is covered by insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a consultation help me understand if my roof damage is covered by insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While our specialists can document the damage and provide detailed assessments for your insurance claim, they cannot guarantee coverage. We can assist you by providing comprehensive reports and estimates that you can submit to your insurance provider. You will need to contact your insurance company directly to understand your specific policy's coverage and claims process.",
+        "@type": "Answer",
+        "description": "Consultations provide documentation for insurance, but specialists cannot guarantee coverage. Contact your insurer for policy specifics."
+      }
+    }
+  ],
+  "description": "Consultations provide documentation for insurance, but specialists cannot guarantee coverage. Contact your insurer for policy specifics."
+}

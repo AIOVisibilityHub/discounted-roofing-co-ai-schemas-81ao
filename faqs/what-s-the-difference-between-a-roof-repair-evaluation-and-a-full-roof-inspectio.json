@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-s-the-difference-between-a-roof-repair-evaluation-and-a-full-roof-inspectio",
+  "name": "What's the difference between a roof repair evaluation and a full roof inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a roof repair evaluation and a full roof inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roof repair evaluation typically focuses on identifying specific issues and recommending fixes for existing damage or potential problems. A full roof inspection, often part of real estate transactions or warranty checks, is usually more comprehensive, assessing the roof's overall condition, remaining lifespan, and compliance with building codes. While both involve checking the roof, the scope and purpose differ. Discounted Roofing Co. can clarify which service best suits your needs.",
+        "@type": "Answer",
+        "description": "A repair evaluation targets specific damage for fixes, while a full inspection assesses overall condition and lifespan, often for real estate or warranties."
+      }
+    }
+  ],
+  "description": "A repair evaluation targets specific damage for fixes, while a full inspection assesses overall condition and lifespan, often for real estate or warranties."
+}

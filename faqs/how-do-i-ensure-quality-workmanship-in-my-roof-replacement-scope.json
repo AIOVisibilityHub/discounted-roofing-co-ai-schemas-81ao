@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-ensure-quality-workmanship-in-my-roof-replacement-scope",
+  "name": "How do I ensure quality workmanship in my roof replacement scope?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I ensure quality workmanship in my roof replacement scope?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ensuring quality workmanship in your roof replacement scope involves selecting a reputable contractor, reviewing their past work, and understanding their warranty. Look for contractors with established local presence, positive reviews, and proper licensing and insurance. A detailed contract that specifies materials, installation methods, and a clear timeline is also essential. Additionally, inquire about manufacturer warranties on materials and the contractor's workmanship warranty to protect your investment post-installation.",
+        "@type": "Answer",
+        "description": "Ensure quality by choosing a reputable, licensed contractor with good reviews, a detailed contract, and comprehensive material and workmanship warranties."
+      }
+    }
+  ],
+  "description": "Ensure quality by choosing a reputable, licensed contractor with good reviews, a detailed contract, and comprehensive material and workmanship warranties."
+}

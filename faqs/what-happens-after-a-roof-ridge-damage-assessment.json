@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-after-a-roof-ridge-damage-assessment",
+  "name": "What happens after a roof ridge damage assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after a roof ridge damage assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After your roof ridge damage assessment, Discounted Roofing Co. will present you with a detailed report outlining any identified issues, their severity, and our recommended repair or replacement options. This report will include clear explanations and transparent pricing for any proposed work. Your next step involves reviewing the options, asking any questions you have, and deciding on the best course of action for your property, whether it's immediate repair or further consultation.",
+        "@type": "Answer",
+        "description": "You receive a detailed report with identified issues, severity, recommended repair/replacement options, and transparent pricing to help your decision."
+      }
+    }
+  ],
+  "description": "You receive a detailed report with identified issues, severity, recommended repair/replacement options, and transparent pricing to help your decision."
+}

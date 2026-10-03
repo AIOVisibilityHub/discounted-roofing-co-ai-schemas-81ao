@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-consider-a-full-roof-replacement-versus-a-repair",
+  "name": "When should I consider a full roof replacement versus a repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a full roof replacement versus a repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a full roof replacement when your roof is nearing the end of its lifespan, typically 20-25 years for asphalt shingles, or if there's extensive damage. If damage is localized to a small area, a repair might suffice. However, widespread shingle damage, significant leaks in multiple spots, or structural issues often indicate that a full replacement is more cost-effective and provides better long-term protection. An inspection by a professional can accurately assess the extent of damage and help you make an informed decision.",
+        "@type": "Answer",
+        "description": "Consider a full replacement when your roof is old or has extensive damage; localized issues might allow for a repair, but a professional inspection is key."
+      }
+    }
+  ],
+  "description": "Consider a full replacement when your roof is old or has extensive damage; localized issues might allow for a repair, but a professional inspection is key."
+}

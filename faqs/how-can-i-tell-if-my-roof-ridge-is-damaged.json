@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-can-i-tell-if-my-roof-ridge-is-damaged",
+  "name": "How can I tell if my roof ridge is damaged?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my roof ridge is damaged?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Visible signs of roof ridge damage include missing or displaced ridge cap shingles, cracks in the shingle material, granule loss, or deterioration of sealant around the ridge. Inside your home, water stains on ceilings near the roof's peak, especially after heavy rain or storms, can also indicate ridge damage. It's often difficult to assess ridge damage safely from the ground, so Discounted Roofing Co. recommends a professional inspection to accurately identify specific issues and prevent further water intrusion into your property.",
+        "@type": "Answer",
+        "description": "Look for missing/cracked ridge cap shingles, granule loss, or sealant deterioration. Interior water stains can also indicate damage."
+      }
+    }
+  ],
+  "description": "Look for missing/cracked ridge cap shingles, granule loss, or sealant deterioration. Interior water stains can also indicate damage."
+}

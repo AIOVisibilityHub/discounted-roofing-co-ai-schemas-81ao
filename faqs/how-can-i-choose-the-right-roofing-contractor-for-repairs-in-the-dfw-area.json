@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-can-i-choose-the-right-roofing-contractor-for-repairs-in-the-dfw-area",
+  "name": "How can I choose the right roofing contractor for repairs in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I choose the right roofing contractor for repairs in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a roofing contractor for repairs, look for companies with strong local references and a proven track record. Verify they are insured and licensed to operate in Texas. Ask for detailed quotes that break down labor and material costs. A reputable contractor will conduct a thorough inspection before providing an estimate and clearly explain the repair process. Discounted Roofing Co. focuses on transparent communication and quality workmanship for clients across the DFW region, including areas like Carrollton and Denton.",
+        "@type": "Answer",
+        "description": "Choose a roofing contractor with local references, insurance, licensing, and transparent quotes. They should explain the repair process clearly."
+      }
+    }
+  ],
+  "description": "Choose a roofing contractor with local references, insurance, licensing, and transparent quotes. They should explain the repair process clearly."
+}

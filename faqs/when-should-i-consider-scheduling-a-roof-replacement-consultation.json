@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-consider-scheduling-a-roof-replacement-consultation",
+  "name": "When should I consider scheduling a roof replacement consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider scheduling a roof replacement consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider scheduling a roof replacement consultation if your roof is over 20 years old, shows signs of significant wear like missing or curled shingles, or has experienced storm damage. Additionally, recurring leaks, sagging roof sections, or granules in gutters are strong indicators. In the DFW area, hail storms are common, and getting a timely inspection after such events can be crucial for insurance claims and preventing further damage.",
+        "@type": "Answer",
+        "description": "Schedule a consultation if your roof is old, shows wear, has storm damage, leaks, sags, or after significant weather events like DFW hail storms."
+      }
+    }
+  ],
+  "description": "Schedule a consultation if your roof is old, shows wear, has storm damage, leaks, sags, or after significant weather events like DFW hail storms."
+}
