@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-maintenance-requirements-for-a-metal-roof",
+  "name": "What are the maintenance requirements for a metal roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the maintenance requirements for a metal roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Metal roofs generally require minimal maintenance compared to other roofing types. Regular inspections, typically once a year, are recommended to check for debris accumulation, loose fasteners, or damage to coatings. Cleaning away leaves and branches can prevent staining and potential corrosion. Addressing minor issues promptly can prevent larger problems. Our team can advise on specific maintenance practices based on the material installed and your local environmental conditions.",
+        "@type": "Answer",
+        "description": "Metal roofs need minimal maintenance, primarily regular inspections and debris removal to ensure longevity and prevent issues."
+      }
+    }
+  ],
+  "description": "Metal roofs need minimal maintenance, primarily regular inspections and debris removal to ensure longevity and prevent issues."
+}

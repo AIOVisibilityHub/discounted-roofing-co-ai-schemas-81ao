@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-the-best-metal-roofing-style-for-my-home",
+  "name": "How do I choose the best metal roofing style for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the best metal roofing style for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the best metal roofing style involves balancing aesthetics, durability, and budget. Consider the architectural style of your home; standing seam offers a modern look, while stone-coated steel can mimic traditional tiles or shingles. Evaluate the typical weather patterns in your specific North Texas location; for instance, areas prone to larger hail might benefit from higher-gauge steel. Discuss available color and finish options, as these can affect energy efficiency and curb appeal. Discounted Roofing Co. can help you assess these factors.",
+        "@type": "Answer",
+        "description": "Choose a metal roofing style by balancing aesthetics, durability, and budget, considering your home's architecture, local weather, and available finishes."
+      }
+    }
+  ],
+  "description": "Choose a metal roofing style by balancing aesthetics, durability, and budget, considering your home's architecture, local weather, and available finishes."
+}

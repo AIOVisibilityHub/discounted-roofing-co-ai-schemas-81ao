@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-differences-between-standing-seam-and-corrugated-metal-roofing",
+  "name": "What are the differences between standing seam and corrugated metal roofing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the differences between standing seam and corrugated metal roofing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standing seam and corrugated are two popular styles of metal roofing, differing in aesthetics and installation. Standing seam roofs feature raised, interlocking seams that run vertically, concealing fasteners for a sleek, modern look and superior weather protection. Corrugated metal roofs have a wavy or ribbed profile with exposed fasteners, offering a more traditional or rustic appearance and are often more budget-friendly. Your choice depends on aesthetic preference, budget, and desired level of weather resistance; standing seam generally offers better long-term performance.",
+        "@type": "Answer",
+        "description": "Standing seam metal roofs have hidden fasteners and raised seams for a sleek look, while corrugated roofs have exposed fasteners and a ribbed profile, impacting aesthetics and weather protection."
+      }
+    }
+  ],
+  "description": "Standing seam metal roofs have hidden fasteners and raised seams for a sleek look, while corrugated roofs have exposed fasteners and a ribbed profile, impacting"
+}

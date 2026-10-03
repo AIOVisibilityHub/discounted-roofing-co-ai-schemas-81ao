@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-consider-a-metal-roofing-upgrade-consultation",
+  "name": "When should I consider a metal roofing upgrade consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a metal roofing upgrade consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a metal roofing upgrade consultation if your current roof is nearing the end of its lifespan, you're experiencing frequent repairs, or you want to improve your home's energy efficiency and curb appeal. A consultation is particularly valuable if you are planning to stay in your home for an extended period, as the long-term benefits and durability of metal roofing can provide significant returns.",
+        "@type": "Answer",
+        "description": "Consider a consultation if your roof is old, needs frequent repairs, or you want to boost energy efficiency and curb appeal."
+      }
+    }
+  ],
+  "description": "Consider a consultation if your roof is old, needs frequent repairs, or you want to boost energy efficiency and curb appeal."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-influence-the-choice-of-metal-roofing-material",
+  "name": "What factors influence the choice of metal roofing material?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the choice of metal roofing material?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors influence the choice of metal roofing material during a consultation. These include your budget, the desired aesthetic, the local climate conditions, and the expected lifespan. For instance, standing seam metal roofs are popular for their sleek look and weather resistance, while corrugated metal might be chosen for a more rustic aesthetic or budget-friendliness. We'll discuss options like steel, aluminum, and copper, highlighting their unique properties to help you select the best fit for your needs in the DFW area.",
+        "@type": "Answer",
+        "description": "Factors influencing metal roofing material choice include budget, aesthetics, climate, and desired lifespan, with options like steel, aluminum, and copper offering different benefits."
+      }
+    }
+  ],
+  "description": "Factors influencing metal roofing material choice include budget, aesthetics, climate, and desired lifespan, with options like steel, aluminum, and copper offer"
+}

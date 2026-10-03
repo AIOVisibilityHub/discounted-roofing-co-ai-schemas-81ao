@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-influence-the-total-cost-of-a-metal-roofing-upgrade",
+  "name": "What factors influence the total cost of a metal roofing upgrade?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the total cost of a metal roofing upgrade?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The total cost of a metal roofing upgrade is influenced by several factors, including the type of metal material chosen, the complexity and size of your roof, and any necessary structural repairs or enhancements. Additional elements like existing roof tear-off and disposal, underlayment requirements, and specific flashing details also impact the final price. A detailed consultation helps identify all these variables for an accurate estimate.",
+        "@type": "Answer",
+        "description": "Total cost depends on metal material, roof complexity, size, structural repairs, tear-off, and flashing details."
+      }
+    }
+  ],
+  "description": "Total cost depends on metal material, roof complexity, size, structural repairs, tear-off, and flashing details."
+}

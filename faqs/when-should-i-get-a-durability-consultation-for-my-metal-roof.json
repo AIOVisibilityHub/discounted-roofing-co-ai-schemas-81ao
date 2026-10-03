@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-get-a-durability-consultation-for-my-metal-roof",
+  "name": "When should I get a durability consultation for my metal roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a durability consultation for my metal roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a durability consultation for your metal roof if you notice signs of wear, such as rust, loose panels, or leaks, or if your roof is approaching its typical lifespan. It's also beneficial after severe weather events or if you're considering selling your property and want to assess its condition. Regular assessments can identify potential issues early, preventing more extensive and costly damage down the line.",
+        "@type": "Answer",
+        "description": "Schedule a consultation if you see wear, rust, leaks, or after severe weather. Early assessment prevents costly damage."
+      }
+    }
+  ],
+  "description": "Schedule a consultation if you see wear, rust, leaks, or after severe weather. Early assessment prevents costly damage."
+}

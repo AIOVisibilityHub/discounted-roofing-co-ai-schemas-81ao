@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/do-i-need-to-remove-my-old-roof-before-installing-a-new-metal-roof",
+  "name": "Do I need to remove my old roof before installing a new metal roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to remove my old roof before installing a new metal roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many cases, a new metal roof can be installed directly over an existing shingle roof, potentially saving on tear-off and disposal costs. However, this depends on local building codes and the condition and number of existing layers. Our team assesses your current roof to determine if it's suitable for an overlay or if a full tear-off is necessary for optimal performance and compliance with regulations in areas like Dallas or Fort Worth.",
+        "@type": "Answer",
+        "description": "Sometimes, a new metal roof can be installed over existing shingles, but this depends on local codes and the current roof's condition."
+      }
+    }
+  ],
+  "description": "Sometimes, a new metal roof can be installed over existing shingles, but this depends on local codes and the current roof's condition."
+}

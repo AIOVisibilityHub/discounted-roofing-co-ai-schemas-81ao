@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/is-metal-roofing-a-good-choice-for-energy-efficiency-in-hot-texas-climates",
+  "name": "Is metal roofing a good choice for energy efficiency in hot Texas climates?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is metal roofing a good choice for energy efficiency in hot Texas climates?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, metal roofing is an excellent choice for energy efficiency in hot Texas climates. Many metal roofs feature reflective coatings that reduce heat absorption, keeping your home cooler and potentially lowering air conditioning costs. The color and finish of the metal roof can significantly impact its energy performance, so consider lighter colors or ENERGY STAR rated options when making your selection.",
+        "@type": "Answer",
+        "description": "Metal roofing is energy efficient in Texas due to reflective coatings that reduce heat absorption, helping to keep homes cooler."
+      }
+    }
+  ],
+  "description": "Metal roofing is energy efficient in Texas due to reflective coatings that reduce heat absorption, helping to keep homes cooler."
+}

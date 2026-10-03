@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-i-get-a-metal-roof-estimate-for-a-commercial-property",
+  "name": "Can I get a metal roof estimate for a commercial property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get a metal roof estimate for a commercial property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Discounted Roofing Co. provides metal roof estimates for commercial properties within our service areas, including cities like Dallas, Fort Worth, and Garland. Commercial estimates often involve assessing larger roof areas, potentially different structural requirements, and specialized material considerations compared to residential properties. We ensure the estimate addresses the unique needs and scale of commercial projects.",
+        "@type": "Answer",
+        "description": "Yes, we provide metal roof estimates for commercial properties; these consider larger areas, different structures, and specialized materials."
+      }
+    }
+  ],
+  "description": "Yes, we provide metal roof estimates for commercial properties; these consider larger areas, different structures, and specialized materials."
+}

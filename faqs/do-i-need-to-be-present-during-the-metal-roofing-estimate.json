@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/do-i-need-to-be-present-during-the-metal-roofing-estimate",
+  "name": "Do I need to be present during the metal roofing estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be present during the metal roofing estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it is not strictly necessary for you to be present for the entire duration of the estimate, we highly recommend it for at least a portion of the visit. This allows our estimator to discuss your specific needs, answer any questions you may have, and go over material samples or style options. Being present ensures that we capture all your preferences and provide the most accurate and personalized estimate possible for your home. It's a key opportunity for clear communication.",
+        "@type": "Answer",
+        "description": "While not strictly necessary, being present for part of the estimate is recommended. This allows discussion of your needs, answers questions, and ensures a personalized quote."
+      }
+    }
+  ],
+  "description": "While not strictly necessary, being present for part of the estimate is recommended. This allows discussion of your needs, answers questions, and ensures a pers"
+}

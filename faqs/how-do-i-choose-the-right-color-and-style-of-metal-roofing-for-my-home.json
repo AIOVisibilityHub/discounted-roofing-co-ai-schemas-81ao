@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-the-right-color-and-style-of-metal-roofing-for-my-home",
+  "name": "How do I choose the right color and style of metal roofing for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right color and style of metal roofing for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right color and style for your metal roof involves considering your home's architectural style, existing exterior colors, and personal aesthetic preferences. Lighter colors can reflect more sunlight, potentially improving energy efficiency, while darker colors offer a classic look. Style options include standing seam, metal shingles, and corrugated panels, each providing a distinct appearance. Discounted Roofing Co. can provide samples and examples of various options installed on homes in the DFW area to help you visualize the final look and make an informed decision.",
+        "@type": "Answer",
+        "description": "Consider your home's architecture, exterior colors, and personal preferences when choosing metal roof color and style. Discounted Roofing Co. can provide samples and examples to help visualize options for your DFW home."
+      }
+    }
+  ],
+  "description": "Consider your home's architecture, exterior colors, and personal preferences when choosing metal roof color and style. Discounted Roofing Co. can provide sample"
+}

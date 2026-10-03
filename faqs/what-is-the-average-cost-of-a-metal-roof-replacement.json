@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-average-cost-of-a-metal-roof-replacement",
+  "name": "What is the average cost of a metal roof replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of a metal roof replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a metal roof replacement varies significantly based on factors such as the type of metal (steel, aluminum, copper), roof size and pitch, existing roof tear-off requirements, and local labor rates in regions like Arlington or Frisco. While initial investment might be higher than traditional asphalt shingles, the extended lifespan and potential insurance savings can offer long-term value. Requesting a detailed estimate is essential to understand specific project costs.",
+        "@type": "Answer",
+        "description": "Metal roof replacement costs vary by material type, roof size, and labor. While potentially higher initially, long-term value can be significant due to durability and energy savings."
+      }
+    }
+  ],
+  "description": "Metal roof replacement costs vary by material type, roof size, and labor. While potentially higher initially, long-term value can be significant due to durabili"
+}

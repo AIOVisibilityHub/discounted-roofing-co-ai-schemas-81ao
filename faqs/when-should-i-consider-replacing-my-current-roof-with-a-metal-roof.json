@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-consider-replacing-my-current-roof-with-a-metal-roof",
+  "name": "When should I consider replacing my current roof with a metal roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my current roof with a metal roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your current roof with a metal roof when your existing roof is nearing the end of its lifespan, showing significant signs of wear, or has sustained irreparable storm damage. It's also a good option if you are looking for a long-term roofing solution with enhanced durability and energy efficiency. Evaluating the remaining life of your current roof and factoring in potential repair costs versus a new metal roof's benefits can help guide your decision.",
+        "@type": "Answer",
+        "description": "Consider a metal roof when your current roof is old, damaged, or you desire long-term durability and energy efficiency. Compare remaining roof life to metal roof benefits."
+      }
+    }
+  ],
+  "description": "Consider a metal roof when your current roof is old, damaged, or you desire long-term durability and energy efficiency. Compare remaining roof life to metal roo"
+}

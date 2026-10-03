@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-is-the-right-time-to-schedule-a-metal-roof-consultation",
+  "name": "When is the right time to schedule a metal roof consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the right time to schedule a metal roof consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The right time to schedule a metal roof consultation depends on your specific situation. It's advisable if your current roof is nearing the end of its lifespan, you're experiencing frequent leaks, or you're planning a home renovation project. If you're considering a new build or an upgrade for improved energy efficiency or storm resistance, particularly in areas like DFW that experience various weather patterns, an early consultation helps with planning and budgeting.",
+        "@type": "Answer",
+        "description": "Schedule a metal roof consultation if your roof is aging, leaking, you're renovating, or building new, especially for improved efficiency or storm resistance."
+      }
+    }
+  ],
+  "description": "Schedule a metal roof consultation if your roof is aging, leaking, you're renovating, or building new, especially for improved efficiency or storm resistance."
+}

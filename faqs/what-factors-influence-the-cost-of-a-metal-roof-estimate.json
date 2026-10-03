@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-influence-the-cost-of-a-metal-roof-estimate",
+  "name": "What factors influence the cost of a metal roof estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a metal roof estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors affect the cost of a metal roof estimate, including the type of metal (e.g., steel, aluminum, copper), the roof's complexity (pitch, valleys, chimneys), the total square footage, and the labor required for installation. The specific metal chosen significantly impacts material costs. For example, steel is generally more affordable than copper. During the estimation process, our team considers these variables to provide a comprehensive and accurate quote, including an assessment of the existing roof structure for any necessary repairs or modifications.",
+        "@type": "Answer",
+        "description": "Metal roof estimates are influenced by material type, roof complexity, square footage, and labor. Different metals have varying costs, with steel being more economical than copper."
+      }
+    }
+  ],
+  "description": "Metal roof estimates are influenced by material type, roof complexity, square footage, and labor. Different metals have varying costs, with steel being more eco"
+}

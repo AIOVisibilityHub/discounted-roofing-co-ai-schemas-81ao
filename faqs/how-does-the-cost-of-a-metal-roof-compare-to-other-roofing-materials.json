@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-does-the-cost-of-a-metal-roof-compare-to-other-roofing-materials",
+  "name": "How does the cost of a metal roof compare to other roofing materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does the cost of a metal roof compare to other roofing materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Metal roofs generally have a higher upfront cost than asphalt shingles but offer a longer lifespan and lower long-term maintenance expenses. While initial installation may be more, their durability often means they outlast multiple asphalt shingle roofs. The final cost depends on the material chosen (e.g., steel vs. copper), the complexity of your roof, and local labor rates. Consider the long-term value and energy efficiency benefits when comparing costs.",
+        "@type": "Answer",
+        "description": "Metal roofs typically have a higher initial cost than asphalt shingles but provide greater longevity and reduced long-term maintenance expenses."
+      }
+    }
+  ],
+  "description": "Metal roofs typically have a higher initial cost than asphalt shingles but provide greater longevity and reduced long-term maintenance expenses."
+}

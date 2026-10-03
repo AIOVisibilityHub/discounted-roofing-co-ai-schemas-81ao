@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-consider-a-roofing-upgrade-for-my-home",
+  "name": "When should I consider a roofing upgrade for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a roofing upgrade for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a roofing upgrade if your current roof is over 15-20 years old, shows signs of significant wear, leaks, or has sustained storm damage. Frequent repairs, missing shingles, or granules in your gutters are also indicators. A professional assessment from Discounted Roofing Co. can determine if an upgrade is necessary, especially after severe weather common in the DFW region. Early detection can prevent more extensive and costly damage to your home's structure.",
+        "@type": "Answer",
+        "description": "Consider a roofing upgrade if your roof is old, shows wear, leaks, or has storm damage. A professional assessment can confirm the necessity, especially after severe weather."
+      }
+    }
+  ],
+  "description": "Consider a roofing upgrade if your roof is old, shows wear, leaks, or has storm damage. A professional assessment can confirm the necessity, especially after se"
+}

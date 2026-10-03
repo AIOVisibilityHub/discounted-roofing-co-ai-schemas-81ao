@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-the-roof-replacement-cleanup-process-typically-take",
+  "name": "How long does the roof replacement cleanup process typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the roof replacement cleanup process typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cleanup process usually happens concurrently with the roofing work and concludes shortly after the new roof is installed, often on the same day. For larger or more complex roofs, cleanup might extend into the following day. The duration can depend on the size of your roof and the amount of debris generated. Discuss the expected timeline for completion with your contractor.",
+        "@type": "Answer",
+        "description": "Cleanup usually concludes on the same day as installation, possibly extending to the next for larger roofs. Timing depends on roof size and debris."
+      }
+    }
+  ],
+  "description": "Cleanup usually concludes on the same day as installation, possibly extending to the next for larger roofs. Timing depends on roof size and debris."
+}

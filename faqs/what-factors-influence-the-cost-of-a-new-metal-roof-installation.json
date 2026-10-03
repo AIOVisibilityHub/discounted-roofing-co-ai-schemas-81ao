@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-influence-the-cost-of-a-new-metal-roof-installation",
+  "name": "What factors influence the cost of a new metal roof installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a new metal roof installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a new metal roof installation is influenced by the material type (e.g., steel vs. copper), the roof's complexity (pitch, number of valleys, skylights), the size of the roof, and local labor rates. Premium finishes and panel styles, such as standing seam, also impact the overall price. When budgeting, it's essential to consider the material and the specific design elements of your home, as these will be the primary drivers of the estimate from a roofing company like ours in the DFW area.",
+        "@type": "Answer",
+        "description": "Metal roof installation cost depends on material type, roof complexity, size, and local labor rates. Premium finishes and panel styles also affect the price."
+      }
+    }
+  ],
+  "description": "Metal roof installation cost depends on material type, roof complexity, size, and local labor rates. Premium finishes and panel styles also affect the price."
+}

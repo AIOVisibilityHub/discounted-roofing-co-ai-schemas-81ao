@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-preparations-do-i-need-to-make-before-my-metal-roofing-project-begins",
+  "name": "What preparations do I need to make before my metal roofing project begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations do I need to make before my metal roofing project begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your metal roofing project starts, homeowners should clear any obstructions around the house, such as vehicles, patio furniture, and decorative items, to allow clear access for our crew and materials. Protecting plants and landscaping near the house is also recommended. Ensuring easy access to outdoor power outlets may be helpful. Our project manager at Discounted Roofing Co. will review these specific preparation steps with you during the pre-installation consultation to ensure a smooth and safe working environment.",
+        "@type": "Answer",
+        "description": "Before a metal roofing project, clear obstructions around the house and protect landscaping. Discounted Roofing Co. will review specific preparation steps during your pre-installation consultation."
+      }
+    }
+  ],
+  "description": "Before a metal roofing project, clear obstructions around the house and protect landscaping. Discounted Roofing Co. will review specific preparation steps durin"
+}

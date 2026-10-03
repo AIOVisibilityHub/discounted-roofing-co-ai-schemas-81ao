@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-the-right-metal-roof-style-and-color-for-my-home",
+  "name": "How do I choose the right metal roof style and color for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right metal roof style and color for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right metal roof style and color involves considering your home's architectural design, your personal aesthetic preferences, and the local climate. Options range from standing seam and metal shingles to corrugated panels, available in various colors and finishes. We provide samples and consultations to help visualize how different choices will look on your home, assisting you in making a decision that enhances curb appeal and complements your property.",
+        "@type": "Answer",
+        "description": "Choose a metal roof style and color by considering your home's architecture, personal taste, and climate; consult with us for visualization."
+      }
+    }
+  ],
+  "description": "Choose a metal roof style and color by considering your home's architecture, personal taste, and climate; consult with us for visualization."
+}

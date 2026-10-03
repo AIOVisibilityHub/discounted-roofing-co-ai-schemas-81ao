@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-kind-of-warranty-should-i-expect-for-a-new-metal-roof-installation",
+  "name": "What kind of warranty should I expect for a new metal roof installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty should I expect for a new metal roof installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A new metal roof installation typically comes with two types of warranties: a manufacturer's warranty covering the roofing material itself, which can range from 20 to 50 years or more, and a contractor's warranty covering the workmanship. The workmanship warranty usually lasts for a shorter period, often 1-10 years. Always review both warranties thoroughly to understand coverage details, conditions, and what is excluded.",
+        "@type": "Answer",
+        "description": "Expect a manufacturer's warranty for the material (20-50+ years) and a contractor's warranty for workmanship (1-10 years). Review both carefully."
+      }
+    }
+  ],
+  "description": "Expect a manufacturer's warranty for the material (20-50+ years) and a contractor's warranty for workmanship (1-10 years). Review both carefully."
+}

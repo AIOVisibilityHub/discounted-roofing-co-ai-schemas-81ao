@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-typical-lifespan-considered-in-a-metal-roof-replacement-estimate",
+  "name": "What is the typical lifespan considered in a metal roof replacement estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical lifespan considered in a metal roof replacement estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A metal roof replacement estimate considers the impressive lifespan of metal roofing, which typically ranges from 40 to 70 years, and sometimes even longer depending on the material and maintenance. This extended durability is a key factor in the long-term value reflected in the estimate. For example, while the initial cost might be higher, the infrequent need for replacement over several decades can make it a more cost-effective choice than materials requiring more frequent replacement.",
+        "@type": "Answer",
+        "description": "Metal roof replacement estimates factor in a typical lifespan of 40-70 years, highlighting long-term value despite potentially higher initial costs."
+      }
+    }
+  ],
+  "description": "Metal roof replacement estimates factor in a typical lifespan of 40-70 years, highlighting long-term value despite potentially higher initial costs."
+}

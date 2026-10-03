@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-common-types-of-weather-resistant-metal-roofing-materials",
+  "name": "What are the common types of weather-resistant metal roofing materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common types of weather-resistant metal roofing materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common types of weather-resistant metal roofing materials include steel, aluminum, copper, and zinc. Steel is a popular choice, often galvanized or Galvalume coated for corrosion protection and then painted. Aluminum is lighter and highly corrosion-resistant, making it suitable for coastal areas, though less common in DFW. Copper and zinc offer exceptional longevity and unique aesthetics but are significantly more expensive. The best material depends on your budget, aesthetic preference, and desired lifespan.",
+        "@type": "Answer",
+        "description": "Common types of weather-resistant metal roofing include steel, aluminum, copper, and zinc, each offering different benefits in terms of cost and durability."
+      }
+    }
+  ],
+  "description": "Common types of weather-resistant metal roofing include steel, aluminum, copper, and zinc, each offering different benefits in terms of cost and durability."
+}

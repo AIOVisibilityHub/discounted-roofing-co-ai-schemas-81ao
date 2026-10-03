@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/are-there-specific-maintenance-requirements-for-metal-roofs-after-installation",
+  "name": "Are there specific maintenance requirements for metal roofs after installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific maintenance requirements for metal roofs after installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Metal roofs are known for their low maintenance, but occasional inspection and cleaning are recommended. You should periodically check for debris accumulation, especially in valleys and near chimneys, and clear any leaves or branches. Inspect fasteners and sealants every few years to ensure they are secure and intact. Adhering to this routine maintenance can prolong the life and appearance of your metal roof.",
+        "@type": "Answer",
+        "description": "Metal roofs require low maintenance, mainly periodic cleaning of debris and inspecting fasteners/sealants to ensure longevity."
+      }
+    }
+  ],
+  "description": "Metal roofs require low maintenance, mainly periodic cleaning of debris and inspecting fasteners/sealants to ensure longevity."
+}

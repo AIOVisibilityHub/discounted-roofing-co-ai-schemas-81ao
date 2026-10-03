@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/why-is-a-final-walkthrough-important-for-my-roof-replacement",
+  "name": "Why is a final walkthrough important for my roof replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is a final walkthrough important for my roof replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A final walkthrough is important because it provides a formal opportunity to verify the quality and completeness of your new roof before final payment. It ensures that the project meets all contractual obligations and your personal expectations. Discounted Roofing Co. values this step as a commitment to customer satisfaction and a chance to ensure every detail, from the roof itself to the surrounding property, is impeccable.",
+        "@type": "Answer",
+        "description": "The final walkthrough is crucial to verify the quality and completeness of your new roof before final payment and ensure satisfaction."
+      }
+    }
+  ],
+  "description": "The final walkthrough is crucial to verify the quality and completeness of your new roof before final payment and ensure satisfaction."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-cost-implications-of-different-metal-roofing-materials",
+  "name": "What are the cost implications of different metal roofing materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the cost implications of different metal roofing materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of metal roofing varies significantly based on the material chosen, such as steel, aluminum, copper, or zinc. Steel and aluminum are generally more budget-friendly, while copper and zinc represent a higher upfront investment dueowing to their durability and unique aesthetic properties. During the consultation, we can compare the long-term value, including energy efficiency and lifespan, against the initial material cost to help you make an informed decision.",
+        "@type": "Answer",
+        "description": "Metal roofing costs differ by material; steel and aluminum are more economical, while copper and zinc are higher-end."
+      }
+    }
+  ],
+  "description": "Metal roofing costs differ by material; steel and aluminum are more economical, while copper and zinc are higher-end."
+}

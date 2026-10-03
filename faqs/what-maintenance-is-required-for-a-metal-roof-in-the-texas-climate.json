@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-maintenance-is-required-for-a-metal-roof-in-the-texas-climate",
+  "name": "What maintenance is required for a metal roof in the Texas climate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a metal roof in the Texas climate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Metal roofs require relatively low maintenance compared to other roofing materials. Regular inspections are recommended, especially after severe weather events common in Texas, to check for debris, minor dents, or loose fasteners. Cleaning is generally minimal, often just rinsing to remove dirt. Consistent inspections are crucial to catch minor issues before they escalate, preserving the roof's longevity.",
+        "@type": "Answer",
+        "description": "Metal roofs need low maintenance, but regular inspections are key, especially after Texas's severe weather, to ensure longevity."
+      }
+    }
+  ],
+  "description": "Metal roofs need low maintenance, but regular inspections are key, especially after Texas's severe weather, to ensure longevity."
+}

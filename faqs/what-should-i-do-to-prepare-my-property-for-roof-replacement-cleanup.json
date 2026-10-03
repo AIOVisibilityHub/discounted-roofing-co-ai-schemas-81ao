@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-do-to-prepare-my-property-for-roof-replacement-cleanup",
+  "name": "What should I do to prepare my property for roof replacement cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare my property for roof replacement cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare your property, clear the perimeter of your home of any patio furniture, grills, planters, or delicate decorations. Trim back any tree branches that are close to the roof line if safely possible. Moving vehicles out of the driveway and garage access areas is also crucial for worker safety and efficient debris removal. This preparation helps prevent damage to your belongings and ensures a smoother cleanup process.",
+        "@type": "Answer",
+        "description": "Clear the home's perimeter of furniture and decorations. Trim close branches, if safe. Move vehicles for safety and efficient debris removal."
+      }
+    }
+  ],
+  "description": "Clear the home's perimeter of furniture and decorations. Trim close branches, if safe. Move vehicles for safety and efficient debris removal."
+}

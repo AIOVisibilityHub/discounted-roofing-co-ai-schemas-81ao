@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-typical-metal-roofing-upgrade-consultation-take",
+  "name": "How long does a typical metal roofing upgrade consultation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical metal roofing upgrade consultation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard metal roofing upgrade consultation typically lasts between 60 to 90 minutes. The duration can vary based on the complexity of your current roofing system, the size of your property, and the number of questions you have. Having any previous roofing inspection reports or architectural plans available can help streamline the process and make the consultation more efficient.",
+        "@type": "Answer",
+        "description": "Most consultations take 60-90 minutes, depending on your roof's complexity and your questions."
+      }
+    }
+  ],
+  "description": "Most consultations take 60-90 minutes, depending on your roof's complexity and your questions."
+}

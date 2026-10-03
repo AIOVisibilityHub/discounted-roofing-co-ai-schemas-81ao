@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-a-metal-roof-upgrade-improve-my-home-s-energy-efficiency",
+  "name": "Can a metal roof upgrade improve my home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a metal roof upgrade improve my home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a metal roof upgrade can significantly improve your home's energy efficiency. Many metal roofing materials are inherently reflective, particularly those with specialized coatings or lighter colors, which helps to reflect solar radiant heat away from your home. This can lead to a cooler interior, reducing the reliance on air conditioning and potentially lowering your energy bills, especially during hot Texas summers.",
+        "@type": "Answer",
+        "description": "A metal roof upgrade can improve energy efficiency by reflecting solar heat, leading to a cooler home and lower energy bills."
+      }
+    }
+  ],
+  "description": "A metal roof upgrade can improve energy efficiency by reflecting solar heat, leading to a cooler home and lower energy bills."
+}

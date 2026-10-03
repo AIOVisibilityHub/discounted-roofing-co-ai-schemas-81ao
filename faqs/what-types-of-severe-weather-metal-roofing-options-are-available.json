@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-types-of-severe-weather-metal-roofing-options-are-available",
+  "name": "What types of severe-weather metal roofing options are available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of severe-weather metal roofing options are available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common severe-weather metal roofing options include standing seam, corrugated, and stone-coated steel. Standing seam roofs feature concealed fasteners and raised seams, offering superior weather resistance and a sleek appearance. Corrugated metal is known for its durability and cost-effectiveness. Stone-coated steel combines the strength of steel with the aesthetic of traditional shingles, often designed to withstand high winds and hail. Discounted Roofing Co. provides various profiles to match aesthetic preferences and functional requirements for properties in the DFW area.",
+        "@type": "Answer",
+        "description": "Severe-weather metal roofing options include standing seam, corrugated, and stone-coated steel, each offering distinct benefits in terms of durability and aesthetics."
+      }
+    }
+  ],
+  "description": "Severe-weather metal roofing options include standing seam, corrugated, and stone-coated steel, each offering distinct benefits in terms of durability and aesth"
+}

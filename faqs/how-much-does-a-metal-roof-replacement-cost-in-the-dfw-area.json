@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-metal-roof-replacement-cost-in-the-dfw-area",
+  "name": "How much does a metal roof replacement cost in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a metal roof replacement cost in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a metal roof replacement in the DFW area varies based on factors such as the type of metal (e.g., steel, aluminum, copper), the roof's size and pitch, and the complexity of its design. Additional costs may arise if extensive repairs to the underlying roof deck are needed after the old roof is removed. To get an accurate estimate, schedule a comprehensive on-site assessment with us, where we can evaluate your specific needs and provide a detailed quote.",
+        "@type": "Answer",
+        "description": "Metal roof replacement costs in DFW depend on material, roof size, pitch, and complexity. An on-site assessment provides an accurate quote, especially if repairs are needed."
+      }
+    }
+  ],
+  "description": "Metal roof replacement costs in DFW depend on material, roof size, pitch, and complexity. An on-site assessment provides an accurate quote, especially if repair"
+}

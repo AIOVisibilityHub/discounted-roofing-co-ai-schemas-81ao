@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-maintenance-is-required-for-a-severe-weather-metal-roof",
+  "name": "What maintenance is required for a severe-weather metal roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a severe-weather metal roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Severe-weather metal roofs are low-maintenance, but periodic checks are recommended to ensure optimal performance. This includes clearing debris like leaves and branches, especially from valleys and gutters, to prevent water damming. Inspecting fasteners and seals every few years can identify and address potential issues before they become major problems. Avoid abrasive cleaners that can damage protective coatings. Regular, light cleaning helps maintain its appearance and prolongs its lifespan.",
+        "@type": "Answer",
+        "description": "Severe-weather metal roofs require minimal maintenance, mainly clearing debris and periodic fastener/seal checks, to ensure longevity and performance."
+      }
+    }
+  ],
+  "description": "Severe-weather metal roofs require minimal maintenance, mainly clearing debris and periodic fastener/seal checks, to ensure longevity and performance."
+}

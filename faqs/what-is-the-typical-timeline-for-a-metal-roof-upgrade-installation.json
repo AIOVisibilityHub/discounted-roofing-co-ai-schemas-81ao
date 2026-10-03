@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-typical-timeline-for-a-metal-roof-upgrade-installation",
+  "name": "What is the typical timeline for a metal roof upgrade installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a metal roof upgrade installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation timeline for a metal roof upgrade varies based on the roof's size, complexity, and the specific metal roofing system chosen. Generally, most residential metal roof installations can be completed within 3 to 7 days, assuming favorable weather conditions. Before starting, we assess the existing roof structure to ensure it can support the new metal panels, which can affect the overall project duration.",
+        "@type": "Answer",
+        "description": "A typical metal roof installation takes 3-7 days, depending on roof size and complexity. We assess the existing structure beforehand."
+      }
+    }
+  ],
+  "description": "A typical metal roof installation takes 3-7 days, depending on roof size and complexity. We assess the existing structure beforehand."
+}

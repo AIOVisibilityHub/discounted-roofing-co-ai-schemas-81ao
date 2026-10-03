@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-look-for-in-a-metal-roof-replacement-estimate-to-ensure-it-s-compr",
+  "name": "What should I look for in a metal roof replacement estimate to ensure it's comprehensive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for in a metal roof replacement estimate to ensure it's comprehensive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When reviewing a metal roof replacement estimate, look for a clear breakdown of material costs, labor fees, permits, and waste disposal. A comprehensive estimate from Discounted Roofing Co. should specify the type of metal, color, gauge, and any warranty information. It should also detail the scope of work, including tear-off, decking repairs, underlayment, and flashing, ensuring all potential costs are transparently listed without hidden fees.",
+        "@type": "Answer",
+        "description": "A comprehensive estimate should detail material costs, labor, permits, waste disposal, and the full scope of work, including material specifications."
+      }
+    }
+  ],
+  "description": "A comprehensive estimate should detail material costs, labor, permits, waste disposal, and the full scope of work, including material specifications."
+}

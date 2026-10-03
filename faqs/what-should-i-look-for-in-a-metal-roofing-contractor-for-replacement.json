@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-look-for-in-a-metal-roofing-contractor-for-replacement",
+  "name": "What should I look for in a metal roofing contractor for replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for in a metal roofing contractor for replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a metal roofing contractor for your replacement project in areas such as Denton or McKinney, prioritize experience specifically with metal installations, proper licensing, and comprehensive insurance. Look for companies that provide clear, written estimates, offer warranties on both materials and workmanship, and have positive local references. A contractor who communicates effectively and answers all your questions about the installation process and timeline is crucial.",
+        "@type": "Answer",
+        "description": "Choose a metal roofing contractor with specific experience, proper licensing, insurance, and clear estimates. Look for warranties and good local references."
+      }
+    }
+  ],
+  "description": "Choose a metal roofing contractor with specific experience, proper licensing, insurance, and clear estimates. Look for warranties and good local references."
+}

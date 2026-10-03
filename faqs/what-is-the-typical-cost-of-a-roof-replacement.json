@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-typical-cost-of-a-roof-replacement",
+  "name": "What is the typical cost of a roof replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost of a roof replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a roof replacement varies significantly based on factors like roof size, material choice (e.g., asphalt shingles, metal, tile), complexity of the roof's design, and the extent of any necessary deck repairs. Material costs, labor, and permit fees all contribute to the final price. We provide detailed estimates after an on-site evaluation.",
+        "@type": "Answer",
+        "description": "Roof replacement cost depends on roof size, material, design complexity, and repairs needed. We offer detailed estimates after an on-site evaluation."
+      }
+    }
+  ],
+  "description": "Roof replacement cost depends on roof size, material, design complexity, and repairs needed. We offer detailed estimates after an on-site evaluation."
+}

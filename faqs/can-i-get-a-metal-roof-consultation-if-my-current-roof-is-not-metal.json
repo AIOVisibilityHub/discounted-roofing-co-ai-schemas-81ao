@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-i-get-a-metal-roof-consultation-if-my-current-roof-is-not-metal",
+  "name": "Can I get a metal roof consultation if my current roof is not metal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get a metal roof consultation if my current roof is not metal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, absolutely. Many homeowners consult us about replacing their asphalt shingles or other roofing materials with a new metal roof. During the consultation, our team will assess the condition of your existing roof and its substructure to ensure it can support a metal roofing system. We'll outline any necessary preparation or modifications, such as reinforcement, that might be required before installing the new metal roof, providing a complete project overview.",
+        "@type": "Answer",
+        "description": "Yes, you can get a metal roof consultation even with a non-metal roof; we assess the existing structure for metal roof compatibility and any required modifications."
+      }
+    }
+  ],
+  "description": "Yes, you can get a metal roof consultation even with a non-metal roof; we assess the existing structure for metal roof compatibility and any required modificati"
+}

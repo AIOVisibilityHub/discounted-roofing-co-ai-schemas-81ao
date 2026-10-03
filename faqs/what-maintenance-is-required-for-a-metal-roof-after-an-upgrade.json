@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-maintenance-is-required-for-a-metal-roof-after-an-upgrade",
+  "name": "What maintenance is required for a metal roof after an upgrade?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a metal roof after an upgrade?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Metal roofs typically require minimal maintenance compared to other roofing types. Routine checks involve inspecting for debris accumulation, ensuring gutters are clear, and looking for any signs of damage after severe weather. Occasional cleaning might be needed to maintain its appearance. Our service includes guiding you on simple post-installation care to maximize your metal roof's lifespan and ensure its continued performance.",
+        "@type": "Answer",
+        "description": "Metal roofs require minimal maintenance, primarily routine checks for debris, clear gutters, and post-storm damage inspection."
+      }
+    }
+  ],
+  "description": "Metal roofs require minimal maintenance, primarily routine checks for debris, clear gutters, and post-storm damage inspection."
+}

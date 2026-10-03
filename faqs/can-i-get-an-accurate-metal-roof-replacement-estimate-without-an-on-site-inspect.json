@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-i-get-an-accurate-metal-roof-replacement-estimate-without-an-on-site-inspect",
+  "name": "Can I get an accurate metal roof replacement estimate without an on-site inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get an accurate metal roof replacement estimate without an on-site inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While an initial rough estimate might be provided based on general information, a truly accurate metal roof replacement estimate almost always requires an on-site inspection. This allows our experts at Discounted Roofing Co. to assess the roof's pitch, complexity, current condition, and potential structural issues that could impact installation. Without a physical inspection, crucial details might be missed, leading to potential discrepancies in the final project cost or scope.",
+        "@type": "Answer",
+        "description": "An accurate metal roof replacement estimate typically requires an on-site inspection to assess the roof's specific conditions and complexity."
+      }
+    }
+  ],
+  "description": "An accurate metal roof replacement estimate typically requires an on-site inspection to assess the roof's specific conditions and complexity."
+}

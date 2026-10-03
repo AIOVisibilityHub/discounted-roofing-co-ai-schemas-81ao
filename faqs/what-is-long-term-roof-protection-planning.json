@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-long-term-roof-protection-planning",
+  "name": "What is long-term roof protection planning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is long-term roof protection planning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Long-term roof protection planning involves proactive strategies to extend your roof's lifespan and prevent premature failure. This typically includes regular inspections, maintenance, timely repairs, and considering material upgrades or coatings. The goal is to minimize unexpected repair costs and ensure your home remains protected from the elements over many years. For homeowners in the DFW area, considering the impact of local weather patterns like hail and strong winds is crucial for effective planning.",
+        "@type": "Answer",
+        "description": "Long-term roof protection planning involves proactive strategies like regular inspections and maintenance to extend your roof's lifespan and prevent premature failure."
+      }
+    }
+  ],
+  "description": "Long-term roof protection planning involves proactive strategies like regular inspections and maintenance to extend your roof's lifespan and prevent premature f"
+}

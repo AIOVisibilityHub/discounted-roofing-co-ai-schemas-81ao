@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/do-i-need-to-be-home-for-the-entire-consultation",
+  "name": "Do I need to be home for the entire consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be home for the entire consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's beneficial for you to be present for the discussion portion of the consultation to ask questions and discuss options, it's not strictly necessary for the entire duration. Our inspector can complete the exterior roof assessment independently. However, we recommend being available at the beginning and end to review findings and discuss the estimate. This ensures you can provide specific insights about your roof's history and receive direct answers regarding your upgrade project.",
+        "@type": "Answer",
+        "description": "You don't need to be home for the entire consultation, but being present for discussions and reviewing findings is recommended to address specific questions and insights."
+      }
+    }
+  ],
+  "description": "You don't need to be home for the entire consultation, but being present for discussions and reviewing findings is recommended to address specific questions and"
+}

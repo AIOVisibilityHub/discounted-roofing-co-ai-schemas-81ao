@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-can-homeowners-do-to-help-minimize-cleanup-challenges-during-a-roof-replace",
+  "name": "What can homeowners do to help minimize cleanup challenges during a roof replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What can homeowners do to help minimize cleanup challenges during a roof replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowners can help minimize cleanup challenges by securing pets indoors, covering outdoor pools, and moving any sensitive items from around the house. Discussing potential issues or unique landscaping features with your project manager beforehand can also streamline the process. Good communication ensures specific areas receive the attention they need for protection.",
+        "@type": "Answer",
+        "description": "Secure pets, cover pools, move sensitive items, and discuss unique features with your project manager beforehand to minimize cleanup challenges."
+      }
+    }
+  ],
+  "description": "Secure pets, cover pools, move sensitive items, and discuss unique features with your project manager beforehand to minimize cleanup challenges."
+}

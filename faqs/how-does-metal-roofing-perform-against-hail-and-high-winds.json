@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-does-metal-roofing-perform-against-hail-and-high-winds",
+  "name": "How does metal roofing perform against hail and high winds?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does metal roofing perform against hail and high winds?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Metal roofing is highly resistant to hail and high winds. Its robust construction and interlocking panels are designed to withstand severe weather conditions common in North Texas. Unlike traditional shingles that can be torn off or damaged by impact, metal roofs typically resist punctures and lifting. Homeowners should consider the gauge (thickness) of the metal and the panel design, as these factors influence the roof's ability to endure significant weather events.",
+        "@type": "Answer",
+        "description": "Metal roofing resists hail and high winds effectively due to its robust, interlocking panels. The gauge of the metal impacts its ability to withstand severe weather."
+      }
+    }
+  ],
+  "description": "Metal roofing resists hail and high winds effectively due to its robust, interlocking panels. The gauge of the metal impacts its ability to withstand severe wea"
+}

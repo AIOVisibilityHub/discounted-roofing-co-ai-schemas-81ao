@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/are-metal-roofs-more-energy-efficient-than-other-roofing-materials",
+  "name": "Are metal roofs more energy-efficient than other roofing materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are metal roofs more energy-efficient than other roofing materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, metal roofs can be highly energy-efficient. Many metal roofing products feature reflective coatings that reduce solar heat absorption, keeping the attic and interior cooler. This can lead to significant savings on air conditioning costs, particularly in hot climates like North Texas. Selecting a 'cool roof' rated metal product can enhance this benefit, offering better insulation and reducing your home's energy consumption.",
+        "@type": "Answer",
+        "description": "Metal roofs can be energy-efficient due to reflective coatings that reduce solar heat absorption, potentially lowering cooling costs. 'Cool roof' rated products offer enhanced benefits."
+      }
+    }
+  ],
+  "description": "Metal roofs can be energy-efficient due to reflective coatings that reduce solar heat absorption, potentially lowering cooling costs. 'Cool roof' rated products"
+}

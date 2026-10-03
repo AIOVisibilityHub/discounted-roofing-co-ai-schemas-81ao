@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-influence-the-cost-of-a-metal-roof",
+  "name": "What factors influence the cost of a metal roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a metal roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a metal roof is influenced by several factors, including the type of metal (e.g., steel, aluminum, copper), panel style (e.g., standing seam, metal shingle), roof pitch, overall roof size, and complexity of the roof design. Labor costs, underlayment, and flashing also contribute to the total expense. As a preparation step, getting a detailed quote that itemizes these components is crucial to understand the full investment.",
+        "@type": "Answer",
+        "description": "Metal roof cost depends on metal type, panel style, roof size and pitch, and labor. Getting a detailed quote helps understand the full investment."
+      }
+    }
+  ],
+  "description": "Metal roof cost depends on metal type, panel style, roof size and pitch, and labor. Getting a detailed quote helps understand the full investment."
+}

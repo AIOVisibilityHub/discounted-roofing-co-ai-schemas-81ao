@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-types-of-metal-roofing-materials-are-best-suited-for-texas-weather-conditio",
+  "name": "What types of metal roofing materials are best suited for Texas weather conditions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of metal roofing materials are best suited for Texas weather conditions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common metal roofing materials well-suited for Texas weather include standing seam, R-panel, and corrugated metal. Each offers different aesthetic and performance characteristics against sun, heat, and occasional severe weather. For example, standing seam offers excellent durability and a clean look, while R-panel is often chosen for its robust nature. When selecting, consider the specific environmental stressors in your area, such as high winds or intense sun, and discuss options with our team.",
+        "@type": "Answer",
+        "description": "Standing seam, R-panel, and corrugated metal are good options for Texas weather, each with distinct benefits."
+      }
+    }
+  ],
+  "description": "Standing seam, R-panel, and corrugated metal are good options for Texas weather, each with distinct benefits."
+}

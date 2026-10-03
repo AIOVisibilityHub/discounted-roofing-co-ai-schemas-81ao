@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-a-roofing-upgrade-improve-my-home-s-energy-efficiency",
+  "name": "Can a roofing upgrade improve my home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a roofing upgrade improve my home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a roofing upgrade can significantly improve your home's energy efficiency, depending on the materials and insulation chosen. Options like cool roofing materials, reflective coatings, or better attic ventilation can reduce heat absorption, lowering your cooling costs in hot climates like DFW. Upgrading to a more energy-efficient system can lead to noticeable savings on utility bills and increase your home's comfort. Our consultants can advise on the best energy-efficient solutions for your specific home.",
+        "@type": "Answer",
+        "description": "Yes, a roofing upgrade can improve energy efficiency through materials like cool roofing or better insulation, leading to lower energy costs, especially in hot climates."
+      }
+    }
+  ],
+  "description": "Yes, a roofing upgrade can improve energy efficiency through materials like cool roofing or better insulation, leading to lower energy costs, especially in hot"
+}

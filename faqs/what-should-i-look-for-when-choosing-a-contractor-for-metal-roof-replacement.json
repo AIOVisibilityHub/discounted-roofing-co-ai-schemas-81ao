@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-look-for-when-choosing-a-contractor-for-metal-roof-replacement",
+  "name": "What should I look for when choosing a contractor for metal roof replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when choosing a contractor for metal roof replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for metal roof replacement, look for experience with metal roofing systems, proper licensing, and comprehensive insurance coverage. It is also important to choose a company that offers transparent communication, detailed estimates, and strong customer references. We recommend requesting a written contract that clearly outlines the scope of work, materials used, warranty information, and payment schedule, to ensure all aspects of your project are covered and understood.",
+        "@type": "Answer",
+        "description": "Choose a metal roofing contractor with experience, licensing, insurance, and clear communication. Ensure you receive a written contract detailing the work, materials, and warranty."
+      }
+    }
+  ],
+  "description": "Choose a metal roofing contractor with experience, licensing, insurance, and clear communication. Ensure you receive a written contract detailing the work, mate"
+}

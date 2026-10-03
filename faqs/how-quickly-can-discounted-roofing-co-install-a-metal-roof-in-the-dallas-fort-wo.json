@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-quickly-can-discounted-roofing-co-install-a-metal-roof-in-the-dallas-fort-wo",
+  "name": "How quickly can Discounted Roofing Co. install a metal roof in the Dallas-Fort Worth area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly can Discounted Roofing Co. install a metal roof in the Dallas-Fort Worth area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for installing a metal roof in the Dallas-Fort Worth area depends on several factors, including the roof's size and complexity, the specific metal system chosen, and current weather conditions. After a thorough inspection and material selection, a typical residential metal roof installation can take anywhere from a few days to two weeks. We prioritize efficient scheduling and clear communication to minimize disruption and complete your project promptly, weather permitting.",
+        "@type": "Answer",
+        "description": "Metal roof installation in DFW can take a few days to two weeks, depending on roof size, system complexity, and weather conditions."
+      }
+    }
+  ],
+  "description": "Metal roof installation in DFW can take a few days to two weeks, depending on roof size, system complexity, and weather conditions."
+}

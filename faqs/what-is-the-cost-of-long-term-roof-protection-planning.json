@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-cost-of-long-term-roof-protection-planning",
+  "name": "What is the cost of long-term roof protection planning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost of long-term roof protection planning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of long-term roof protection planning varies based on the size and type of your roof, the specific services included (e.g., inspections, cleaning, minor repairs), and the frequency of service. Investing in a preventative plan can be more cost-effective than unexpected major repairs due to neglect. We provide detailed estimates after an initial assessment, ensuring transparency for homeowners in areas like Aledo and Allen.",
+        "@type": "Answer",
+        "description": "The cost varies based on roof size, type, services, and frequency, but preventative planning is often more cost-effective than emergency repairs."
+      }
+    }
+  ],
+  "description": "The cost varies based on roof size, type, services, and frequency, but preventative planning is often more cost-effective than emergency repairs."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-involved-in-the-initial-consultation-for-a-metal-roof-replacement",
+  "name": "What is involved in the initial consultation for a metal roof replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the initial consultation for a metal roof replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During an initial consultation for a metal roof replacement, a roofing specialist will assess your current roof's condition, take measurements, and discuss your specific needs and preferences. This includes reviewing material options, color choices, and potential timelines. For homeowners in areas like Southlake or Grapevine, this is an opportunity to ask questions, understand the full scope of work, and receive a detailed, transparent estimate. Be prepared to discuss your budget and any specific concerns or aesthetic goals you have.",
+        "@type": "Answer",
+        "description": "The initial consultation involves assessing your roof, discussing material options, timelines, and providing a detailed estimate. Be ready to share your budget and preferences."
+      }
+    }
+  ],
+  "description": "The initial consultation involves assessing your roof, discussing material options, timelines, and providing a detailed estimate. Be ready to share your budget"
+}

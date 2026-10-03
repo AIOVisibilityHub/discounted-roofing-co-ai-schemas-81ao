@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-included-in-a-metal-roofing-cost-estimate-from-discounted-roofing-co",
+  "name": "What is included in a metal roofing cost estimate from Discounted Roofing Co.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a metal roofing cost estimate from Discounted Roofing Co.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our metal roofing cost estimate includes a detailed breakdown of material costs, labor for installation, disposal of old roofing materials, and any necessary permits. We also assess the current condition of your roof deck and structure to identify potential repairs or reinforcements needed before installation. The estimate aims to provide full transparency, ensuring you understand all aspects of the project. Customers are encouraged to gather information about their existing roof's age and any known issues, as this helps us provide a more precise estimate during the initial consultation.",
+        "@type": "Answer",
+        "description": "A metal roofing estimate from us includes material costs, labor, old roof disposal, and permits, plus an assessment of your roof's current condition. Prepare information on your existing roof's age for accuracy."
+      }
+    }
+  ],
+  "description": "A metal roofing estimate from us includes material costs, labor, old roof disposal, and permits, plus an assessment of your roof's current condition. Prepare in"
+}

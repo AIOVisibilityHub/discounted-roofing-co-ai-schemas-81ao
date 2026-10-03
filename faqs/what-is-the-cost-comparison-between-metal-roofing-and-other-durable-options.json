@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-cost-comparison-between-metal-roofing-and-other-durable-options",
+  "name": "What is the cost comparison between metal roofing and other durable options?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost comparison between metal roofing and other durable options?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Metal roofing generally has a higher upfront cost than asphalt shingles but offers a significantly longer lifespan and lower lifetime costs. For example, a severe-weather metal roof might cost two to three times more initially than a premium asphalt shingle roof. However, its durability and resistance to harsh weather reduce repair frequency and replacement needs. When budgeting, consider the long-term savings from reduced maintenance and potential insurance premium discounts for impact-resistant roofing.",
+        "@type": "Answer",
+        "description": "Metal roofing has a higher upfront cost than asphalt shingles but offers lower lifetime costs due to its extended durability and reduced maintenance."
+      }
+    }
+  ],
+  "description": "Metal roofing has a higher upfront cost than asphalt shingles but offers lower lifetime costs due to its extended durability and reduced maintenance."
+}

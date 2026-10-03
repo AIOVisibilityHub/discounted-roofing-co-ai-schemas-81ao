@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-types-of-metal-roofs-are-available-for-installation",
+  "name": "What types of metal roofs are available for installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of metal roofs are available for installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common types of metal roofs include standing seam, metal shingles, and corrugated panels. Standing seam roofs feature raised interlocking seams, offering a sleek look and excellent weather resistance. Metal shingles mimic the appearance of traditional shingle materials like asphalt or slate, while corrugated panels provide a more industrial aesthetic. Each type offers different durability, aesthetic, and cost considerations, allowing you to choose based on your property's style and budget. Our team can help you compare these options to find the best fit for your home or business.",
+        "@type": "Answer",
+        "description": "Common metal roof types include standing seam, metal shingles, and corrugated panels, each offering different aesthetics, durability, and cost to suit various needs."
+      }
+    }
+  ],
+  "description": "Common metal roof types include standing seam, metal shingles, and corrugated panels, each offering different aesthetics, durability, and cost to suit various n"
+}

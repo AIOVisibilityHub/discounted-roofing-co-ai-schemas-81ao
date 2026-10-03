@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/does-discounted-roofing-co-offer-warranty-options-for-weather-resistant-metal-ro",
+  "name": "Does Discounted Roofing Co. offer warranty options for weather-resistant metal roofing installations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does Discounted Roofing Co. offer warranty options for weather-resistant metal roofing installations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Discounted Roofing Co. provides warranty options for our weather-resistant metal roofing installations. These typically include manufacturer warranties on the materials, covering defects and performance, as well as a separate warranty on our workmanship. The specifics of the warranty, including duration and coverage details, will be clearly outlined in your project proposal. Always review these details to understand the long-term protection for your investment.",
+        "@type": "Answer",
+        "description": "Yes, we offer manufacturer warranties on materials and a separate warranty on our workmanship. Specifics are in your project proposal."
+      }
+    }
+  ],
+  "description": "Yes, we offer manufacturer warranties on materials and a separate warranty on our workmanship. Specifics are in your project proposal."
+}

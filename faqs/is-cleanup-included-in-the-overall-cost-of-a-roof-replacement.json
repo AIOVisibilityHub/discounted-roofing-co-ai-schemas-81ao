@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/is-cleanup-included-in-the-overall-cost-of-a-roof-replacement",
+  "name": "Is cleanup included in the overall cost of a roof replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is cleanup included in the overall cost of a roof replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, comprehensive cleanup is typically included in the overall cost quoted for a roof replacement by most professional roofing companies. This covers debris removal, sweeping for nails, and general site tidying. When comparing quotes, ensure that cleanup is explicitly mentioned in the scope of work to avoid unexpected additional charges. Understanding what's covered upfront is a key decision factor.",
+        "@type": "Answer",
+        "description": "Yes, comprehensive cleanup is usually included in the overall cost. Confirm it's explicitly in the scope of work when comparing quotes."
+      }
+    }
+  ],
+  "description": "Yes, comprehensive cleanup is usually included in the overall cost. Confirm it's explicitly in the scope of work when comparing quotes."
+}

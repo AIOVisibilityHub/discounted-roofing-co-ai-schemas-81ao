@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-information-should-i-prepare-for-a-metal-roof-consultation",
+  "name": "What information should I prepare for a metal roof consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I prepare for a metal roof consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To make your metal roof consultation as efficient as possible, it's helpful to have some information ready. Consider your budget expectations, any aesthetic preferences for color or style, and details about your current roof's history, such as its age or previous repairs. Having a general idea of your long-term goals for the property, like energy efficiency or durability, will also help our team at Discounted Roofing Co. tailor recommendations that best fit your needs.",
+        "@type": "Answer",
+        "description": "For a metal roof consultation, prepare information about your budget, aesthetic preferences, current roof history, and long-term property goals."
+      }
+    }
+  ],
+  "description": "For a metal roof consultation, prepare information about your budget, aesthetic preferences, current roof history, and long-term property goals."
+}

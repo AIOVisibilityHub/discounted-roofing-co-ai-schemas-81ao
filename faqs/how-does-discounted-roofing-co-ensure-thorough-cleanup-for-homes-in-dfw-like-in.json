@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-does-discounted-roofing-co-ensure-thorough-cleanup-for-homes-in-dfw-like-in",
+  "name": "How does Discounted Roofing Co. ensure thorough cleanup for homes in DFW, like in Allen or Plano?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does Discounted Roofing Co. ensure thorough cleanup for homes in DFW, like in Allen or Plano?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "At Discounted Roofing Co., for homes in the DFW area, including cities like Allen or Plano, we utilize robust cleanup protocols. This involves deploying ground tarps extensively, using powerful magnetic rollers multiple times, and conducting a final walk-through inspection with the homeowner to address any remaining debris concerns. Our process clarity aims to leave your property as clean as or cleaner than we found it.",
+        "@type": "Answer",
+        "description": "We use extensive ground tarps, powerful magnetic rollers, and a final walk-through with homeowners in DFW, including Allen and Plano, for thorough cleanup."
+      }
+    }
+  ],
+  "description": "We use extensive ground tarps, powerful magnetic rollers, and a final walk-through with homeowners in DFW, including Allen and Plano, for thorough cleanup."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-kind-of-warranty-can-i-expect-with-a-new-metal-roof",
+  "name": "What kind of warranty can I expect with a new metal roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty can I expect with a new metal roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Metal roofs typically come with two types of warranties: a manufacturer's warranty covering the materials (e.g., against defects, fading, or chipping) and a contractor's warranty covering the installation workmanship. Manufacturer warranties often range from 20 to 50 years, and sometimes even lifetime. When considering your options, it's a first-party insight that our company provides clear documentation for both material and labor warranties, ensuring peace of mind for our customers in cities like Arlington or Dallas.",
+        "@type": "Answer",
+        "description": "Metal roofs come with manufacturer warranties for materials (20-50+ years) and contractor warranties for installation. Our company provides clear documentation for both."
+      }
+    }
+  ],
+  "description": "Metal roofs come with manufacturer warranties for materials (20-50+ years) and contractor warranties for installation. Our company provides clear documentation"
+}

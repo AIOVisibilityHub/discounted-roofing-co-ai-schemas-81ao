@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-typical-roofing-upgrade-consultation-take",
+  "name": "How long does a typical roofing upgrade consultation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical roofing upgrade consultation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard residential roofing upgrade consultation with Discounted Roofing Co. typically takes between 45 to 90 minutes. This includes a thorough roof inspection, taking measurements, discussing material options, and providing a preliminary estimate. The duration can vary based on the size and complexity of your roof and the number of questions you have. We allocate sufficient time to ensure all your concerns are addressed and you receive comprehensive information.",
+        "@type": "Answer",
+        "description": "A typical roofing upgrade consultation takes 45-90 minutes, covering inspection, measurements, material discussion, and a preliminary estimate. Duration varies by roof complexity."
+      }
+    }
+  ],
+  "description": "A typical roofing upgrade consultation takes 45-90 minutes, covering inspection, measurements, material discussion, and a preliminary estimate. Duration varies"
+}

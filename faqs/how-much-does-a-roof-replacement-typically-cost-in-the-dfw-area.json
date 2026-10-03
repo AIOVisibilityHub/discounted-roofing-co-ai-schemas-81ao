@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-roof-replacement-typically-cost-in-the-dfw-area",
+  "name": "How much does a roof replacement typically cost in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a roof replacement typically cost in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a roof replacement in the DFW area varies significantly based on factors like roof size, material chosen (e.g., asphalt shingles, metal, tile), complexity of the roofline, and accessibility. While a precise estimate requires an on-site inspection, preparation is key; gather information about your current roof's size and condition to help us provide a more accurate initial assessment. We offer free, no-obligation quotes to provide a clear understanding of the investment required for your specific property in our service areas like Dallas, Fort Worth, or Allen.",
+        "@type": "Answer",
+        "description": "Cost varies by roof size, material, and complexity. Prepare with information about your current roof's size and condition for a more accurate free quote."
+      }
+    }
+  ],
+  "description": "Cost varies by roof size, material, and complexity. Prepare with information about your current roof's size and condition for a more accurate free quote."
+}

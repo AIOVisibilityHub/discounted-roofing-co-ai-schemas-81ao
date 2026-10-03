@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-often-should-i-have-my-roof-inspected-for-long-term-protection",
+  "name": "How often should I have my roof inspected for long-term protection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I have my roof inspected for long-term protection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We recommend a professional roof inspection at least once a year, and ideally twice a year, especially after significant weather events common in areas like DFW. Regular inspections can identify minor issues before they escalate into costly problems. For long-term protection, catching small cracks, missing shingles, or compromised flashing early can significantly extend your roof's life and prevent interior damage.",
+        "@type": "Answer",
+        "description": "We recommend a professional roof inspection at least once a year, and ideally twice a year, especially after significant weather events, to catch minor issues early."
+      }
+    }
+  ],
+  "description": "We recommend a professional roof inspection at least once a year, and ideally twice a year, especially after significant weather events, to catch minor issues e"
+}

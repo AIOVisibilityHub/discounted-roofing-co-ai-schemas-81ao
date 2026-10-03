@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/is-metal-roofing-a-more-expensive-option-than-asphalt-shingles",
+  "name": "Is metal roofing a more expensive option than asphalt shingles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is metal roofing a more expensive option than asphalt shingles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, the upfront cost of metal roofing is higher than traditional asphalt shingles. However, the long-term cost-effectiveness often makes it a worthwhile investment. Metal roofs typically last 40-70 years, significantly longer than asphalt, which usually needs replacement every 15-30 years. When comparing options, consider the total cost of ownership, including potential energy savings and reduced maintenance, which can offset the initial expenditure over decades.",
+        "@type": "Answer",
+        "description": "Metal roofing typically has a higher upfront cost than asphalt shingles, but it offers long-term savings due to its extended lifespan and durability."
+      }
+    }
+  ],
+  "description": "Metal roofing typically has a higher upfront cost than asphalt shingles, but it offers long-term savings due to its extended lifespan and durability."
+}

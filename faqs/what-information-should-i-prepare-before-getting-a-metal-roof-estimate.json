@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-information-should-i-prepare-before-getting-a-metal-roof-estimate",
+  "name": "What information should I prepare before getting a metal roof estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I prepare before getting a metal roof estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before an estimate, gather any existing documentation about your current roof, such as age and repair history. It's also helpful to consider your preferred metal type, color, and any specific concerns you have, like leaks or poor drainage. This preparation helps us provide a more accurate and tailored estimate for your property in areas like Addison or Corinth.",
+        "@type": "Answer",
+        "description": "Before an estimate, prepare existing roof documentation, consider your preferences for metal type and color, and note any specific concerns."
+      }
+    }
+  ],
+  "description": "Before an estimate, prepare existing roof documentation, consider your preferences for metal type and color, and note any specific concerns."
+}

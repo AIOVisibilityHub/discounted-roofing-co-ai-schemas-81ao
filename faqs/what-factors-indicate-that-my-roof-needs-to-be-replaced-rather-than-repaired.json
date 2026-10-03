@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-indicate-that-my-roof-needs-to-be-replaced-rather-than-repaired",
+  "name": "What factors indicate that my roof needs to be replaced rather than repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors indicate that my roof needs to be replaced rather than repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key indicators for roof replacement include widespread shingle damage (missing, cracked, or curled shingles), a roof that is past its expected lifespan (typically 20-25 years for asphalt shingles), significant leaks affecting multiple areas, or a sagging roof deck. While minor leaks or isolated storm damage might be repairable, extensive issues often point to the need for a full replacement to ensure structural integrity and prevent further damage. A professional inspection can help determine the extent of the damage and recommend the most cost-effective solution.",
+        "@type": "Answer",
+        "description": "Widespread shingle damage, an aging roof, multiple leaks, or a sagging deck often indicate a need for replacement. A professional inspection can clarify the best course of action."
+      }
+    }
+  ],
+  "description": "Widespread shingle damage, an aging roof, multiple leaks, or a sagging deck often indicate a need for replacement. A professional inspection can clarify the bes"
+}

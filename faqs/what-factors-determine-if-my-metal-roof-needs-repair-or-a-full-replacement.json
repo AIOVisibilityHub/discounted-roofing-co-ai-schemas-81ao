@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-determine-if-my-metal-roof-needs-repair-or-a-full-replacement",
+  "name": "What factors determine if my metal roof needs repair or a full replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors determine if my metal roof needs repair or a full replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision between metal roof repair and replacement primarily depends on the extent of the damage, the roof's age, and its overall condition. Minor issues like loose fasteners or small leaks can often be repaired cost-effectively. However, widespread corrosion, significant structural damage, or multiple large punctures typically necessitate a replacement. Our assessment will identify the root cause of the problem and evaluate the integrity of the entire roofing system to provide the most durable solution.",
+        "@type": "Answer",
+        "description": "Factors include damage extent, roof age, and overall condition. Minor issues are repairable, while widespread corrosion or structural damage often requires replacement."
+      }
+    }
+  ],
+  "description": "Factors include damage extent, roof age, and overall condition. Minor issues are repairable, while widespread corrosion or structural damage often requires repl"
+}

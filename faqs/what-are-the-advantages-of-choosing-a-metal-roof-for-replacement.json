@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-advantages-of-choosing-a-metal-roof-for-replacement",
+  "name": "What are the advantages of choosing a metal roof for replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the advantages of choosing a metal roof for replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Metal roofs offer durability, longevity, and resistance to harsh weather conditions common in the DFW area, such as hail and strong winds. They can also be energy-efficient, reflecting solar radiant heat and potentially reducing cooling costs. Additionally, metal roofing materials often contain recycled content and are fully recyclable at the end of their lifespan, contributing to environmental sustainability.",
+        "@type": "Answer",
+        "description": "Metal roofs are durable, long-lasting, weather-resistant, and energy-efficient. They can withstand DFW weather and offer sustainability benefits."
+      }
+    }
+  ],
+  "description": "Metal roofs are durable, long-lasting, weather-resistant, and energy-efficient. They can withstand DFW weather and offer sustainability benefits."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-i-get-an-estimate-for-both-repair-and-replacement-options-for-my-metal-roof",
+  "name": "Can I get an estimate for both repair and replacement options for my metal roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get an estimate for both repair and replacement options for my metal roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we can provide estimates for both metal roof repair and full replacement options after our assessment. Our goal is to offer transparent choices tailored to your roof's condition and your budget. We will detail the scope of work, materials, and associated costs for each option, allowing you to compare the immediate investment against the long-term benefits and select the solution that best fits your needs. This helps you make an informed decision.",
+        "@type": "Answer",
+        "description": "Yes, we provide estimates for both metal roof repair and replacement options after our assessment. We detail scope, materials, and costs for each to help you make an informed decision."
+      }
+    }
+  ],
+  "description": "Yes, we provide estimates for both metal roof repair and replacement options after our assessment. We detail scope, materials, and costs for each to help you ma"
+}

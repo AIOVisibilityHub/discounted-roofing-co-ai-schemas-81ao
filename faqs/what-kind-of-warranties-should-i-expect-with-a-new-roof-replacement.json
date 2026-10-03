@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-kind-of-warranties-should-i-expect-with-a-new-roof-replacement",
+  "name": "What kind of warranties should I expect with a new roof replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranties should I expect with a new roof replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A new roof replacement typically comes with two types of warranties: a manufacturer's warranty on the materials and a contractor's warranty on the workmanship. Manufacturer warranties often range from 20-50 years, depending on the material. Workmanship warranties vary, but typically cover installation errors for a period of 5-10 years. Understanding the specifics of both warranties is part of preparation; ensure you receive clear documentation outlining coverage details and any requirements for maintaining validity.",
+        "@type": "Answer",
+        "description": "Expect a manufacturer's warranty on materials (20-50 years) and a contractor's warranty on workmanship (5-10 years). Understand all coverage details."
+      }
+    }
+  ],
+  "description": "Expect a manufacturer's warranty on materials (20-50 years) and a contractor's warranty on workmanship (5-10 years). Understand all coverage details."
+}

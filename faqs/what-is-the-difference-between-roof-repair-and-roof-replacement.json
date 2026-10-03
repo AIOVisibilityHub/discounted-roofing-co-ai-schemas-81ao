@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-difference-between-roof-repair-and-roof-replacement",
+  "name": "What is the difference between roof repair and roof replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between roof repair and roof replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Roof repair addresses localized damage, such as a few missing shingles or a small leak, extending the life of an otherwise sound roof. Roof replacement involves removing all existing roofing materials and installing new ones, which is necessary when damage is extensive, widespread, or the roof has reached the end of its lifespan. We assess the damage to recommend the most cost-effective solution.",
+        "@type": "Answer",
+        "description": "Roof repair fixes minor, localized damage; replacement is for extensive damage or end-of-life roofs. We recommend the best solution after assessment."
+      }
+    }
+  ],
+  "description": "Roof repair fixes minor, localized damage; replacement is for extensive damage or end-of-life roofs. We recommend the best solution after assessment."
+}

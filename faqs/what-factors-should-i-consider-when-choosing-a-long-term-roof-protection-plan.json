@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-should-i-consider-when-choosing-a-long-term-roof-protection-plan",
+  "name": "What factors should I consider when choosing a long-term roof protection plan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing a long-term roof protection plan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a long-term roof protection plan, consider your roof's current age and material, your budget, and the local climate. Different roofing materials, such as asphalt shingles, metal, or tile, have varying lifespans and maintenance needs. Understanding these factors helps us tailor a plan that maximizes protection while aligning with your financial goals. Homeowners in areas like Abbott or Addison might prioritize hail-resistant materials.",
+        "@type": "Answer",
+        "description": "Consider your roof's current age, material, budget, and local climate when choosing a long-term roof protection plan to ensure it meets your specific needs."
+      }
+    }
+  ],
+  "description": "Consider your roof's current age, material, budget, and local climate when choosing a long-term roof protection plan to ensure it meets your specific needs."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-a-metal-roofing-upgrade-consultation-help-with-energy-efficiency-decisions",
+  "name": "Can a metal roofing upgrade consultation help with energy efficiency decisions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a metal roofing upgrade consultation help with energy efficiency decisions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a metal roofing upgrade consultation can directly inform your energy efficiency decisions. Metal roofs, especially those with reflective coatings, can significantly reduce heat absorption, leading to lower cooling costs during hot months. Our consultants can explain the R-values and reflective properties of different metal materials and coatings, helping you choose an option that optimizes your home's thermal performance.",
+        "@type": "Answer",
+        "description": "Consultations clarify how different metal roofs' reflective properties and R-values can improve your home's energy efficiency."
+      }
+    }
+  ],
+  "description": "Consultations clarify how different metal roofs' reflective properties and R-values can improve your home's energy efficiency."
+}

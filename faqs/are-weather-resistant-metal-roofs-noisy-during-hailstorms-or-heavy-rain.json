@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/are-weather-resistant-metal-roofs-noisy-during-hailstorms-or-heavy-rain",
+  "name": "Are weather-resistant metal roofs noisy during hailstorms or heavy rain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are weather-resistant metal roofs noisy during hailstorms or heavy rain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Modern weather-resistant metal roofs, especially when installed correctly with proper sheathing and insulation, are not significantly noisier than other roofing materials during hailstorms or heavy rain. The sound-dampening properties of the roof deck and attic insulation play a crucial role. A practical tradeoff to consider is selecting a roofing system with integrated sound-dampening layers or ensuring adequate attic insulation during your roof replacement project to mitigate potential noise.",
+        "@type": "Answer",
+        "description": "No, modern metal roofs with proper insulation are not significantly noisier in bad weather. Proper sheathing and attic insulation help dampen sound."
+      }
+    }
+  ],
+  "description": "No, modern metal roofs with proper insulation are not significantly noisier in bad weather. Proper sheathing and attic insulation help dampen sound."
+}

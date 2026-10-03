@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-during-a-residential-roofing-upgrade-consultation",
+  "name": "What happens during a residential roofing upgrade consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during a residential roofing upgrade consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a residential roofing upgrade consultation, a Discounted Roofing Co. specialist inspects your existing roof to assess its condition, identify any damage, and determine the best options for replacement or upgrade. We discuss your needs, budget, and material preferences, such as asphalt shingles, metal roofing, or tile. This includes measuring your roof and providing a detailed estimate, outlining the scope of work and available financing. This process helps us tailor a solution specific to your home and regional weather patterns in the DFW area.",
+        "@type": "Answer",
+        "description": "A residential roofing upgrade consultation involves an inspection of your current roof, discussion of material options and budget, and a detailed estimate outlining the scope of work and financing."
+      }
+    }
+  ],
+  "description": "A residential roofing upgrade consultation involves an inspection of your current roof, discussion of material options and budget, and a detailed estimate outli"
+}

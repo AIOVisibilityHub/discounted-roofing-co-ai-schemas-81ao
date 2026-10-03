@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/do-metal-roof-replacement-estimates-include-the-removal-of-my-old-roof",
+  "name": "Do metal roof replacement estimates include the removal of my old roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do metal roof replacement estimates include the removal of my old roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a comprehensive metal roof replacement estimate from Discounted Roofing Co. will typically include the cost of removing and disposing of your old roof. This is a standard component of a full replacement project. The estimate will detail these costs separately, ensuring transparency. However, the complexity of removal can vary based on the number of existing roofing layers, which will be factored into the overall estimate.",
+        "@type": "Answer",
+        "description": "Most metal roof replacement estimates include the cost for old roof removal and disposal, detailed separately in the estimate."
+      }
+    }
+  ],
+  "description": "Most metal roof replacement estimates include the cost for old roof removal and disposal, detailed separately in the estimate."
+}

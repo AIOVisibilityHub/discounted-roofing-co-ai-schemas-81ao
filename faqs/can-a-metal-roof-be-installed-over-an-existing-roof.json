@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-a-metal-roof-be-installed-over-an-existing-roof",
+  "name": "Can a metal roof be installed over an existing roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a metal roof be installed over an existing roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In some cases, a metal roof can be installed over an existing roof, typically asphalt shingles, which can potentially save on labor and disposal costs. However, this is not always advisable or permissible. The decision factor depends on the condition of the existing roof, the structural integrity of your home, and local building codes in DFW. A thorough inspection by a qualified professional is crucial to determine if this 'roof-over' method is suitable. Discounted Roofing Co. assesses the existing roof's condition to ensure proper load-bearing capacity and a secure, long-lasting installation.",
+        "@type": "Answer",
+        "description": "A metal roof can sometimes be installed over an existing roof to save costs, but it depends on the old roof's condition, structural integrity, and local DFW building codes. A professional inspection is essential to determine suitability."
+      }
+    }
+  ],
+  "description": "A metal roof can sometimes be installed over an existing roof to save costs, but it depends on the old roof's condition, structural integrity, and local DFW bui"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-primary-types-of-metal-roofing-materials-available",
+  "name": "What are the primary types of metal roofing materials available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the primary types of metal roofing materials available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common metal roofing materials include steel (galvanized, Galvalume), aluminum, copper, and zinc. Steel and aluminum are popular due to their durability and cost-effectiveness, while copper and zinc offer exceptional longevity and a distinct aesthetic but at a higher price point. For most residential and commercial properties in the DFW area, steel with a Galvalume coating offers a good balance of performance and value, resisting corrosion well in varying weather conditions.",
+        "@type": "Answer",
+        "description": "Primary metal roofing materials include steel, aluminum, copper, and zinc. Steel and aluminum are common for their durability and cost-effectiveness, while copper and zinc are premium options."
+      }
+    }
+  ],
+  "description": "Primary metal roofing materials include steel, aluminum, copper, and zinc. Steel and aluminum are common for their durability and cost-effectiveness, while copp"
+}

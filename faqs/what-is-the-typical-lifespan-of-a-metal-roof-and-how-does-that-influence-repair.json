@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-typical-lifespan-of-a-metal-roof-and-how-does-that-influence-repair",
+  "name": "What is the typical lifespan of a metal roof, and how does that influence repair versus replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical lifespan of a metal roof, and how does that influence repair versus replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A well-maintained metal roof can last 40-70 years or more, significantly longer than many other roofing materials. If your metal roof is relatively new and experiences isolated damage, repair is usually the most economical option. However, if your roof is nearing the end of its expected lifespan and exhibits widespread wear, a replacement provides long-term value and avoids recurring repair costs. We evaluate the remaining useful life of your roof to guide our recommendation.",
+        "@type": "Answer",
+        "description": "Metal roofs can last 40-70+ years. Newer roofs with isolated damage are usually repaired, while older roofs with widespread wear may warrant replacement for long-term value."
+      }
+    }
+  ],
+  "description": "Metal roofs can last 40-70+ years. Newer roofs with isolated damage are usually repaired, while older roofs with widespread wear may warrant replacement for lon"
+}

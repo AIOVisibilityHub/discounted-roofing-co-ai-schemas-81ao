@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-materials-are-available-for-roof-replacement",
+  "name": "What materials are available for roof replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are available for roof replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common roofing materials include asphalt shingles, metal roofing, and tile. Asphalt shingles are popular for their affordability and variety. Metal roofs offer durability and energy efficiency, while tile provides a distinctive aesthetic and long lifespan. Your choice will depend on your budget, desired aesthetic, and climate considerations.",
+        "@type": "Answer",
+        "description": "Available materials include asphalt shingles, metal roofing, and tile. Your choice depends on budget, aesthetics, and climate."
+      }
+    }
+  ],
+  "description": "Available materials include asphalt shingles, metal roofing, and tile. Your choice depends on budget, aesthetics, and climate."
+}

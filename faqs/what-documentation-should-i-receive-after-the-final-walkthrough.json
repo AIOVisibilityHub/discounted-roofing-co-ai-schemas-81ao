@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-documentation-should-i-receive-after-the-final-walkthrough",
+  "name": "What documentation should I receive after the final walkthrough?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documentation should I receive after the final walkthrough?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a successful final walkthrough, you should receive all necessary warranty information for both materials and labor, a final invoice, and any relevant care instructions for your new roof. Discounted Roofing Co. provides clear documentation to ensure you have all details regarding your investment. This includes specifics on manufacturer warranties and our own workmanship guarantee.",
+        "@type": "Answer",
+        "description": "After the walkthrough, you should receive warranty information, the final invoice, and roof care instructions."
+      }
+    }
+  ],
+  "description": "After the walkthrough, you should receive warranty information, the final invoice, and roof care instructions."
+}

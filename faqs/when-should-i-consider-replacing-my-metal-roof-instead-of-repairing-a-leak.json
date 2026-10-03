@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-consider-replacing-my-metal-roof-instead-of-repairing-a-leak",
+  "name": "When should I consider replacing my metal roof instead of repairing a leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my metal roof instead of repairing a leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your metal roof rather than just repairing a leak if the leak is a symptom of widespread issues, such as extensive corrosion, multiple damaged panels, or structural deterioration that compromises the roof's overall integrity. A single, isolated leak on an otherwise sound roof can often be repaired. However, if leaks are frequent, widespread, or due to a systemic failure, replacement offers a more durable and long-term solution. Our team can help you determine the underlying cause.",
+        "@type": "Answer",
+        "description": "Consider replacement if a leak signifies widespread issues like extensive corrosion or structural damage, rather than an isolated problem. Frequent or systemic leaks usually warrant a new roof."
+      }
+    }
+  ],
+  "description": "Consider replacement if a leak signifies widespread issues like extensive corrosion or structural damage, rather than an isolated problem. Frequent or systemic"
+}

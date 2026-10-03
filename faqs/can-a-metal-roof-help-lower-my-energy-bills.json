@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-a-metal-roof-help-lower-my-energy-bills",
+  "name": "Can a metal roof help lower my energy bills?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a metal roof help lower my energy bills?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, metal roofs can contribute to lower energy bills, especially during hot Texas summers. Many metal roofing materials are available with reflective coatings that deflect solar radiation, reducing heat absorption into your home. This can lead to a cooler interior and less reliance on air conditioning. When choosing a metal roof, ask about cool roof coatings or ENERGY STAR rated options to maximize these energy-saving benefits.",
+        "@type": "Answer",
+        "description": "Yes, metal roofs with reflective coatings can lower energy bills by deflecting solar radiation and reducing indoor temperatures."
+      }
+    }
+  ],
+  "description": "Yes, metal roofs with reflective coatings can lower energy bills by deflecting solar radiation and reducing indoor temperatures."
+}

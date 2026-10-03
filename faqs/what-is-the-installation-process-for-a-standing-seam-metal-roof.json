@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-installation-process-for-a-standing-seam-metal-roof",
+  "name": "What is the installation process for a standing seam metal roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the installation process for a standing seam metal roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process for a standing seam metal roof typically begins with preparing the existing roof deck or installing new sheathing. Underlayment is then applied, followed by the careful placement and fastening of the metal panels. These panels feature raised seams that are crimped together, concealing fasteners and creating a watertight seal. Our teams serving regions like Arlington and Fort Worth prioritize precise measurement and panel alignment to ensure optimal performance and aesthetic appeal.",
+        "@type": "Answer",
+        "description": "Standing seam metal roof installation involves deck preparation, underlayment, and then precise placement and crimping of panels. This creates a watertight, fastener-free surface."
+      }
+    }
+  ],
+  "description": "Standing seam metal roof installation involves deck preparation, underlayment, and then precise placement and crimping of panels. This creates a watertight, fas"
+}

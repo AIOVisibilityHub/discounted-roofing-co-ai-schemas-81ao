@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/is-a-metal-roof-heavier-than-other-roofing-materials",
+  "name": "Is a metal roof heavier than other roofing materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a metal roof heavier than other roofing materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Contrary to common belief, metal roofs are generally lighter per square foot than many traditional roofing materials, such as asphalt shingles, clay tiles, or concrete tiles. This lighter weight can reduce stress on your home's structural framing and may simplify the installation process. It also means that in most cases, existing roof structures can support a metal roof without needing additional reinforcement, a factor we assess during our initial consultation.",
+        "@type": "Answer",
+        "description": "Metal roofs are typically lighter than traditional materials like asphalt, reducing structural stress and often negating the need for additional framing support."
+      }
+    }
+  ],
+  "description": "Metal roofs are typically lighter than traditional materials like asphalt, reducing structural stress and often negating the need for additional framing support"
+}

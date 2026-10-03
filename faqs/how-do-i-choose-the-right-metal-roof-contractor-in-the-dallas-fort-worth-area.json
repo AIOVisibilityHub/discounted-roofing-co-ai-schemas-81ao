@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-the-right-metal-roof-contractor-in-the-dallas-fort-worth-area",
+  "name": "How do I choose the right metal roof contractor in the Dallas-Fort Worth area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right metal roof contractor in the Dallas-Fort Worth area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a metal roof contractor in the DFW area, prioritize those with proven experience in metal roofing specifically, as it requires specialized skills. Look for companies with strong local reputations, proper licensing, insurance, and positive customer reviews. Discounted Roofing Co. emphasizes transparent communication and provides detailed contracts, ensuring you understand the scope of work and warranty information.",
+        "@type": "Answer",
+        "description": "Choose DFW contractors with metal roofing experience, strong local reputations, proper licensing, and good reviews. Ensure transparent communication and contracts."
+      }
+    }
+  ],
+  "description": "Choose DFW contractors with metal roofing experience, strong local reputations, proper licensing, and good reviews. Ensure transparent communication and contrac"
+}

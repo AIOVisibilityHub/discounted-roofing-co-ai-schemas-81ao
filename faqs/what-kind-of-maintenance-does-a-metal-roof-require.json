@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-kind-of-maintenance-does-a-metal-roof-require",
+  "name": "What kind of maintenance does a metal roof require?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance does a metal roof require?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Metal roofs are known for their low maintenance requirements. Typically, homeowners should inspect their roof periodically for debris accumulation, especially after severe weather, and clear any leaves or branches to prevent water pooling. Checking fasteners and sealants every few years can also help ensure the roof's integrity. While durable, proper installation by experienced professionals like those serving the DFW area is crucial to minimize future issues. This ensures all seams and flashing are correctly sealed to prevent leaks and maximize the roof's lifespan.",
+        "@type": "Answer",
+        "description": "Metal roofs require minimal maintenance, mainly periodic cleaning of debris and checking fasteners/sealants. Proper installation is key to prevent issues and ensure longevity."
+      }
+    }
+  ],
+  "description": "Metal roofs require minimal maintenance, mainly periodic cleaning of debris and checking fasteners/sealants. Proper installation is key to prevent issues and en"
+}

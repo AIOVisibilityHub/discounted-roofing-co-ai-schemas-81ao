@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-a-reputable-roofing-contractor-for-replacement",
+  "name": "How do I choose a reputable roofing contractor for replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reputable roofing contractor for replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a roofing contractor, look for companies with local experience, proper licensing and insurance, and strong customer reviews. Verify their warranty offerings and ensure they provide a detailed, written estimate. Given our service areas in DFW, Abbott, Addison, and Aledo, we have extensive knowledge of local building codes and common regional weather challenges.",
+        "@type": "Answer",
+        "description": "Choose a contractor with local experience, proper licensing, insurance, good reviews, and clear estimates. Local knowledge is key."
+      }
+    }
+  ],
+  "description": "Choose a contractor with local experience, proper licensing, insurance, good reviews, and clear estimates. Local knowledge is key."
+}

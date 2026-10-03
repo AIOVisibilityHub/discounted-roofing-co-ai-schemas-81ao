@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/are-metal-roofs-noisy-during-rain-or-hail",
+  "name": "Are metal roofs noisy during rain or hail?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are metal roofs noisy during rain or hail?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A common concern is noise during rain or hail. Modern metal roofing systems, when properly installed with adequate decking and insulation, are not significantly noisier than other roofing materials. The sound insulation qualities of your attic and ceiling also play a major role. As a decision factor, if noise is a primary concern, discuss insulation options with your roofing contractor. Discounted Roofing Co. can advise on underlayment and insulation solutions that help dampen sound, ensuring your metal roof provides both protection and peace.",
+        "@type": "Answer",
+        "description": "Modern metal roofs, properly installed with adequate decking and insulation, are not significantly noisier than other roofs during rain or hail. Insulation options can further dampen sound."
+      }
+    }
+  ],
+  "description": "Modern metal roofs, properly installed with adequate decking and insulation, are not significantly noisier than other roofs during rain or hail. Insulation opti"
+}

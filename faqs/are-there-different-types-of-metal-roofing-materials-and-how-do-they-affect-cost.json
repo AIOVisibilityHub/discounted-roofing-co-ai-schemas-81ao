@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/are-there-different-types-of-metal-roofing-materials-and-how-do-they-affect-cost",
+  "name": "Are there different types of metal roofing materials, and how do they affect cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there different types of metal roofing materials, and how do they affect cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, there are several types of metal roofing materials, each with different cost implications. Common options include steel (galvanized, galvalume), aluminum, copper, and zinc. Steel is generally the most economical, offering good durability. Aluminum is lighter and corrosion-resistant, often at a moderate price. Copper and zinc are premium options, known for their exceptional longevity and aesthetic appeal, but come with a higher price point. The material choice is a key decision factor that directly influences the overall project cost.",
+        "@type": "Answer",
+        "description": "Different metal roofing materials like steel, aluminum, copper, and zinc affect cost differently. Steel is most economical, while copper and zinc are premium options with higher prices."
+      }
+    }
+  ],
+  "description": "Different metal roofing materials like steel, aluminum, copper, and zinc affect cost differently. Steel is most economical, while copper and zinc are premium op"
+}

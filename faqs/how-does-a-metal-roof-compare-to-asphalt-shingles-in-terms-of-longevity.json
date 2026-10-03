@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-does-a-metal-roof-compare-to-asphalt-shingles-in-terms-of-longevity",
+  "name": "How does a metal roof compare to asphalt shingles in terms of longevity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a metal roof compare to asphalt shingles in terms of longevity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Metal roofs generally have a significantly longer lifespan than asphalt shingles. While asphalt shingles typically last 15-30 years, a properly installed metal roof can last 40-70 years or even longer. This extended durability means fewer replacements over the home's lifetime, offering a strong return on investment. The choice often comes down to balancing initial cost with long-term performance and reduced future maintenance.",
+        "@type": "Answer",
+        "description": "Metal roofs typically last 40-70+ years, significantly longer than asphalt shingles (15-30 years). They offer greater durability and long-term value."
+      }
+    }
+  ],
+  "description": "Metal roofs typically last 40-70+ years, significantly longer than asphalt shingles (15-30 years). They offer greater durability and long-term value."
+}

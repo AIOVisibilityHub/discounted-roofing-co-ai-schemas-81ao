@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-metal-roof-estimates-differ-from-other-roofing-material-estimates",
+  "name": "How do metal roof estimates differ from other roofing material estimates?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do metal roof estimates differ from other roofing material estimates?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Metal roof estimates often include details about specialized installation techniques and specific fastening systems unique to metal panels, which might not be present in estimates for asphalt shingles or tile roofs. The material cost component for various metal types can also vary significantly compared to other roofing materials. Customers need to understand these differences to compare proposals accurately.",
+        "@type": "Answer",
+        "description": "Metal roof estimates detail specialized installation and fastening, and material costs for metal can differ significantly from other roofing types."
+      }
+    }
+  ],
+  "description": "Metal roof estimates detail specialized installation and fastening, and material costs for metal can differ significantly from other roofing types."
+}

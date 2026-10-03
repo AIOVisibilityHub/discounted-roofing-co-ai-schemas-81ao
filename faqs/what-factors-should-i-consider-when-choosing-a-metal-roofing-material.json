@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-should-i-consider-when-choosing-a-metal-roofing-material",
+  "name": "What factors should I consider when choosing a metal roofing material?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing a metal roofing material?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a metal roofing material, consider durability, weight, corrosion resistance, aesthetic appeal, and budget. Evaluate factors like your local climate, desired longevity, and maintenance requirements. For instance, in hail-prone areas, a thicker gauge steel might be more suitable. It's helpful to gather examples of styles you like and discuss your priorities with a roofing professional to align material choice with your home's needs and your budget.",
+        "@type": "Answer",
+        "description": "Key factors for choosing metal roofing include durability, weight, corrosion resistance, aesthetics, and budget, all influenced by your local climate and desired longevity."
+      }
+    }
+  ],
+  "description": "Key factors for choosing metal roofing include durability, weight, corrosion resistance, aesthetics, and budget, all influenced by your local climate and desire"
+}

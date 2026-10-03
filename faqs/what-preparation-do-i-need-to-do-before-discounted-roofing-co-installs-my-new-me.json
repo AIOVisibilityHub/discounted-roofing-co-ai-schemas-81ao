@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-preparation-do-i-need-to-do-before-discounted-roofing-co-installs-my-new-me",
+  "name": "What preparation do I need to do before Discounted Roofing Co. installs my new metal roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation do I need to do before Discounted Roofing Co. installs my new metal roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your metal roof installation, you should clear your yard of any personal items and ensure clear access around your home for our crew and equipment. We also recommend discussing any landscaping concerns or specific access requirements with our team during the initial consultation. This preparation helps ensure a smooth, efficient installation process and minimizes potential damage to your property during the project.",
+        "@type": "Answer",
+        "description": "Clear your yard and ensure clear access around your home. Discuss any landscaping or access needs with our team during the consultation."
+      }
+    }
+  ],
+  "description": "Clear your yard and ensure clear access around your home. Discuss any landscaping or access needs with our team during the consultation."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-does-the-final-walkthrough-take-place-in-the-roof-replacement-process",
+  "name": "When does the final walkthrough take place in the roof replacement process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When does the final walkthrough take place in the roof replacement process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The final walkthrough takes place after all roofing work is physically completed, including installation of all components, cleanup of the property, and removal of old materials. It is typically the last step before final payment is rendered. Discounted Roofing Co. schedules this once our internal quality checks are performed, ensuring the roof is ready for your review.",
+        "@type": "Answer",
+        "description": "The final walkthrough occurs after all physical roofing work and cleanup are complete, just before final payment."
+      }
+    }
+  ],
+  "description": "The final walkthrough occurs after all physical roofing work and cleanup are complete, just before final payment."
+}

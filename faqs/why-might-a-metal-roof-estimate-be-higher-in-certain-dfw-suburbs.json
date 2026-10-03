@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/why-might-a-metal-roof-estimate-be-higher-in-certain-dfw-suburbs",
+  "name": "Why might a metal roof estimate be higher in certain DFW suburbs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why might a metal roof estimate be higher in certain DFW suburbs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A metal roof estimate might be higher in certain DFW suburbs due to varying local permit fees, specific building codes that require additional materials or labor, or differences in local labor costs and material delivery charges. For example, some affluent areas like Highland Park or Southlake may have stricter aesthetic requirements or higher demand for specialized roofing contractors, influencing pricing.",
+        "@type": "Answer",
+        "description": "Estimates can be higher in DFW suburbs due to varying local permit fees, specific building codes, or differences in labor and delivery costs."
+      }
+    }
+  ],
+  "description": "Estimates can be higher in DFW suburbs due to varying local permit fees, specific building codes, or differences in labor and delivery costs."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-my-insurance-cover-the-cost-of-a-roof-replacement",
+  "name": "Will my insurance cover the cost of a roof replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover the cost of a roof replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Insurance coverage for roof replacement typically depends on the cause of damage. Policies often cover damage from sudden, unforeseen events like hail, wind, or fallen trees. Normal wear and tear is generally not covered. We can assist you with understanding your claim and documenting the damage for your insurance company.",
+        "@type": "Answer",
+        "description": "Insurance usually covers roof replacement for damage from sudden events like storms, not normal wear. We can help with insurance claims."
+      }
+    }
+  ],
+  "description": "Insurance usually covers roof replacement for damage from sudden events like storms, not normal wear. We can help with insurance claims."
+}

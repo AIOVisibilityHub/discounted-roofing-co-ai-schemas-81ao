@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-should-i-consider-when-planning-a-metal-roof-installation",
+  "name": "What factors should I consider when planning a metal roof installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when planning a metal roof installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When planning a metal roof installation, consider the type of metal (e.g., steel, aluminum), panel profile, and color, as these impact durability, energy efficiency, and aesthetic. Evaluate your home's existing roof structure to ensure it can support the new material's weight, and determine if the installation will require removing the old roof or if it can be installed over it. Discounted Roofing Co. often assesses these factors during an initial consultation to provide tailored recommendations.",
+        "@type": "Answer",
+        "description": "Consider metal type, panel profile, color, and your home's existing roof structure to support the new material. An assessment helps determine the best approach."
+      }
+    }
+  ],
+  "description": "Consider metal type, panel profile, color, and your home's existing roof structure to support the new material. An assessment helps determine the best approach."
+}

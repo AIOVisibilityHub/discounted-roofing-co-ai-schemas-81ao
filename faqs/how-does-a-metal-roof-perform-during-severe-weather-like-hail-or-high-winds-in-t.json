@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-does-a-metal-roof-perform-during-severe-weather-like-hail-or-high-winds-in-t",
+  "name": "How does a metal roof perform during severe weather, like hail or high winds, in Texas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a metal roof perform during severe weather, like hail or high winds, in Texas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Metal roofs are highly resistant to severe weather, a significant advantage in Texas where hail and high winds are common. Their interlocking panels and robust fastening systems make them more resilient against wind uplift compared to traditional shingles. While some metal types can dent from large hail, many are rated for hail resistance. Choosing a metal roof with a high impact resistance rating can significantly reduce the risk of damage from extreme weather events, potentially leading to fewer insurance claims over the roof's lifespan.",
+        "@type": "Answer",
+        "description": "Metal roofs offer high resistance to Texas's severe weather, including high winds and hail. Opting for a high impact resistance rating can minimize damage and future insurance claims."
+      }
+    }
+  ],
+  "description": "Metal roofs offer high resistance to Texas's severe weather, including high winds and hail. Opting for a high impact resistance rating can minimize damage and f"
+}

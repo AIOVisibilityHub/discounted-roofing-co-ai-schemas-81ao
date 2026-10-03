@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-can-affect-the-timeline-of-a-metal-roofing-project",
+  "name": "What factors can affect the timeline of a metal roofing project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors can affect the timeline of a metal roofing project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors can influence the timeline of a metal roofing project, including weather conditions, the complexity of the roof design, material availability, and the need for any structural repairs to the existing roof deck. Unexpected issues, such as discovering significant rot or damage during tear-off, can also extend the project. Discounted Roofing Co. maintains open communication with homeowners, particularly for projects in areas like Arlington or Garland, to manage expectations and provide updates on any timeline adjustments.",
+        "@type": "Answer",
+        "description": "Metal roofing project timelines are affected by weather, roof complexity, material availability, and potential structural repairs. Discounted Roofing Co. keeps homeowners informed of any timeline adjustments."
+      }
+    }
+  ],
+  "description": "Metal roofing project timelines are affected by weather, roof complexity, material availability, and potential structural repairs. Discounted Roofing Co. keeps"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-a-metal-roof-increase-my-home-s-resale-value-in-the-dallas-fort-worth-metrop",
+  "name": "Can a metal roof increase my home's resale value in the Dallas-Fort Worth metropolitan area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a metal roof increase my home's resale value in the Dallas-Fort Worth metropolitan area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a metal roof can increase your home's resale value in the DFW metro area due to its longevity, durability, and energy efficiency. Homebuyers often appreciate the lower maintenance and long-term cost savings associated with metal roofing. High-quality installation by an experienced contractor like Discounted Roofing Co. is essential to realize these value benefits and appeal to potential buyers.",
+        "@type": "Answer",
+        "description": "A metal roof can boost home resale value in DFW due to its longevity, durability, and energy efficiency, if installed correctly."
+      }
+    }
+  ],
+  "description": "A metal roof can boost home resale value in DFW due to its longevity, durability, and energy efficiency, if installed correctly."
+}

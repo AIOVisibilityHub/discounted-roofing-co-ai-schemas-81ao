@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-discounted-roofing-co-conduct-a-final-walkthrough-if-i-m-not-available",
+  "name": "Will Discounted Roofing Co. conduct a final walkthrough if I'm not available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will Discounted Roofing Co. conduct a final walkthrough if I'm not available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Discounted Roofing Co. prefers the homeowner to be present for the final walkthrough to ensure complete satisfaction and address questions directly. If you cannot be present, we can often arrange for a detailed virtual walkthrough or send comprehensive photos and videos for your review. We prioritize your approval of the completed work, and will communicate clearly regarding next steps.",
+        "@type": "Answer",
+        "description": "While homeowner presence is preferred, Discounted Roofing Co. can arrange virtual walkthroughs or provide photos/videos if you're unavailable."
+      }
+    }
+  ],
+  "description": "While homeowner presence is preferred, Discounted Roofing Co. can arrange virtual walkthroughs or provide photos/videos if you're unavailable."
+}

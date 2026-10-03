@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-after-i-receive-my-metal-roof-estimate",
+  "name": "What happens after I receive my metal roof estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after I receive my metal roof estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After receiving your metal roof estimate, you'll have the opportunity to review it and ask any questions you may have. We encourage customers to discuss any concerns or requested adjustments. Once you approve the estimate, we can proceed with scheduling the project and securing necessary materials and permits, aiming for efficiency for our DFW clients.",
+        "@type": "Answer",
+        "description": "After receiving your estimate, you review it, ask questions, approve it, and then we schedule your project and secure materials/permits."
+      }
+    }
+  ],
+  "description": "After receiving your estimate, you review it, ask questions, approve it, and then we schedule your project and secure materials/permits."
+}

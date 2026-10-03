@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-look-for-during-my-final-roof-walkthrough",
+  "name": "What should I look for during my final roof walkthrough?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for during my final roof walkthrough?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During your final roof walkthrough, inspect for proper shingle alignment, secure flashing around vents and chimneys, and complete cleanup of debris including nails. Pay attention to any signs of damage to property around the house. Discounted Roofing Co. also reviews the completed work with you, highlighting key installation points and answering any questions you may have about your new roof's features or warranty.",
+        "@type": "Answer",
+        "description": "Look for proper shingle alignment, secure flashing, complete debris cleanup, and no property damage."
+      }
+    }
+  ],
+  "description": "Look for proper shingle alignment, secure flashing, complete debris cleanup, and no property damage."
+}

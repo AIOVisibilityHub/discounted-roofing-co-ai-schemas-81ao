@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-does-the-cost-of-a-metal-roof-compare-to-asphalt-shingles",
+  "name": "How does the cost of a metal roof compare to asphalt shingles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does the cost of a metal roof compare to asphalt shingles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The initial cost of a metal roof is generally higher than asphalt shingles, due to the material expense and specialized installation requirements. However, metal roofs offer a longer lifespan, often 40-70 years, and can provide energy savings due to their reflective properties. Over the long term, the extended durability and potential energy efficiency can result in a lower total cost of ownership compared to repeatedly replacing asphalt shingles.",
+        "@type": "Answer",
+        "description": "Metal roofs have a higher initial cost than asphalt shingles but offer a longer lifespan and potential energy savings, leading to lower long-term costs."
+      }
+    }
+  ],
+  "description": "Metal roofs have a higher initial cost than asphalt shingles but offer a longer lifespan and potential energy savings, leading to lower long-term costs."
+}

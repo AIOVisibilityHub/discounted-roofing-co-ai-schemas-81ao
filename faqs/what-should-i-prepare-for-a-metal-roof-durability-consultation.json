@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-prepare-for-a-metal-roof-durability-consultation",
+  "name": "What should I prepare for a metal roof durability consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare for a metal roof durability consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your metal roof durability consultation, it's helpful to gather any previous roofing records, such as installation dates or repair history. Note down any specific concerns you have, like persistent leaks or unusual noises. Ensuring clear access to your property and having someone available who can authorize decisions can streamline the consultation process, allowing our team to complete their assessment efficiently.",
+        "@type": "Answer",
+        "description": "Prepare previous roofing records, note concerns, and ensure clear property access for your metal roof durability consultation."
+      }
+    }
+  ],
+  "description": "Prepare previous roofing records, note concerns, and ensure clear property access for your metal roof durability consultation."
+}

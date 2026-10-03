@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-metal-roof-durability-consultation-take",
+  "name": "How long does a metal roof durability consultation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a metal roof durability consultation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical metal roof durability consultation usually takes between 1 to 2 hours, depending on the size and complexity of your roof. This timeframe allows our specialists to conduct a thorough inspection, discuss their findings with you, and answer any questions you may have. We aim to provide a comprehensive overview without prolonging the process, respecting your schedule.",
+        "@type": "Answer",
+        "description": "A metal roof durability consultation generally takes 1-2 hours for thorough inspection and discussion."
+      }
+    }
+  ],
+  "description": "A metal roof durability consultation generally takes 1-2 hours for thorough inspection and discussion."
+}

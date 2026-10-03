@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-can-i-expect-a-weather-resistant-metal-roof-to-last-compared-to-other-r",
+  "name": "How long can I expect a weather-resistant metal roof to last compared to other roofing materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long can I expect a weather-resistant metal roof to last compared to other roofing materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Weather-resistant metal roofs typically last 40 to 70 years, significantly longer than asphalt shingles which often need replacement every 15-30 years. The longevity of a metal roof is a key practical tradeoff, offering a higher upfront cost but reducing the frequency of future replacements and maintenance expenses. Proper installation and material quality, like the type of paint finish, also play a role in achieving its maximum lifespan.",
+        "@type": "Answer",
+        "description": "Metal roofs can last 40-70 years, outlasting asphalt shingles by decades. This offers long-term savings despite a higher initial investment."
+      }
+    }
+  ],
+  "description": "Metal roofs can last 40-70 years, outlasting asphalt shingles by decades. This offers long-term savings despite a higher initial investment."
+}

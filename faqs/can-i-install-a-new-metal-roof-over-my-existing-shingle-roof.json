@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-i-install-a-new-metal-roof-over-my-existing-shingle-roof",
+  "name": "Can I install a new metal roof over my existing shingle roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install a new metal roof over my existing shingle roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In some cases, a metal roof can be installed over an existing shingle roof, which can save on tear-off costs and disposal fees. However, this decision factor depends on the condition of your current roof, its structural integrity, the number of existing layers, and local building codes. Our team will assess your current roof during the initial inspection to determine if an overlay is a viable and safe option for your property in areas like Allen or Plano.",
+        "@type": "Answer",
+        "description": "Installing a metal roof over existing shingles is possible but depends on the current roof's condition, structural integrity, and local building codes."
+      }
+    }
+  ],
+  "description": "Installing a metal roof over existing shingles is possible but depends on the current roof's condition, structural integrity, and local building codes."
+}

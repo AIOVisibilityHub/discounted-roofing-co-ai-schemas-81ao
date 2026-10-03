@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-makes-metal-roofing-weather-resistant",
+  "name": "What makes metal roofing weather-resistant?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What makes metal roofing weather-resistant?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Metal roofing offers superior weather resistance due to its material properties and manufacturing. Steel and aluminum are naturally non-porous, preventing water absorption that can lead to rot or mold. Factory-applied coatings, like Kynar 500, further enhance protection against UV radiation, corrosion, and extreme temperatures, crucial for the varying weather in the DFW area. The interlocking panel systems also resist wind uplift better than traditional shingle roofs.",
+        "@type": "Answer",
+        "description": "Metal roofing is weather-resistant due to its non-porous materials and protective coatings that prevent water absorption, corrosion, and UV damage."
+      }
+    }
+  ],
+  "description": "Metal roofing is weather-resistant due to its non-porous materials and protective coatings that prevent water absorption, corrosion, and UV damage."
+}

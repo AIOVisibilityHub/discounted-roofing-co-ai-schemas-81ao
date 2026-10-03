@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-a-metal-roof-be-installed-over-an-existing-shingle-roof",
+  "name": "Can a metal roof be installed over an existing shingle roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a metal roof be installed over an existing shingle roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In some cases, a metal roof can be installed directly over an existing shingle roof, which can save on tear-off and disposal costs. However, this is only advisable if the existing roof deck is in good condition, structurally sound, and there is only one layer of shingles. Our experienced inspectors in the DFW service areas will assess your current roof's integrity and ensure it can adequately support the new metal roof without compromising its performance or structural stability.",
+        "@type": "Answer",
+        "description": "A metal roof can sometimes be installed over an existing shingle roof to save costs, but only if the deck is sound and there's a single shingle layer. An inspection is needed to confirm suitability."
+      }
+    }
+  ],
+  "description": "A metal roof can sometimes be installed over an existing shingle roof to save costs, but only if the deck is sound and there's a single shingle layer. An inspec"
+}

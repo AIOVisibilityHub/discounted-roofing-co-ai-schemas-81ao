@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-kind-of-maintenance-is-required-for-a-weather-resistant-metal-roof",
+  "name": "What kind of maintenance is required for a weather-resistant metal roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance is required for a weather-resistant metal roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Weather-resistant metal roofs require minimal maintenance compared to other roofing materials. Typically, this involves annual inspections to check for any debris accumulation, loose fasteners, or sealant issues. Promptly clearing leaves and branches can prevent potential drainage problems. Regular checks are a practical tradeoff, ensuring the roof's longevity and performance without needing frequent, extensive repairs or treatments.",
+        "@type": "Answer",
+        "description": "Metal roofs need minimal maintenance, mainly annual inspections to clear debris and check fasteners. Regular checks ensure longevity."
+      }
+    }
+  ],
+  "description": "Metal roofs need minimal maintenance, mainly annual inspections to clear debris and check fasteners. Regular checks ensure longevity."
+}

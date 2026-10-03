@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-types-of-weather-resistant-metal-roofing-solutions-does-discounted-roofing",
+  "name": "What types of weather-resistant metal roofing solutions does Discounted Roofing Co. offer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of weather-resistant metal roofing solutions does Discounted Roofing Co. offer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Discounted Roofing Co. provides various weather-resistant metal roofing options, including standing seam, corrugated, and metal shingle systems. Each type offers different aesthetic and performance characteristics suitable for homes across our service areas like Allen, Aledo, and Abbott. The right choice often depends on your home's architectural style, budget, and specific weather concerns for your property. We can help assess your needs to recommend the best fit.",
+        "@type": "Answer",
+        "description": "We offer standing seam, corrugated, and metal shingle systems. The best solution depends on your home's style, budget, and local weather considerations."
+      }
+    }
+  ],
+  "description": "We offer standing seam, corrugated, and metal shingle systems. The best solution depends on your home's style, budget, and local weather considerations."
+}

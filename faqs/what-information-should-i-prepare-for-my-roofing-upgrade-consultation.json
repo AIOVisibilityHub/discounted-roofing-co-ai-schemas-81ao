@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-information-should-i-prepare-for-my-roofing-upgrade-consultation",
+  "name": "What information should I prepare for my roofing upgrade consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I prepare for my roofing upgrade consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To make your roofing upgrade consultation most effective, prepare any questions you have about materials, costs, or the process. It's also helpful to have information about your current roof's age, any known issues or past repairs, and your budget range. If you have specific aesthetic preferences or energy efficiency goals, sharing these helps us tailor recommendations. This preparation helps our specialists provide more accurate and relevant advice for your property in areas like Addison or Aledo.",
+        "@type": "Answer",
+        "description": "Prepare questions, details about your roof's age and issues, budget, and aesthetic or energy efficiency goals for an effective consultation."
+      }
+    }
+  ],
+  "description": "Prepare questions, details about your roof's age and issues, budget, and aesthetic or energy efficiency goals for an effective consultation."
+}

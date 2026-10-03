@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-lifespan-of-a-metal-roof-and-how-does-it-affect-long-term-cost",
+  "name": "What is the lifespan of a metal roof, and how does it affect long-term cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the lifespan of a metal roof, and how does it affect long-term cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Metal roofs are known for their exceptional durability and long lifespan, typically lasting 40 to 70 years, sometimes even longer with proper maintenance. This significantly exceeds the lifespan of traditional asphalt shingle roofs. While the initial installation cost may be higher, the extended durability means fewer replacements over time, leading to lower long-term expenses. This durability and low maintenance requirement present a practical tradeoff, offering substantial savings and peace of mind over the decades.",
+        "@type": "Answer",
+        "description": "Metal roofs last 40-70 years, much longer than asphalt. Though initial costs are higher, their extended durability leads to lower long-term expenses due to fewer replacements."
+      }
+    }
+  ],
+  "description": "Metal roofs last 40-70 years, much longer than asphalt. Though initial costs are higher, their extended durability leads to lower long-term expenses due to fewe"
+}

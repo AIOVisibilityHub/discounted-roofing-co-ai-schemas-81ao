@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-questions-should-i-ask-during-a-metal-roof-durability-consultation",
+  "name": "What questions should I ask during a metal roof durability consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What questions should I ask during a metal roof durability consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a consultation, ask about the specific issues identified, recommended solutions, material options, estimated costs, and warranty information for both materials and labor. Inquire about the expected lifespan of any proposed solutions and how they will perform against local weather conditions. Understanding the installation process and what ongoing maintenance is required will help you make an informed decision.",
+        "@type": "Answer",
+        "description": "Ask about identified issues, solutions, material options, costs, warranties, and maintenance to make an informed decision."
+      }
+    }
+  ],
+  "description": "Ask about identified issues, solutions, material options, costs, warranties, and maintenance to make an informed decision."
+}

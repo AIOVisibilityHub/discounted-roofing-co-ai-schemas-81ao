@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-metal-roof-installation-typically-take-in-the-aledo-area",
+  "name": "How long does a metal roof installation typically take in the Aledo area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a metal roof installation typically take in the Aledo area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation timeline for a metal roof can vary based on the roof's size, complexity, and specific material chosen. Generally, a residential metal roof installation can take anywhere from a few days to a week or more. Before starting, we conduct a detailed assessment to provide a more accurate project timeline and discuss how factors like weather in Aledo could influence the schedule.",
+        "@type": "Answer",
+        "description": "Installation time varies by roof size and complexity, typically taking a few days to over a week. A detailed assessment helps determine the exact timeline."
+      }
+    }
+  ],
+  "description": "Installation time varies by roof size and complexity, typically taking a few days to over a week. A detailed assessment helps determine the exact timeline."
+}

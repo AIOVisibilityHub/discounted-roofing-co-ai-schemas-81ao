@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-s-the-difference-between-a-metal-roof-durability-consultation-and-a-standar",
+  "name": "What's the difference between a metal roof durability consultation and a standard roof inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a metal roof durability consultation and a standard roof inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard roof inspection primarily focuses on identifying immediate damage or obvious wear. A durability consultation, however, delves deeper, assessing the long-term performance potential of your metal roof. It considers factors like material compatibility, structural support, future weather risks, and energy efficiency. This provides a more comprehensive plan for enhancing your roof's longevity beyond just addressing current issues.",
+        "@type": "Answer",
+        "description": "A durability consultation goes beyond standard inspection by assessing long-term performance, material compatibility, and future risks, not just current damage."
+      }
+    }
+  ],
+  "description": "A durability consultation goes beyond standard inspection by assessing long-term performance, material compatibility, and future risks, not just current damage."
+}

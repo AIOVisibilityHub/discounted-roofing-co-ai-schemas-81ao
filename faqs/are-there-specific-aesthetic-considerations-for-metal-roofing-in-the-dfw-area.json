@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/are-there-specific-aesthetic-considerations-for-metal-roofing-in-the-dfw-area",
+  "name": "Are there specific aesthetic considerations for metal roofing in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific aesthetic considerations for metal roofing in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a metal roof in the DFW area, aesthetic considerations often involve selecting colors and profiles that complement local architectural styles, such as traditional brick homes or more contemporary designs. Lighter colors can also help with heat reflection in the hot Texas climate, which can be an important factor for both appearance and energy efficiency. We can review samples and discuss how different options will look on your specific property.",
+        "@type": "Answer",
+        "description": "In DFW, consider metal roof colors and profiles that suit local architecture and lighter shades for heat reflection."
+      }
+    }
+  ],
+  "description": "In DFW, consider metal roof colors and profiles that suit local architecture and lighter shades for heat reflection."
+}

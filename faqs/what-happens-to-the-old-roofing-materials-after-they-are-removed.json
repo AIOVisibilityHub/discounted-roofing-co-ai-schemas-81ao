@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-to-the-old-roofing-materials-after-they-are-removed",
+  "name": "What happens to the old roofing materials after they are removed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens to the old roofing materials after they are removed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Old roofing materials are typically collected and disposed of in specialized debris containers or dumpsters provided by the roofing company. These materials are then hauled away to a proper waste disposal facility or, in some cases, recycled where facilities are available. We ensure responsible disposal as part of our service.",
+        "@type": "Answer",
+        "description": "Old roofing materials are collected in dumpsters and hauled to a waste disposal facility or recycled, if possible."
+      }
+    }
+  ],
+  "description": "Old roofing materials are collected in dumpsters and hauled to a waste disposal facility or recycled, if possible."
+}

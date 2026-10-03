@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-preparatory-steps-should-i-take-before-your-team-arrives-for-a-metal-roof-a",
+  "name": "What preparatory steps should I take before your team arrives for a metal roof assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparatory steps should I take before your team arrives for a metal roof assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before our team arrives for a metal roof assessment, please ensure clear access to all sides of your property and the roof, if possible. Remove any vehicles or obstructions from the driveway or areas directly beneath the roofline. Securing pets indoors and providing access to your electrical panel (if we need to check attic access) will also help facilitate a smooth and efficient inspection. This preparation allows us to conduct a comprehensive evaluation safely and quickly.",
+        "@type": "Answer",
+        "description": "Before your metal roof assessment, ensure clear property access, remove obstructions beneath the roofline, secure pets, and provide electrical panel access if needed. This aids a smooth, safe inspection."
+      }
+    }
+  ],
+  "description": "Before your metal roof assessment, ensure clear property access, remove obstructions beneath the roofline, secure pets, and provide electrical panel access if n"
+}

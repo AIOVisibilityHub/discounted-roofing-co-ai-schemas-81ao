@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-colors-and-finishes-are-available-for-metal-roofing",
+  "name": "What colors and finishes are available for metal roofing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What colors and finishes are available for metal roofing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Metal roofing comes in a wide array of colors, from traditional grays and browns to vibrant reds and blues, and various finishes like matte, gloss, or textured. These options allow homeowners to customize the roof's appearance to complement their home's style. Many finishes also incorporate cool-roof technology for energy efficiency. When selecting a color and finish, consider your home's exterior palette and neighborhood aesthetics, as well as the long-term color retention properties of the coating.",
+        "@type": "Answer",
+        "description": "Metal roofing offers many colors and finishes (matte, gloss, textured) for customization, with some finishes including cool-roof technology. Consider aesthetics and coating durability when choosing."
+      }
+    }
+  ],
+  "description": "Metal roofing offers many colors and finishes (matte, gloss, textured) for customization, with some finishes including cool-roof technology. Consider aesthetics"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-common-types-of-metal-roofing-materials-available",
+  "name": "What are the common types of metal roofing materials available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common types of metal roofing materials available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Metal roofing comes in various materials, including steel (galvanized, galvalume), aluminum, copper, and zinc. Each material offers different benefits in terms of durability, weight, appearance, and cost. For example, steel is often chosen for its strength and affordability, while aluminum is lighter and highly corrosion-resistant, suitable for coastal areas. When planning your project with Discounted Roofing Co., we can help you compare these options to find the best fit for your property in the DFW area, considering factors like your budget and aesthetic preferences.",
+        "@type": "Answer",
+        "description": "Common metal roofing materials include steel, aluminum, copper, and zinc, each with different benefits in durability, weight, and cost. Consider your budget and aesthetic preferences to choose the right material for your DFW property."
+      }
+    }
+  ],
+  "description": "Common metal roofing materials include steel, aluminum, copper, and zinc, each with different benefits in durability, weight, and cost. Consider your budget and"
+}

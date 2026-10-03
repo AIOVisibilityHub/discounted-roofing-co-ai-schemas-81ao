@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-metal-roof-last-compared-to-other-roofing-materials",
+  "name": "How long does a metal roof last compared to other roofing materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a metal roof last compared to other roofing materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A weather-resistant metal roof can last significantly longer than many other common roofing materials. While asphalt shingles typically last 15-30 years, metal roofs often have a lifespan of 40-70 years or more with proper maintenance. This extended durability reduces the frequency and cost of roof replacements over the lifetime of your home. The type of metal (e.g., steel, aluminum) and the quality of its coating also influence its overall longevity.",
+        "@type": "Answer",
+        "description": "Metal roofs can last 40-70 years, significantly longer than asphalt shingles (15-30 years)."
+      }
+    }
+  ],
+  "description": "Metal roofs can last 40-70 years, significantly longer than asphalt shingles (15-30 years)."
+}

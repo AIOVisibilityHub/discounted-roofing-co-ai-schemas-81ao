@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/does-roof-size-and-pitch-affect-the-cost-of-a-metal-roof-estimate",
+  "name": "Does roof size and pitch affect the cost of a metal roof estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does roof size and pitch affect the cost of a metal roof estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, both the size and pitch of your roof significantly affect the cost of a metal roof estimate. Larger roofs require more materials and labor. A steeper roof pitch increases labor complexity and safety measures, which can add to installation costs. Roofs with multiple valleys, dormers, or chimneys also increase complexity and, subsequently, the estimate. Our estimators will take precise measurements and assess the architectural details of your roof to accurately account for these variables in the overall cost.",
+        "@type": "Answer",
+        "description": "Roof size and pitch directly impact metal roof estimate costs. Larger roofs need more material and labor, while steeper pitches increase labor complexity and safety expenses."
+      }
+    }
+  ],
+  "description": "Roof size and pitch directly impact metal roof estimate costs. Larger roofs need more material and labor, while steeper pitches increase labor complexity and sa"
+}

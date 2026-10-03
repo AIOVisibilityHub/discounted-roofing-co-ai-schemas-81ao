@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-involved-in-a-metal-roof-consultation",
+  "name": "What is involved in a metal roof consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a metal roof consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A metal roof consultation typically involves a thorough inspection of your existing roof structure, assessment of your property's specific needs, and discussion of available metal roofing options. Our team at Discounted Roofing Co. will evaluate factors like roof pitch, ventilation, and any existing damage to determine the most suitable metal roofing system for your home or business. We'll also cover material choices, color options, and provide a detailed estimate, ensuring you understand the scope of work and potential costs involved.",
+        "@type": "Answer",
+        "description": "A metal roof consultation includes a detailed roof inspection, assessment of your property's needs, discussion of metal roofing options, and a comprehensive estimate."
+      }
+    }
+  ],
+  "description": "A metal roof consultation includes a detailed roof inspection, assessment of your property's needs, discussion of metal roofing options, and a comprehensive est"
+}

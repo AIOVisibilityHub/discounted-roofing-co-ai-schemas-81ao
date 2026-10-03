@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-the-right-color-and-finish-for-my-metal-roof",
+  "name": "How do I choose the right color and finish for my metal roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right color and finish for my metal roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right color and finish for your metal roof involves considering your home's architectural style, existing exterior colors, and personal aesthetic preferences. Lighter colors can reflect more sunlight, potentially reducing cooling costs, while darker colors absorb more heat. The finish type, such as matte or glossy, also impacts the overall appearance. As a preparation step, viewing samples under different lighting conditions and considering your home's unique characteristics is recommended to ensure satisfaction.",
+        "@type": "Answer",
+        "description": "Choose metal roof color and finish by considering your home's style, existing colors, and energy efficiency goals. View samples to ensure satisfaction."
+      }
+    }
+  ],
+  "description": "Choose metal roof color and finish by considering your home's style, existing colors, and energy efficiency goals. View samples to ensure satisfaction."
+}

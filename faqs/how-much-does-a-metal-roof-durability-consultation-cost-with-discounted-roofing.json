@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-metal-roof-durability-consultation-cost-with-discounted-roofing",
+  "name": "How much does a metal roof durability consultation cost with Discounted Roofing Co.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a metal roof durability consultation cost with Discounted Roofing Co.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a metal roof durability consultation can vary depending on the complexity and size of your roofing system. Some initial consultations may be complimentary for new replacement estimates, while more in-depth assessments requiring specialized tools or detailed reports might incur a fee. We provide transparent pricing upfront, allowing you to understand any potential costs before proceeding.",
+        "@type": "Answer",
+        "description": "Consultation costs vary by complexity; some initial estimates are free, while detailed assessments may have a fee. We provide transparent pricing."
+      }
+    }
+  ],
+  "description": "Consultation costs vary by complexity; some initial estimates are free, while detailed assessments may have a fee. We provide transparent pricing."
+}

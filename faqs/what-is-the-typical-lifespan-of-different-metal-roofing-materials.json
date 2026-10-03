@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-typical-lifespan-of-different-metal-roofing-materials",
+  "name": "What is the typical lifespan of different metal roofing materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical lifespan of different metal roofing materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The lifespan of metal roofing varies by material, but most types significantly outlast traditional asphalt shingles. Steel and aluminum roofs can last 40-70 years, while copper and zinc roofs can exceed 100 years with proper maintenance. This extended durability is a key advantage of metal roofing. To maximize your roof's lifespan, ensure professional installation and adhere to recommended maintenance schedules, which our team can provide guidance on.",
+        "@type": "Answer",
+        "description": "Metal roofs like steel and aluminum can last 40-70 years, while copper and zinc can exceed 100 years, far surpassing asphalt shingles."
+      }
+    }
+  ],
+  "description": "Metal roofs like steel and aluminum can last 40-70 years, while copper and zinc can exceed 100 years, far surpassing asphalt shingles."
+}

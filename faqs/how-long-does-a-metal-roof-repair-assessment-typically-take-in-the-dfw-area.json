@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-metal-roof-repair-assessment-typically-take-in-the-dfw-area",
+  "name": "How long does a metal roof repair assessment typically take in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a metal roof repair assessment typically take in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard metal roof repair assessment in the DFW area typically takes about 30 minutes to an hour, depending on the size and complexity of your roof and the extent of visible damage. Our team aims to be efficient while conducting a thorough inspection. This allows us to quickly provide you with an accurate understanding of your roof's condition and the recommended next steps, minimizing any inconvenience to your schedule.",
+        "@type": "Answer",
+        "description": "A metal roof repair assessment in DFW usually takes 30 minutes to an hour, varying by roof size and damage complexity. We aim for efficient, thorough inspections to provide quick recommendations."
+      }
+    }
+  ],
+  "description": "A metal roof repair assessment in DFW usually takes 30 minutes to an hour, varying by roof size and damage complexity. We aim for efficient, thorough inspection"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/are-there-specific-types-of-metal-roof-damage-that-always-require-replacement",
+  "name": "Are there specific types of metal roof damage that always require replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific types of metal roof damage that always require replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While many types of metal roof damage can be repaired, certain issues almost always necessitate replacement. These include extensive structural damage affecting the roof deck or supporting elements, widespread catastrophic damage from severe weather events across a significant portion of the roof, or widespread panel delamination and severe, non-localizable corrosion that compromises the roof's waterproofing across large areas. These problems often indicate a failure of the entire system.",
+        "@type": "Answer",
+        "description": "Extensive structural damage, widespread catastrophic weather damage, or severe, non-localizable corrosion across large areas typically require full metal roof replacement. These issues compromise the entire system."
+      }
+    }
+  ],
+  "description": "Extensive structural damage, widespread catastrophic weather damage, or severe, non-localizable corrosion across large areas typically require full metal roof r"
+}

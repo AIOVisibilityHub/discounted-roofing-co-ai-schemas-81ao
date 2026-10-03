@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-during-a-metal-roofing-upgrade-consultation",
+  "name": "What happens during a metal roofing upgrade consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during a metal roofing upgrade consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a metal roofing upgrade consultation, a specialist from Discounted Roofing Co. will assess your current roof's condition, discuss your specific needs and budget, and explain the different metal roofing options available. This includes examining the existing structure to ensure it can support the new metal roof and identifying any necessary repairs or modifications. The consultation aims to provide you with a clear understanding of the scope of work and potential benefits.",
+        "@type": "Answer",
+        "description": "A consultation involves an assessment of your current roof, discussion of needs and budget, and explanation of metal roofing options."
+      }
+    }
+  ],
+  "description": "A consultation involves an assessment of your current roof, discussion of needs and budget, and explanation of metal roofing options."
+}

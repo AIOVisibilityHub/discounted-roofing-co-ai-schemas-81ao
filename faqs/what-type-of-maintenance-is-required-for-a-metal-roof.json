@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-type-of-maintenance-is-required-for-a-metal-roof",
+  "name": "What type of maintenance is required for a metal roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What type of maintenance is required for a metal roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Metal roofs are known for being low-maintenance, but periodic inspection is still beneficial. We recommend inspecting your roof annually for debris accumulation, loose fasteners, or any damage from severe weather, especially after strong storms common in North Texas. Clearing gutters and downspouts of leaves and other blockages will help ensure proper drainage and prevent water buildup, which is crucial for the longevity of any roofing system.",
+        "@type": "Answer",
+        "description": "Metal roofs require low maintenance, but annual inspections for debris and storm damage are recommended. Keep gutters clear for proper drainage."
+      }
+    }
+  ],
+  "description": "Metal roofs require low maintenance, but annual inspections for debris and storm damage are recommended. Keep gutters clear for proper drainage."
+}

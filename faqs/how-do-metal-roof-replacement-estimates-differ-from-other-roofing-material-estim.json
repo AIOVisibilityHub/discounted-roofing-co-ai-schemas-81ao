@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-metal-roof-replacement-estimates-differ-from-other-roofing-material-estim",
+  "name": "How do metal roof replacement estimates differ from other roofing material estimates?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do metal roof replacement estimates differ from other roofing material estimates?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Metal roof replacement estimates differ from other materials, like asphalt shingles, primarily due to material costs and specialized installation requirements. Metal roofing materials often have a higher upfront cost but offer superior longevity and durability, which influences the pricing structure. Estimates for metal roofs will specifically detail the chosen metal type, gauge, and finish, along with the specialized flashing and fasteners required for proper installation, ensuring a tailored quote.",
+        "@type": "Answer",
+        "description": "Metal roof estimates account for higher material costs and specialized installation compared to other roofing types like asphalt shingles."
+      }
+    }
+  ],
+  "description": "Metal roof estimates account for higher material costs and specialized installation compared to other roofing types like asphalt shingles."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-advantages-of-choosing-a-metal-roof-for-my-home",
+  "name": "What are the advantages of choosing a metal roof for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the advantages of choosing a metal roof for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Metal roofs offer significant durability, often lasting 40-70 years, which is longer than traditional asphalt shingles. They are also highly resistant to fire, rot, and insects. Homeowners often see benefits in energy efficiency, as metal roofs can reflect solar radiant heat, potentially reducing cooling costs. When considering a metal roof, assess your long-term budget versus upfront cost; while initial installation can be higher, the extended lifespan and reduced maintenance often provide a lower total cost of ownership over time.",
+        "@type": "Answer",
+        "description": "Metal roofs offer durability, fire resistance, and potential energy savings. Evaluate the long-term cost benefits against the initial investment."
+      }
+    }
+  ],
+  "description": "Metal roofs offer durability, fire resistance, and potential energy savings. Evaluate the long-term cost benefits against the initial investment."
+}

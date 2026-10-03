@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-typical-lifespan-of-a-severe-weather-metal-roof",
+  "name": "What is the typical lifespan of a severe-weather metal roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical lifespan of a severe-weather metal roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A severe-weather metal roof typically lasts 40 to 70 years or even longer, significantly outperforming traditional asphalt shingles. The longevity depends on the specific metal type, coating, and proper installation. For instance, a quality standing seam or stone-coated steel roof, installed correctly by experienced professionals like Discounted Roofing Co., can provide decades of protection. Regular maintenance, such as clearing debris and checking fasteners, can further extend its service life.",
+        "@type": "Answer",
+        "description": "Severe-weather metal roofs typically last 40-70 years, varying by material and installation quality, far exceeding the lifespan of asphalt shingles."
+      }
+    }
+  ],
+  "description": "Severe-weather metal roofs typically last 40-70 years, varying by material and installation quality, far exceeding the lifespan of asphalt shingles."
+}

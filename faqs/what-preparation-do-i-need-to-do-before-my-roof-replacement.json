@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-preparation-do-i-need-to-do-before-my-roof-replacement",
+  "name": "What preparation do I need to do before my roof replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation do I need to do before my roof replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before roof replacement, clear your driveway for contractor access and move vehicles. Remove any fragile items from walls and shelves inside your home, as vibrations can cause them to fall. Ensure pets are secured. We will provide specific instructions tailored to your property before work begins to minimize disruption.",
+        "@type": "Answer",
+        "description": "Clear driveway access, move vehicles, remove fragile indoor items, and secure pets. We provide specific preparation instructions."
+      }
+    }
+  ],
+  "description": "Clear driveway access, move vehicles, remove fragile indoor items, and secure pets. We provide specific preparation instructions."
+}

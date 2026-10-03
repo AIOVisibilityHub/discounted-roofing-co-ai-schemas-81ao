@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-expected-lifespan-of-a-metal-roof",
+  "name": "What is the expected lifespan of a metal roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the expected lifespan of a metal roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Metal roofs are known for their exceptional durability and long lifespan, often lasting 40-70 years or even longer with proper maintenance. This longevity significantly surpasses that of traditional roofing materials like asphalt shingles. The specific type of metal, coating, and installation quality all contribute to its lifespan. Regular inspections and minor repairs can further extend its service life, making it a sound long-term investment for property owners in areas such as Aledo and Allen.",
+        "@type": "Answer",
+        "description": "Metal roofs typically last 40-70 years or more with proper care, far exceeding traditional materials due to their durability and quality of installation."
+      }
+    }
+  ],
+  "description": "Metal roofs typically last 40-70 years or more with proper care, far exceeding traditional materials due to their durability and quality of installation."
+}

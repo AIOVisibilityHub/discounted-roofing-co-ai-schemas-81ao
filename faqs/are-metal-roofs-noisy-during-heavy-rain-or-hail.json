@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/are-metal-roofs-noisy-during-heavy-rain-or-hail",
+  "name": "Are metal roofs noisy during heavy rain or hail?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are metal roofs noisy during heavy rain or hail?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Modern metal roofs, especially those installed with a solid substrate or insulation, are generally not significantly noisier than other roofing types during heavy rain or hail. The perceived noise level largely depends on the installation method and the attic's insulation. If installed directly over open rafters without decking, noise might be more noticeable. However, with proper underlayment, insulation, or installation over an existing roof, the sound is often comparable to or even quieter than asphalt shingles. You can discuss insulation options with Discounted Roofing Co.",
+        "@type": "Answer",
+        "description": "Modern metal roofs with proper installation and insulation are typically not significantly noisier during heavy rain or hail compared to other roofing materials."
+      }
+    }
+  ],
+  "description": "Modern metal roofs with proper installation and insulation are typically not significantly noisier during heavy rain or hail compared to other roofing materials"
+}

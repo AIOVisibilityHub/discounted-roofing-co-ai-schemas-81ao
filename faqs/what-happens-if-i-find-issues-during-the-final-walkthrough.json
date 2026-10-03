@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-happens-if-i-find-issues-during-the-final-walkthrough",
+  "name": "What happens if I find issues during the final walkthrough?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if I find issues during the final walkthrough?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you find issues during the final walkthrough, immediately point them out to the Discounted Roofing Co. representative. Our team will document the concerns and discuss a plan for resolution. It's crucial to address any discrepancies before final payment to ensure all work is completed to your satisfaction and our quality standards. We aim to rectify issues promptly and efficiently.",
+        "@type": "Answer",
+        "description": "If issues are found during the walkthrough, point them out to the representative for documentation and resolution before final payment."
+      }
+    }
+  ],
+  "description": "If issues are found during the walkthrough, point them out to the representative for documentation and resolution before final payment."
+}

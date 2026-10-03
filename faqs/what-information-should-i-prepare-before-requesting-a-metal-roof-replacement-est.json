@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-information-should-i-prepare-before-requesting-a-metal-roof-replacement-est",
+  "name": "What information should I prepare before requesting a metal roof replacement estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I prepare before requesting a metal roof replacement estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before requesting a metal roof replacement estimate, it's helpful to have some basic information ready. This includes your property address, any known issues with your current roof, and your preferred contact details. Additionally, consider your budget expectations and any specific metal roofing materials or styles you are interested in. This preparation helps Discounted Roofing Co. provide a more accurate and tailored estimate during the initial consultation.",
+        "@type": "Answer",
+        "description": "Prepare your property address, known roof issues, contact details, budget, and material preferences before requesting an estimate."
+      }
+    }
+  ],
+  "description": "Prepare your property address, known roof issues, contact details, budget, and material preferences before requesting an estimate."
+}

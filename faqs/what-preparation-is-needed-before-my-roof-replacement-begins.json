@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-preparation-is-needed-before-my-roof-replacement-begins",
+  "name": "What preparation is needed before my roof replacement begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before my roof replacement begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your roof replacement, it is important to prepare your property to ensure a smooth and safe process. This includes moving vehicles away from the house, securing loose items in your yard (e.g., patio furniture, grills, planters), covering sensitive plants, and ensuring clear access for our crews. Informing neighbors about the upcoming work is also helpful. This preparation ensures process clarity, allowing our team to work efficiently and safely, protecting your property throughout the project duration.",
+        "@type": "Answer",
+        "description": "Before replacement, move vehicles, secure yard items, cover plants, and ensure clear access for crews. Informing neighbors is also recommended."
+      }
+    }
+  ],
+  "description": "Before replacement, move vehicles, secure yard items, cover plants, and ensure clear access for crews. Informing neighbors is also recommended."
+}

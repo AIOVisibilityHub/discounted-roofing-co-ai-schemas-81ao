@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-preparation-is-needed-before-a-roof-protection-service-visit",
+  "name": "What preparation is needed before a roof protection service visit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before a roof protection service visit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a roof protection service visit, we ask homeowners to ensure clear access to the property perimeter and, if possible, to the roof access point. Removing any vehicles or delicate outdoor items from directly beneath the roofline helps our team work safely and efficiently. If you have specific concerns or known issues, sharing them with our team beforehand can help us prepare and focus on those areas during the inspection.",
+        "@type": "Answer",
+        "description": "Ensure clear access to the property perimeter and roof access point, and remove vehicles or delicate items from beneath the roofline."
+      }
+    }
+  ],
+  "description": "Ensure clear access to the property perimeter and roof access point, and remove vehicles or delicate items from beneath the roofline."
+}

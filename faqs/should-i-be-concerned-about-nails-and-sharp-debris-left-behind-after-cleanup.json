@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/should-i-be-concerned-about-nails-and-sharp-debris-left-behind-after-cleanup",
+  "name": "Should I be concerned about nails and sharp debris left behind after cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I be concerned about nails and sharp debris left behind after cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While roofing companies use magnetic sweepers to collect nails and sharp debris, it's always advisable to do a thorough check of your property, especially grassy areas and driveways, after the crew has left. Some small pieces might be missed. This precautionary step can prevent flat tires or foot injuries. We also advise keeping pets and children away from the work area during and immediately after the project.",
+        "@type": "Answer",
+        "description": "Always do a thorough check for nails after cleanup, especially in grass and driveways. Keep pets and children away during and after the work."
+      }
+    }
+  ],
+  "description": "Always do a thorough check for nails after cleanup, especially in grass and driveways. Keep pets and children away during and after the work."
+}

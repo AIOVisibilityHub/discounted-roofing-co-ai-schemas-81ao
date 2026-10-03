@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-it-take-to-install-a-metal-roof",
+  "name": "How long does it take to install a metal roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a metal roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation timeline for a metal roof depends on the size and complexity of your home's roof, weather conditions, and the specific metal roofing system chosen. Typically, a standard residential metal roof installation can take anywhere from a few days to a a week or two. Process clarity is important: before starting, our team at Discounted Roofing Co. will conduct a thorough assessment and provide an estimated timeline. Factors like existing roof removal, unforeseen repairs to the roof deck, and specific material availability can influence the overall project duration.",
+        "@type": "Answer",
+        "description": "Metal roof installation typically takes a few days to two weeks, varying with roof size, complexity, and weather. We provide an estimated timeline after assessment, with factors like existing roof removal affecting duration."
+      }
+    }
+  ],
+  "description": "Metal roof installation typically takes a few days to two weeks, varying with roof size, complexity, and weather. We provide an estimated timeline after assessm"
+}

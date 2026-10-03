@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-does-metal-roofing-perform-against-hail-storms-common-in-texas",
+  "name": "How does metal roofing perform against hail storms common in Texas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does metal roofing perform against hail storms common in Texas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Metal roofing is highly durable against hail, often resisting damage better than other materials. Its strength can help protect your home during severe Texas storms, potentially leading to fewer repairs and a longer lifespan. Discounted Roofing Co. specializes in assessing hail damage and can guide you on metal roof options that meet local weather demands.",
+        "@type": "Answer",
+        "description": "Metal roofing offers superior hail resistance, a key benefit for Texas homes. It can lead to fewer repairs compared to other materials."
+      }
+    }
+  ],
+  "description": "Metal roofing offers superior hail resistance, a key benefit for Texas homes. It can lead to fewer repairs compared to other materials."
+}

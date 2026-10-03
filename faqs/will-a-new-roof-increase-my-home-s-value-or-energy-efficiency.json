@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/will-a-new-roof-increase-my-home-s-value-or-energy-efficiency",
+  "name": "Will a new roof increase my home's value or energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a new roof increase my home's value or energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a new roof can significantly increase your home's curb appeal and overall value, making it a sound investment, especially before selling. Modern roofing materials and proper installation also contribute to improved energy efficiency by enhancing insulation and reducing heat transfer. This can lead to lower heating and cooling costs, a practical tradeoff that offers long-term savings against the initial replacement expense. Energy-efficient options are particularly beneficial in the hot DFW climate.",
+        "@type": "Answer",
+        "description": "A new roof can boost home value and energy efficiency, leading to lower utility bills. It's a long-term investment with significant benefits."
+      }
+    }
+  ],
+  "description": "A new roof can boost home value and energy efficiency, leading to lower utility bills. It's a long-term investment with significant benefits."
+}

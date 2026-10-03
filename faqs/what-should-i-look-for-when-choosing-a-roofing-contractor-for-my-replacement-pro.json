@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-look-for-when-choosing-a-roofing-contractor-for-my-replacement-pro",
+  "name": "What should I look for when choosing a roofing contractor for my replacement project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when choosing a roofing contractor for my replacement project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a roofing contractor, consider their experience, licensing, insurance, and local reputation. Look for companies with strong customer reviews and a history of quality workmanship. A key decision factor is transparency in their quoting process and their willingness to explain all aspects of the project, including materials, timelines, and warranty information. Ensure they are familiar with local building codes in areas like Arlington or Plano, and offer clear communication throughout the process.",
+        "@type": "Answer",
+        "description": "Choose a contractor based on experience, licensing, insurance, local reputation, and transparent communication. Ensure they understand local building codes."
+      }
+    }
+  ],
+  "description": "Choose a contractor based on experience, licensing, insurance, local reputation, and transparent communication. Ensure they understand local building codes."
+}

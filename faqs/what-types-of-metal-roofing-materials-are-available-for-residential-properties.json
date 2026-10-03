@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-types-of-metal-roofing-materials-are-available-for-residential-properties",
+  "name": "What types of metal roofing materials are available for residential properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of metal roofing materials are available for residential properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common residential metal roofing materials include steel, aluminum, copper, and zinc. Steel is often galvanized or galvalume for durability and comes in various gauges and finishes. Aluminum is lighter, corrosion-resistant, and suitable for coastal areas, while copper offers a distinct aesthetic and develops a patina over time. Zinc is highly durable and self-healing. When selecting, consider the climate and desired aesthetic; for example, aluminum can be a good choice for corrosion resistance in areas like Addison.",
+        "@type": "Answer",
+        "description": "Residential metal roofing options include steel, aluminum, copper, and zinc, each offering different aesthetics, durability, and corrosion resistance."
+      }
+    }
+  ],
+  "description": "Residential metal roofing options include steel, aluminum, copper, and zinc, each offering different aesthetics, durability, and corrosion resistance."
+}

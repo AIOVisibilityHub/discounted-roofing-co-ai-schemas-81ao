@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-typical-process-for-a-roof-replacement-from-start-to-finish",
+  "name": "What is the typical process for a roof replacement, from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a roof replacement, from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The roof replacement process typically begins with a detailed inspection and estimate. Once materials are selected and a contract is signed, the old roof is removed. The decking is inspected for damage, repaired if necessary, and new underlayment is installed. Finally, the new roofing material is applied, and the site is thoroughly cleaned. Process clarity is important; clients are kept informed at each stage, and our crews ensure efficient work while minimizing disruption. Project timelines can vary based on roof size and material choice.",
+        "@type": "Answer",
+        "description": "The process involves inspection, old roof removal, deck repair, underlayment installation, new material application, and site cleanup. We keep clients informed throughout."
+      }
+    }
+  ],
+  "description": "The process involves inspection, old roof removal, deck repair, underlayment installation, new material application, and site cleanup. We keep clients informed"
+}

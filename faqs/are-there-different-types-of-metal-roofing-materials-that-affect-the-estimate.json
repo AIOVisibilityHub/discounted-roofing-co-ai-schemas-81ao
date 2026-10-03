@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/are-there-different-types-of-metal-roofing-materials-that-affect-the-estimate",
+  "name": "Are there different types of metal roofing materials that affect the estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there different types of metal roofing materials that affect the estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, the type of metal roofing material significantly affects the replacement estimate. Options like steel (galvanized or galvalume), aluminum, copper, and zinc each have different price points, durability, and aesthetic qualities. For example, copper and zinc are premium materials with higher costs. During your estimate, Discounted Roofing Co. will discuss the pros and cons of each material, helping you choose the best fit for your budget and long-term performance needs.",
+        "@type": "Answer",
+        "description": "Different metal types (steel, aluminum, copper, zinc) significantly impact the estimate due to varying costs, durability, and aesthetics."
+      }
+    }
+  ],
+  "description": "Different metal types (steel, aluminum, copper, zinc) significantly impact the estimate due to varying costs, durability, and aesthetics."
+}

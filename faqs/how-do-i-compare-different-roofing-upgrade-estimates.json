@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-compare-different-roofing-upgrade-estimates",
+  "name": "How do I compare different roofing upgrade estimates?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I compare different roofing upgrade estimates?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When comparing roofing upgrade estimates, look beyond the bottom-line price. Evaluate the scope of work detailed in each estimate, including materials, labor, tear-off and disposal, and warranty information. Check for hidden fees and ensure all estimates cover similar services and material qualities. Discounted Roofing Co. provides a detailed breakdown to ensure transparency. Pay attention to the reputation of the company, their licensing, and insurance, as these factors contribute to the overall value and reliability of the service.",
+        "@type": "Answer",
+        "description": "Compare estimates by evaluating the detailed scope of work, materials, labor, warranties, and hidden fees. Also, consider the company's reputation, licensing, and insurance."
+      }
+    }
+  ],
+  "description": "Compare estimates by evaluating the detailed scope of work, materials, labor, warranties, and hidden fees. Also, consider the company's reputation, licensing, a"
+}

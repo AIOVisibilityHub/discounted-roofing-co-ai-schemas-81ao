@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/when-should-i-consider-a-metal-roof-for-my-commercial-property-in-the-dfw-area",
+  "name": "When should I consider a metal roof for my commercial property in the DFW area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a metal roof for my commercial property in the DFW area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a metal roof for your commercial property in the DFW area if you're looking for a long-lasting, low-maintenance, and energy-efficient solution. Metal roofs offer excellent durability against hail and high winds, common in North Texas, and their reflective properties can reduce cooling costs for large buildings. Given the local climate, a metal roof provides a robust defense against weather extremes and can offer a strong return on investment through reduced maintenance and energy expenses over its lifespan.",
+        "@type": "Answer",
+        "description": "Consider a metal roof for commercial DFW properties for longevity, low maintenance, and energy efficiency. It offers strong protection against common North Texas weather and can reduce cooling costs."
+      }
+    }
+  ],
+  "description": "Consider a metal roof for commercial DFW properties for longevity, low maintenance, and energy efficiency. It offers strong protection against common North Texa"
+}

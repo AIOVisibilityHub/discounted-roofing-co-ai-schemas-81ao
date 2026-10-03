@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-involved-in-a-typical-long-term-roof-protection-maintenance-visit",
+  "name": "What is involved in a typical long-term roof protection maintenance visit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a typical long-term roof protection maintenance visit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical long-term roof protection maintenance visit includes a thorough inspection of the roof's surface, flashing, gutters, and downspouts. We clear debris, check for loose or damaged shingles, assess sealant integrity, and ensure proper drainage. Depending on your plan, minor repairs like re-sealing or securing loose components might also be performed. This comprehensive approach helps us identify and fix potential issues before they become serious problems.",
+        "@type": "Answer",
+        "description": "A typical visit includes a thorough inspection, debris clearing, checking for damage, assessing sealants, and ensuring proper drainage."
+      }
+    }
+  ],
+  "description": "A typical visit includes a thorough inspection, debris clearing, checking for damage, assessing sealants, and ensuring proper drainage."
+}

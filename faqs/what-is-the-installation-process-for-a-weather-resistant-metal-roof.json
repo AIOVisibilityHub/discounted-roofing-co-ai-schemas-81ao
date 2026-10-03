@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-installation-process-for-a-weather-resistant-metal-roof",
+  "name": "What is the installation process for a weather-resistant metal roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the installation process for a weather-resistant metal roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process for a metal roof begins with a thorough inspection of the existing roof deck. This often involves removing old materials, though sometimes metal can be installed over existing shingles depending on local codes and the roof's condition. Next, an underlayment is applied for additional protection, followed by the installation of metal panels, trim, and flashing. The complexity and duration of the installation can vary based on the roof's size, pitch, and chosen metal panel system.",
+        "@type": "Answer",
+        "description": "Metal roof installation involves deck inspection, underlayment application, and then fitting metal panels, trim, and flashing."
+      }
+    }
+  ],
+  "description": "Metal roof installation involves deck inspection, underlayment application, and then fitting metal panels, trim, and flashing."
+}

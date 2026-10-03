@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-involved-in-a-professional-metal-roof-assessment-by-discounted-roofing-c",
+  "name": "What is involved in a professional metal roof assessment by Discounted Roofing Co.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a professional metal roof assessment by Discounted Roofing Co.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our professional metal roof assessment involves a thorough inspection of the entire roof surface, including panels, seams, fasteners, flashings, and penetrations. We look for signs of corrosion, dents, punctures, loose components, and underlying structural issues. This detailed process ensures all potential problem areas are identified, allowing us to provide an accurate diagnosis and a comprehensive, itemized recommendation for either repair or replacement. We prioritize transparency in our findings.",
+        "@type": "Answer",
+        "description": "Our assessment includes a thorough inspection of the entire metal roof, checking panels, seams, fasteners, and flashings for damage, corrosion, or structural issues. This allows us to provide an accurate repair or replacement recommendation."
+      }
+    }
+  ],
+  "description": "Our assessment includes a thorough inspection of the entire metal roof, checking panels, seams, fasteners, and flashings for damage, corrosion, or structural is"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-process-for-replacing-a-roof",
+  "name": "What is the process for replacing a roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing a roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The roof replacement process typically begins with removing the old roofing materials down to the deck. Then, the decking is inspected and repaired if necessary, followed by the installation of underlayment, drip edge, and finally the new roofing material. Clean-up occurs throughout and after completion. Our team ensures a thorough and organized process.",
+        "@type": "Answer",
+        "description": "The process involves removing old materials, inspecting/repairing the deck, installing underlayment, and then the new roofing. Thorough clean-up is included."
+      }
+    }
+  ],
+  "description": "The process involves removing old materials, inspecting/repairing the deck, installing underlayment, and then the new roofing. Thorough clean-up is included."
+}

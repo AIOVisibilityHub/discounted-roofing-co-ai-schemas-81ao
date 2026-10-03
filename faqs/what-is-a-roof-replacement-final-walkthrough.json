@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-a-roof-replacement-final-walkthrough",
+  "name": "What is a roof replacement final walkthrough?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a roof replacement final walkthrough?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roof replacement final walkthrough is a comprehensive inspection conducted after all work is completed. Its purpose is to ensure the new roof meets quality standards, adheres to the agreed-upon scope of work, and that all debris has been removed. Discounted Roofing Co. uses this opportunity to confirm your satisfaction and address any remaining questions or concerns, ensuring the project is fully complete and approved by you.",
+        "@type": "Answer",
+        "description": "A roof replacement final walkthrough is a post-completion inspection to ensure quality, scope adherence, and debris removal."
+      }
+    }
+  ],
+  "description": "A roof replacement final walkthrough is a post-completion inspection to ensure quality, scope adherence, and debris removal."
+}

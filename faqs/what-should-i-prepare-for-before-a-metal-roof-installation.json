@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-prepare-for-before-a-metal-roof-installation",
+  "name": "What should I prepare for before a metal roof installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare for before a metal roof installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before metal roof installation begins, it's important to prepare your property. This includes ensuring clear access around your home or business for our crew and equipment. You should also move vehicles, outdoor furniture, and any delicate items away from the work area to prevent damage. We recommend securing loose items in your attic or on walls, as vibrations from installation can cause them to shift. Our project manager will provide a pre-installation checklist to help you organize everything effectively.",
+        "@type": "Answer",
+        "description": "Before installation, clear access around your property, move vehicles and outdoor items, and secure loose items in your attic. A pre-installation checklist will be provided."
+      }
+    }
+  ],
+  "description": "Before installation, clear access around your property, move vehicles and outdoor items, and secure loose items in your attic. A pre-installation checklist will"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-lifespan-of-a-metal-roof-compared-to-asphalt-shingles-in-texas",
+  "name": "What is the lifespan of a metal roof compared to asphalt shingles in Texas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the lifespan of a metal roof compared to asphalt shingles in Texas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Metal roofs typically last 40 to 70 years, significantly longer than traditional asphalt shingles, which often last 15 to 30 years in Texas's climate. This extended lifespan means fewer roof replacements over your home's lifetime. The material's durability against Texas weather extremes contributes to its longevity, making it a sound long-term investment.",
+        "@type": "Answer",
+        "description": "Metal roofs last 40-70 years, outperforming asphalt shingles (15-30 years) in Texas due to superior durability."
+      }
+    }
+  ],
+  "description": "Metal roofs last 40-70 years, outperforming asphalt shingles (15-30 years) in Texas due to superior durability."
+}

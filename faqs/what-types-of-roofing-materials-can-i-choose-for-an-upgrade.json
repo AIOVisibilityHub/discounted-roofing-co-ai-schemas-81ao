@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-types-of-roofing-materials-can-i-choose-for-an-upgrade",
+  "name": "What types of roofing materials can I choose for an upgrade?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of roofing materials can I choose for an upgrade?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Discounted Roofing Co. offers a variety of roofing materials for upgrades, including traditional asphalt shingles, durable metal roofing, and elegant tile options. The best material for your home depends on factors such as your budget, desired aesthetic, energy efficiency goals, and local building codes. For example, metal roofs offer longevity and can withstand severe weather better, while asphalt shingles are often more cost-effective. During your consultation, we discuss the practical tradeoffs of each option for your specific property in the DFW area.",
+        "@type": "Answer",
+        "description": "You can choose from asphalt shingles, metal roofing, and tile. The best material depends on budget, aesthetic, energy efficiency, and local codes, with each offering practical tradeoffs."
+      }
+    }
+  ],
+  "description": "You can choose from asphalt shingles, metal roofing, and tile. The best material depends on budget, aesthetic, energy efficiency, and local codes, with each off"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-details-should-i-look-for-in-a-metal-roof-estimate",
+  "name": "What details should I look for in a metal roof estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What details should I look for in a metal roof estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A detailed metal roof estimate should clearly itemize material costs, labor fees, permit costs, and a timeline for project completion. It should also specify the type and gauge of metal, the warranty information, and any provisions for old roof removal and site cleanup. Reviewing these line items helps you understand the full scope and cost.",
+        "@type": "Answer",
+        "description": "Look for itemized costs for materials, labor, permits, timeline, metal type/gauge, warranty, and old roof removal in a metal roof estimate."
+      }
+    }
+  ],
+  "description": "Look for itemized costs for materials, labor, permits, timeline, metal type/gauge, warranty, and old roof removal in a metal roof estimate."
+}

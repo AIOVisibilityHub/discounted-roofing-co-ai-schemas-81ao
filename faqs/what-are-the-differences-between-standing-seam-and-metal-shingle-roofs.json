@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-differences-between-standing-seam-and-metal-shingle-roofs",
+  "name": "What are the differences between standing seam and metal shingle roofs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the differences between standing seam and metal shingle roofs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standing seam metal roofs feature raised seams that lock panels together, providing superior weather protection and a sleek, modern look. Metal shingles mimic the appearance of traditional asphalt or wood shakes but offer the durability of metal. A practical tradeoff is appearance versus traditional aesthetics; standing seam offers excellent longevity and leak resistance, while metal shingles provide a familiar look with metal's benefits. Your choice depends on aesthetic preference and budget.",
+        "@type": "Answer",
+        "description": "Standing seam roofs have raised seams for weather protection and a modern look, while metal shingles mimic traditional materials with metal's durability."
+      }
+    }
+  ],
+  "description": "Standing seam roofs have raised seams for weather protection and a modern look, while metal shingles mimic traditional materials with metal's durability."
+}

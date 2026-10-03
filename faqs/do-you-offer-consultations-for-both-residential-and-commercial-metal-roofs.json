@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/do-you-offer-consultations-for-both-residential-and-commercial-metal-roofs",
+  "name": "Do you offer consultations for both residential and commercial metal roofs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer consultations for both residential and commercial metal roofs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Discounted Roofing Co. provides metal roof durability consultations for both residential and commercial properties across our service areas, including cities like Allen, Addison, and Aledo. Our specialists are experienced with various metal roofing systems used in both sectors. The assessment process is tailored to the specific demands and scale of each property type, ensuring appropriate recommendations.",
+        "@type": "Answer",
+        "description": "We offer metal roof durability consultations for both residential and commercial properties, tailored to each type's specific needs."
+      }
+    }
+  ],
+  "description": "We offer metal roof durability consultations for both residential and commercial properties, tailored to each type's specific needs."
+}

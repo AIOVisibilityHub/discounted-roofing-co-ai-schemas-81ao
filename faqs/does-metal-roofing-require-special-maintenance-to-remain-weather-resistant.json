@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/does-metal-roofing-require-special-maintenance-to-remain-weather-resistant",
+  "name": "Does metal roofing require special maintenance to remain weather-resistant?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does metal roofing require special maintenance to remain weather-resistant?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Metal roofing requires minimal maintenance to retain its weather-resistant properties. Regular cleaning to remove debris, leaves, and dirt can prevent potential staining or corrosion over time. Inspecting the roof annually for any loosened fasteners, damaged panels, or compromised sealant around penetrations is advisable. This proactive approach helps ensure the roof continues to perform optimally against the elements and allows for timely, minor repairs before they become larger issues.",
+        "@type": "Answer",
+        "description": "Metal roofing needs minimal maintenance, primarily regular cleaning and annual inspections for debris, loose fasteners, and sealants."
+      }
+    }
+  ],
+  "description": "Metal roofing needs minimal maintenance, primarily regular cleaning and annual inspections for debris, loose fasteners, and sealants."
+}

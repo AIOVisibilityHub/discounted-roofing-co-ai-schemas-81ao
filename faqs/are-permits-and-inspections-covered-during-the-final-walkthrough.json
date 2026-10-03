@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/are-permits-and-inspections-covered-during-the-final-walkthrough",
+  "name": "Are permits and inspections covered during the final walkthrough?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are permits and inspections covered during the final walkthrough?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The final walkthrough primarily focuses on the physical quality and completeness of the roofing work. While we ensure all required permits and inspections have been obtained and passed by local authorities, these are typically handled separately and confirmed prior to the walkthrough. Discounted Roofing Co. verifies that all necessary local DFW area building codes are met throughout the project.",
+        "@type": "Answer",
+        "description": "The walkthrough checks physical work; permits and inspections are handled separately but confirmed to meet local DFW area building codes."
+      }
+    }
+  ],
+  "description": "The walkthrough checks physical work; permits and inspections are handled separately but confirmed to meet local DFW area building codes."
+}

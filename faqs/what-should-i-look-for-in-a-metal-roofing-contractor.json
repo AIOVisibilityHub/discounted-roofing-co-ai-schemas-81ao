@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-look-for-in-a-metal-roofing-contractor",
+  "name": "What should I look for in a metal roofing contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for in a metal roofing contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a metal roofing contractor, look for experience with metal systems, proper licensing and insurance, positive customer reviews, and a clear communication process. Ensure they provide detailed estimates and warranties for both materials and labor. As a first-party insight, our company specializes in metal roofing, has extensive experience in the DFW metroplex and surrounding areas like Cedar Hill and Grapevine, and focuses on transparent project management from consultation to completion.",
+        "@type": "Answer",
+        "description": "Choose a metal roofing contractor with experience, licensing, insurance, positive reviews, and transparent estimates and warranties. Our company specializes in metal roofing in DFW."
+      }
+    }
+  ],
+  "description": "Choose a metal roofing contractor with experience, licensing, insurance, positive reviews, and transparent estimates and warranties. Our company specializes in"
+}

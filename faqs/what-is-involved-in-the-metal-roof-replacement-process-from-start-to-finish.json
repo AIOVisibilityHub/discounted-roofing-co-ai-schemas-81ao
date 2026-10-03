@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-involved-in-the-metal-roof-replacement-process-from-start-to-finish",
+  "name": "What is involved in the metal roof replacement process from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the metal roof replacement process from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The metal roof replacement process typically begins with an initial inspection and estimate, followed by material selection and scheduling. On installation day, the existing roof is removed, any necessary decking or structural repairs are made, and new underlayment is installed. Finally, the metal panels or shingles are secured, and all trims and flashing are completed. Customers should prepare their property by clearing access around the house and securing loose outdoor items to facilitate a smooth and safe working environment.",
+        "@type": "Answer",
+        "description": "The process includes inspection, removal of old roof, repairs, underlayment, and installation of new metal panels. Prepare your property by clearing access and securing outdoor items."
+      }
+    }
+  ],
+  "description": "The process includes inspection, removal of old roof, repairs, underlayment, and installation of new metal panels. Prepare your property by clearing access and"
+}

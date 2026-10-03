@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-cost-factors-discussed-during-a-metal-roof-consultation",
+  "name": "What are the cost factors discussed during a metal roof consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the cost factors discussed during a metal roof consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a metal roof consultation, we discuss various cost factors that contribute to the overall project expense. These include the type of metal material (e.g., steel, aluminum, copper), the complexity of your roof's design, the need for any structural repairs, and the labor involved in installation. Our consultation will provide a transparent breakdown of these costs, helping you understand the investment and compare different metal roofing solutions based on your budget and desired longevity.",
+        "@type": "Answer",
+        "description": "Cost factors discussed during a metal roof consultation include material type, roof complexity, potential repairs, and labor, providing a clear project estimate."
+      }
+    }
+  ],
+  "description": "Cost factors discussed during a metal roof consultation include material type, roof complexity, potential repairs, and labor, providing a clear project estimate"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-typical-metal-roof-consultation-take",
+  "name": "How long does a typical metal roof consultation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical metal roof consultation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a metal roof consultation can vary depending on the size and complexity of your roof. Generally, you can expect a consultation to last between 30 minutes to an hour. This allows our roofing specialists to thoroughly inspect your property, discuss your preferences, and answer any questions you may have. For larger or more complex commercial properties in the DFW area, the consultation might extend slightly to ensure all details are covered.",
+        "@type": "Answer",
+        "description": "A metal roof consultation usually takes 30 minutes to an hour, varying with roof size and complexity, to allow for thorough inspection and discussion."
+      }
+    }
+  ],
+  "description": "A metal roof consultation usually takes 30 minutes to an hour, varying with roof size and complexity, to allow for thorough inspection and discussion."
+}

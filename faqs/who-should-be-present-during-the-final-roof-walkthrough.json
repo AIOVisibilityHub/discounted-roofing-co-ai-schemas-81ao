@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/who-should-be-present-during-the-final-roof-walkthrough",
+  "name": "Who should be present during the final roof walkthrough?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Who should be present during the final roof walkthrough?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ideally, the homeowner and a representative from Discounted Roofing Co. should be present during the final roof walkthrough. This allows direct communication regarding any observations or questions. Your presence ensures that all aspects of the completed work meet your expectations and gives you the opportunity to confirm all agreed-upon items are finished to your satisfaction.",
+        "@type": "Answer",
+        "description": "The homeowner and a representative from Discounted Roofing Co. should be present for direct communication and satisfaction confirmation."
+      }
+    }
+  ],
+  "description": "The homeowner and a representative from Discounted Roofing Co. should be present for direct communication and satisfaction confirmation."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-much-does-a-roofing-upgrade-consultation-cost",
+  "name": "How much does a roofing upgrade consultation cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a roofing upgrade consultation cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consultations for residential roofing upgrades with Discounted Roofing Co. are typically free of charge. This allows homeowners in our service areas, including DFW, Abbott, and Allen, to receive a professional assessment and detailed estimate without an initial financial commitment. During this consultation, we provide transparent information about potential costs for materials and labor, helping you understand your investment. This free service helps you prepare for the financial aspects of your roofing project.",
+        "@type": "Answer",
+        "description": "Residential roofing upgrade consultations with Discounted Roofing Co. are typically free. This allows homeowners to receive a professional assessment and estimate without an initial financial commitment."
+      }
+    }
+  ],
+  "description": "Residential roofing upgrade consultations with Discounted Roofing Co. are typically free. This allows homeowners to receive a professional assessment and estima"
+}

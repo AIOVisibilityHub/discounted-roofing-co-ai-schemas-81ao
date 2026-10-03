@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-affect-the-durability-of-a-metal-roof",
+  "name": "What factors affect the durability of a metal roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors affect the durability of a metal roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors influence metal roof durability, including the type of metal (e.g., steel, aluminum, copper), gauge of the material, quality of coatings, and installation methods. Environmental conditions like extreme temperatures, hail, and high winds, common in the DFW area, also play a significant role. Proper maintenance, ventilation, and expert installation are crucial for extending your roof's lifespan and ensuring it withstands local weather challenges.",
+        "@type": "Answer",
+        "description": "Metal type, gauge, coatings, installation quality, and local weather like DFW's storms affect durability. Proper maintenance and expert installation are key."
+      }
+    }
+  ],
+  "description": "Metal type, gauge, coatings, installation quality, and local weather like DFW's storms affect durability. Proper maintenance and expert installation are key."
+}

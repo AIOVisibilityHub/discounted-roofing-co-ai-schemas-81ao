@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-kind-of-maintenance-does-a-metal-roof-require-after-installation",
+  "name": "What kind of maintenance does a metal roof require after installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance does a metal roof require after installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Metal roofs are relatively low maintenance compared to other roofing types. Routine maintenance typically involves annual inspections to check for any debris accumulation, loose fasteners, or minor damage, especially after severe weather. Keeping gutters clear is also important to prevent water buildup. Unlike some other materials, metal roofs do not typically require frequent repairs or treatments. Discounted Roofing Co. recommends a periodic inspection schedule to ensure the optimal performance and longevity of your metal roof.",
+        "@type": "Answer",
+        "description": "Metal roofs are low maintenance, requiring annual inspections for debris, loose fasteners, or damage, and clear gutters. Discounted Roofing Co. recommends periodic inspections for optimal performance."
+      }
+    }
+  ],
+  "description": "Metal roofs are low maintenance, requiring annual inspections for debris, loose fasteners, or damage, and clear gutters. Discounted Roofing Co. recommends perio"
+}

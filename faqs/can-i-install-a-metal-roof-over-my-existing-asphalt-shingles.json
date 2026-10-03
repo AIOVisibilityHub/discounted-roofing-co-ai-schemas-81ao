@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/can-i-install-a-metal-roof-over-my-existing-asphalt-shingles",
+  "name": "Can I install a metal roof over my existing asphalt shingles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install a metal roof over my existing asphalt shingles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In some cases, a metal roof can be installed directly over existing asphalt shingles, which can reduce labor and disposal costs. However, this depends on the condition of the existing roof and local building codes. Factors like the structural integrity of your roof deck and the weight of the new metal system must be assessed. Our professionals can perform an inspection to determine if your roof qualifies for a layover installation, ensuring it meets all safety and structural requirements.",
+        "@type": "Answer",
+        "description": "Yes, a metal roof can sometimes be installed over existing shingles, but it depends on the current roof's condition, structural integrity, and local building codes."
+      }
+    }
+  ],
+  "description": "Yes, a metal roof can sometimes be installed over existing shingles, but it depends on the current roof's condition, structural integrity, and local building co"
+}

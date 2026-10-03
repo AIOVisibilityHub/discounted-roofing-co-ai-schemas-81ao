@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-are-the-energy-efficiency-benefits-of-choosing-a-metal-roof",
+  "name": "What are the energy efficiency benefits of choosing a metal roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the energy efficiency benefits of choosing a metal roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Metal roofs are highly energy-efficient, especially those with reflective coatings or 'cool roof' technology. They reflect solar radiant heat, which can significantly reduce cooling costs during hot Texas summers by keeping your attic and home cooler. This reflective property can also contribute to lower energy consumption and potentially qualify for energy-related tax credits. Discuss color and finish options with us, as lighter colors and specialized coatings offer the best reflective performance.",
+        "@type": "Answer",
+        "description": "Metal roofs, especially with reflective coatings, reduce cooling costs by reflecting solar heat, making them energy-efficient for homes in areas like DFW."
+      }
+    }
+  ],
+  "description": "Metal roofs, especially with reflective coatings, reduce cooling costs by reflecting solar heat, making them energy-efficient for homes in areas like DFW."
+}

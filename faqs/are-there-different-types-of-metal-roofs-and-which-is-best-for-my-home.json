@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/are-there-different-types-of-metal-roofs-and-which-is-best-for-my-home",
+  "name": "Are there different types of metal roofs, and which is best for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there different types of metal roofs, and which is best for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, there are several types of metal roofs, including standing seam, metal shingles, and corrugated panels, each with distinct appearances and performance characteristics. Standing seam roofs are popular for their sleek look and excellent weather resistance, while metal shingles can mimic traditional roofing materials. The 'best' option depends on your aesthetic preferences, budget, and local climate considerations. We provide consultations to help you weigh the pros and cons of each type based on your home's architecture and your specific needs.",
+        "@type": "Answer",
+        "description": "Different metal roof types like standing seam and metal shingles offer varied looks and performance. The best type depends on aesthetics, budget, and climate, which we can help you evaluate."
+      }
+    }
+  ],
+  "description": "Different metal roof types like standing seam and metal shingles offer varied looks and performance. The best type depends on aesthetics, budget, and climate, w"
+}

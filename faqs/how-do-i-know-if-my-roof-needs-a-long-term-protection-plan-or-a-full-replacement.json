@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-know-if-my-roof-needs-a-long-term-protection-plan-or-a-full-replacement",
+  "name": "How do I know if my roof needs a long-term protection plan or a full replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my roof needs a long-term protection plan or a full replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining whether your roof needs a protection plan or replacement depends on its age, extent of damage, and overall structural integrity. A long-term protection plan is suitable for roofs with minor, localized issues and a good remaining lifespan. If your roof is nearing the end of its expected life, has widespread damage, or multiple leaks, a full replacement is usually the more practical long-term solution. We can assess your roof to recommend the best course of action.",
+        "@type": "Answer",
+        "description": "Assess your roof's age, damage, and integrity; a protection plan suits minor issues, while widespread damage often requires replacement."
+      }
+    }
+  ],
+  "description": "Assess your roof's age, damage, and integrity; a protection plan suits minor issues, while widespread damage often requires replacement."
+}

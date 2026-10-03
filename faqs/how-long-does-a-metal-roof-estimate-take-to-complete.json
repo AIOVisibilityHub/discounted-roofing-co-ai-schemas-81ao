@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-metal-roof-estimate-take-to-complete",
+  "name": "How long does a metal roof estimate take to complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a metal roof estimate take to complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard metal roof estimate typically takes about 30 to 60 minutes for an on-site visit, followed by a few days to compile the detailed proposal. The time required can vary based on the roof's complexity and accessibility. For example, a multi-level roof with intricate designs may require a longer inspection than a simple gable roof.",
+        "@type": "Answer",
+        "description": "A metal roof estimate usually involves a 30-60 minute on-site visit, with the full proposal ready within a few days."
+      }
+    }
+  ],
+  "description": "A metal roof estimate usually involves a 30-60 minute on-site visit, with the full proposal ready within a few days."
+}

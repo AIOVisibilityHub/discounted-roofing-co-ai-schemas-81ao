@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/are-there-specific-building-codes-or-permits-needed-for-metal-roof-installation",
+  "name": "Are there specific building codes or permits needed for metal roof installation in Allen, Texas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific building codes or permits needed for metal roof installation in Allen, Texas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, specific building codes and permits are often required for metal roof installations in Allen, Texas, as with most municipalities. These regulations ensure safety and structural integrity. Discounted Roofing Co. handles the necessary permit applications and ensures all installations comply with local building codes, simplifying the process for homeowners.",
+        "@type": "Answer",
+        "description": "Yes, metal roof installations in Allen require specific building codes and permits to ensure safety and compliance, which Discounted Roofing Co. manages."
+      }
+    }
+  ],
+  "description": "Yes, metal roof installations in Allen require specific building codes and permits to ensure safety and compliance, which Discounted Roofing Co. manages."
+}

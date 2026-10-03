@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-factors-influence-the-cost-of-metal-roof-installation",
+  "name": "What factors influence the cost of metal roof installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of metal roof installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of metal roof installation is influenced by several key factors. These include the type of metal chosen (e.g., steel, aluminum, copper), the complexity and size of your roof, the pitch or slope of the roof, and the labor required for installation. Additional costs may arise from removing existing roofing materials or needing specialized flashing. We provide transparent estimates after a thorough property assessment to give you a clear understanding of the investment, considering the unique aspects of your roofing project.",
+        "@type": "Answer",
+        "description": "Metal roof installation costs depend on material type, roof size and complexity, pitch, and labor, with additional costs for old roof removal or specialized flashing."
+      }
+    }
+  ],
+  "description": "Metal roof installation costs depend on material type, roof size and complexity, pitch, and labor, with additional costs for old roof removal or specialized fla"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-metal-roof-replacement-typically-take",
+  "name": "How long does a metal roof replacement typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a metal roof replacement typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a metal roof replacement depends on factors like the size and complexity of your roof, the specific metal roofing system chosen, and weather conditions. A typical residential project in areas like Allen or Plano might take anywhere from a few days to a week. To ensure an efficient process, it's beneficial to have clear access around the property for material delivery and debris removal.",
+        "@type": "Answer",
+        "description": "Metal roof replacement usually takes a few days to a week, depending on roof size and complexity. Clear property access helps expedite the process."
+      }
+    }
+  ],
+  "description": "Metal roof replacement usually takes a few days to a week, depending on roof size and complexity. Clear property access helps expedite the process."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-can-i-reduce-the-cost-of-my-metal-roof-installation",
+  "name": "How can I reduce the cost of my metal roof installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I reduce the cost of my metal roof installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To potentially reduce the cost of a metal roof installation, consider selecting more cost-effective metal types like galvalume steel over copper, or opt for a less complex panel design if suitable for your home. Maintaining your current roof and addressing minor issues promptly can also prevent more extensive and costly repairs when the metal roof is installed. During the decision-making process, our team can discuss various material options and their price points to help you find a solution that fits your budget while still providing the benefits of metal roofing.",
+        "@type": "Answer",
+        "description": "You can reduce metal roof costs by choosing less expensive metal types or simpler panel designs. Regular roof maintenance can also prevent costly repairs during installation."
+      }
+    }
+  ],
+  "description": "You can reduce metal roof costs by choosing less expensive metal types or simpler panel designs. Regular roof maintenance can also prevent costly repairs during"
+}

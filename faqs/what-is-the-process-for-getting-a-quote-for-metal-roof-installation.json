@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-process-for-getting-a-quote-for-metal-roof-installation",
+  "name": "What is the process for getting a quote for metal roof installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for getting a quote for metal roof installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for obtaining a metal roof installation quote typically starts with an initial contact to schedule an on-site evaluation. A representative from Discounted Roofing Co. will visit your property to measure the roof, assess its condition, and discuss your material preferences. This detailed assessment allows for an accurate estimate that includes labor, materials, and any necessary permits, ensuring transparency in pricing for your project.",
+        "@type": "Answer",
+        "description": "To get a quote, schedule an on-site evaluation where the roof is measured, assessed, and material preferences are discussed for an accurate estimate."
+      }
+    }
+  ],
+  "description": "To get a quote, schedule an on-site evaluation where the roof is measured, assessed, and material preferences are discussed for an accurate estimate."
+}

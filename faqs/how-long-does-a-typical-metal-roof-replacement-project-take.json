@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-long-does-a-typical-metal-roof-replacement-project-take",
+  "name": "How long does a typical metal roof replacement project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical metal roof replacement project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a metal roof replacement project depends on the size and complexity of your roof, as well as weather conditions. Most residential metal roof replacements can be completed within 3 to 7 days. Factors like existing roof removal, unforeseen structural repairs, or intricate rooflines can extend this timeline. We prioritize clear communication regarding project phases and any potential delays to manage customer expectations effectively.",
+        "@type": "Answer",
+        "description": "Most residential metal roof replacements take 3 to 7 days, but project complexity and weather can affect the timeline."
+      }
+    }
+  ],
+  "description": "Most residential metal roof replacements take 3 to 7 days, but project complexity and weather can affect the timeline."
+}

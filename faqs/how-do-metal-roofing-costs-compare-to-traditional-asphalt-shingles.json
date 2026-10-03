@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-metal-roofing-costs-compare-to-traditional-asphalt-shingles",
+  "name": "How do metal roofing costs compare to traditional asphalt shingles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do metal roofing costs compare to traditional asphalt shingles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Initially, metal roofing typically has a higher upfront cost compared to traditional asphalt shingles. However, metal roofs offer a longer lifespan, often 40-70 years, versus 15-30 years for asphalt. This longevity can result in lower long-term costs due to fewer replacements. Additionally, metal roofs provide better energy efficiency and can sometimes qualify for insurance discounts. When considering the practical tradeoff, customers should weigh the initial investment against the extended durability and potential savings over the roof's lifetime.",
+        "@type": "Answer",
+        "description": "Metal roofing generally costs more upfront than asphalt shingles but offers a longer lifespan and lower long-term costs. It also provides better energy efficiency and potential insurance discounts."
+      }
+    }
+  ],
+  "description": "Metal roofing generally costs more upfront than asphalt shingles but offers a longer lifespan and lower long-term costs. It also provides better energy efficien"
+}

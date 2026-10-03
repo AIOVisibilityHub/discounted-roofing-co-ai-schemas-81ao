@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-preparations-should-i-make-before-my-metal-roof-installation-begins",
+  "name": "What preparations should I make before my metal roof installation begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations should I make before my metal roof installation begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your metal roof installation, clear the perimeter of your home of any personal belongings, vehicles, or potted plants to ensure safe access for the crew and protect your property. Trim any overhanging tree branches that could interfere with the work. Discounted Roofing Co. will provide a detailed checklist of preparations to ensure a smooth installation process and minimize disruptions to your daily routine.",
+        "@type": "Answer",
+        "description": "Clear the home's perimeter of belongings and vehicles, and trim overhanging branches. Your contractor will provide a preparation checklist."
+      }
+    }
+  ],
+  "description": "Clear the home's perimeter of belongings and vehicles, and trim overhanging branches. Your contractor will provide a preparation checklist."
+}

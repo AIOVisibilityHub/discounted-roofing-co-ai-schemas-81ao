@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-warranty-options-are-available-for-severe-weather-metal-roofs",
+  "name": "What warranty options are available for severe-weather metal roofs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What warranty options are available for severe-weather metal roofs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Warranty options for severe-weather metal roofs typically include a manufacturer's warranty covering the material and a separate workmanship warranty from the installer. Manufacturer warranties often range from 20 to 50 years, or even lifetime, covering defects in the material and finish. Workmanship warranties, provided by Discounted Roofing Co., cover the installation quality, typically for a shorter period, often 5 to 10 years. Understanding both types of warranties is crucial for long-term peace of mind.",
+        "@type": "Answer",
+        "description": "Warranty options for severe-weather metal roofs usually include a manufacturer's material warranty (20-50+ years) and an installer's workmanship warranty (5-10 years)."
+      }
+    }
+  ],
+  "description": "Warranty options for severe-weather metal roofs usually include a manufacturer's material warranty (20-50+ years) and an installer's workmanship warranty (5-10"
+}

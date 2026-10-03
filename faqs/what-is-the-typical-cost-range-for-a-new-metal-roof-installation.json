@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-the-typical-cost-range-for-a-new-metal-roof-installation",
+  "name": "What is the typical cost range for a new metal roof installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for a new metal roof installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a new metal roof installation varies widely based on material type (steel, aluminum, copper), roof size, roof pitch, complexity, and local labor rates. While metal roofs generally have a higher upfront cost than asphalt shingles, their longevity and energy efficiency can offer long-term savings. When planning your project, it's essential to get a detailed quote that outlines all costs. Discounted Roofing Co. offers free, no-obligation estimates for properties in areas like Dallas, Fort Worth, and surrounding communities, helping you understand the investment.",
+        "@type": "Answer",
+        "description": "Metal roof costs vary by material, size, and complexity. While initially higher, they offer long-term value. Discounted Roofing Co. provides free estimates to help you understand the investment."
+      }
+    }
+  ],
+  "description": "Metal roof costs vary by material, size, and complexity. While initially higher, they offer long-term value. Discounted Roofing Co. provides free estimates to h"
+}

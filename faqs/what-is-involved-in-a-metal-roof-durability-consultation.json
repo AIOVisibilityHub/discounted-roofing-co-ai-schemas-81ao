@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-is-involved-in-a-metal-roof-durability-consultation",
+  "name": "What is involved in a metal roof durability consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a metal roof durability consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A metal roof durability consultation involves an assessment of your current roof's condition, the type of metal roofing materials suitable for your property, and an evaluation of factors like local weather patterns and building codes that affect roof lifespan. We examine existing damage, structural integrity, and ventilation to provide recommendations for repairs or replacement options tailored to ensure long-term performance. This helps homeowners understand the best approach to maximize their metal roof's lifespan.",
+        "@type": "Answer",
+        "description": "A consultation assesses your roof's condition, suitable materials, and environmental factors to recommend repair or replacement options for long-term performance."
+      }
+    }
+  ],
+  "description": "A consultation assesses your roof's condition, suitable materials, and environmental factors to recommend repair or replacement options for long-term performanc"
+}

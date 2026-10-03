@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/do-metal-roof-estimates-vary-based-on-the-specific-type-of-metal",
+  "name": "Do metal roof estimates vary based on the specific type of metal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do metal roof estimates vary based on the specific type of metal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, metal roof estimates vary significantly based on the specific type of metal chosen. For instance, an estimate for a steel or aluminum roof will typically be lower than one for copper or zinc due to differences in raw material cost and fabrication complexity. Your choice of metal impacts not only the upfront cost but also the long-term durability and aesthetic of your roof.",
+        "@type": "Answer",
+        "description": "Yes, metal roof estimates vary based on metal type, with steel/aluminum generally costing less than copper or zinc."
+      }
+    }
+  ],
+  "description": "Yes, metal roof estimates vary based on metal type, with steel/aluminum generally costing less than copper or zinc."
+}

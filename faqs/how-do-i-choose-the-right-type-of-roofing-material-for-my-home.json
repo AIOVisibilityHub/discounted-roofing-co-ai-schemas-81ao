@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/how-do-i-choose-the-right-type-of-roofing-material-for-my-home",
+  "name": "How do I choose the right type of roofing material for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right type of roofing material for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right roofing material involves considering durability, aesthetic appeal, cost, and climate suitability. Asphalt shingles are common and affordable, while metal roofs offer longevity and energy efficiency. Other options include tile or slate, known for their distinct appearance and extended lifespan. A practical tradeoff to consider is the upfront cost versus the long-term benefits in terms of maintenance and energy savings. Discussing these options with your roofing contractor can help align the material choice with your budget and property requirements in the DFW area.",
+        "@type": "Answer",
+        "description": "Consider durability, aesthetics, cost, and climate. Weigh the upfront cost of materials like asphalt vs. long-term benefits of metal or tile."
+      }
+    }
+  ],
+  "description": "Consider durability, aesthetics, cost, and climate. Weigh the upfront cost of materials like asphalt vs. long-term benefits of metal or tile."
+}

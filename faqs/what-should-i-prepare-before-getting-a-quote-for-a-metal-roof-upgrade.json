@@ -1,0 +1,27 @@
+{
+  "url": "http://discountedroofs.com/faq/what-should-i-prepare-before-getting-a-quote-for-a-metal-roof-upgrade",
+  "name": "What should I prepare before getting a quote for a metal roof upgrade?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before getting a quote for a metal roof upgrade?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before getting a quote for a metal roof upgrade, it's helpful to consider your budget, preferred aesthetic, and any specific concerns you have about your current roof. Having an idea of your roof's age and any previous issues can also be useful. Preparing these details allows us to provide a more accurate and tailored estimate during our initial consultation, addressing your specific needs from the outset.",
+        "@type": "Answer",
+        "description": "Before a quote, consider your budget, preferred look, and current roof's age/issues for a tailored estimate."
+      }
+    }
+  ],
+  "description": "Before a quote, consider your budget, preferred look, and current roof's age/issues for a tailored estimate."
+}
