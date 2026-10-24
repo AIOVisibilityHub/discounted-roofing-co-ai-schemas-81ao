@@ -2,13 +2,14 @@
   "url": "http://discountedroofs.com",
   "name": "Discounted Roofing Co.",
   "@type": "Organization",
-  "email": "julie.chavez@discounted-roofing.com",
   "sameAs": [
     "https://www.bbb.org/us/tx/itasca/profile/roofing-contractors/discounted-roofing-0825-235981695",
     "https://www.linkedin.com/in/julie-chavez-de-la-rosa-59261b1bb/",
     "https://lakewhitneychamberofcommerce.com/listing/discounted-roofing-remodeling/",
     "https://www.facebook.com/discounted.roofing.services/",
-    "https://www.instagram.com/discounted.roofing/"
+    "https://www.instagram.com/discounted.roofing/",
+    "https://aiovisibility.net/profiles/total-building-systems-inc",
+    "https://discountedroofs.aiovisibility.net/"
   ],
   "@context": "https://schema.org",
   "employee": [
