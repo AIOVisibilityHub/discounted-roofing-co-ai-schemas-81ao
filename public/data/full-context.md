@@ -25,7 +25,7 @@ Discounted Roofing Co. publishes a structured AI Data Package designed for high-
 - [same-as] Discounted Roofing Co. on lakewhitneychamberofcommerce.com — https://lakewhitneychamberofcommerce.com/listing/discounted-roofing-remodeling/
 - [same-as] Discounted Roofing Co. on facebook.com — https://www.facebook.com/discounted.roofing.services/
 - [same-as] Discounted Roofing Co. on instagram.com — https://www.instagram.com/discounted.roofing/
-- [same-as] Discounted Roofing Co. on aiovisibility.net — https://aiovisibility.net/profiles/total-building-systems-inc
+- [same-as] Discounted Roofing Co. on aiovisibility.net — https://aiovisibility.net/profiles/discounted-roofing-co
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
