@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-24T21:58:22.053Z",
+  "generatedAt": "2026-10-24T21:58:30.093Z",
   "client": {
     "name": "Discounted Roofing Co.",
     "canonicalUrl": "https://discountedroofs.aiovisibility.net",
@@ -356,7 +356,7 @@
   },
   "package": {
     "totalFiles": 2163,
-    "totalBytes": 10642503,
+    "totalBytes": 10729033,
     "stats": {
       "faqs": 1647,
       "helpArticles": 287,
@@ -11073,77 +11073,77 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 20371,
+        "bytes": 26312,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 93025,
+        "bytes": 98826,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 159408,
+        "bytes": 165417,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 47537,
+        "bytes": 53136,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 20576,
+        "bytes": 26250,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 1153723,
+        "bytes": 1159418,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 21079,
+        "bytes": 26778,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 37338,
+        "bytes": 42990,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 253440,
+        "bytes": 259194,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 69461,
+        "bytes": 75285,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 208624,
+        "bytes": 214419,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 156931,
+        "bytes": 162762,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 20951,
+        "bytes": 26676,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 381920,
+        "bytes": 387753,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/unassigned.html",
-        "bytes": 23027,
+        "bytes": 28725,
         "purpose": "LLM-optimized public page"
       }
     ],
