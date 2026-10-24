@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-24T20:16:07.052Z",
+  "generatedAt": "2026-10-24T20:37:18.034Z",
   "client": {
     "name": "Discounted Roofing Co.",
     "canonicalUrl": "https://discountedroofs.aiovisibility.net",
@@ -355,14 +355,14 @@
     ]
   },
   "package": {
-    "totalFiles": 2349,
-    "totalBytes": 12994867,
+    "totalFiles": 2163,
+    "totalBytes": 10729088,
     "stats": {
       "faqs": 1647,
       "helpArticles": 287,
       "services": 168,
       "webpages": 0,
-      "personnel": 187,
+      "personnel": 1,
       "products": 0,
       "locations": 1,
       "awards": 0,
@@ -372,7 +372,7 @@
       "reviews": 28,
       "qna": 0,
       "research": 0,
-      "total": 2320
+      "total": 2134
     }
   },
   "entrypoints": {
@@ -1231,937 +1231,7 @@
     "team": [
       {
         "path": "team/julie-chavez-profile.json",
-        "bytes": 11192,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-dfw.json",
-        "bytes": 5400,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-abbott.json",
-        "bytes": 5403,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-addison.json",
-        "bytes": 5404,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-aledo.json",
-        "bytes": 5402,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-allen.json",
-        "bytes": 5402,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-alliance.json",
-        "bytes": 5405,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-alvarado.json",
-        "bytes": 5405,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-anna.json",
-        "bytes": 5401,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-aquilla.json",
-        "bytes": 5404,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-argyle.json",
-        "bytes": 5403,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-arlington.json",
-        "bytes": 5406,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-arlington-heights.json",
-        "bytes": 5414,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-azle.json",
-        "bytes": 5401,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-balch-springs.json",
-        "bytes": 5410,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-bartonville.json",
-        "bytes": 5408,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-bedford.json",
-        "bytes": 5404,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-bellmead.json",
-        "bytes": 5405,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-benbrook.json",
-        "bytes": 5405,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-benbrook-lake-area.json",
-        "bytes": 5415,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-bishop-arts-district.json",
-        "bytes": 5417,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-blum.json",
-        "bytes": 5401,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-bowie.json",
-        "bytes": 5402,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-bridgeport.json",
-        "bytes": 5407,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-brock.json",
-        "bytes": 5402,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-burleson.json",
-        "bytes": 5405,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-carrollton.json",
-        "bytes": 5407,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-cedar-hill.json",
-        "bytes": 5407,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-celina.json",
-        "bytes": 5403,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-cleburne.json",
-        "bytes": 5405,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-clearfork.json",
-        "bytes": 5406,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-colleyville.json",
-        "bytes": 5408,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-copper-canyon.json",
-        "bytes": 5410,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-coppell.json",
-        "bytes": 5404,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-corinth.json",
-        "bytes": 5404,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-corsicana.json",
-        "bytes": 5406,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-crowley.json",
-        "bytes": 5404,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-dallas.json",
-        "bytes": 5403,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-decatur.json",
-        "bytes": 5404,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-denison.json",
-        "bytes": 5404,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-desoto.json",
-        "bytes": 5403,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-denton.json",
-        "bytes": 5403,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-double-oak.json",
-        "bytes": 5407,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-downtown-dallas.json",
-        "bytes": 5412,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-downtown-fort-worth.json",
-        "bytes": 5416,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-duncanville.json",
-        "bytes": 5408,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-east-dallas.json",
-        "bytes": 5408,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-ennis.json",
-        "bytes": 5402,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-euless.json",
-        "bytes": 5403,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-everman.json",
-        "bytes": 5404,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-fairview.json",
-        "bytes": 5405,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-farmers-branch.json",
-        "bytes": 5411,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-farmersville.json",
-        "bytes": 5409,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-fate.json",
-        "bytes": 5401,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-ferris.json",
-        "bytes": 5403,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-flower-mound.json",
-        "bytes": 5409,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-forest-hill.json",
-        "bytes": 5408,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-forney.json",
-        "bytes": 5403,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-fort-worth.json",
-        "bytes": 5407,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-fort-worth-stockyards.json",
-        "bytes": 5418,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-frisco.json",
-        "bytes": 5403,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-frost.json",
-        "bytes": 5402,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-gainesville.json",
-        "bytes": 5408,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-garland.json",
-        "bytes": 5404,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-glen-rose.json",
-        "bytes": 5406,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-godley.json",
-        "bytes": 5403,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-granbury.json",
-        "bytes": 5405,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-grand-prairie.json",
-        "bytes": 5410,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-grapevine.json",
-        "bytes": 5406,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-haltom-city.json",
-        "bytes": 5408,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-haslet.json",
-        "bytes": 5403,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-heath.json",
-        "bytes": 5402,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-hewitt.json",
-        "bytes": 5403,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-hico.json",
-        "bytes": 5401,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-highland-park.json",
-        "bytes": 5410,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-highland-village.json",
-        "bytes": 5413,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-hillsboro.json",
-        "bytes": 5406,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-hubbard.json",
-        "bytes": 5404,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-hudson-oaks.json",
-        "bytes": 5408,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-hurst.json",
-        "bytes": 5402,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-hutchins.json",
-        "bytes": 5405,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-irving.json",
-        "bytes": 5403,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-itasca.json",
-        "bytes": 5403,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-joe-pool-lake-area.json",
-        "bytes": 5415,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-joshua.json",
-        "bytes": 5403,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-keene.json",
-        "bytes": 5402,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-keller.json",
-        "bytes": 5403,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-keller-town-center.json",
-        "bytes": 5415,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-kennedale.json",
-        "bytes": 5406,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-lake-arlington-area.json",
-        "bytes": 5416,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-lake-highlands.json",
-        "bytes": 5411,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-lake-worth.json",
-        "bytes": 5407,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-lakewood.json",
-        "bytes": 5405,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-laguna-park.json",
-        "bytes": 5408,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-lancaster.json",
-        "bytes": 5406,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-lantana.json",
-        "bytes": 5404,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-las-colinas.json",
-        "bytes": 5408,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-lewisville.json",
-        "bytes": 5407,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-little-elm.json",
-        "bytes": 5407,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-malone.json",
-        "bytes": 5403,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-mansfield.json",
-        "bytes": 5406,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-marlin.json",
-        "bytes": 5403,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-mckinney.json",
-        "bytes": 5405,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-melissa.json",
-        "bytes": 5404,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-meridian.json",
-        "bytes": 5405,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-mesquite.json",
-        "bytes": 5405,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-midlothian.json",
-        "bytes": 5407,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-mineral-wells.json",
-        "bytes": 5410,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-morgan.json",
-        "bytes": 5403,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-murphy.json",
-        "bytes": 5403,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-near-southside-fort-worth.json",
-        "bytes": 5422,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-north-dallas.json",
-        "bytes": 5409,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-north-richland-hills.json",
-        "bytes": 5417,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-oak-cliff.json",
-        "bytes": 5406,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-park-cities.json",
-        "bytes": 5408,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-plano.json",
-        "bytes": 5402,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-preston-hollow.json",
-        "bytes": 5411,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-princeton.json",
-        "bytes": 5406,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-prosper.json",
-        "bytes": 5404,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-red-oak.json",
-        "bytes": 5404,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-rendon.json",
-        "bytes": 5403,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-rice.json",
-        "bytes": 5401,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-richardson.json",
-        "bytes": 5407,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-ridglea.json",
-        "bytes": 5404,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-rio-vista.json",
-        "bytes": 5406,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-river-district.json",
-        "bytes": 5411,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-river-oaks.json",
-        "bytes": 5407,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-rockwall.json",
-        "bytes": 5405,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-roanoke.json",
-        "bytes": 5404,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-rowlett.json",
-        "bytes": 5404,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-royse-city.json",
-        "bytes": 5407,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-sachse.json",
-        "bytes": 5403,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-saginaw.json",
-        "bytes": 5404,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-seagoville.json",
-        "bytes": 5407,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-sherman.json",
-        "bytes": 5404,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-southlake.json",
-        "bytes": 5406,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-springtown.json",
-        "bytes": 5407,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-sunnyvale.json",
-        "bytes": 5406,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-tanglewood.json",
-        "bytes": 5407,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-tcu-area.json",
-        "bytes": 5405,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-terrell.json",
-        "bytes": 5404,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-the-colony.json",
-        "bytes": 5407,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-trophy-club.json",
-        "bytes": 5408,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-university-park.json",
-        "bytes": 5412,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-uptown-dallas.json",
-        "bytes": 5410,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-valley-mills.json",
-        "bytes": 5409,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-van-alstyne.json",
-        "bytes": 5408,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-venus.json",
-        "bytes": 5402,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-watauga.json",
-        "bytes": 5404,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-waxahachie.json",
-        "bytes": 5407,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-weatherford.json",
-        "bytes": 5408,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-west.json",
-        "bytes": 5401,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-west-7th.json",
-        "bytes": 5405,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-west-dallas.json",
-        "bytes": 5408,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-westover-hills.json",
-        "bytes": 5411,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-westworth-village.json",
-        "bytes": 5414,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-white-settlement.json",
-        "bytes": 5413,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-whitney.json",
-        "bytes": 5404,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-willow-park.json",
-        "bytes": 5408,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-wilmer.json",
-        "bytes": 5403,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-woodway.json",
-        "bytes": 5404,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-wylie.json",
-        "bytes": 5402,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-roof-inspections-dfw-faq.json",
-        "bytes": 5285,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-roof-inspections-abbott-faq.json",
-        "bytes": 5297,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-roof-inspections-addison-faq.json",
-        "bytes": 5301,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-roof-inspections-aledo-faq.json",
-        "bytes": 5293,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-roof-inspections-allen-faq.json",
-        "bytes": 5293,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-roof-repairs-dfw-faq.json",
-        "bytes": 5269,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-roof-repairs-abbott-faq.json",
-        "bytes": 5281,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-roof-repairs-addison-faq.json",
-        "bytes": 5285,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-roof-repairs-aledo-faq.json",
-        "bytes": 5277,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-roof-repairs-allen-faq.json",
-        "bytes": 5277,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-roof-replacements-dfw-faq.json",
-        "bytes": 5289,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-roof-replacements-abbott-faq.json",
-        "bytes": 5301,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-roof-replacements-addison-faq.json",
-        "bytes": 5305,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-roof-replacements-aledo-faq.json",
-        "bytes": 5297,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-roof-replacements-allen-faq.json",
-        "bytes": 5297,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-storm-damage-restoration-dfw-faq.json",
-        "bytes": 5317,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-storm-damage-restoration-abbott-faq.json",
-        "bytes": 5329,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-storm-damage-restoration-addison-faq.json",
-        "bytes": 5333,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-storm-damage-restoration-aledo-faq.json",
-        "bytes": 5325,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-storm-damage-restoration-allen-faq.json",
-        "bytes": 5325,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-hail-damage-assessments-dfw-faq.json",
-        "bytes": 5313,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-hail-damage-assessments-abbott-faq.json",
-        "bytes": 5325,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-hail-damage-assessments-addison-faq.json",
-        "bytes": 5329,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-hail-damage-assessments-aledo-faq.json",
-        "bytes": 5321,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/julie-chavez-hail-damage-assessments-allen-faq.json",
-        "bytes": 5321,
+        "bytes": 10724,
         "purpose": "schema"
       }
     ],
@@ -2175,7 +1245,7 @@
     "organization": [
       {
         "path": "organization/discounted-roofing-co-organization.json",
-        "bytes": 30590,
+        "bytes": 30653,
         "purpose": "schema"
       }
     ],
@@ -12003,77 +11073,77 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 20373,
+        "bytes": 26312,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 1137874,
+        "bytes": 98831,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 159408,
+        "bytes": 165417,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 47537,
+        "bytes": 53136,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 20576,
+        "bytes": 26250,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 1153723,
+        "bytes": 1159418,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 21079,
+        "bytes": 26778,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 201532,
+        "bytes": 42990,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 253440,
+        "bytes": 259194,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 69461,
+        "bytes": 75285,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 208624,
+        "bytes": 214419,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 156931,
+        "bytes": 162762,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 20951,
+        "bytes": 26676,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 381920,
+        "bytes": 387753,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/unassigned.html",
-        "bytes": 23027,
+        "bytes": 28725,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -12085,7 +11155,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 10711,
+        "bytes": 9639,
         "purpose": "LLM hint"
       },
       {
@@ -12105,37 +11175,37 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 6155,
+        "bytes": 3263,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 1048523,
+        "bytes": 986616,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 295734,
+        "bytes": 277776,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 295734,
+        "bytes": 277776,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 10706,
+        "bytes": 9632,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 361825,
+        "bytes": 343725,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 310773,
+        "bytes": 291845,
         "purpose": "AI sitemap"
       },
       {
@@ -12150,30 +11220,6 @@
       "url": "https://github.com/AIOVisibilityHub/discounted-roofing-co-ai-schemas-81ao",
       "pagesUrl": "http://discountedroofs.aiovisibility.net/",
       "repo": "AIOVisibilityHub/discounted-roofing-co-ai-schemas-81ao"
-    },
-    "gitlab": {
-      "url": "https://gitlab.com/aiovisibilityhub/discounted-roofing-co-ai-schemas-y7j5",
-      "pagesUrl": "https://discounted-roofing-co-ai-schemas-y7j5-cb039c.gitlab.io/"
-    },
-    "huggingface": {
-      "url": "https://huggingface.co/spaces/AIOVisibilityHub/discounted-roofing-co-ai-schemas",
-      "pagesUrl": "https://aiovisibilityhub-discounted-roofing-co-ai-schemas.static.hf.space/",
-      "repo": "AIOVisibilityHub/discounted-roofing-co-ai-schemas"
-    },
-    "codeberg": {
-      "url": "https://codeberg.org/aiovisibilityhub/discounted-roofing-co-ai-schemas",
-      "pagesUrl": "https://aiovisibilityhub.codeberg.page/discounted-roofing-co-ai-schemas/",
-      "repo": "aiovisibilityhub/discounted-roofing-co-ai-schemas"
-    },
-    "kaggle": {
-      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/discounted-roofing-co-ai-schemas"
-    },
-    "sourcehut": {
-      "url": "https://aiovisibilityhub.srht.site/discounted-roofing-co-ai-schemas/",
-      "pagesUrl": "https://aiovisibilityhub.srht.site/discounted-roofing-co-ai-schemas/"
-    },
-    "zenodo": {
-      "url": "https://zenodo.org/record/23626126"
     }
   }
 }
