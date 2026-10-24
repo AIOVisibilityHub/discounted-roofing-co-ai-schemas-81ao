@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-03T02:21:13.945Z",
+  "generatedAt": "2026-10-24T19:53:07.543Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -13,7 +13,14 @@
     "name": "Discounted Roofing Co.",
     "canonicalUrl": "https://discountedroofs.aiovisibility.net",
     "primaryWebsiteUrl": "http://discountedroofs.com",
-    "aiDataHub": "https://discountedroofs.aiovisibility.net/ai-data.html"
+    "aiDataHub": "https://discountedroofs.aiovisibility.net/ai-data.html",
+    "sameAs": [
+      "https://www.bbb.org/us/tx/itasca/profile/roofing-contractors/discounted-roofing-0825-235981695",
+      "https://www.linkedin.com/in/julie-chavez-de-la-rosa-59261b1bb/",
+      "https://lakewhitneychamberofcommerce.com/listing/discounted-roofing-remodeling/",
+      "https://www.facebook.com/discounted.roofing.services/",
+      "https://www.instagram.com/discounted.roofing/"
+    ]
   },
   "related": [
     {
@@ -37,6 +44,31 @@
       "platform": "github",
       "label": "GitHub — AI Data Hub mirror",
       "url": "http://discountedroofs.aiovisibility.net/ai-data.html"
+    },
+    {
+      "role": "same-as",
+      "label": "Discounted Roofing Co. on bbb.org",
+      "url": "https://www.bbb.org/us/tx/itasca/profile/roofing-contractors/discounted-roofing-0825-235981695"
+    },
+    {
+      "role": "same-as",
+      "label": "Discounted Roofing Co. on linkedin.com",
+      "url": "https://www.linkedin.com/in/julie-chavez-de-la-rosa-59261b1bb/"
+    },
+    {
+      "role": "same-as",
+      "label": "Discounted Roofing Co. on lakewhitneychamberofcommerce.com",
+      "url": "https://lakewhitneychamberofcommerce.com/listing/discounted-roofing-remodeling/"
+    },
+    {
+      "role": "same-as",
+      "label": "Discounted Roofing Co. on facebook.com",
+      "url": "https://www.facebook.com/discounted.roofing.services/"
+    },
+    {
+      "role": "same-as",
+      "label": "Discounted Roofing Co. on instagram.com",
+      "url": "https://www.instagram.com/discounted.roofing/"
     }
   ],
   "destinations": {
