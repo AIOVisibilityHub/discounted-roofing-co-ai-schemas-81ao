@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-24T20:37:38.360Z",
+  "generatedAt": "2026-10-24T21:58:00.250Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -20,8 +20,8 @@
       "https://lakewhitneychamberofcommerce.com/listing/discounted-roofing-remodeling/",
       "https://www.facebook.com/discounted.roofing.services/",
       "https://www.instagram.com/discounted.roofing/",
-      "https://aiovisibility.net/profiles/total-building-systems-inc",
-      "https://discountedroofs.aiovisibility.net/"
+      "https://discountedroofs.aiovisibility.net/",
+      "https://aiovisibility.net/profiles/discounted-roofing-co"
     ]
   },
   "related": [
@@ -75,7 +75,7 @@
     {
       "role": "same-as",
       "label": "Discounted Roofing Co. on aiovisibility.net",
-      "url": "https://aiovisibility.net/profiles/total-building-systems-inc"
+      "url": "https://aiovisibility.net/profiles/discounted-roofing-co"
     }
   ],
   "destinations": {
