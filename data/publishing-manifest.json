@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-03T02:21:13.977Z",
+  "generatedAt": "2026-10-24T19:53:07.572Z",
   "client": {
     "name": "Discounted Roofing Co.",
     "canonicalUrl": "https://discountedroofs.aiovisibility.net",
@@ -356,23 +356,23 @@
   },
   "package": {
     "totalFiles": 2349,
-    "totalBytes": 12959739,
+    "totalBytes": 13069611,
     "stats": {
-      "qna": 0,
       "faqs": 1647,
-      "press": 0,
-      "total": 2320,
-      "awards": 0,
-      "reviews": 28,
-      "products": 0,
-      "research": 0,
+      "helpArticles": 287,
       "services": 168,
       "webpages": 0,
-      "locations": 1,
       "personnel": 187,
+      "products": 0,
+      "locations": 1,
+      "awards": 0,
       "caseStudies": 0,
-      "helpArticles": 287,
-      "organization": 1
+      "organization": 1,
+      "press": 0,
+      "reviews": 28,
+      "qna": 0,
+      "research": 0,
+      "total": 2320
     }
   },
   "entrypoints": {
@@ -12003,77 +12003,77 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 20373,
+        "bytes": 26314,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 1137300,
+        "bytes": 1143675,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 149294,
+        "bytes": 165417,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 46963,
+        "bytes": 53136,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 20002,
+        "bytes": 26250,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 1153149,
+        "bytes": 1159418,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 20505,
+        "bytes": 26778,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 200958,
+        "bytes": 207184,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 252866,
+        "bytes": 259194,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 68887,
+        "bytes": 75285,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 208050,
+        "bytes": 214419,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 156357,
+        "bytes": 162762,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 20377,
+        "bytes": 26676,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 381346,
+        "bytes": 387753,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/unassigned.html",
-        "bytes": 22453,
+        "bytes": 28725,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -12085,7 +12085,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 8888,
+        "bytes": 9517,
         "purpose": "LLM hint"
       },
       {
@@ -12105,32 +12105,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1654,
+        "bytes": 2963,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 1044587,
+        "bytes": 1045899,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 293911,
+        "bytes": 294540,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 293911,
+        "bytes": 294540,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 8883,
+        "bytes": 9512,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 360002,
+        "bytes": 360631,
         "purpose": "Repository README"
       },
       {

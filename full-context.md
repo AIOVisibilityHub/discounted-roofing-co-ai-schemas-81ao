@@ -1,25 +1,30 @@
 # Discounted Roofing Co. — Full AI Context
 
 **Canonical URL:** https://discountedroofs.aiovisibility.net
-**Generated:** 2026-10-03
+**Generated:** 2026-10-24
 
 ## Overview
 Discounted Roofing Co. publishes a structured AI Data Package designed for high-trust discovery and recommendation by AI answer engines.
 
 ## Package Contents
 - **1647** faqs
-- **28** reviews
-- **168** services
-- **1** locations
-- **187** personnel
 - **287** helpArticles
+- **168** services
+- **187** personnel
+- **1** locations
 - **1** organization
+- **28** reviews
 
 ## Cross-Destination Index — Related AI Data Sources
 - [canonical] Discounted Roofing Co. — canonical website — https://discountedroofs.aiovisibility.net
 - [ai-data-hub] Discounted Roofing Co. — AI Data Hub — https://discountedroofs.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/discounted-roofing-co-ai-schemas-81ao
 - [mirror-pages] GitHub — AI Data Hub mirror — http://discountedroofs.aiovisibility.net/ai-data.html
+- [same-as] Discounted Roofing Co. on bbb.org — https://www.bbb.org/us/tx/itasca/profile/roofing-contractors/discounted-roofing-0825-235981695
+- [same-as] Discounted Roofing Co. on linkedin.com — https://www.linkedin.com/in/julie-chavez-de-la-rosa-59261b1bb/
+- [same-as] Discounted Roofing Co. on lakewhitneychamberofcommerce.com — https://lakewhitneychamberofcommerce.com/listing/discounted-roofing-remodeling/
+- [same-as] Discounted Roofing Co. on facebook.com — https://www.facebook.com/discounted.roofing.services/
+- [same-as] Discounted Roofing Co. on instagram.com — https://www.instagram.com/discounted.roofing/
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
