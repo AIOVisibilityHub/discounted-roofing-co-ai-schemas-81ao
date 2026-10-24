@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-24T20:00:05.082Z",
+  "generatedAt": "2026-10-24T20:10:44.733Z",
   "client": {
     "name": "Discounted Roofing Co.",
     "canonicalUrl": "https://discountedroofs.aiovisibility.net",
@@ -356,7 +356,7 @@
   },
   "package": {
     "totalFiles": 2349,
-    "totalBytes": 12994867,
+    "totalBytes": 13069611,
     "stats": {
       "faqs": 1647,
       "helpArticles": 287,
@@ -12003,77 +12003,77 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 20373,
+        "bytes": 26314,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 1137874,
+        "bytes": 1143675,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 159408,
+        "bytes": 165417,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 47537,
+        "bytes": 53136,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 20576,
+        "bytes": 26250,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 1153723,
+        "bytes": 1159418,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 21079,
+        "bytes": 26778,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 201532,
+        "bytes": 207184,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 253440,
+        "bytes": 259194,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 69461,
+        "bytes": 75285,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 208624,
+        "bytes": 214419,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 156931,
+        "bytes": 162762,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 20951,
+        "bytes": 26676,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 381920,
+        "bytes": 387753,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/unassigned.html",
-        "bytes": 23027,
+        "bytes": 28725,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -12085,7 +12085,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 10711,
+        "bytes": 9517,
         "purpose": "LLM hint"
       },
       {
@@ -12105,32 +12105,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 6155,
+        "bytes": 2963,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 1048523,
+        "bytes": 1045899,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 295734,
+        "bytes": 294540,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 295734,
+        "bytes": 294540,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 10706,
+        "bytes": 9512,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 361825,
+        "bytes": 360631,
         "purpose": "Repository README"
       },
       {
@@ -12150,30 +12150,6 @@
       "url": "https://github.com/AIOVisibilityHub/discounted-roofing-co-ai-schemas-81ao",
       "pagesUrl": "http://discountedroofs.aiovisibility.net/",
       "repo": "AIOVisibilityHub/discounted-roofing-co-ai-schemas-81ao"
-    },
-    "gitlab": {
-      "url": "https://gitlab.com/aiovisibilityhub/discounted-roofing-co-ai-schemas-y7j5",
-      "pagesUrl": "https://discounted-roofing-co-ai-schemas-y7j5-cb039c.gitlab.io/"
-    },
-    "huggingface": {
-      "url": "https://huggingface.co/spaces/AIOVisibilityHub/discounted-roofing-co-ai-schemas",
-      "pagesUrl": "https://aiovisibilityhub-discounted-roofing-co-ai-schemas.static.hf.space/",
-      "repo": "AIOVisibilityHub/discounted-roofing-co-ai-schemas"
-    },
-    "codeberg": {
-      "url": "https://codeberg.org/aiovisibilityhub/discounted-roofing-co-ai-schemas",
-      "pagesUrl": "https://aiovisibilityhub.codeberg.page/discounted-roofing-co-ai-schemas/",
-      "repo": "aiovisibilityhub/discounted-roofing-co-ai-schemas"
-    },
-    "kaggle": {
-      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/discounted-roofing-co-ai-schemas"
-    },
-    "sourcehut": {
-      "url": "https://aiovisibilityhub.srht.site/discounted-roofing-co-ai-schemas/",
-      "pagesUrl": "https://aiovisibilityhub.srht.site/discounted-roofing-co-ai-schemas/"
-    },
-    "zenodo": {
-      "url": "https://zenodo.org/record/23625605"
     }
   }
 }
