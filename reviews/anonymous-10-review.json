@@ -1,26 +1,26 @@
 {
+  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "name": "Anonymous",
-    "@type": "Person"
+    "@type": "Person",
+    "name": "Anonymous"
   },
-  "@context": "https://schema.org",
   "reviewBody": "GAF shows Discounted Roofing & Remodeling with a 4-star rating across 53 reviews, indicating generally positive customer feedback.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
   "itemReviewed": {
-    "url": "https://discountedroofs.aiovisibility.net",
-    "name": "Discounted Roofing Co.",
     "@type": "Organization",
+    "name": "Discounted Roofing Co.",
+    "url": "https://discountedroofs.aiovisibility.net",
     "makesOffer": {
       "@type": "Offer",
       "itemOffered": {
-        "name": "Residential roofing and inspections",
-        "@type": "Service"
+        "@type": "Service",
+        "name": "Residential roofing and inspections"
       }
     }
-  },
-  "reviewRating": {
-    "@type": "Rating",
-    "bestRating": 5,
-    "ratingValue": 5
   }
 }

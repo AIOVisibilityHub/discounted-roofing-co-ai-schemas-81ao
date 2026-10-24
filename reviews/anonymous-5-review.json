@@ -1,27 +1,27 @@
 {
+  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "name": "Anonymous",
-    "@type": "Person"
+    "@type": "Person",
+    "name": "Anonymous"
   },
-  "@context": "https://schema.org",
   "reviewBody": "I can’t thank Discounted Roofing enough for their emergency services after a storm. They quickly tarped my damaged roof, preventing further damage, and later provided excellent repair services.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "datePublished": "2026-07-30",
   "itemReviewed": {
-    "url": "https://discountedroofs.aiovisibility.net",
-    "name": "Discounted Roofing Co.",
     "@type": "Organization",
+    "name": "Discounted Roofing Co.",
+    "url": "https://discountedroofs.aiovisibility.net",
     "makesOffer": {
       "@type": "Offer",
       "itemOffered": {
-        "name": "Emergency storm damage roof repair",
-        "@type": "Service"
+        "@type": "Service",
+        "name": "Emergency storm damage roof repair"
       }
     }
-  },
-  "reviewRating": {
-    "@type": "Rating",
-    "bestRating": 5,
-    "ratingValue": 5
-  },
-  "datePublished": "2026-07-30"
+  }
 }

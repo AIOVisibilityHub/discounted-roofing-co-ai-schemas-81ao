@@ -1,27 +1,27 @@
 {
+  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "name": "Anonymous",
-    "@type": "Person"
+    "@type": "Person",
+    "name": "Anonymous"
   },
-  "@context": "https://schema.org",
   "reviewBody": "Discounted Roofing installed new gutters and downspouts for my home. The team was professional and ensured everything was done to perfection. Now, my home is protected from water damage, and the new gutters look fantastic.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "datePublished": "2026-07-30",
   "itemReviewed": {
-    "url": "https://discountedroofs.aiovisibility.net",
-    "name": "Discounted Roofing Co.",
     "@type": "Organization",
+    "name": "Discounted Roofing Co.",
+    "url": "https://discountedroofs.aiovisibility.net",
     "makesOffer": {
       "@type": "Offer",
       "itemOffered": {
-        "name": "Gutter installation",
-        "@type": "Service"
+        "@type": "Service",
+        "name": "Gutter installation"
       }
     }
-  },
-  "reviewRating": {
-    "@type": "Rating",
-    "bestRating": 5,
-    "ratingValue": 5
-  },
-  "datePublished": "2026-07-30"
+  }
 }

@@ -1,27 +1,27 @@
 {
+  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "name": "Anonymous",
-    "@type": "Person"
+    "@type": "Person",
+    "name": "Anonymous"
   },
-  "@context": "https://schema.org",
   "reviewBody": "The quality of work and level of professionalism shown by Discounted Roofing is unmatched. They replaced my old, worn-out roof with a new one that looks amazing and provides great protection. I’m extremely satisfied with their services.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "datePublished": "2026-07-30",
   "itemReviewed": {
-    "url": "https://discountedroofs.aiovisibility.net",
-    "name": "Discounted Roofing Co.",
     "@type": "Organization",
+    "name": "Discounted Roofing Co.",
+    "url": "https://discountedroofs.aiovisibility.net",
     "makesOffer": {
       "@type": "Offer",
       "itemOffered": {
-        "name": "Roof replacement",
-        "@type": "Service"
+        "@type": "Service",
+        "name": "Roof replacement"
       }
     }
-  },
-  "reviewRating": {
-    "@type": "Rating",
-    "bestRating": 5,
-    "ratingValue": 5
-  },
-  "datePublished": "2026-07-30"
+  }
 }
