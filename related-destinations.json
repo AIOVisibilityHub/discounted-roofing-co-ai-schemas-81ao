@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-24T20:16:07.021Z",
+  "generatedAt": "2026-10-24T20:37:18.005Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -19,7 +19,9 @@
       "https://www.linkedin.com/in/julie-chavez-de-la-rosa-59261b1bb/",
       "https://lakewhitneychamberofcommerce.com/listing/discounted-roofing-remodeling/",
       "https://www.facebook.com/discounted.roofing.services/",
-      "https://www.instagram.com/discounted.roofing/"
+      "https://www.instagram.com/discounted.roofing/",
+      "https://aiovisibility.net/profiles/total-building-systems-inc",
+      "https://discountedroofs.aiovisibility.net/"
     ]
   },
   "related": [
@@ -46,66 +48,6 @@
       "url": "http://discountedroofs.aiovisibility.net/ai-data.html"
     },
     {
-      "role": "mirror-repo",
-      "platform": "gitlab",
-      "label": "GitLab repository",
-      "url": "https://gitlab.com/aiovisibilityhub/discounted-roofing-co-ai-schemas-y7j5"
-    },
-    {
-      "role": "mirror-pages",
-      "platform": "gitlab",
-      "label": "GitLab — AI Data Hub mirror",
-      "url": "https://discounted-roofing-co-ai-schemas-y7j5-cb039c.gitlab.io/ai-data.html"
-    },
-    {
-      "role": "mirror-repo",
-      "platform": "huggingface",
-      "label": "Hugging Face repository",
-      "url": "https://huggingface.co/spaces/AIOVisibilityHub/discounted-roofing-co-ai-schemas"
-    },
-    {
-      "role": "mirror-pages",
-      "platform": "huggingface",
-      "label": "Hugging Face — AI Data Hub mirror",
-      "url": "https://aiovisibilityhub-discounted-roofing-co-ai-schemas.static.hf.space/ai-data.html"
-    },
-    {
-      "role": "mirror-repo",
-      "platform": "codeberg",
-      "label": "Codeberg repository",
-      "url": "https://codeberg.org/aiovisibilityhub/discounted-roofing-co-ai-schemas"
-    },
-    {
-      "role": "mirror-pages",
-      "platform": "codeberg",
-      "label": "Codeberg — AI Data Hub mirror",
-      "url": "https://aiovisibilityhub.codeberg.page/discounted-roofing-co-ai-schemas/ai-data.html"
-    },
-    {
-      "role": "mirror-repo",
-      "platform": "kaggle",
-      "label": "Kaggle repository",
-      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/discounted-roofing-co-ai-schemas"
-    },
-    {
-      "role": "mirror-repo",
-      "platform": "sourcehut",
-      "label": "SourceHut repository",
-      "url": "https://aiovisibilityhub.srht.site/discounted-roofing-co-ai-schemas/"
-    },
-    {
-      "role": "mirror-pages",
-      "platform": "sourcehut",
-      "label": "SourceHut — AI Data Hub mirror",
-      "url": "https://aiovisibilityhub.srht.site/discounted-roofing-co-ai-schemas/ai-data.html"
-    },
-    {
-      "role": "mirror-repo",
-      "platform": "zenodo",
-      "label": "Zenodo repository",
-      "url": "https://zenodo.org/record/23626126"
-    },
-    {
       "role": "same-as",
       "label": "Discounted Roofing Co. on bbb.org",
       "url": "https://www.bbb.org/us/tx/itasca/profile/roofing-contractors/discounted-roofing-0825-235981695"
@@ -129,6 +71,11 @@
       "role": "same-as",
       "label": "Discounted Roofing Co. on instagram.com",
       "url": "https://www.instagram.com/discounted.roofing/"
+    },
+    {
+      "role": "same-as",
+      "label": "Discounted Roofing Co. on aiovisibility.net",
+      "url": "https://aiovisibility.net/profiles/total-building-systems-inc"
     }
   ],
   "destinations": {
@@ -136,30 +83,6 @@
       "url": "https://github.com/AIOVisibilityHub/discounted-roofing-co-ai-schemas-81ao",
       "pagesUrl": "http://discountedroofs.aiovisibility.net/",
       "repo": "AIOVisibilityHub/discounted-roofing-co-ai-schemas-81ao"
-    },
-    "gitlab": {
-      "url": "https://gitlab.com/aiovisibilityhub/discounted-roofing-co-ai-schemas-y7j5",
-      "pagesUrl": "https://discounted-roofing-co-ai-schemas-y7j5-cb039c.gitlab.io/"
-    },
-    "huggingface": {
-      "url": "https://huggingface.co/spaces/AIOVisibilityHub/discounted-roofing-co-ai-schemas",
-      "pagesUrl": "https://aiovisibilityhub-discounted-roofing-co-ai-schemas.static.hf.space/",
-      "repo": "AIOVisibilityHub/discounted-roofing-co-ai-schemas"
-    },
-    "codeberg": {
-      "url": "https://codeberg.org/aiovisibilityhub/discounted-roofing-co-ai-schemas",
-      "pagesUrl": "https://aiovisibilityhub.codeberg.page/discounted-roofing-co-ai-schemas/",
-      "repo": "aiovisibilityhub/discounted-roofing-co-ai-schemas"
-    },
-    "kaggle": {
-      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/discounted-roofing-co-ai-schemas"
-    },
-    "sourcehut": {
-      "url": "https://aiovisibilityhub.srht.site/discounted-roofing-co-ai-schemas/",
-      "pagesUrl": "https://aiovisibilityhub.srht.site/discounted-roofing-co-ai-schemas/"
-    },
-    "zenodo": {
-      "url": "https://zenodo.org/record/23626126"
     }
   }
 }
