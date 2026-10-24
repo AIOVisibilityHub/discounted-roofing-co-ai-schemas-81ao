@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-24T20:11:07.866Z",
+  "generatedAt": "2026-10-24T20:16:07.052Z",
   "client": {
     "name": "Discounted Roofing Co.",
     "canonicalUrl": "https://discountedroofs.aiovisibility.net",
@@ -356,7 +356,7 @@
   },
   "package": {
     "totalFiles": 2349,
-    "totalBytes": 12983081,
+    "totalBytes": 12994867,
     "stats": {
       "faqs": 1647,
       "helpArticles": 287,
@@ -12085,7 +12085,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 9517,
+        "bytes": 10711,
         "purpose": "LLM hint"
       },
       {
@@ -12105,32 +12105,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 2963,
+        "bytes": 6155,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 1045899,
+        "bytes": 1048523,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 294540,
+        "bytes": 295734,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 294540,
+        "bytes": 295734,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 9512,
+        "bytes": 10706,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 360631,
+        "bytes": 361825,
         "purpose": "Repository README"
       },
       {
@@ -12150,6 +12150,30 @@
       "url": "https://github.com/AIOVisibilityHub/discounted-roofing-co-ai-schemas-81ao",
       "pagesUrl": "http://discountedroofs.aiovisibility.net/",
       "repo": "AIOVisibilityHub/discounted-roofing-co-ai-schemas-81ao"
+    },
+    "gitlab": {
+      "url": "https://gitlab.com/aiovisibilityhub/discounted-roofing-co-ai-schemas-y7j5",
+      "pagesUrl": "https://discounted-roofing-co-ai-schemas-y7j5-cb039c.gitlab.io/"
+    },
+    "huggingface": {
+      "url": "https://huggingface.co/spaces/AIOVisibilityHub/discounted-roofing-co-ai-schemas",
+      "pagesUrl": "https://aiovisibilityhub-discounted-roofing-co-ai-schemas.static.hf.space/",
+      "repo": "AIOVisibilityHub/discounted-roofing-co-ai-schemas"
+    },
+    "codeberg": {
+      "url": "https://codeberg.org/aiovisibilityhub/discounted-roofing-co-ai-schemas",
+      "pagesUrl": "https://aiovisibilityhub.codeberg.page/discounted-roofing-co-ai-schemas/",
+      "repo": "aiovisibilityhub/discounted-roofing-co-ai-schemas"
+    },
+    "kaggle": {
+      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/discounted-roofing-co-ai-schemas"
+    },
+    "sourcehut": {
+      "url": "https://aiovisibilityhub.srht.site/discounted-roofing-co-ai-schemas/",
+      "pagesUrl": "https://aiovisibilityhub.srht.site/discounted-roofing-co-ai-schemas/"
+    },
+    "zenodo": {
+      "url": "https://zenodo.org/record/23626126"
     }
   }
 }
